@@ -1,5 +1,5 @@
 # Data_Analysis_Sales_Dashboard
-Excel, SQL, Power BI Project
+
 
 ## 🔷 Introduction
 In today’s competitive business landscape, data-driven decision-making is not just an advantage—it’s a necessity. This Sales Dashboard project was designed to transform raw transactional sales data into meaningful insights using SQL for data extraction and Power BI for interactive visualization. By bridging the gap between data and action, the dashboard provides a real-time view into key business metrics such as total revenue, profit, orders, discounts, and category performance, across multiple dimensions including time, geography, store location, and payment method.
@@ -45,22 +45,16 @@ Build an interactive Power BI dashboard that empowers decision-makers to explore
 ## 📚 Data Source
 The dataset used in this project contains individual transactional sales records from six countries. It includes the following key columns:
 
-Transaction ID (UUID)
-
-Date of purchase
-
-Country and Store Location
-
-Product details (ID, Name, Category)
-
-Price, Cost, Quantity, and Discount
-
-Customer demographics (Gender, Age Group)
-
-Sales Representative and Payment Method
+Transaction ID (UUID) <br>
+Date of purchase <br>
+Country and Store Location <br>
+Product details (ID, Name, Category) <br>
+Price, Cost, Quantity, and Discount <br>
+Customer demographics (Gender, Age Group) <br>
+Sales Representative and Payment Method <br>
 
 Data was originally in .csv format and cleaned in Excel (Power Query) before being imported into PostgreSQL.<br>
-Link:
+##### Link:
 https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard
 
 
@@ -72,21 +66,15 @@ Standardized Date Format:
 Raw sales data had inconsistent date formats (e.g., DD-MM-YYYY).
 
 Using Power Query in Excel, transformed it into SQL-compatible YYYY-MM-DD format using:
+##### Formula: Date.ToText([Date], "yyyy-MM-dd")
 
-javascript
-Copy code
-Date.ToText([Date], "yyyy-MM-dd")
-Fixed Data Errors:
-
-Identified and corrected errors such as:
-
-Invalid UUID format (e.g., line 276 in Nigeria file)
-
-Empty or corrupted rows
-
-Uniform Schema Across Countries:
-
+Fixed Data Errors: <br>
+Identified and corrected errors such as: <br>
+Invalid UUID format (e.g., line 276 in Nigeria file) <br>
+Empty or corrupted rows <br>
+Uniform Schema Across Countries: <br>
 Ensured column headers and data types were consistent in all six files (India, US, UK, China, Canada, Nigeria)
+
 
 Exported Clean Files:
 
@@ -104,7 +92,7 @@ Consistent schema with appropriate data types (e.g., UUID, NUMERIC, VARCHAR)
 🔄 Data Consolidation:
 Combined all country tables into a master table Sales_Data using UNION ALL
 
-🧹 Data Cleaning:
+🧹 Data Cleaning: 
 Identified and handled null values using WHERE ... IS NULL
 
 Updated missing values (e.g., set Quantity_Purchased = 3 for a missing transaction)
@@ -119,16 +107,12 @@ Total_Amount = (Price_per_Unit * Quantity_Purchased) - Discount_Applied
 Profit = Total_Amount - (Cost_Price + Quantity_Purchased)<br>
 https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard/blob/main/Sales_Project.sql
 #### 📊 Business Analysis Report (SQL Queries):
-Sales Revenue & Profit by Country
-
-Top 5 Best-Selling Products in the Last 7 Months
-
-Best Sales Representative Performance
-
-Highest Performing Store Locations
-
-Sales and Profit Summary Metrics (Min, Max, Avg)
-
+Sales Revenue & Profit by Country <br>
+Top 5 Best-Selling Products in the Last 7 Months <br>
+Best Sales Representative Performance <br>
+Highest Performing Store Locations <br>
+Sales and Profit Summary Metrics (Min, Max, Avg) <br>
+Check Out Here : https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard/blob/main/Sales_Project.sql
 ### Analysis and generates business insights
 
 #### 1. Sales Revenue & Profit By Country
@@ -227,7 +211,7 @@ FROM Sales_Data
 WHERE DATE BETWEEN '2025-01-27' and '2025-07-27'
 
 #### 🧾 Explanation:
-Delivers key summary statistics across total amount and profit values.
+Delivers key summary statistics across total amount and profit values. <br>
 Helps stakeholders quickly understand how the business is performing during the selected time range.
 
 ###### 🔍 Use in Dashboard:
@@ -241,15 +225,12 @@ https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard/blob/main/Project%
 
 
 ### 🔸 3. Power BI – Visualization & Dashboarding
-📍 Work Done:
-📌 Dashboard KPIs:
-* Total Sales
-
-* Total Profit
-
-* Total Discounts
-
-* Total Orders
+📍 Work Done: <br>
+📌 Dashboard KPIs: <br>
+* Total Sales <br>
+* Total Profit <br>
+* Total Discounts <br>
+* Total Orders <br>
 
 #### 📈 Interactive Visuals:
 Bar Chart: Total Sales by Category (e.g., Clothing, Electronics)
@@ -280,24 +261,18 @@ Bar Chart: Total Profit by Category
 
 
 ###### 🧭 Slicers for Interactivity:
-Monthly selection (January to December)
-
-Filters for:
-
-Country
-
-Store Location
-
-Category
-
-Payment Method
+ <br> Monthly selection (January to December) <br>
+Filters for: <br>
+Country <br>
+Store Location <br>
+Category <br>
+Payment Method <br>
 
 🌟 Enhancements:
-Used GIF images to improve visual engagement
-
+Used GIF images to improve visual engagement <br>
 Clean, intuitive layout to help stakeholders explore data quickly
 
-✅ Summary of Tools and Their Purpose:
+##### ✅ Summary of Tools and Their Purpose:
 | Tool         | Purpose                                                                    |
 | ------------ | -------------------------------------------------------------------------- |
 | **Excel**    | Data cleanup, fixing formatting issues, transforming date columns          |
@@ -307,7 +282,7 @@ Clean, intuitive layout to help stakeholders explore data quickly
 link: https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard/blob/main/Sales_Dashboard.pbix
 
 
-####### Take a look at Final Dashbord:<br>
+###### Take a look at Final Dashbord:<br>
 https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard/blob/main/Sales%20Dashboard_PNG.png
 
 
@@ -339,7 +314,7 @@ Visual storytelling through clean and actionable visuals
 
 Enhancing user engagement with GIFs and filters
 
-## 📝 Conclusion
+## 📝 Conclusion 
 This project successfully demonstrated a complete data analytics workflow starting from raw data handling to insight generation. The unified sales dataset helped uncover valuable insights like:
 
 Top-selling and most profitable product categories (e.g., Clothing)
@@ -353,5 +328,13 @@ Seasonal and regional trends in sales performance
 The final Power BI dashboard serves as an effective tool for executives and business analysts to interact with data and make informed decisions, highlighting the power of integrated tools (Excel + SQL + Power BI) in solving real-world business problems.
 
 
+### 📬 Feedback & Contributions 
+Have ideas for improving this dashboard or extending the analysis? Feel free to fork, raise issues, or submit PRs!
 
+###### Contact: <br>
+Lamkhade Aarti <br>
+Email: aartilamkhade72@gmail.com 
+
+
+				## THANK YOU
 
