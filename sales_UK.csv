@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+47ca8671-6334-4106-8243-a13903dafce4,4/4/2025,UK,9953143a-07ad-4c8a-8ebe-b087671656fb,Training,Home & Kitchen,442.56,8,352.47,24.83,Cash,Adult,Other,Birmingham,Dr. Vanessa Mason
+265194c7-0fe8-4bef-a882-b85a947e98de,12/13/2025,UK,8558a4b4-cf76-4fdd-8a83-5436e19f2601,Piece,Toys,371.73,4,267.18,69.97,Cash,Young,Other,Birmingham,Michelle Mcneil
+b0963074-4746-4ed8-a46c-a93cbda35c22,10/19/2025,UK,73622dd0-2fec-4e85-9fc9-9c3e4a93f561,Bill,Electronics,277.93,7,179.79,4.64,Mobile Payment,Young,Other,Birmingham,Sherri Garcia
+c590ebd8-dfae-4612-bf95-09718760a539,7/16/2025,UK,d46deac2-f799-4b64-98e5-37462b725946,Around,Clothing,207.79,10,173.27,16.4,Credit Card,Adult,Female,London,Brian Ryan
+7e692056-a716-4d3e-bef5-efb53780472f,12/20/2025,UK,c24a813b-5016-4ae3-ab6a-7ad151d6ea29,Bar,Toys,306.53,8,227.66,55.23,Mobile Payment,Young,Female,London,Jonathon Walker
+a0bf5f3b-deda-4645-b223-7cecf67cb1b3,12/20/2025,UK,93624fee-ead8-4d62-ab51-f2bd439879d9,Treatment,Clothing,19.78,7,17.52,1.64,Mobile Payment,Senior,Female,Birmingham,David Rodriguez
+ddc44ded-92f8-4517-95ac-b646370f7fd4,10/11/2025,UK,0b97ec91-c491-48c2-b6b5-43f4859f4fa5,Security,Clothing,172.78,3,149.23,12.7,Mobile Payment,Senior,Other,Manchester,Michelle Maxwell
+7926a938-8170-4a2e-a008-a3c16f2ca81b,6/6/2025,UK,cf175522-d934-423c-a5bb-6979bb19fb4e,Present,Beauty,417.79,1,352.78,20.8,Mobile Payment,Senior,Male,London,Deborah Carr
+cb004d53-5e28-43bb-9492-4a713e33fc07,1/12/2025,UK,2cffa35e-02f5-4c69-8e5d-1a13e9391e5a,Sing,Clothing,218.07,5,158.43,15.35,Credit Card,Senior,Female,London,Michael Ramos
+cb6c2360-f053-4384-94c4-0d4713cbaa76,12/13/2025,UK,ecc6fabe-b68d-4bd7-b54c-cd2176abf421,Answer,Sports,160.11,3,107.87,12.46,Credit Card,Young,Male,Manchester,Anna Green
+22f0285c-a238-413d-9cf3-81f82e1cb801,8/9/2025,UK,d45d4d17-50b2-4788-b83f-04c0bb867da4,Already,Electronics,93.97,10,62.71,2.43,Credit Card,Adult,Male,Birmingham,Jennifer Caldwell
+0615bf76-d447-4afd-b8a5-5c19a9b31d7f,2/3/2025,UK,6e881cbe-9855-4b90-81a4-4fd448a6fe85,Indicate,Toys,415.75,5,274.3,6.09,Credit Card,Adult,Male,Manchester,Steven Davis
+c1871295-8ece-4997-95f9-efe71b9da6e4,3/15/2025,UK,318cc2e0-a990-4b2d-bc1b-aeb777b16485,Family,Clothing,132.86,6,113.89,22.27,Credit Card,Adult,Female,Birmingham,Mr. John May DDS
+023eb541-2c6c-4dc3-be0f-c83060e0bd55,10/30/2025,UK,29204bc0-752e-4ad9-aa22-20fcd23394a4,Fast,Electronics,285.31,1,207.19,23.02,Mobile Payment,Young,Female,London,William Rodriguez
+eab53371-7246-4648-94bd-5d2a5924813e,8/9/2025,UK,41c096ba-2a86-40d4-8fb2-03e8464430cb,Physical,Home & Kitchen,271.99,10,205.94,21.45,Cash,Adult,Female,Manchester,Krista Robinson
+c11d60a5-ca1a-4a0a-9396-fc436d42598d,6/4/2025,UK,2740ec6e-6f34-46cf-81a4-c678c4f31d7a,Church,Electronics,457.88,10,387.43,12.69,Cash,Senior,Female,Birmingham,Anthony Stephens
+417019bf-ca80-4623-b828-0fb902d97210,10/30/2025,UK,980ea41a-f9f8-4562-88e5-97ba45ead5ad,Far,Beauty,152.76,4,117.17,20.42,Credit Card,Young,Female,London,Douglas Macdonald
+4eb701e5-994a-47c6-82a0-917ecbd2867f,8/18/2025,UK,79b031e5-f653-4dc1-bc5e-562238c373c7,Eight,Clothing,215.99,10,154.25,22.39,Credit Card,Adult,Other,Birmingham,Evan Scott
+616af12e-34fd-4567-8727-ec6e2904be43,12/13/2025,UK,e788554b-240c-4581-8e70-9bcbea78afa3,Technology,Toys,283.81,10,183.67,51.05,Credit Card,Senior,Female,Birmingham,Ashley Lee
+f67eaea8-40c8-4f09-9b74-53083f05f8a8,3/15/2025,UK,b2524302-227e-49e6-9f6b-1c287f440073,Federal,Sports,150.43,9,95.03,1.53,Mobile Payment,Senior,Female,London,Carl Salazar
+5c43ac88-6a7f-4af4-a2ae-0b350c79ccba,10/19/2025,UK,424957ea-ae8c-4195-b2d3-1dc234b4d2a3,Level,Beauty,248.47,8,192.35,20.92,Credit Card,Young,Female,London,Anthony Collins
+1cb19642-5767-4550-b1ba-5db0d0ef0a7d,9/29/2025,UK,1685ffff-9c62-4b49-bc4b-dddf1f4359d8,For,Beauty,376.62,5,282.47,52.63,Cash,Senior,Male,Manchester,Sheryl Livingston
+1e8426ab-0146-409d-b35e-68cfd3c3d451,2/3/2025,UK,c31b8ba8-77eb-4abc-80d6-585259536592,Later,Electronics,22.38,7,14.74,0.9,Cash,Adult,Female,London,Isaac Barber
+373698cc-466d-49d6-879d-8ec9390edcfd,5/14/2025,UK,170734da-ffd9-4f2b-abc1-4f1b1eb48433,Never,Home & Kitchen,106.57,7,92.49,10.38,Cash,Young,Female,London,Dennis Schneider
+b6ffb67e-5ee8-4eee-a047-59718f88a367,1/6/2025,UK,eb5cb2ef-2d28-4140-ab49-61272a89dae1,Shake,Home & Kitchen,65.69,8,47.68,3.03,Credit Card,Young,Other,London,Michelle Flores
+66c3f23c-1c37-4c6e-8ee3-18bdb9be8326,1/23/2025,UK,7a25f205-5395-43b3-ad69-72a736a506db,Color,Toys,420.5,9,310.55,27.3,Cash,Adult,Female,Birmingham,Eric Liu
+83a6d2ad-3841-4254-8c66-7ea7a80cc8a4,6/6/2025,UK,f02d63e2-5540-4817-8cd5-55b8b50a494a,Ball,Home & Kitchen,329.71,3,277.44,62.74,Credit Card,Adult,Female,Birmingham,Angela Trevino
+a4bcfd90-eee4-454f-9056-58128bac1997,10/11/2025,UK,5e94be71-99ac-43d1-9313-83efef79e332,Animal,Toys,113.49,4,100.45,20.76,Credit Card,Senior,Other,Manchester,Elizabeth Ayala
+40a107d4-2317-4f86-8faf-32331562b77f,2/4/2025,UK,6e694e40-3b72-42b8-bfef-01e0285370b0,Sometimes,Clothing,75.16,7,61.73,8.69,Cash,Adult,Male,Birmingham,David Allen
+fd97dac6-f7ac-4f9e-b541-bb4aecafd37a,9/18/2025,UK,f1c380ab-93b8-4843-b2d8-2206dff82b83,Over,Sports,287.4,1,244.57,12.98,Cash,Senior,Female,Manchester,Reginald Perry
+f44b3745-145b-4e77-ac87-2ba7c7425aaa,7/7/2025,UK,2ad6af0d-81db-4e14-9a67-fa568e4a77a8,Agree,Sports,138.77,6,110.64,12.48,Cash,Adult,Female,Birmingham,Holly Casey
+6c498684-6499-4d95-8c38-6d61048a048b,1/2/2025,UK,7cd57276-1aad-4695-b621-ac5ea6a39207,Official,Beauty,84.9,2,57.84,14.1,Mobile Payment,Adult,Female,Birmingham,Louis Gutierrez
+0736e28d-e6ce-4243-975d-3e9f9fdf75b2,1/23/2025,UK,4bd55113-46d6-423d-892b-0559adabce2d,A,Sports,337.12,8,248.18,8.39,Cash,Adult,Other,Manchester,Roy Thomas
+48de47f7-bd5a-4022-af7d-0ed0ead2871e,7/8/2025,UK,354c6e52-618e-4933-bce2-be7c7d968be2,Yeah,Toys,389.64,3,347.89,38.58,Mobile Payment,Young,Male,Birmingham,Brooke Jones DDS
+e7e9a658-5236-461e-b65b-1627b7a4060c,11/20/2025,UK,08ec973b-7fdc-43a3-8dbd-afe12fe50e23,Clearly,Beauty,35.76,1,23.06,6.41,Credit Card,Senior,Male,London,Carlos Bryant
+8dee111d-6c17-4f09-9098-bd65abb4f661,7/7/2025,UK,d8a8a390-e8b4-4e5f-b581-c09827ebda7a,Win,Clothing,466.96,9,411.56,86.76,Mobile Payment,Adult,Male,London,Nicole Brewer
+35583038-4d73-4caa-b072-4500fb8faf43,2/5/2025,UK,f78281f0-5220-4397-8f72-9dfca6ff1a9f,Member,Electronics,179.46,2,143.67,9,Credit Card,Senior,Female,London,David Brewer
+6e1a883f-4d83-4130-b437-01ee263efd6e,2/13/2025,UK,5f966872-3cee-401f-9f66-a2d601a8b223,Sell,Electronics,471.22,9,383.97,2.52,Cash,Young,Female,Birmingham,Jennifer Miller
+a3c55a2c-45cb-4022-b733-63283216dd61,8/18/2025,UK,b9df7ffb-5eea-4881-96d2-adb5af3b3155,Institution,Home & Kitchen,26.53,10,21.41,3.02,Mobile Payment,Young,Female,London,Francis Wiley
+4b63d28d-da9f-4d5f-b221-2614d8864a3b,1/19/2025,UK,99990749-eb03-4139-90ca-e58e67376ea1,Paper,Toys,117.95,6,98.28,11.54,Mobile Payment,Adult,Female,Birmingham,Charles Acevedo
+b9d115cd-e670-407e-92a4-3911ba4973fa,2/18/2025,UK,7dd90b73-d236-4960-b146-1cbd5ad65d9e,Case,Sports,64.72,5,48.4,1.01,Credit Card,Adult,Female,London,Shannon Brown
+9a74c9d3-653c-456b-96c4-b4183c9be936,1/21/2025,UK,4a84c288-97d5-4c55-8779-9e8640e65f0b,Room,Home & Kitchen,421.32,7,361.63,36.03,Mobile Payment,Senior,Male,Manchester,Tamara Bradley
+5bc582ae-0439-458b-8129-463c3dfd696b,1/9/2025,UK,923badba-dbc3-483f-b381-897469a52613,Both,Electronics,418.82,6,365.19,18.96,Credit Card,Senior,Female,London,Justin Fields
+1f696f93-d2e3-46e8-9012-14f58e92ecd8,2/7/2025,UK,52c0fc57-26c4-4b64-9640-517c327323c2,Plan,Clothing,12.2,3,10.2,1.74,Cash,Young,Other,Birmingham,Lauren Cruz
+5fa8748b-0949-4f3a-b406-07d8ee1486fe,1/7/2025,UK,73d54ee2-4859-47b7-86dc-76e8711a2b83,Rate,Toys,185.74,8,126.67,23.26,Credit Card,Young,Male,Manchester,Heather Phillips
+e09afb37-b52a-4d20-85a5-ae13d1117de3,1/29/2025,UK,0f866af6-940e-474b-8249-4d6aca7b702e,Safe,Beauty,429.45,3,346.53,13.43,Credit Card,Young,Other,Birmingham,Michelle Charles
+f7a8854e-a2c8-403b-a380-159a703f840f,1/25/2025,UK,7fb413d6-d568-4bdd-a2dd-1326a4a1d173,Visit,Home & Kitchen,398.97,9,290.84,26.61,Credit Card,Senior,Male,Manchester,Cody Garcia
+d4ac001d-de3b-4309-9294-792e76fd01c1,2/3/2025,UK,e7ca105b-35a0-4444-b817-131447218dae,Eat,Beauty,74.85,7,52.5,13.09,Credit Card,Adult,Female,Birmingham,Michelle Molina
+059460bb-8305-4cf2-a410-3942755758d7,1/9/2025,UK,63393840-110f-4332-967d-ca7ccd45df57,Better,Toys,203.88,6,157.11,27.27,Cash,Young,Male,Manchester,Stephanie Rodriguez
+9fe199b4-a958-4c09-8c35-2eeb042d9fc5,1/25/2025,UK,c4098967-41e6-470f-b4a3-ee8910367ca6,Bar,Beauty,54.1,5,39.05,9.09,Mobile Payment,Senior,Female,London,April Schmidt
+7802a0cb-b3cf-4137-bb2e-e722477529c7,1/29/2025,UK,15ba3afe-74df-4b4c-9ab4-da28bac44b23,Gun,Electronics,224.38,3,190.29,42.59,Mobile Payment,Young,Other,Birmingham,Donna Martinez
+058042c7-d692-4370-95c3-3f7cbb6f943d,1/20/2025,UK,5397a77c-f144-4977-aa7c-b105046aa10d,House,Toys,460.63,1,334.25,85.73,Mobile Payment,Adult,Male,Manchester,Julie Lee
+8a8e932c-9e96-41bd-85de-14b3d1221c8b,2/13/2025,UK,f41ce0ba-bb8f-4e20-b70e-1a54bfd56a68,Surface,Toys,143.93,6,87.88,3.74,Credit Card,Senior,Other,Manchester,Barbara Young
+eb6617dd-e4cd-4424-a03d-c607fdcca425,1/28/2025,UK,5b407b19-d981-4260-a52e-ec25f56183cc,Audience,Electronics,189.71,3,160.13,18.87,Credit Card,Senior,Male,London,Alexis Hill
+b33687ff-95ec-4dc7-865d-f8f852018dfe,1/2/2025,UK,ad6cbf6c-07a4-49bb-87e4-07195be5d0ca,Top,Home & Kitchen,460.62,9,375.97,76.1,Cash,Adult,Female,London,Kylie James
+4fcf3422-6a1a-48b9-ae54-571e53d47a8b,1/18/2025,UK,82e9bf87-f13a-4c9d-8d36-4fead57c9fb0,Local,Electronics,180.54,1,141.39,20.58,Mobile Payment,Senior,Male,London,Kelly Whitaker
+0e8e6b23-0dca-4518-a842-8e1ced80eea8,2/16/2025,UK,2328c42b-3f94-4920-bde0-fefb8bccbc23,Item,Toys,493,10,412.03,35.52,Credit Card,Young,Male,London,Jessica Lee
+7fe38acf-0c4c-4979-9a97-d2d9e74e34e6,2/14/2025,UK,48b2b656-5c10-479c-a99f-f4e5196bcc3b,East,Clothing,294.27,1,251.75,54.49,Cash,Adult,Male,Manchester,Brooke Young
+af78cb71-b754-4059-a8fb-62797dfc8f01,1/27/2025,UK,eb1fdaa2-90aa-4132-842d-8680224d2c25,Who,Electronics,173.7,8,131.59,16.25,Credit Card,Adult,Male,Manchester,Mr. Marc Jones DDS
+aa22d5dd-ae17-442f-b0d7-11a5fdde263f,1/11/2025,UK,51e0af54-653c-4bbc-baad-8684f7956586,Job,Electronics,226.13,8,154.18,10.66,Mobile Payment,Senior,Male,Birmingham,Cheryl Evans
+fcb0f28f-049d-46d8-bf94-3663a5055064,2/11/2025,UK,e9ce1354-ccef-4f1a-9fd1-2673699b38af,State,Home & Kitchen,455.18,2,365.66,51.25,Cash,Adult,Male,Birmingham,Jeremiah Brock
+1094b139-fc1a-4a96-9bc1-4e0c6eb3add2,1/17/2025,UK,74e13d69-39f4-473f-a66d-00564e3a70e8,Day,Home & Kitchen,332.06,9,288.8,15.66,Credit Card,Senior,Female,Birmingham,Ashley Conway
+79acc6e0-10b8-4e7c-bd34-d19aba489602,2/11/2025,UK,d6328bb6-94c2-445e-a61b-c9cf156a602f,Dinner,Sports,365.8,1,326.7,55.52,Cash,Young,Other,Manchester,Heather Jenkins
+ad288764-1f28-4bd9-b14a-b89a1199b7b8,1/21/2025,UK,bf7555bf-3b04-47e0-9b23-39d3d10cacdd,Especially,Beauty,462.74,3,355.49,39.73,Credit Card,Senior,Other,Manchester,Anthony Logan
+ea9bb08f-9ede-4ff1-ad28-e0d14fe29e8d,1/24/2025,UK,7ff1689c-c5d3-4a24-960f-c4250d2dabf3,Sense,Home & Kitchen,168.7,9,124.55,21.22,Credit Card,Adult,Female,London,Daniel Ramirez
+fc6b96db-230d-483d-ad4d-1e6bebfe30e4,1/24/2025,UK,fcd10a16-608f-47c9-bd32-8371e392fdda,TRUE,Electronics,296.98,5,210.23,43.37,Cash,Senior,Other,London,John Levy
+5833fbb9-902a-4f61-80e1-4d88ab583193,2/1/2025,UK,34dd086a-85c6-4820-bbeb-c68caccb5f7e,Seem,Sports,84.65,10,72.62,15.25,Cash,Senior,Male,London,Steven Stephens
+bdd0f925-f409-47d5-bb97-3a141c97e59f,1/12/2025,UK,30edb621-1eef-408c-ba8e-6020bca32788,Word,Beauty,252.22,3,210.76,9.11,Credit Card,Adult,Male,Manchester,Terry Walker
+f594ca80-03a1-4838-ae46-4cae20f65f7d,1/29/2025,UK,f4ac21c2-1f83-492e-998c-233c6a38d51d,Necessary,Electronics,175.48,5,109.2,9.52,Credit Card,Adult,Male,Manchester,Alison Hunt
+8fdda43d-9af4-4789-963a-d20369767acb,1/24/2025,UK,caf8f9df-398c-4d66-ab07-2c90594ff308,Country,Clothing,351.43,4,309.34,55.12,Cash,Adult,Male,Birmingham,Craig Simpson
+890cb596-016f-4c34-9381-a506d4f95969,2/20/2025,UK,a7b58cc6-f9bc-4cf8-b105-c0cbc0006be8,Article,Toys,28.91,5,22.05,4.41,Cash,Adult,Male,Manchester,Crystal Gonzales
+1b81e630-3c96-4fad-a2ad-ed644083dc26,2/9/2025,UK,0f37b4b8-5e89-4c27-aed9-b1fdd1759a77,About,Sports,445.51,6,364.15,45.09,Cash,Senior,Male,Manchester,Jacob Dennis
+e914cb9c-25c7-4b07-89f0-7332bdd4148d,2/7/2025,UK,9740eb54-5af0-494d-9f12-781ace8a3954,Message,Home & Kitchen,433.83,6,379.96,79.81,Credit Card,Adult,Male,Birmingham,Richard Fields
+af46f37a-c2ee-4dd5-894e-c0f195f4b217,2/18/2025,UK,7c009b22-6ad2-4b5a-adf5-cd19ed6b285b,Structure,Sports,481.43,3,396.56,31.37,Cash,Young,Other,Birmingham,Kathleen Martin
+42a1a3cd-68f9-4b27-b213-88d69d875a30,1/2/2025,UK,3ce38fdd-7d24-44b4-a66a-ce249c5feffb,Put,Home & Kitchen,225.6,4,164.72,24.22,Cash,Young,Female,London,Marc Whitaker
+587af47f-c2f8-4374-a4be-93dbe1f5adaa,1/8/2025,UK,8354d78b-255a-49fb-ad54-1cb7d20e45d5,Song,Home & Kitchen,291.07,10,235.32,50.42,Cash,Adult,Male,Birmingham,Erin Rodriguez
+1692f195-148e-4990-93d5-94c7a1ca91e5,2/3/2025,UK,f3211857-a5c7-46de-bff9-3a3a1a4c6329,Person,Toys,383.41,7,338.09,34.73,Credit Card,Adult,Other,Birmingham,Dr. Anthony Nelson
+99857c07-afaa-4ebc-ba63-60b4a03e2031,2/6/2025,UK,90e0228c-b7c3-430f-860c-6d53c1031127,Foot,Toys,147.77,8,126.11,20.16,Credit Card,Adult,Other,London,Monique Mosley
+2b9d4899-fe38-426a-9577-b2215bbc75eb,1/9/2025,UK,21bd3ea4-e6b1-4067-936a-3486a7e93353,Beat,Sports,253.26,5,173.55,1.7,Mobile Payment,Senior,Male,London,Mary Riley
+adec3d60-e756-402f-9a15-ff8e64992255,1/14/2025,UK,07f4558d-5ebc-469f-a94e-f61d69a281d3,Financial,Home & Kitchen,458.72,4,310.59,24.81,Mobile Payment,Young,Other,Manchester,Guy Steele
+23380596-2b03-4cb7-b24d-d5c50a7b3cff,1/30/2025,UK,706d6d5d-7ba4-4567-8e28-83bd8b99fe23,Check,Electronics,465.25,7,409.49,47.02,Credit Card,Senior,Other,Birmingham,Scott Richards
+26836f48-3e93-431a-a489-de8408327827,2/10/2025,UK,e58f6bfe-2eef-4d2f-aa30-9a49927c5e5b,Shake,Beauty,418.79,9,343.43,41.39,Mobile Payment,Young,Male,Manchester,Kevin Ayers
+2b16cede-2b38-49f6-b75f-0a437fdc3150,1/5/2025,UK,69b64ba5-802a-47e7-8cd2-e11c12591604,Particularly,Electronics,322.27,10,215.49,58.26,Cash,Young,Male,London,David Hughes
+15dc113d-94ee-456f-b718-414c00d24cff,2/9/2025,UK,c197d7ec-f9be-4282-b712-03a31f8556c9,Keep,Toys,134.76,4,109.6,1.25,Credit Card,Adult,Male,Birmingham,Dustin Rodriguez
+e360ba18-69dd-43ad-b2f3-e392e4599c19,2/2/2025,UK,123f5b7c-74fc-4a6b-9b4d-ce220d1fc6bd,Send,Sports,301.19,6,259.68,38.44,Mobile Payment,Adult,Female,London,Ryan Williams
+857b89f3-d5cf-4162-a401-c80b5dc7c232,1/4/2025,UK,7cde39c5-ea3f-4e25-b257-ddba4e931306,Home,Home & Kitchen,277.36,8,185.87,38.55,Credit Card,Senior,Other,Birmingham,Elizabeth Knight
+36524f33-4d9b-44a1-b453-5208b6cc33ef,1/27/2025,UK,4dde2d1e-48d4-4592-ad5e-8a22793f97a2,Military,Toys,287.55,6,203.48,5.58,Credit Card,Senior,Female,Manchester,Denise Schmidt
+23528a0b-8e61-4681-ab3a-8bbd6ca54618,1/24/2025,UK,de673e51-5a1c-4266-a7ec-b7cda20e14da,Ok,Beauty,53.49,7,33.26,5.97,Credit Card,Senior,Other,London,Katherine Peterson
+3ab0bbfd-9124-45ca-811c-82657b7e240c,1/12/2025,UK,f6144465-901c-419e-855f-7db0fbf45ea4,Main,Toys,443.53,9,361.87,29.35,Mobile Payment,Young,Male,Manchester,Patricia Ward
+44caf5b7-9213-489e-9f34-e5c335330135,1/21/2025,UK,e75fe6c4-b103-4d90-bae6-52fc3639841e,Fish,Toys,346.85,3,292.04,45.87,Cash,Adult,Female,London,John Farmer
+0f57198d-5252-45b4-9dcd-a83d5a20f4fc,1/19/2025,UK,d4d87e29-2cc6-4491-ad9d-c5d99459ea55,Use,Sports,155.64,2,93.66,2.57,Mobile Payment,Adult,Female,Birmingham,Jane Walsh
+f077f06f-9927-4fb0-b709-6479712857f0,2/3/2025,UK,4944672d-ddc7-4c86-a9c8-697029b608b2,Get,Toys,472.66,4,358.99,11.42,Mobile Payment,Senior,Other,Manchester,Scott Anderson
+c0094655-e26b-4d2e-a943-4be556432cab,1/9/2025,UK,3dd1d0d0-24e9-422e-9358-3b329fe35fd8,Wife,Home & Kitchen,22.49,1,14.87,2.18,Mobile Payment,Senior,Female,Birmingham,Katie Perry
+7d93758f-0edc-407c-82b1-7db7b1d16f40,2/8/2025,UK,58b0134d-f403-4c8d-9200-99d0077798e7,Conference,Home & Kitchen,294.57,6,178.22,41.97,Credit Card,Adult,Male,Birmingham,Melanie Carpenter
+8dc8ffc7-df2f-46ac-b9e9-4be1ce64bc4e,1/11/2025,UK,80605dc2-c97a-4872-b67e-af6588c544ce,Agree,Beauty,214.78,4,176.71,3.04,Cash,Young,Other,Manchester,Jessica Anderson
+85e10515-b91d-4652-b8b1-5c2ffd7ff1da,1/6/2025,UK,b5d1ab17-fd30-4456-835e-720902a397ec,Environment,Home & Kitchen,20.42,7,12.27,3.61,Credit Card,Senior,Female,London,Valerie Hull
+ee5ba28f-080c-4428-887a-8a3efb37db9a,1/20/2025,UK,b9604326-829b-45c4-8420-d8cacb226d26,Too,Toys,259.39,10,168.38,51.17,Cash,Senior,Other,Manchester,Edward Fisher
+d6e51916-4f01-4af8-824a-2eac8fb242f3,1/30/2025,UK,90d52bb5-3656-4dac-a588-d49a95e2f1c1,Side,Toys,295.2,3,197.85,2.84,Cash,Young,Male,Birmingham,Nathan Cunningham
+599dd04f-60c7-4cb6-beb4-a9523efe391d,2/9/2025,UK,c19fc931-2937-4db6-8fac-a737f72b59f9,Through,Home & Kitchen,431.83,4,338.42,85.93,Mobile Payment,Adult,Other,Birmingham,Troy Wright
+0ddae842-d03b-41cc-ae36-7f1864a7f89b,1/25/2025,UK,79c224e4-7fe4-4d33-9212-cf21e0717e4c,Clearly,Home & Kitchen,177.57,4,116.16,12.38,Credit Card,Young,Male,Manchester,Melinda Zhang
+d991a062-4ea1-44ab-9402-30847ada6435,1/19/2025,UK,70725493-46ea-43ba-bb28-67cfc63745d4,Land,Clothing,206.63,7,178.89,20.68,Mobile Payment,Adult,Other,London,Brandon Hunter
+a9b4029a-c4d1-46bb-84b2-286cddcd3b93,2/17/2025,UK,f6e3511e-e7d7-49d7-95f7-4bbda38ff2c0,At,Sports,496.64,9,316.53,9.08,Mobile Payment,Senior,Other,London,Ronald Green
+7e0b9065-2ed0-49b7-ada1-8182307359b9,1/7/2025,UK,6e07fbdf-f38d-4cdb-bacb-f6a4a58e016b,Type,Toys,479.07,9,322.81,42.13,Credit Card,Senior,Male,Birmingham,Cheyenne Page
+cf6c5109-c2bc-46a7-a029-5f9ea2310bde,1/30/2025,UK,8c67b267-7418-46da-8a5e-5802d741231e,Still,Sports,169.92,4,150.47,17.43,Credit Card,Adult,Male,Manchester,Jordan Ross
+6a7374c8-77f2-4245-828d-f2446efb72b6,2/3/2025,UK,1771ea8c-6ebf-4f42-893e-e07c3255cd37,Sort,Electronics,39.33,1,34.51,4.13,Mobile Payment,Young,Other,Manchester,Rebecca Collins
+884ad228-5e46-46c1-a142-99a23bfd84a1,1/13/2025,UK,f6694e5c-b82d-4fb0-b45d-eeffad229bd1,Level,Clothing,423.94,4,355.5,39.49,Mobile Payment,Young,Other,Manchester,Brittany Goodman
+71b12373-f991-4157-b88a-ff2b8e527e0a,1/9/2025,UK,adfc8d6e-a969-4735-9a35-aa6c4c542de6,Act,Clothing,326.16,9,260,30.06,Credit Card,Adult,Male,Birmingham,Meredith Hanson
+f4d634fd-27ff-407d-b6ef-56b5c71b4e31,1/30/2025,UK,36b4df2f-e16f-41db-b961-379a3f7377de,Often,Clothing,21.25,4,16.23,0.83,Mobile Payment,Young,Male,Birmingham,Justin Rodriguez
+f850f622-061b-4ee6-b08f-433cb00f0901,1/31/2025,UK,f9edc253-6c07-4488-befb-3ff59da403d1,Stop,Home & Kitchen,30.86,6,23.02,2.64,Credit Card,Senior,Other,Manchester,Matthew Martinez
+469d6d5d-7601-4d3e-a30f-a6a1ca218d63,2/8/2025,UK,29d0e166-e0fe-4449-86fa-7fb86495d6c2,Door,Beauty,391.36,4,245.89,61.22,Mobile Payment,Young,Female,Birmingham,Jeremy Martin
+bdffe627-63f9-4f99-ab79-1cdff9f6f9a6,1/8/2025,UK,2e4520f6-58da-4d4c-8b10-c4b3b6147594,Month,Home & Kitchen,325.54,10,226.3,30.16,Mobile Payment,Young,Male,Manchester,Michael Alexander
+c59ca68e-5a52-40e7-844f-9c4aba1da72b,1/10/2025,UK,f9b0f7ad-2899-4c66-ba38-9334aaf4fe9d,Available,Home & Kitchen,318.11,6,260.83,52.62,Mobile Payment,Adult,Female,Birmingham,Glenn Martinez
+5547a673-4ccb-4028-8d97-6cc0fe3195e2,1/9/2025,UK,6445840a-91ba-4e90-bfb7-cb7815a1478e,Animal,Beauty,451.35,7,314.82,87.21,Cash,Adult,Other,London,Jessica King
+e20a789f-e19b-4052-93f9-0861df9cab20,1/4/2025,UK,d8032d51-4931-4a2a-9c4f-1ccd25f4b941,Civil,Sports,152.22,9,99.72,26.35,Credit Card,Adult,Other,Manchester,William Moody DDS
+a6603c14-5285-4d0d-be67-a10ac06825b2,2/12/2025,UK,912010c4-da77-45ba-8b82-50a5a63324b0,Cell,Toys,104.92,7,74.44,10.86,Cash,Senior,Female,Manchester,Michael Carney
+1bf6531f-ee15-401a-8ee9-07f80f53ce46,1/31/2025,UK,b4a6d63e-e63b-4481-a461-9267f78c9047,Board,Home & Kitchen,327.74,3,290.12,17.73,Mobile Payment,Senior,Other,London,Jose Mcgee
+85648d6b-4fe9-4903-9623-781a82b67e4f,1/11/2025,UK,d041c9f5-077d-4f03-b4b1-07885dce917e,Thank,Electronics,230.56,3,182.95,39.35,Cash,Senior,Female,Manchester,Craig Glover
+d070a28e-ff32-45f0-8485-3614c954cf84,1/15/2025,UK,29f70cc3-9ad8-4de7-8227-7d2558b94e1c,Particular,Beauty,321.88,10,198.89,44.85,Mobile Payment,Young,Male,Manchester,Rodney Huffman
+5666a5ff-d8ba-4458-8f4d-bc11695bbf57,2/5/2025,UK,dff1a6a2-f464-49dd-9092-341faa69b1ab,Wife,Clothing,479.8,8,413.82,28.2,Credit Card,Senior,Other,London,Jennifer Pugh
+d1c7451b-dbbc-4db4-9ac1-bd8d6dba72e3,1/2/2025,UK,566e0afe-19b7-4ae1-a367-ec6605261c6c,Picture,Home & Kitchen,48.86,2,43.52,4.79,Credit Card,Adult,Other,London,Michelle Cole
+4b4708bf-6634-4b5e-9d30-f5e1a3658144,2/16/2025,UK,1aaeff40-e298-4744-9f4f-56f48d703a3d,Particularly,Electronics,273.63,4,178.33,12.08,Credit Card,Adult,Male,Birmingham,Sharon Davis
+5207c207-5d26-4bfd-9427-6cf5dd13213a,1/31/2025,UK,fc5f3a34-4177-46f3-8946-c894e09ef338,Town,Home & Kitchen,307.19,3,239.01,37.62,Mobile Payment,Senior,Male,London,Steven Daniels
+31a2fb7c-8be0-4e04-acef-f3d2c4ca5c6c,1/17/2025,UK,ffae78a8-149d-448b-8d77-ad9ac5bde68b,Something,Beauty,116.67,2,79.67,13.55,Credit Card,Adult,Female,Manchester,Mr. Brian Lane DDS
+cfeb93e5-146e-46d8-b160-e1538f50bd23,1/23/2025,UK,a3f98e66-d8ca-478d-a5e6-11a7f423ba7f,Only,Sports,465.68,1,339.64,81.61,Cash,Adult,Male,Birmingham,David Smith
+8e063241-7fb1-46d9-a73a-002460a0c394,2/10/2025,UK,213a64bd-de51-4e68-bc70-e300381cc50e,Bar,Clothing,140.71,5,103.55,26.42,Cash,Young,Female,Manchester,Darius Smith
+679de68a-1b9b-4162-a379-e57ef051a733,2/4/2025,UK,7a6b3efd-b4ce-4099-bfc1-59983ead418d,Also,Sports,309.47,3,233.02,47.73,Cash,Young,Male,London,Brian Walls
+fa4a848e-c70f-4b14-ae5d-c7dd3cdd6b06,2/2/2025,UK,11110981-8fd7-48dd-a51a-b77ebc8018c0,Bar,Toys,124.6,1,78.96,16.27,Credit Card,Adult,Female,London,Mary Torres
+5ea16e3f-d04c-46c8-8a5e-2390e4780889,2/4/2025,UK,9216db11-cfb8-405b-a3c3-e16b92981142,Word,Toys,441.29,9,365.35,82.93,Credit Card,Young,Male,Manchester,Tracy Williams
+f4e1b2c1-0930-4bce-9994-746ebffa8821,1/11/2025,UK,00204e7c-9c9f-4431-9b59-3fabca8234d9,Like,Electronics,185.94,8,155.87,26.98,Mobile Payment,Senior,Other,Birmingham,Michael Mahoney
+140f8400-e747-4568-80ab-5d1dfc1def2e,1/28/2025,UK,2dcac22d-0d5b-4900-b62b-bd783336998d,State,Clothing,423.68,7,352.68,83.05,Cash,Adult,Other,Birmingham,James Wilson
+4022e347-4fc9-4fdc-879f-26e061ec3b2a,1/27/2025,UK,3af0e3d8-ddd1-4e9c-8df4-93fe4b218feb,Upon,Toys,68.95,9,57.93,3.83,Credit Card,Senior,Other,Manchester,Eric Reeves
+34b23059-11bd-42f8-94e6-fa0c35373604,2/3/2025,UK,3d9625a1-2eef-47bc-9aa4-021dfbc222bb,Degree,Home & Kitchen,451.37,3,304.64,73.78,Credit Card,Senior,Female,London,Amy Gonzalez
+a0d9f5c7-9b30-4f5f-9a9e-72286082f3c1,2/9/2025,UK,bce9fda5-0155-42e3-a1cd-fecb0563be49,Course,Electronics,237.11,4,209.86,14.02,Mobile Payment,Senior,Female,Birmingham,Dawn Howard
+cdd1b37e-c5cb-4230-b41d-81c8fa5880c7,1/1/2025,UK,8e406769-7d21-4272-864c-e5db83904345,Through,Toys,226.22,7,196.02,9.85,Mobile Payment,Senior,Male,London,Tammy James
+d975537a-d16d-470a-aac0-d48ee2dec138,2/8/2025,UK,16cbd6c0-2ca3-41df-8d3d-440aad4f2882,Yard,Electronics,421.98,6,379.45,74.45,Credit Card,Senior,Other,Birmingham,Erin Smith
+669b73f6-b356-4dbe-90fa-891d4831a571,1/13/2025,UK,abe90647-aac9-4e67-a2f3-c95010233d83,Light,Beauty,485.13,1,338.1,8.7,Credit Card,Young,Female,Manchester,Matthew Vazquez
+b4132679-4a0c-4c25-aa90-8ad3c9ccded5,1/15/2025,UK,98926608-c419-4c51-a153-5238ef85b65e,Republican,Electronics,177.39,6,141.66,5.39,Mobile Payment,Adult,Other,Birmingham,Nicole Chavez
+dce995ca-f5e9-476e-8f7c-de021d66cfbf,1/23/2025,UK,12534606-5efd-4695-8d7a-6452f66c002f,Tell,Toys,89.2,8,65.32,8.98,Mobile Payment,Senior,Female,London,Victoria Williams
+584ff891-eed4-4f72-8d2d-669b445cd271,1/15/2025,UK,5b0ac5db-9459-4141-9768-9d7a53e6cbb6,Else,Electronics,277.24,10,234.9,4.69,Cash,Adult,Male,Birmingham,Stacy Rowe
+2c244b1f-876b-408b-8284-9a83da3f9548,1/2/2025,UK,cab1ed20-b6d3-441c-a390-7351cf3c123d,Policy,Beauty,387.86,3,293.26,20.2,Mobile Payment,Senior,Other,London,Shannon Wilson
+d12abb42-04d1-4774-a1fa-edb2d301518c,1/25/2025,UK,00f3768a-21c2-4c17-898b-9833207b4d67,Audience,Clothing,375.13,4,279.37,45.94,Cash,Adult,Other,Birmingham,Brenda Jackson
+fda3a323-781a-44e0-8296-92eab7fef01e,1/30/2025,UK,62627b3d-4159-4dc0-9f13-e11cbe333a7d,Property,Home & Kitchen,249.41,7,218.12,44.45,Mobile Payment,Adult,Male,Birmingham,Seth Romero
+33681819-f71e-4650-9ff6-2d3ae5ced39d,1/23/2025,UK,ac9a0140-503a-4d15-8851-c5aa67b06c58,Reach,Electronics,35.74,1,28.82,6.4,Cash,Young,Male,London,Jordan Roberson MD
+f456eb36-230d-424c-bbc4-78f9071537aa,2/3/2025,UK,b49a113f-668f-4420-903d-5200b548fa04,Model,Sports,288.9,6,256.57,18.19,Credit Card,Young,Male,Birmingham,Carlos Nixon
+027a9c61-7081-4929-8967-0b5b309d186f,1/26/2025,UK,ba793457-ecea-4436-8ade-af7bbabfdfa9,Evidence,Toys,423.44,4,324.28,60.36,Mobile Payment,Senior,Other,Manchester,Catherine Fritz
+2059e5e1-81ca-4f12-80ea-ac0c52a74786,2/10/2025,UK,3baf2a57-1bca-4813-b0fa-1353cd217ad8,Land,Clothing,458.22,1,381.64,5.04,Credit Card,Young,Other,Manchester,Laura Adams
+c51ebb28-25dc-4ab3-a016-b68c003b94a1,2/13/2025,UK,f8549f69-b232-4771-91d4-80d786d535cf,Ahead,Toys,112.59,6,78.99,13.37,Credit Card,Adult,Female,Birmingham,Kimberly Hunter
+26e4c29b-dc0e-4886-bd37-996be822409e,1/30/2025,UK,c828eb1b-ab6d-461f-8c65-f7035491e734,Indeed,Sports,345.21,9,303.05,24.82,Credit Card,Young,Male,London,Susan Scott
+2e4b11a1-9aad-4870-8f1f-cc4663a28d91,5/17/2025,UK,6925a762-6ff9-4a81-b326-87bd0bc7582b,Represent,Toys,195.75,1,118.55,20.05,Cash,Adult,Female,Birmingham,Emily Nielsen
+8f596a37-e2dd-488f-a4bf-b59a06b44028,11/12/2025,UK,0f7f67a0-4182-4eb8-a849-da94e8417928,Move,Electronics,434.53,2,351.92,52.24,Cash,Adult,Male,London,Regina Sanchez
+f581291d-fc5e-4d48-9c57-02e9f2836774,12/1/2025,UK,cd3bf194-6391-46d9-bb67-de9e9e7651f1,Over,Clothing,177.06,6,124.69,34.02,Cash,Young,Female,Manchester,Tina Gilbert
+ea54c00b-5cc2-4299-9241-2c5952f8b4ae,11/12/2025,UK,efb2ee0a-bc45-47b6-a8ea-847b9aad54d2,Real,Beauty,212.32,9,183.81,33.82,Credit Card,Adult,Male,Birmingham,Tracy Howell
+99c716c4-f5c1-4241-8f25-9dcabc328147,3/3/2025,UK,27678025-468d-47a0-b528-85204f3c689d,Wall,Home & Kitchen,162.44,9,115.95,3.1,Mobile Payment,Adult,Male,Birmingham,Carl Tran
+0b2fb991-b76a-40f1-8810-3bab362d8064,12/2/2025,UK,1e4b9e50-b4cf-42e2-b43a-934aa47857d1,Town,Home & Kitchen,419.95,5,291.35,18,Credit Card,Young,Other,Birmingham,Jose Martin
+6c52cdc7-3335-468f-8f67-cc6899bfd8eb,7/5/2025,UK,9f5e65f5-94a3-4c62-ba39-c34ef96386eb,Small,Home & Kitchen,317.45,1,283.31,45.6,Credit Card,Young,Female,London,Dana Marshall
+f433f1ab-767e-4c6e-84b6-4e646434f778,7/27/2025,UK,28a712c2-7559-4ea5-a42f-70f8a27b903d,Box,Toys,84.23,6,72.2,15.59,Cash,Young,Other,Birmingham,Shawn Mcdowell
+f711479b-2363-4842-8ae3-751501e343e8,10/11/2025,UK,37b97ea8-9ac8-423d-9f11-47454f19f0d7,National,Toys,362.31,4,303.12,28.9,Mobile Payment,Adult,Male,Manchester,John Bailey
+f6acda5c-918b-4de5-baf4-22b3d88d815f,5/17/2025,UK,d8b827f1-73f7-4a7a-9c38-e6b5ddcdf444,Central,Beauty,379.31,10,290.73,47.81,Mobile Payment,Senior,Female,Manchester,Michael Williams
+e29bc9a7-b4f5-424b-b4a3-74217bd07dae,12/2/2025,UK,ab274f45-4ac2-4157-9ecf-a538b02faede,Provide,Beauty,212.76,9,130.71,10.31,Cash,Senior,Female,London,Isaac Avila
+f2c559af-a47e-4222-b54b-5c00b47a562c,5/3/2025,UK,2cd3996e-b723-44be-8477-74c697751ca4,Happen,Clothing,385.77,8,320.12,41.89,Mobile Payment,Senior,Other,Birmingham,Richard Burnett
+61e11f57-6cd9-4897-8b1b-099ea1df691d,9/19/2025,UK,c64f8775-1a77-4f52-bd6c-d7200b9d96c9,Animal,Beauty,144.11,9,120.85,7.21,Credit Card,Adult,Other,Manchester,Melissa Martinez
+8019c9d3-10a0-4485-bf20-a1a66ba91359,7/5/2025,UK,fef6dd1d-dfd8-4510-80ea-fa54109209d6,Sure,Electronics,46.27,9,30.6,5.83,Mobile Payment,Young,Other,Manchester,Robert Taylor
+d6b53663-0c10-41fe-8b22-e2b2157ed97e,9/10/2025,UK,96152ba6-3d2b-422a-ade0-80c5313338ab,Born,Home & Kitchen,450.24,4,374.85,22.79,Mobile Payment,Young,Other,Manchester,Michael English
+ae39b94a-0cc0-4ecc-9407-ddc35ee4a603,6/6/2025,UK,49919360-bcb8-4100-81eb-f4176365f748,Focus,Clothing,360.36,9,313.05,44.35,Credit Card,Adult,Male,Manchester,Dr. Michele Navarro
+734b1590-b059-417b-a5fc-2a9c27c25682,9/8/2025,UK,76086191-1d88-4e4e-aa33-19970310d2c4,Ask,Toys,264.39,6,163.47,25.87,Credit Card,Senior,Male,London,Laura Green
+e312a8eb-8cf0-4361-b38a-1a0af988cc71,9/10/2025,UK,2790238a-ad3b-4feb-a33a-9afa2c9ab499,Art,Home & Kitchen,445.35,4,374.51,3.8,Cash,Senior,Male,Birmingham,Alexandra Osborn
+adbc5a03-7f71-40dc-bc6b-791ec7d856a7,10/30/2025,UK,c8364a80-e16e-4c51-b42d-f48b5c0345a9,Manage,Home & Kitchen,330.82,1,260.02,46.64,Mobile Payment,Adult,Other,London,Bryan Fletcher
+37c915aa-6176-458c-b26e-0ece94cd7c5c,9/18/2025,UK,2bb8212e-90c9-43e1-a0c7-6b2e8965751b,Make,Beauty,216.84,6,130.9,40.8,Cash,Senior,Female,Manchester,Jennifer Gonzalez
+3e1ffb36-c100-448e-8d78-15d2c295eec7,11/12/2025,UK,66e7b1bb-1027-431a-9009-ce8f5f4df24c,Blood,Toys,36.32,8,30.33,1.74,Credit Card,Young,Female,London,Brittany Luna
+84dbc7ef-5eeb-4cfc-87f7-1324baba3cf0,9/10/2025,UK,7d62ff98-ee13-4184-9e6c-801061ecb60e,Media,Toys,366.31,10,317.79,26.51,Cash,Adult,Other,Birmingham,Cody Farrell
+eb4f6759-b2dd-4569-a296-81f9507e6a70,8/28/2025,UK,d3f40758-9919-41db-8d7a-fabed00b97e5,Best,Clothing,117.62,2,98.45,19.31,Credit Card,Adult,Female,London,John Banks
+4c72dc35-86cc-40cd-9b06-440722e8f82d,9/18/2025,UK,6b70c8cb-5426-4430-8414-fcbfdd62249e,But,Home & Kitchen,353.26,2,300.32,68.55,Cash,Senior,Female,London,Vernon Thomas
+9e4e3220-fbfe-4e4a-928b-38f96dba3ceb,9/10/2025,UK,ffa6fdc2-e808-403b-a048-e7166532c0dc,Personal,Home & Kitchen,273.16,3,201.39,36.64,Cash,Senior,Male,Manchester,Amanda Dillon
+e78716c3-39d8-4ed1-bce7-ac3f79efa73f,12/13/2025,UK,4c77b2a1-4ab3-41cd-bf5d-b6cdcb9b403d,Kitchen,Beauty,296.3,5,222.29,43.47,Mobile Payment,Young,Male,London,Amy Walker
+35d0a7e3-9986-4767-b3dd-5b120907fe4c,10/9/2025,UK,7a0f92ce-7352-4032-a515-8e1cdb735ff4,Central,Clothing,83.65,10,52.6,8.85,Mobile Payment,Young,Male,London,Jeffrey Hammond
+6cacb072-c913-48db-befb-4ad1240ddfb3,12/14/2025,UK,266d4251-b505-42a7-9431-dca62608a9e5,End,Home & Kitchen,86.21,10,59.07,1.04,Credit Card,Senior,Female,London,Michael Chandler
+7853c814-e2e8-4f57-a3ce-62a6be508f58,11/20/2025,UK,26b4cd8e-2c45-4f38-ba9f-e46280cecffa,Perhaps,Sports,200.68,7,179.92,14.13,Credit Card,Senior,Other,Manchester,Debra Bray
+bab018dd-72be-4727-a37f-baaa4f7b56b8,7/16/2025,UK,979f0415-3541-4ea0-91eb-eba2bb778670,Lead,Beauty,378.98,7,295.31,72.44,Credit Card,Senior,Female,Birmingham,Andrea Perez
+33199358-26bb-4a4f-97c5-b4ac44ece535,8/17/2025,UK,670a21fd-479a-44dd-8f8f-ee9d28240200,Record,Toys,360.31,5,276.07,69.71,Cash,Adult,Male,Manchester,Larry Williams
+885c6b7f-edf2-4a55-afb2-0d3508aca70d,10/30/2025,UK,7f127a8a-27cc-4457-9fcd-4f2a3e207ba0,Best,Sports,337.22,6,292.31,36.94,Mobile Payment,Senior,Other,London,Brian Wood
+e3aad9ac-ef67-409c-918d-442719c49fdc,9/8/2025,UK,043d94ef-eadd-463a-bcfc-a4263e3653e3,Pm,Electronics,279.29,9,204.93,25.06,Credit Card,Senior,Female,Birmingham,David Morris
+96b54c72-4191-4ebd-9ae6-e982c5d3439a,12/22/2025,UK,7ea1b661-5e81-4288-8314-0e0ff1f058a8,With,Electronics,11.9,1,9.53,0.41,Mobile Payment,Adult,Other,Birmingham,Patricia Rose
+2f48d808-94ec-4bc7-a2b4-21bf531d20bd,9/10/2025,UK,cb169f76-d5c6-4bd8-9d1e-c25c9e99d9d8,Loss,Clothing,174.91,10,121.86,5.38,Cash,Adult,Male,Manchester,Michael Moore
+2f069a2d-4896-41a9-a39a-4efbd4e53629,12/13/2025,UK,85511406-139e-40aa-b06d-a9bfc4f67aec,Gun,Sports,494.7,8,338.48,17.32,Mobile Payment,Adult,Female,Birmingham,Theodore Ryan
+5aa523bf-0f1c-4d4e-b1d6-969605e1dc7a,7/8/2025,UK,3af1ff9c-7aa8-4b44-a391-54c635629f06,Identify,Electronics,178.61,1,111.59,25.89,Credit Card,Adult,Other,Manchester,Nathan Morgan
+48dadabe-b8d1-4c9b-a0f2-2a58fbeb78ae,8/9/2025,UK,ac23cae8-a2cc-42bb-8bd9-54f17a55859b,Sell,Clothing,367.64,3,240.94,26.44,Credit Card,Young,Other,London,Jordan Henderson
+3870c2de-1d8a-44e3-b420-719abe304d1f,12/22/2025,UK,6cc55624-491a-4e0e-9e79-7b66e9095bec,Other,Beauty,489.43,1,349.34,17.04,Mobile Payment,Adult,Other,Birmingham,Christopher Hale
+fb03a8ed-648f-41f9-b95f-e7a9be43502a,6/15/2025,UK,58843303-3812-48a0-a646-76741bdfd696,Total,Home & Kitchen,315.98,8,278.1,18.06,Credit Card,Young,Other,Birmingham,Jessica Edwards
+dd523d95-8e65-4950-9312-4a6f56d3ce8b,7/5/2025,UK,97f0c886-8e77-4329-b678-4724ebc9ab49,Wall,Home & Kitchen,397.19,3,350.19,37.97,Cash,Adult,Female,Birmingham,Steve Dennis
+b46798ec-132e-4e68-8d6f-3eb00f888a47,3/23/2025,UK,82144f36-fb0c-4ee8-9baa-c032e930149c,By,Electronics,22.02,9,13.84,3.29,Mobile Payment,Young,Other,Birmingham,Michael Williams
+a065a02c-0619-4598-9c93-9133bb598146,10/30/2025,UK,5399e91f-76d0-44ca-b73c-f506a182b30f,Process,Beauty,198.07,1,132.2,29.67,Mobile Payment,Senior,Female,London,Kristopher Jacobs
+0cc9ef23-9b31-4973-8be8-b043294e65ed,5/25/2025,UK,663d6229-ea54-4afe-86d7-199cd97acdbf,Its,Toys,301.85,2,206.33,39.43,Credit Card,Young,Female,Manchester,Aaron Foster
+09772b59-07c5-4d0b-9ed4-adb66add7be1,5/25/2025,UK,10ae2e94-af63-44f1-9edc-7762d3f50254,Third,Clothing,183.48,2,136.69,9.97,Cash,Adult,Male,Birmingham,Evan Thomas
+d68ebdac-1889-42f4-b541-3c952a03cbac,7/18/2025,UK,82912a89-2fc0-4360-ba08-b6e56b761dbe,Sea,Sports,393.27,6,311.56,41.52,Credit Card,Adult,Other,Manchester,Carol Rios
+3b4f4899-2fee-4bf1-b9ff-0780eb43910f,7/8/2025,UK,5eaad8c4-4584-4591-9304-5dd2ddaecc4d,Happen,Clothing,460.46,5,279.08,71.36,Cash,Senior,Male,London,Sean Garcia
+5c1c6ea8-77cc-447c-a354-0b254519cd8b,3/1/2025,UK,66b44471-b2ac-4efd-90b0-16d953de24f6,Call,Sports,106.29,6,88.94,13.97,Cash,Adult,Other,London,Mr. Jeremiah Garza
+26354283-c08d-40c5-acf0-7933f6b95e58,4/16/2025,UK,a77dc14b-a3f1-49bd-8256-46389fa09a17,Different,Toys,89.54,4,68.58,17.39,Credit Card,Senior,Male,Birmingham,Amanda Garcia
+cb09dfe4-2ee1-4369-af21-67929a1d269f,7/18/2025,UK,e3f1bc04-aef5-4461-8d4f-9c5d0191e8b5,Mean,Clothing,103.93,9,81.37,17.63,Mobile Payment,Young,Other,London,Adam Cervantes
+2c118080-fda7-4e40-91df-0d02605b34fa,12/22/2025,UK,4597d5ab-1d1f-4dfb-b5b4-2fd7ccd73b22,With,Toys,414.2,2,268.62,44.75,Cash,Adult,Female,London,Courtney James
+268d9b8e-2ab8-456f-9120-f9830f331cc9,5/5/2025,UK,0ab9f0e1-07c8-44bd-9447-d25f17944a06,Staff,Electronics,35.19,6,24.08,2.64,Credit Card,Young,Other,Manchester,Alyssa Shaw
+e5f6aa4e-2901-4b72-af78-55536685b026,12/21/2025,UK,44aa93be-1e42-4172-b52c-8cad0ef6ffd1,Development,Clothing,160.15,1,102.16,17.77,Mobile Payment,Senior,Male,Manchester,Allison Martinez
+335858b4-4ea3-4048-aaad-cdc75cef505f,3/1/2025,UK,94aa2127-ea8b-4a9c-b072-77f3a0ddea3c,Instead,Electronics,484.46,1,430.32,88.87,Credit Card,Young,Other,Birmingham,Misty Gibson
+f0b8e991-0a7b-4f62-bc5a-db1137b3ff4d,9/18/2025,UK,a1a333c0-f032-4077-a956-fe7cb83a1d53,Speech,Beauty,37.49,1,25.2,2.03,Cash,Young,Male,Manchester,Andrew George
+a7450281-4f87-46f4-93f8-57caedce7818,9/29/2025,UK,e5faaf28-2da4-4e9f-93b9-73b4972e599a,Training,Beauty,121.95,3,74.64,13.74,Mobile Payment,Young,Other,London,Rebecca Smith
+3de5a06d-8ec0-446b-9f4e-395ec46bcc0e,8/6/2025,UK,c3d100e4-a61e-4422-a03a-f491e906ed18,Phone,Toys,71.78,9,55.02,12.96,Mobile Payment,Young,Other,London,John Martin
+327dd43b-fe0e-4027-b8b3-ee4b6900a0d7,7/18/2025,UK,581321f0-bb6d-4177-a5c7-dca5f9cb9c5f,Reflect,Electronics,136.65,2,83.55,16.1,Cash,Young,Male,Birmingham,Matthew Vasquez
+95faeec5-1e93-4c45-8565-4252ad8598c5,9/19/2025,UK,ae86efa9-596c-478b-a155-cf1e1a64153f,Win,Sports,484.25,9,350.44,69.23,Mobile Payment,Adult,Female,Manchester,Peter Sanchez
+a049fd4c-5c55-47b8-a1a7-b584b3d1155c,7/7/2025,UK,570f7442-7cef-44c7-97a5-f54ce758f551,Hold,Electronics,328.3,5,205.57,38.02,Mobile Payment,Young,Male,Manchester,Gavin Morales
+8bd94502-d255-4452-9244-9078d3ff63fa,8/28/2025,UK,f2f7902c-30c4-4c37-b082-8418fa313796,Performance,Clothing,11.59,9,8.74,2.18,Cash,Young,Male,London,Larry Gill
+1dd93ce2-08d6-46ec-a343-b3d3832fcffa,10/30/2025,UK,dfb5cb55-e912-44d1-bfe2-a578a7d03868,Else,Sports,432.27,9,379.16,29.74,Credit Card,Young,Other,Birmingham,Amanda Cummings
+fa9c9797-cd10-4895-94c6-ea76bbec32a3,11/10/2025,UK,0c13bf29-0339-4982-a467-e219f743e72c,Case,Toys,236.94,9,142.63,9.1,Credit Card,Senior,Male,London,Stephanie Garcia
+ec23cf2d-36a9-4280-b401-9e1cb450fdf2,8/9/2025,UK,24184460-6d6e-4ef0-86ba-15eb26054f67,Child,Sports,477.57,9,366.89,22.24,Cash,Adult,Other,Birmingham,Jane Stewart
+757e49b0-eb6b-48d8-89ce-2c8e4fd4ff0b,12/13/2025,UK,ee8da7e1-a73d-48aa-9f5f-6a355041b449,Professional,Sports,58.03,1,41.91,5.19,Cash,Adult,Male,Manchester,Kevin Knox
+4eccc195-d81e-4d84-97c2-9b4262b072c7,6/6/2025,UK,7edf713f-4687-4e17-8dd0-d9cfeab63b25,Two,Toys,200.49,7,172.82,18.89,Credit Card,Young,Female,Manchester,Thomas Jackson
+888f77de-c7fb-4c84-8148-92cfb438b860,12/22/2025,UK,d25ebce2-e0fc-418a-8206-9b253ac6edab,Production,Sports,380.32,3,270.21,74.3,Cash,Adult,Other,Manchester,Linda Chavez
+f1d5da3a-6fec-48f9-9c8b-d90f734efe83,3/23/2025,UK,d0abb526-d9c3-4c79-aff8-3e2c9a2db5a1,Friend,Home & Kitchen,488.42,10,364.12,70.96,Credit Card,Young,Female,London,Sheila Lin
+ba322fc5-c32a-4876-9984-8f6ac9124f6c,4/4/2025,UK,c441a115-16a0-485f-abfb-5271a368163a,Avoid,Home & Kitchen,61.38,2,47.98,1.13,Cash,Young,Other,London,Christian Newman
+96032e22-8757-412d-9cda-75cdb65851a1,4/4/2025,UK,83b1cb2c-db0a-49bf-99bf-1f3fd27bfded,Me,Electronics,462.63,8,333.74,11.54,Cash,Senior,Other,London,Julia Davis
+864ba38a-a16b-41e2-bb9c-ff96dccafefd,9/19/2025,UK,c76047e4-2be8-4383-9408-44c0fd44e2fd,Whatever,Sports,487.31,1,433.33,40.18,Cash,Senior,Other,Manchester,Jonathan Williams
+9e4808ff-3eb9-4f74-a16d-7682df400fb0,5/3/2025,UK,c4c173ff-e4fa-482a-8225-70dc33e2c850,Feel,Toys,201,9,120.65,4.15,Cash,Senior,Male,London,Steven Ibarra
+ac0b8daf-f41b-4927-87ea-f36eae939aa1,4/16/2025,UK,7df23fdb-dc6f-4cdd-b9b6-7004992a1ffb,Whom,Home & Kitchen,467.87,10,333.28,20.07,Cash,Adult,Male,Birmingham,Benjamin Tucker
+9d6d92a6-4c31-46ce-a639-6bfb3c4efc30,12/11/2025,UK,9c2815d6-b9b4-4f4b-af74-a15f9b796ee9,Movie,Sports,113.05,6,70.98,10.17,Cash,Senior,Other,Birmingham,Jill Kim
+d75b1eb8-5a31-43c9-bc98-7c7d7900d1b2,4/2/2025,UK,014bea67-9d7d-4548-b297-0570c8d8e3c5,Least,Sports,254.28,3,158.25,44.88,Credit Card,Senior,Other,Birmingham,Brett Henderson
+b4a5429a-aa2f-4824-827f-9c5ea46b5301,10/19/2025,UK,d89e2661-29b2-4d97-b941-a60786c8ad61,Rise,Clothing,269.52,8,189.87,42.72,Cash,Senior,Other,Birmingham,Emily Howard
+fb5f8ff2-180d-460a-9df0-00d69f1b222a,6/6/2025,UK,b42e50ef-9a7a-4095-ab21-a4fc54bead1e,Determine,Beauty,275.76,3,192.51,38.66,Credit Card,Senior,Female,London,William Haney
+21e3b5d2-b010-4b53-a379-15d2dccb501e,11/20/2025,UK,6aa74000-9bfb-42da-9af8-686c21ed5723,Better,Beauty,288.05,4,188.66,45.39,Cash,Senior,Female,Birmingham,Amanda Singh
+0eecd5e4-98d3-486f-8e5b-b85d81590064,6/15/2025,UK,43262bc4-c46d-4404-9a6f-11d4f839926a,Since,Beauty,477.62,6,328.32,41.3,Credit Card,Adult,Female,Birmingham,Carolyn Lee
+ac9cc7b7-ffc1-46fd-b5e2-f9ab97f657dd,10/11/2025,UK,8610385b-45f9-4d66-86c7-cbd86daaf7f8,Present,Clothing,254.61,8,178.06,40.29,Mobile Payment,Young,Female,London,Jeremy Atkins
+ca556da7-6743-45a2-bddc-cd9552fa3bb4,3/12/2025,UK,b6c82128-9b7c-4988-a985-c3d172996bf7,Whatever,Toys,225.01,1,140.37,34.68,Credit Card,Senior,Female,Manchester,John Davila
+23de9dbc-8962-4f2e-9c9b-5676a162f3de,9/19/2025,UK,d1dd9a11-16ab-4a91-a9e0-3b94faec568c,Point,Beauty,379.05,6,335.5,9.87,Mobile Payment,Young,Other,Manchester,Dr. Deborah Johnson
+af45f36e-fde6-47da-8404-ddafe083b7da,12/14/2025,UK,974b2c08-24bc-49de-ad64-c7d9bc0fed55,Type,Toys,12.73,5,9.99,0.56,Mobile Payment,Young,Male,Manchester,Michael Nunez
+3acb3505-91ee-448e-8d1e-83ca9aaa7519,3/23/2025,UK,8d8e8191-f70a-410c-858c-e6a4e3c8b0cf,Condition,Home & Kitchen,212.71,4,140.52,12.95,Cash,Adult,Male,London,Maria Smith
+93cf2a56-802d-4b6e-9d43-5c80d321f4c4,12/13/2025,UK,5ad19225-422f-41cb-b8a5-42557aa50231,Like,Electronics,310.15,1,232.22,33.55,Cash,Adult,Other,Birmingham,Heather Ali
+d8fff9c7-db67-4b69-82e6-010b12073484,11/20/2025,UK,d85be2b0-e2ad-473d-9fd4-eff76ab55a71,Major,Sports,433.31,7,348.1,62.42,Mobile Payment,Senior,Other,London,Levi Martin
+4a35dcbd-b690-4a30-8cae-e9935f2e1a8d,11/20/2025,UK,ab978f46-769f-4150-848c-f7abda19f3ae,News,Toys,393.06,7,307.91,33.79,Mobile Payment,Adult,Other,Birmingham,Molly Cummings
+5e5b1dfd-474c-4350-bcb4-427ab24c064f,7/18/2025,UK,09387e6e-a012-4fec-853e-c28b953c5867,Hundred,Toys,252.79,3,190.7,48.66,Credit Card,Adult,Male,Manchester,Maureen Manning
+2c0b3823-19f7-46e8-a26e-3ab451a3a832,7/8/2025,UK,f0120a75-ccf0-413a-9546-7879990323c4,Natural,Home & Kitchen,313.17,9,237.55,59.15,Mobile Payment,Young,Male,London,Christopher Fletcher
+3dc62c16-ed06-4b18-b2dc-1651984be3a3,9/10/2025,UK,e2d6972f-a69e-4d11-aec8-2303d81ecd57,Child,Sports,427.91,5,288.27,19.7,Cash,Senior,Male,Manchester,Scott Higgins
+05580530-c97b-4a6b-90d2-67547177d094,8/17/2025,UK,b7aeaf3e-eb08-4d8c-81f8-6e56e1d14ca4,Color,Clothing,360.67,7,282.82,55.82,Credit Card,Adult,Other,London,Carol Macias
+14074d0f-7403-49a2-aed0-9fbb0f4c31bf,1/16/2025,UK,5300858f-ad48-47d3-99ce-4118d10ec4b5,Push,Clothing,289.24,4,218.17,37.29,Credit Card,Adult,Female,London,Blake Joseph
+276566e8-4ace-4aa1-a8cd-b793690504ad,4/2/2025,UK,d409717c-4e06-4b85-9cec-c89f7f9391b1,Drop,Home & Kitchen,392.25,7,275.71,39.72,Cash,Senior,Other,London,Jennifer Miller
+d73c1ce4-1589-4329-b34d-50b0eeffbaf8,12/22/2025,UK,b4fedfd7-117f-4247-9cf1-f2995cbe16ef,Join,Sports,177.66,7,137.18,33.87,Mobile Payment,Adult,Other,London,Elizabeth Knight
+487e14e4-fad7-4cb1-9b2c-408a11758112,3/15/2025,UK,c0c7c1ff-da38-4d5b-843c-107973d0775e,Sister,Sports,189.16,9,155.13,11.26,Credit Card,Adult,Other,Birmingham,Brandon Smith
+75fc4f20-a918-4da7-8eb3-e140fd740591,9/19/2025,UK,e3284ec8-a3ae-4e4f-b8e6-0bf3d31b43dc,Team,Home & Kitchen,336.1,8,289.07,10.18,Credit Card,Adult,Female,Manchester,Laura Webb
+f73ca173-d37c-4d85-89eb-e73c05af24f9,3/23/2025,UK,8a55f178-f791-4874-bb61-cdc6ab8bafd7,Bill,Clothing,277.57,2,241.98,32.4,Credit Card,Senior,Female,London,Dr. Joseph Powers Jr.
+c7616a78-738f-457d-87e1-66fb5121ec0b,6/4/2025,UK,d9fce065-02dc-43c7-9a71-d8587db3bf19,Have,Home & Kitchen,459.77,2,333.34,56.7,Credit Card,Senior,Male,London,Jonathan Garcia
+84dee9b0-060a-480f-bff0-f228cf9a7604,10/19/2025,UK,5aad1359-62f5-4885-8c9f-8897714494a2,Fire,Sports,385.48,3,335.68,3.15,Cash,Senior,Other,London,Paul Pugh
+aa52af96-3d6a-4826-933f-8d46b8f9987a,10/19/2025,UK,b34f00d8-539f-47f2-a45e-7e48becd0edf,There,Home & Kitchen,142.35,8,103.36,12.63,Mobile Payment,Adult,Other,Manchester,Steven Romero
+6a3220b3-30b0-409f-948d-9d1b3c35d884,12/21/2025,UK,0730b7a6-82fc-4c18-bd07-69fe6e646dfe,Natural,Electronics,437.61,6,288.87,19.62,Mobile Payment,Senior,Other,London,Ann Davis
+d5387599-c38d-4073-bcfd-e8e69922b560,8/9/2025,UK,8dd6f694-b2d2-473e-aa0a-8153bc347f2f,Tax,Beauty,52.75,6,44.93,7.88,Credit Card,Young,Male,Manchester,Jason Patterson
+c3bad042-0312-44b9-ae52-a87f8494b17b,8/17/2025,UK,7498a03b-35e5-42ee-9519-7225e8ec741e,Scene,Electronics,421.39,10,316.94,79.42,Credit Card,Adult,Male,London,Erin Young
+620d91a3-7792-4c08-8dfc-0d511f4ee025,10/9/2025,UK,6d2f6def-8d1f-4b43-ae2d-cedd710e832d,Course,Toys,53.19,10,34.92,6.3,Cash,Adult,Female,Manchester,Ronald Burns
+dc1a719d-5005-4e05-8552-a6950cfd5026,4/16/2025,UK,985a67ee-a285-4cb6-9ef7-03ff611f01f3,Name,Home & Kitchen,407.8,9,291.65,34.43,Mobile Payment,Young,Female,Birmingham,Mark Berg
+5dab7dba-b282-4982-b6af-83d915f6f6c0,12/11/2025,UK,03411061-150b-4cce-840a-c66835839295,Chair,Clothing,250.47,2,187.46,38.73,Cash,Senior,Male,London,Terry Day
+e7688e68-b7e1-4fc9-9785-b6688c69ff84,11/10/2025,UK,a5af729a-a1c5-45e5-9aac-ae1a58cacb78,Opportunity,Clothing,217.22,9,152.64,9.13,Credit Card,Young,Other,Birmingham,Angela Nelson
+7693ac6d-325e-42d3-bb20-b235e6f66765,10/11/2025,UK,430c6f99-a7ef-4234-865b-450abd9976e1,Customer,Home & Kitchen,481.49,8,347.84,43.22,Cash,Senior,Male,Birmingham,Julie Cross
+e3853e98-08ce-44a0-b661-e4882b4854e2,4/24/2025,UK,91a0ce3d-38b7-4737-9183-b9ae5fead5cb,Finish,Clothing,222.44,3,173.69,33.44,Mobile Payment,Senior,Male,London,Mrs. Angela Hill
+f16a5c0c-965b-4326-8522-5a2d43fdc9fd,10/19/2025,UK,02200d6e-2aa2-42d3-bf94-3b4fb8a38f64,Notice,Toys,378.48,10,258.3,22.59,Cash,Adult,Other,London,Norma Gray DVM
+51ef0bd3-5ff4-4741-8ee0-a47e04c9e355,7/7/2025,UK,1c221985-e961-4f08-bc1d-9d47fee42b57,Who,Sports,318.29,5,239.81,16.46,Cash,Adult,Female,London,Justin Jenkins
+999ca9bb-220e-4d2b-bb09-e00f23d4fd00,5/17/2025,UK,b83c76f0-8375-4bb0-843c-84000478985f,Until,Toys,186.34,10,150.19,5.6,Mobile Payment,Adult,Female,Manchester,Julie Howard
+56eed74b-b59f-41de-b11f-9a9d5e18d19a,4/16/2025,UK,c4272b2e-c639-4004-91b8-67f26c5b0f4a,My,Home & Kitchen,179.2,3,112.95,3.04,Cash,Young,Other,London,Sharon Johnson
+a4446373-df73-4534-9408-639a87d50dd0,6/15/2025,UK,0e239a57-2a82-45ec-8696-fc80a85b87f8,Glass,Beauty,190.66,7,149.91,33.44,Mobile Payment,Senior,Female,London,Melissa Schneider
+cad69005-042d-4be0-bdd8-e2bb4f0789ba,5/14/2025,UK,fa9b3aa7-9e3c-4eaf-9529-93ce1c43a508,Run,Home & Kitchen,44.32,2,36.41,3.35,Credit Card,Senior,Female,Birmingham,Gregory Martinez
+37722282-1c06-469f-bdc1-6dbdfca18d4d,11/20/2025,UK,34f83aea-4c4a-4ec9-861e-78dc4f3ca786,Rich,Toys,434.03,1,339.99,44.51,Credit Card,Adult,Other,Birmingham,Jeremy Wright
+83805e44-2efc-4571-bd38-99b8ee91c6f3,8/6/2025,UK,5d31db3c-8bf3-446d-bf1a-383912ff563c,Bar,Clothing,92.52,2,79.39,0.18,Cash,Young,Other,Birmingham,Joshua Robinson
+3a948e75-a584-425b-bd99-b2a0e1cc2381,11/10/2025,UK,84745d56-7be7-4d03-a74b-4418fc1079d7,First,Beauty,279.98,10,180.32,2.17,Credit Card,Senior,Female,Birmingham,Anthony Huber
+02e38e63-1722-4297-8c9a-4affb2526379,11/20/2025,UK,9fc1d971-90be-40d0-8037-b655a84790c0,Record,Toys,52.29,4,38.05,0.43,Mobile Payment,Young,Female,Manchester,John Solis
+0c91fe67-7430-4d74-bbe3-9fc57ce313bd,12/31/2025,UK,fef512f9-ca23-41c9-9ea3-75db7b33945e,Do,Electronics,174.85,4,139.13,23.4,Mobile Payment,Adult,Male,Birmingham,Patrick Parsons
+034b2fd5-3bd7-412e-9873-9caafeb0aff0,6/6/2025,UK,8e7612a7-7874-4ac9-a452-a6ab569e48ac,Present,Clothing,451.47,10,332.78,88.87,Mobile Payment,Adult,Female,Birmingham,Nicolas Moore
+fe72812c-a3bd-45db-a2f0-8936d15a8a82,10/19/2025,UK,f36850dd-6266-472d-8487-57b5ca05c19c,Heart,Home & Kitchen,184.93,5,156.34,1,Mobile Payment,Young,Other,Birmingham,Curtis Patel
+2d45a9f6-e09f-43ff-92df-8bc4f6e98a36,7/27/2025,UK,6efecb62-0aef-4d50-8381-9af07ea0d704,Able,Clothing,226.85,8,140.4,36.38,Mobile Payment,Young,Female,London,Kristen Maxwell
+28270ce0-eea8-444a-98e4-5a1e25bbe72f,7/16/2025,UK,590f2038-79dd-4662-b990-85fc30e17e94,Book,Home & Kitchen,444.71,2,383.66,59.79,Cash,Senior,Male,Birmingham,Samantha James MD
+04564b17-c3af-4f9a-86e6-b124a53fce3f,11/20/2025,UK,efbaf2a4-0cc6-45e7-be09-e74e51dce6f6,Article,Electronics,169.51,9,117.52,14.07,Mobile Payment,Adult,Female,Birmingham,Tammy Schroeder
+e762f1d4-2900-4110-9955-76081d2ddf9b,11/12/2025,UK,c551df49-f088-4a5d-8a5a-d3bf3c8e62e5,Stop,Home & Kitchen,329.71,5,257.42,17.38,Cash,Young,Male,London,Julie Jensen
+850e6577-1aa8-482f-b5f0-8bfad8b12c2e,7/16/2025,UK,ae0546fe-2e4e-436e-909d-26062e07d62b,So,Electronics,51.61,2,35.36,9.02,Mobile Payment,Adult,Male,Birmingham,Erik Trevino
+932a96bd-3682-48e3-bb45-3c538adc5ad7,9/29/2025,UK,4b902465-5f33-47ac-990c-c21fb4a241f4,Cold,Toys,186.07,4,144.67,19.49,Mobile Payment,Senior,Other,London,Matthew Jordan
+953db383-8ede-4647-9eda-9056b52f4c4f,7/16/2025,UK,45b167d2-14b0-4e68-acb4-7279b0f3a0a2,Ok,Home & Kitchen,464.54,4,308.38,17.02,Mobile Payment,Young,Female,Manchester,Erica Phillips
+2bfaaa46-0bd9-466e-9fca-565d91dfb898,7/18/2025,UK,45735174-f30b-4c8b-8361-19e29d099d3a,Attention,Beauty,268.47,8,192.67,41.36,Mobile Payment,Senior,Female,Manchester,Chelsea Collins
+45a08fad-a055-4cf0-8c12-a3afbc11beb7,11/20/2025,UK,c0e4b5dc-9d0f-4ef0-91d7-5834f009dbcf,Compare,Clothing,109.46,2,90.44,17.92,Credit Card,Young,Male,Birmingham,Jason Vargas
+7deba102-621e-4df4-8d39-144b14b6b8f8,5/14/2025,UK,b941c7ab-5226-409b-9416-87fc2ab6ffab,Year,Electronics,364.87,3,269.07,33.53,Cash,Young,Male,London,Robert Gallagher
+f12f44f9-bf61-4780-8197-ecbf952ff3fd,10/19/2025,UK,36e581b2-a993-4a64-a559-a7c4aa96bd78,Little,Clothing,459.75,1,392.1,12.08,Mobile Payment,Young,Other,Birmingham,Daryl Perry
+c3b027d8-7cdd-4eba-a2c0-04da749f01ac,10/19/2025,UK,fa14b8b6-233d-4a36-a65c-937a51edfb14,Public,Clothing,217.67,2,157.87,20.16,Cash,Adult,Male,London,Robert Mcdonald
+12c79131-f27c-40fe-9229-0cd8e1b6de00,11/12/2025,UK,05a27204-b50a-4d34-8e8b-2868f1218a5b,Argue,Beauty,473.27,4,423.62,66.94,Credit Card,Adult,Male,London,Jennifer Garcia
+8544ba79-8205-4546-ab1b-10318e0bf782,5/5/2025,UK,c6a25280-7b37-4c3c-888d-3e2571bd93d6,Land,Electronics,79.77,7,60.43,3.88,Mobile Payment,Adult,Female,London,Robert Ellis
+6b0bd324-d2d3-4ec0-95ac-d4dac170ac93,7/26/2025,UK,69eea40f-3582-4304-aba2-754ece98a728,Offer,Home & Kitchen,324.02,8,230.97,1.95,Cash,Young,Male,London,Stephen Klein
+317a64f0-a469-457b-9a92-c795ec11789e,10/11/2025,UK,aec5bb84-23d9-43fb-88c1-df02f49fa93f,Home,Electronics,492.56,9,427.02,38.4,Mobile Payment,Young,Male,London,Marisa Welch
+718ba17f-f898-4d8a-b740-137a9f6a7bd9,12/13/2025,UK,8938393f-6d50-407e-b719-fdc2ced3c4fa,Child,Clothing,253.39,9,220.65,24.33,Mobile Payment,Young,Male,Birmingham,Lauren Chen
+01628653-3128-4314-ab0e-0f7434af5af0,7/7/2025,UK,ce37aa79-4e6e-45ae-9116-93657fcbc156,Represent,Electronics,435.1,5,281.89,5.22,Cash,Senior,Female,London,John Scott
+a7cb32fe-6de0-454a-a62e-b7fdae35a728,3/12/2025,UK,fb7ddb0e-3929-4b2b-9a4f-b88bda256ef3,Cold,Home & Kitchen,483.33,1,353.35,62.89,Credit Card,Adult,Male,Birmingham,Gregory Williams
+d647052a-26eb-4ad3-bba5-ae352021f0ee,7/8/2025,UK,25ca256d-b40f-4cbb-829b-0b1d19e77b45,Next,Electronics,272.38,5,178.71,1.22,Cash,Young,Female,London,Timothy Jones
+dbb9c9d7-5e51-4673-816c-fe47117ed48f,7/8/2025,UK,055edbfc-4f16-44c9-b7a9-69ad7b32e727,Buy,Electronics,356.43,7,267.79,10.71,Credit Card,Young,Female,Manchester,Benjamin Leach
+f784ef82-49ba-4ae2-b0a7-7a421c619055,9/10/2025,UK,c6d107e1-ad8c-43b8-95df-1409196ce751,Not,Toys,481.02,10,384.06,26.28,Credit Card,Young,Female,Manchester,Amanda Maynard
+c67858c6-af04-4c8c-9ae2-2bd5c9b568c6,10/9/2025,UK,0c92f413-6afa-40f6-9c35-823f2984989b,Leg,Beauty,196.74,7,170.58,19.65,Mobile Payment,Adult,Female,London,Rachel Smith
+50fa2de7-a9bf-47ff-866d-f82d8b76ee19,9/7/2025,UK,c4a0cf63-a87d-47a9-bb19-97bf58c413de,Hope,Toys,222.24,8,167.23,12.82,Credit Card,Senior,Female,London,Gwendolyn Ortiz
+f8ac6443-33bb-4d87-9a8e-21555332480a,12/11/2025,UK,afbe6aa9-acd1-4698-8171-ba6353dc5b85,Her,Electronics,227.86,1,188.34,7.12,Credit Card,Senior,Male,London,Christine Camacho
+e17622f0-a435-4e41-a0ff-9694cb9da72c,12/1/2025,UK,38a2709e-7735-4b84-9591-680177b9e659,Oil,Home & Kitchen,295.25,9,186.11,28.25,Cash,Adult,Female,Manchester,James Ross
+efb2c52d-bfaf-47e0-96e6-a98d49ff8b48,9/7/2025,UK,5cabaf9d-557c-4627-9e14-d9fdff932a86,Behind,Electronics,332.47,4,209.52,43.22,Credit Card,Senior,Female,Manchester,Kelsey Buckley
+fc98913d-e83d-49a0-b90c-1fc0931b444e,3/3/2025,UK,8948ffe1-594f-4f1c-83c9-6db2e5c43042,Practice,Beauty,260.5,8,195.84,4.46,Cash,Senior,Male,Birmingham,Jennifer Mason
+58c27327-669b-4014-adae-d49e71b5f78d,10/9/2025,UK,0501b332-3786-4e8a-9d67-740867198814,Door,Sports,251.09,2,155.12,6.91,Credit Card,Senior,Other,Birmingham,Elizabeth Rose DDS
+f84d52e3-9d77-44e3-ad9e-6f6304e6765e,7/7/2025,UK,6a4bb7a0-66ac-458b-85a3-1d1ca2f8e8fe,According,Toys,17.05,9,10.25,1.41,Cash,Young,Female,Manchester,Wesley James
+b4bfe033-b9fc-474b-b31c-232c26e3bf85,5/25/2025,UK,16af14c3-2d02-45e2-a0d3-6ae30b5cdfb1,Clearly,Toys,457.9,6,297.74,69.29,Cash,Senior,Male,London,Dustin Hernandez
+53d37a94-67e4-4b0d-97ce-42acab9f75d5,10/9/2025,UK,9252ad4b-2fdb-473b-946b-88b0341e11f6,Race,Clothing,316.13,1,191.86,36.68,Credit Card,Senior,Other,Manchester,Christopher Clark
+ecacfd39-7d67-4471-a8de-0550b297e993,10/19/2025,UK,c78569d3-0959-438f-a98f-31cc0cb02be5,Develop,Toys,199.46,1,168.7,3.26,Credit Card,Adult,Other,Manchester,Samantha Sawyer
+ae3877bb-fb8d-4802-8d35-a67f3b5f170b,5/25/2025,UK,e4386aab-faab-425d-957d-1d7da82838ab,Decide,Clothing,127.88,5,77.36,22.94,Mobile Payment,Young,Male,London,Amber Alvarado
+f1b73fcc-09de-418e-ae14-d1e61d280c31,6/4/2025,UK,bb3e511f-e88d-4733-b0d9-3eb68e0c77ee,Food,Electronics,104.17,2,83.6,9.85,Mobile Payment,Adult,Male,Manchester,Michael Boone
+00e4afc6-f5f3-4a0e-b412-d32931497d5a,7/18/2025,UK,ad827376-2cf9-4a0f-84da-54cac8b3e5c2,Until,Electronics,469.14,7,301.66,63.49,Cash,Adult,Female,Birmingham,Courtney Gray
+e7aef734-64e7-448a-9cd1-42886c88a527,3/1/2025,UK,8f0113ac-72e0-442d-bbc2-6d2fb47cac06,Quality,Sports,233.12,3,145.19,31.29,Credit Card,Adult,Other,London,Brandon Zimmerman
+bb266829-c051-4dd9-9a2f-0d384c9dc693,6/6/2025,UK,a9ae80a7-66a7-45a5-906b-8f9e8606a1cd,Plan,Sports,443.47,4,325.6,77.17,Mobile Payment,Senior,Male,Manchester,Adam Malone
+39b85c75-323b-4091-9bf3-cf34c8322a7c,7/27/2025,UK,67f18fc2-7c6c-4b28-95b2-636b7b82e18c,Event,Sports,363.86,2,236.69,54.56,Cash,Adult,Other,Birmingham,Kara Li
+4c2be704-f678-4eaa-a9d4-194664db4bbe,12/1/2025,UK,d047bc81-a84f-40e0-ab08-36c4228015c8,Interesting,Beauty,435.29,6,367.62,33.11,Mobile Payment,Senior,Female,Birmingham,Dr. Gary Reynolds DVM
+3c2e51d1-bf13-4715-b1ae-56dad336dcbc,5/5/2025,UK,06d3a8eb-51bc-4c0e-9e4d-f33ac2b4f0d2,Degree,Electronics,406.1,2,310.05,57.84,Cash,Adult,Female,London,Keith Spears
+5788f868-4eab-4fd0-9c34-945a815c7afa,11/10/2025,UK,447f76f0-b590-4044-8fb7-47b428a655b7,Must,Clothing,382.67,4,298.37,16.11,Mobile Payment,Adult,Male,Birmingham,Derek Wheeler
+eefac369-76fb-45cf-8189-ff9383a55719,10/30/2025,UK,52f4ee54-3fc7-4faf-963e-7ac33eb63d80,Sea,Home & Kitchen,360.63,9,321.55,1.88,Mobile Payment,Senior,Female,Birmingham,Richard Davila
+52ae0a6d-032c-495e-ab73-7e2be9266f9e,4/16/2025,UK,bc1cebf8-d544-4204-838f-c2563c4a44a9,Though,Electronics,109.11,9,92.23,20.68,Cash,Senior,Other,London,Eric Young
+359325b2-7852-41bd-8b5c-20a55c698835,6/15/2025,UK,7874f8db-60f5-4728-8050-739130930b46,Goal,Home & Kitchen,276.79,5,241.39,54.71,Cash,Adult,Male,London,Christopher Wallace
+fbacbf11-05b7-40ce-a4bd-c7c18135748e,4/16/2025,UK,fb47ec31-f59c-4888-b81f-3e33163d82e7,Son,Electronics,227.24,9,174.92,45.14,Mobile Payment,Adult,Other,Manchester,Melissa Mcintyre
+fa9606bd-f73c-4cf3-8e0a-ebb36a861399,4/4/2025,UK,ad23fed2-a813-4f2d-807a-58bbc360d604,Money,Clothing,212.88,4,130.21,11.49,Cash,Senior,Other,London,Sandra Gaines
+06e574b7-7eb8-412b-b879-cdbbd7c63f86,4/4/2025,UK,a71cd802-177c-418b-a07b-b241ee453e0b,Do,Beauty,211.17,9,188.12,8.36,Credit Card,Young,Female,Birmingham,Brianna Bentley
+061a71fa-c40b-4ca2-8409-557a81792d36,3/12/2025,UK,5425eb90-b7c3-47ea-a629-3ccfad8bfcf0,Later,Home & Kitchen,211.47,2,166.34,28.14,Cash,Young,Male,Birmingham,Catherine Schultz
+35ab9c1f-7710-4a66-b33b-e81cea21d5b4,8/6/2025,UK,c9823965-2b5c-4c56-af95-d46473802b11,Beautiful,Sports,165.73,3,114.78,19.26,Credit Card,Young,Female,Manchester,James Hammond
+f8810bd8-8683-4a16-813f-266223c963eb,12/11/2025,UK,adf6da57-6c3e-4524-8c9b-a3902063435f,Back,Clothing,433.34,7,341.72,71.45,Credit Card,Young,Male,London,Katelyn Park
+35e03ac7-d269-40ac-bfa9-b0f6a8f5f5d6,7/5/2025,UK,b9827066-682b-469b-8bef-46b2ebe1ff28,Unit,Clothing,208.94,9,148.93,32.67,Credit Card,Senior,Male,Birmingham,Jennifer Molina
+1e0bf3d7-b538-40cc-bdc4-1e337042aa51,4/2/2025,UK,5911b9ac-2140-40ff-a22e-edf367fd4d8a,Nothing,Beauty,186.15,3,125.64,28.98,Cash,Young,Male,London,Lauren Rodriguez
+87cdce07-122e-40a6-8697-d8c35539b603,8/9/2025,UK,ec919e8a-3882-4224-85ab-e17b6a24c93b,Part,Home & Kitchen,52.83,8,43.45,7.23,Credit Card,Young,Male,Birmingham,Eric Maldonado
+654fd6e4-bdcc-42d9-a79d-3ebb025f60d2,9/8/2025,UK,2916bc7e-b366-4be0-904d-c7772d117176,Because,Clothing,29.04,3,24.25,2.61,Mobile Payment,Young,Male,Birmingham,Deborah Andrews
+a13d3fac-f55b-49f3-bed2-7f42777fb0b4,3/23/2025,UK,f242289e-bba3-4c71-b336-bb98607d2275,Top,Sports,27.05,8,17.68,0.92,Cash,Young,Female,Birmingham,Sean Bishop
+35a2b46b-4206-4904-b4d9-e2e012f6b6be,6/15/2025,UK,665905f9-7df3-46b7-b90a-455a99d2e7c7,Watch,Beauty,337.16,10,244.06,26.72,Credit Card,Adult,Other,Birmingham,Ryan Cochran
+035c8dcd-ace2-4ed7-8af2-14453e15063a,3/3/2025,UK,8bc80997-94fe-43fd-8fcc-d05b53944af1,President,Clothing,372.92,4,260.65,10.63,Mobile Payment,Adult,Female,Birmingham,Lauren Erickson
+ac406473-5809-40cb-8ed0-e3762a5c1600,9/7/2025,UK,db21bde4-5327-4eee-a811-bc2c16f26a14,Could,Toys,317.87,7,190.79,25.55,Cash,Adult,Other,Manchester,Dr. Michael Miller III
+fbdc8ea4-70fa-42ad-a45d-bac80ac8378a,3/23/2025,UK,55787154-509b-4731-9f98-34880c5d3136,Science,Electronics,45.91,1,34.75,8.02,Cash,Senior,Female,Birmingham,William Miller
+e9ab7635-1b5c-4154-b19f-93769610e994,11/20/2025,UK,ac642f1d-82c8-4e8e-9cc2-365666f3b030,Majority,Home & Kitchen,108.04,2,83.39,20.27,Mobile Payment,Adult,Male,Manchester,Austin Robinson
+1264cfa9-032b-4437-b80d-1b51ead3fcaa,12/31/2025,UK,5bdf19bf-6041-429b-9c9b-f4a24fcadf2d,Politics,Electronics,194.61,8,167.55,19.64,Cash,Young,Female,Manchester,Justin Cordova
+9d87f4d1-d850-459d-84ec-0b3c59d07dcc,10/30/2025,UK,84e98ddd-fdc8-4fd0-b954-83cd59c72ec8,Cover,Home & Kitchen,233.6,2,152.01,35.03,Mobile Payment,Adult,Male,Birmingham,Robert Bailey
+d4ee2520-2701-45c4-bfcb-1d0bfe5b7e47,4/13/2025,UK,87349cdf-7aa9-4dd1-b604-86d1062daa34,Son,Home & Kitchen,277,4,179.42,14.4,Cash,Young,Female,Birmingham,Matthew Thompson
+8da4e4c0-5b8c-4c78-a9f5-1582eff91e7f,10/11/2025,UK,f3847415-cd43-4052-a37a-45571901f7a2,Successful,Electronics,347.31,10,308.07,54.08,Credit Card,Young,Other,Birmingham,Lisa Hinton
+6e9548f3-d3bc-4182-8cae-6a9fc20adc90,11/12/2025,UK,e01683a8-419c-476c-b9f2-8a61dc9f2ae4,Program,Beauty,74.61,10,49.92,12.63,Credit Card,Senior,Other,Birmingham,Kevin Solis
+4c8c51fb-8a8d-49d2-99f1-5d3d32a956f5,12/11/2025,UK,62e03d54-7260-4c99-bfd1-694ed4649027,Traditional,Clothing,471.5,7,376.38,81.36,Cash,Young,Male,Birmingham,Patrick Morgan
+57b8b6f6-348c-466a-9233-f8a3128edd71,10/11/2025,UK,9d6a070c-d6d6-4b46-a5ff-be38e6845d74,See,Electronics,15.33,8,11.99,1.05,Credit Card,Young,Male,Manchester,Jamie Stevenson
+a307feb6-26cc-48d8-9b32-5affa2ac46e7,8/17/2025,UK,fb040573-79d7-40fe-9cac-795f8cd9fa93,Fund,Home & Kitchen,324.99,8,210.91,2.69,Cash,Young,Other,Manchester,Monica Shannon PhD
+8521e928-656a-47d2-be1b-4ce831006758,11/10/2025,UK,1c0458df-3982-4733-93cd-450107f1ab25,Situation,Sports,194.19,3,154.43,16.51,Mobile Payment,Adult,Male,London,Gail Anthony
+360b9b67-d5fc-4696-9a5d-6c2f86bbde8b,9/7/2025,UK,066314d9-04a0-4bc5-836a-0e8c95cfdf2d,Generation,Electronics,441.87,4,374.61,79.07,Credit Card,Senior,Other,London,Sarah Williams
+d57fe620-bb94-4ade-8408-493af09799a1,6/6/2025,UK,8f315368-1371-4057-bcde-a63f30845da3,South,Beauty,387.71,4,244.08,23.81,Mobile Payment,Adult,Male,Birmingham,Timothy Green
+190c30e8-a1ff-495c-9318-c0841e7b0889,10/9/2025,UK,87b899d5-21f5-41fe-aba8-b8df62e15530,Seat,Sports,79.53,10,50.15,7.52,Cash,Senior,Male,Birmingham,John Cross
+95e7e695-4a0e-4b8d-8ad5-f605332240ab,9/18/2025,UK,67dd1f15-3ade-4adb-a204-9ab0978044ef,Member,Electronics,410.39,6,290.6,69.22,Cash,Adult,Male,Birmingham,Lori Fields
+84c8eb0f-dcdb-46ac-b3ac-19dd9f27dcd6,3/12/2025,UK,7f14bf22-6b0b-4cde-affd-dd1941da6413,Something,Home & Kitchen,32.97,1,23.93,0.83,Cash,Adult,Female,Manchester,Zachary Adams DDS
+b3cf6a51-90b9-4c43-bacd-2ae870557833,9/8/2025,UK,c6fcc2a4-cf85-4921-84c9-dc066a9abd87,By,Beauty,491.79,8,306.25,10.97,Credit Card,Adult,Female,Birmingham,Kevin Matthews
+dfd7b500-826e-4d51-96be-97f4e3c2fad2,7/16/2025,UK,5c89a238-c320-4aac-8801-a0d218ab6614,Up,Sports,171.05,5,112.03,32.21,Mobile Payment,Adult,Male,Manchester,Matthew Jones
+38aac318-6f2f-4986-a46f-6f6adafc240d,9/8/2025,UK,fd75d20e-148d-4b9e-8911-61cb6a58004a,Phone,Electronics,309.24,2,190.47,36.11,Credit Card,Young,Other,Birmingham,Katherine Wise
+dfeeb452-f888-4858-becf-a29be5ef5ddd,7/27/2025,UK,9bdfdfd5-fbed-44e8-87db-b39b8fc294c7,Current,Sports,226.72,7,143.69,27.51,Credit Card,Senior,Female,Birmingham,Matthew Vaughan
+930f6eba-6d83-4813-9a7c-8db4a8df4143,8/9/2025,UK,8f89ce5b-b996-4fc6-b2eb-3feb79c4eba6,Group,Beauty,499.04,2,423.56,62.83,Mobile Payment,Senior,Female,London,Christine White
+098c90a6-dcd4-42fd-9920-0e272f5ab026,9/7/2025,UK,a0048190-fb68-4cdf-8556-2012d90b9459,Impact,Home & Kitchen,238.83,3,156.72,26.77,Credit Card,Adult,Male,Birmingham,Sharon Perry
+fa9133e3-4fb7-4065-b7d8-76468c22f88f,12/14/2025,UK,0c4237b3-b6a9-449a-a428-e45d461d7d61,Career,Electronics,117.62,2,90.17,22.65,Mobile Payment,Senior,Male,Birmingham,Crystal Johnson
+d811731b-9e15-4885-9396-0469e50cc7d8,3/1/2025,UK,df57dc8a-7da1-4fbc-a29f-59f37ea94a30,Own,Electronics,234.26,6,175.86,5.21,Cash,Adult,Female,Birmingham,Jennifer Lee
+d9303d43-9e17-4457-b258-a9d0cf816ac5,4/13/2025,UK,0a735b57-acf7-4f42-ba98-8a5f8ff82c78,Later,Sports,209.39,4,152.07,22.89,Cash,Young,Male,Manchester,Emily Spencer
+c835204f-f512-4f0e-a880-4e19bc9e413d,4/24/2025,UK,1e3c7b7c-3a24-452a-a896-ee24716c6e8f,Suffer,Beauty,439.58,10,333.01,16.32,Credit Card,Adult,Female,Manchester,Melanie Meyer
+a6bfbc27-8078-497a-931f-7745602c3cf4,9/18/2025,UK,780c5c20-c3be-412d-b732-5c8ff50b4575,Chance,Beauty,186.01,1,135.25,15.05,Mobile Payment,Adult,Male,Birmingham,Daniel Robertson
+e6797994-548c-4edb-8287-67380d0f3844,3/12/2025,UK,cb6368af-4500-4b34-8da7-688833cefeb1,Kitchen,Toys,473.56,8,387.99,0.96,Credit Card,Senior,Other,Manchester,Kimberly Morgan
+c7fde5d5-117d-434f-a273-7840f07eb449,8/9/2025,UK,e8f2f96c-cdcb-4c77-a796-0bab6c605c81,Contain,Electronics,421.59,6,295.3,53.41,Cash,Senior,Other,London,Tiffany Jones
+cccd6494-97a2-4154-bf83-1c0431380487,7/18/2025,UK,64384a0d-9956-4b97-8ec3-b77e422a0bde,Key,Toys,437.36,6,363.51,64.85,Mobile Payment,Adult,Female,Birmingham,Jacob Jackson
+4e9531c6-201c-48ea-873f-46cfbc70e4a1,8/28/2025,UK,56fb6183-c648-4b5b-9e45-2f0a3689770e,Score,Clothing,478.03,5,395.74,74.87,Cash,Senior,Female,London,Dylan Gonzales
+8b960c0b-e8cb-46d7-ac23-bc2c68fb078f,5/17/2025,UK,6337d4d1-1a9e-41e5-ac91-1ca336031823,Less,Beauty,107.21,3,65.89,18.5,Mobile Payment,Adult,Female,Manchester,Emily Ford
+73468be8-eba1-4e74-9b97-6ea79d859cce,8/17/2025,UK,49735ec8-7750-48c3-8655-6c0b22e9da0f,Job,Home & Kitchen,62.75,8,49.59,6.24,Credit Card,Adult,Female,Birmingham,Andrea Coleman
+1763218e-0070-43dd-9594-6eec7dfff032,7/8/2025,UK,a83e6f7a-f7bf-4d5f-865e-41ecdca86818,Office,Clothing,481.39,10,332.01,94.95,Mobile Payment,Young,Male,Manchester,Gary Kelly
+747f7ef1-c1df-4e94-9725-356bd061a85f,7/7/2025,UK,5eedc9bc-3ebf-4e2a-a050-3fc313d5a44d,First,Home & Kitchen,491,3,363.27,66.03,Cash,Senior,Male,Birmingham,Lance Blanchard
+23802ba3-2333-4d56-8ae5-41d24998e18b,12/20/2025,UK,732e0468-d1e2-4c5d-ab4b-22899fbb0868,From,Sports,377.86,3,269.72,32.75,Credit Card,Young,Female,London,Kimberly Williams
+7673ca34-eda9-450b-bb50-60a9f9665325,9/7/2025,UK,ea6ae224-249d-4fdf-9041-5f4066404790,Any,Toys,426.34,1,273.18,45.41,Cash,Senior,Female,Birmingham,Roy Harrison
+68225db9-8aee-476d-8f99-5eecd422e3f6,9/7/2025,UK,dfbc1ceb-b66a-4672-8769-182f6b91b16c,Thank,Sports,177.49,3,116.95,23.11,Mobile Payment,Adult,Male,London,Randall Martin
+35ac057e-231a-4320-a6bd-2dc6e269f2be,4/24/2025,UK,ebfe3684-d768-4ae4-ac3d-b8120ebd4639,Language,Beauty,131.8,5,80.79,14.83,Credit Card,Adult,Other,Manchester,Michelle Wagner
+cf262964-9663-4f5f-9f34-b5c65a14cd48,4/24/2025,UK,694808e8-6a43-4083-a457-48048572957a,Mouth,Toys,207.68,3,160.19,7.3,Mobile Payment,Young,Other,Birmingham,Mr. Kevin Sherman PhD
+9e13b624-e4e6-4a73-8e38-e73a072ed07b,12/31/2025,UK,326d770d-c216-4ed8-bbd4-804b945966bb,Deep,Beauty,147.24,7,104.91,20.74,Mobile Payment,Adult,Male,Manchester,Jeremy Riley
+6404c572-246c-46a7-8dcf-e932251d4e51,8/28/2025,UK,6a80226c-3c63-45d2-a692-895d56d5e574,Between,Toys,99.65,7,89.43,15.45,Cash,Adult,Female,London,Lisa Hanna
+53a756de-0eb9-48d0-9f85-8d6d1f3b300f,4/16/2025,UK,bdae4b73-88af-4125-be72-95b765c83f9f,Drop,Toys,476.31,2,342.99,23.44,Cash,Young,Female,Manchester,Aaron Shaw
+bd606838-bd53-43d6-be08-016ea0c519b6,4/2/2025,UK,e3e45afc-13dd-4c2e-932f-c569477ef022,Agent,Toys,87.49,10,75.55,16.65,Cash,Adult,Male,London,Diane Rasmussen
+308bb5e4-9654-4f66-82fd-8531dd1559da,10/19/2025,UK,c026965d-dc66-45d7-9fc5-7d9223f1ca88,Move,Beauty,349.46,4,290.48,13.73,Credit Card,Young,Female,London,Matthew Lowe
+bfec3878-5ec8-4569-97e6-7332f8248a09,4/24/2025,UK,42cd1542-7939-4c6c-87ac-427c7872df39,Low,Beauty,47.3,2,33.64,9.32,Cash,Adult,Other,London,Stephanie Garcia
+749c9143-04f1-48b1-9c2a-ccce9c07e4f5,12/2/2025,UK,8bc39cab-eeac-405d-8d95-ec2948ed0307,Ball,Toys,96.86,4,63.83,13.34,Credit Card,Adult,Male,Birmingham,Kendra Miller
+955b7eea-ffa9-4493-96d7-b61e553a7042,8/18/2025,UK,982ee918-8b40-4826-abd3-ac844947a2b4,Property,Clothing,427.41,2,380.67,26.43,Cash,Senior,Other,Birmingham,Thomas Bennett
+5ba4ca1d-9cf3-4ff8-8a68-bb25399d225c,5/5/2025,UK,9bd73bbe-29a7-4ca3-90b1-9cfbe7b6c922,Interview,Beauty,494.65,6,398.98,26.24,Credit Card,Adult,Male,Birmingham,Samantha Sexton
+a50bafee-c73f-41a2-9952-243d75aeeacd,3/1/2025,UK,f4ae70be-a623-4ee4-8387-bde829dc1314,Radio,Toys,126.63,1,87.9,4.56,Cash,Senior,Female,London,Eric Nelson
+25903af7-b049-4b08-846e-e21204e6de72,3/23/2025,UK,1fe33486-4f62-4aec-b64c-9c7a48b5190a,Approach,Electronics,407.36,10,321.65,61.77,Credit Card,Adult,Other,Birmingham,Erin Mitchell
+58866ec5-b583-4456-a975-793b876cb3dd,5/25/2025,UK,d455d9ad-a765-423d-87f9-648b0d9a0c6f,Yes,Electronics,284.56,3,225.29,49.26,Credit Card,Adult,Female,London,Alexandra Swanson
+88b94ab8-5e13-46e9-81e2-42d3c05e4111,10/30/2025,UK,338fe81d-3f3d-48c6-af0f-8959ca51703f,Talk,Electronics,340.82,5,208.16,32.9,Mobile Payment,Adult,Other,Manchester,Nathan Taylor
+dd84701c-11b2-45e0-9772-435348a6a18a,3/23/2025,UK,139d299f-e122-43d2-be10-30aa10420ed4,Possible,Sports,12.47,9,7.67,0.31,Credit Card,Senior,Female,Manchester,Joseph Silva
+fad1ec00-1f91-4d7d-ae03-0639b9895f0a,10/30/2025,UK,91157fd0-84d9-4ae9-83e1-3f6945ebc206,Simple,Home & Kitchen,54.13,3,32.7,2.23,Mobile Payment,Senior,Male,Birmingham,Erika Foster
+7d00bb2f-97dc-46b7-a2b6-aaef2d870b68,4/16/2025,UK,b5bb383b-a5bb-46dd-9028-de3af58ce723,Own,Beauty,256.79,2,155.94,6,Mobile Payment,Adult,Male,Manchester,David Reid
+8fa3c7d0-4af7-4951-86d5-752ee77dd271,3/1/2025,UK,dfa319fe-9893-4f6c-afab-4eb815777ddc,Onto,Electronics,396.34,2,332.18,6.44,Cash,Senior,Other,Birmingham,Amanda Anderson
+a0a8573a-d636-4d47-a68a-bb277546e715,12/20/2025,UK,fe36a5db-d7ca-4751-afeb-319313573c3c,Lose,Clothing,108.82,3,87.5,7.37,Cash,Young,Male,Birmingham,Latoya Carlson
+cbfa8ad2-f1c3-4913-97e1-b9be716b8cbf,7/8/2025,UK,8f9eee4f-0043-4c5e-8b90-4e00f92828ab,How,Toys,27.26,8,24.52,4.07,Cash,Senior,Male,Manchester,Sierra Petty
+0aa92e46-a0a5-44bc-a0d8-68a5430c0947,6/17/2025,UK,a7d58913-ac4f-4659-935a-7f237c7500de,Beautiful,Toys,82.54,10,57.12,2.3,Credit Card,Adult,Female,Birmingham,John Campbell
+fbeee30e-fadd-41c2-82d4-729bab2ff57f,3/23/2025,UK,c2364c94-32db-4cf2-a718-ebf19717d500,Be,Clothing,328.26,6,200.1,43.59,Mobile Payment,Adult,Male,Manchester,Kevin Cooper
+a6aa139a-7ec1-4432-9efd-512bac4ba5a4,8/18/2025,UK,9ad3a777-7b2a-4a77-a043-48c15ef2abfd,History,Clothing,48.6,3,41.4,5.4,Cash,Adult,Female,Manchester,Debbie Wilson
+3fc79b94-7f29-421c-801f-2e35437d7d9a,6/17/2025,UK,816976ed-19bd-4fa4-a4d7-3e1578cc64a1,Assume,Electronics,187.22,7,164.43,28.05,Credit Card,Senior,Other,London,Andrew James
+da1d5dde-6780-4f50-a983-494079976954,12/22/2025,UK,ade2eea4-8548-4bba-8246-7e7a30d244e6,Same,Sports,385.74,7,282.98,32.57,Cash,Senior,Female,Manchester,Steven Delacruz
+d55b9dcb-e785-4f50-8638-a4158f05896d,12/2/2025,UK,27eb1f57-f4b7-4633-82de-6b6065f3ba04,Involve,Electronics,497.36,8,320.89,5.8,Credit Card,Young,Male,London,John Rogers
+bef31732-4198-46ce-ad6f-6078ee8d3856,12/2/2025,UK,f8b4db58-515b-40ba-979a-b5386fde5dab,Number,Electronics,421.45,10,349.73,68.21,Credit Card,Adult,Female,London,Garrett Walker
+7d2952f8-5cd5-4fa4-a194-8a34acb255d4,12/1/2025,UK,89113177-86c0-461c-8dff-2948c88988b7,Everything,Toys,440.32,5,282.93,31.93,Cash,Young,Female,Birmingham,Anna Ramos
+99a7b41a-07f1-4761-b313-8b3b4dfa5d58,6/6/2025,UK,10ddf815-237c-4aaf-a3dd-1e3e64b86c11,Letter,Beauty,397.17,1,341.99,14.19,Credit Card,Senior,Male,Manchester,Chloe Hurst
+135dbea7-2b6b-4bb6-bdd2-b6e65a5e5d7b,3/3/2025,UK,53b11c7f-b886-422b-8973-e84e43ab4349,Interesting,Sports,382.87,1,326.05,45.5,Credit Card,Young,Male,Manchester,Virginia Moss
+6160fb93-f6bb-47d6-a166-a24f5fde0eb8,12/22/2025,UK,6c40adca-ce68-449f-b1ba-e038c0b6882c,Law,Electronics,254.22,5,210.31,45.15,Mobile Payment,Young,Other,London,Ashley Cobb
+4de3a28c-acba-4ae9-a985-4845f669515f,6/6/2025,UK,dce80787-0caf-461f-9933-9990b97c4f93,My,Clothing,472.06,4,350.39,73.95,Cash,Young,Other,London,Robert Warren
+a1683182-e72f-4be3-82e9-da04976cf665,9/18/2025,UK,d306a31f-bde2-494c-8796-b89afac4bffa,Understand,Home & Kitchen,142.25,7,86.15,23.56,Cash,Senior,Male,Manchester,Matthew Wagner
+7a23f740-8c36-4d70-9644-abb7567e0bd7,3/3/2025,UK,b570be98-e989-44c7-ba9b-1d4a20ad5f29,However,Home & Kitchen,33.89,5,30.1,4.94,Credit Card,Senior,Other,Birmingham,Ryan Munoz
+dc1e16b3-c155-4060-ae38-6c49595995f9,7/16/2025,UK,70de217f-f64e-4b5c-8b0e-f529e4cf4aba,Answer,Clothing,198.44,6,131.46,33.15,Credit Card,Adult,Other,Birmingham,Jesus Taylor
+eb9822cb-e81c-46f8-a68c-c6ec23bd820b,9/7/2025,UK,f61ce803-fb2a-4f57-b641-2a83b4e7b18d,Concern,Clothing,30.73,4,26.11,2.52,Credit Card,Young,Male,Manchester,Samantha West
+12ba832e-1d38-4114-b9ef-cb9aad498d0b,11/20/2025,UK,75fc0894-2979-43fd-93c3-7b0158daaaf0,Should,Beauty,20.97,1,16.47,2.59,Mobile Payment,Adult,Male,Manchester,Zachary Hobbs
+12e4897f-ef12-4f65-af77-6da28a37339a,11/10/2025,UK,bf04c8e0-e8e2-4ff1-942f-3da55f4e142a,Task,Sports,38.65,8,24.17,1.85,Cash,Young,Female,Birmingham,Toni Carroll
+d4b43cbd-2848-4862-bd0d-a73b9a744752,8/28/2025,UK,5922317d-0a25-42bf-bcef-6471202f9002,Again,Sports,89.48,1,73.34,15.86,Credit Card,Senior,Other,London,Dawn Garner
+f7f856a0-faaa-4835-b724-097f13af42ea,8/28/2025,UK,d6cd3107-828c-4e26-9db3-95ccb95d6d5c,Particularly,Sports,34.99,3,21.13,3.8,Credit Card,Adult,Male,Manchester,Karen Allen
+127505d1-5ad4-413a-ae09-e3366be04711,12/11/2025,UK,19493289-18d2-46d5-a5d4-d32f00d2ece1,Three,Electronics,343.19,6,276.5,29.14,Cash,Young,Male,London,Kayla Barr
+3998ae55-2a71-4854-872d-eb5079de90a7,5/25/2025,UK,06cdf406-7127-4e30-956d-cc01983c74f1,Mean,Clothing,186.16,2,142.91,25.5,Mobile Payment,Senior,Other,London,William Bailey
+a3d765a2-b363-46d0-9386-be76b0ea424b,7/26/2025,UK,489ffab6-254f-47aa-8f62-78f6eb9601a1,Statement,Home & Kitchen,174.77,3,149.59,18.94,Mobile Payment,Young,Other,London,Brian Johnston
+a3642bbb-8852-478f-afd8-85ef59334c3d,6/17/2025,UK,5831a523-064d-42cc-8230-8177ac962f55,Poor,Beauty,336.74,8,225.88,4.5,Cash,Young,Male,Birmingham,Kayla Miller
+07c8898c-c969-4524-9adc-b10eaa5a8240,12/21/2025,UK,539661d9-6a48-4dbc-89a2-a636b4409896,Father,Beauty,420.14,5,269.4,40.73,Credit Card,Adult,Male,London,Mr. Christopher Nguyen Jr.
+72303b70-011f-4070-9f61-f45cf11226cd,5/3/2025,UK,b61fff26-7722-4ff3-adbb-33b0c3e46fdf,Vote,Toys,467.42,1,357.91,43.19,Credit Card,Senior,Female,Birmingham,Steven Salinas
+86476cbd-bee2-408c-b54c-804bb12ae399,5/14/2025,UK,93f77105-29a8-4dca-b95e-107b47c9275a,Time,Sports,498.93,1,368.67,97.85,Mobile Payment,Adult,Female,Manchester,Joseph Riley
+08edb605-6636-43a9-9eec-a2940c0deeb7,3/12/2025,UK,44f27b1d-1f51-4b25-9536-73964c829bea,Use,Toys,88.33,9,63.28,9.08,Cash,Adult,Male,Manchester,Anthony Galvan
+53d8b493-c373-48b3-8da5-f5f568e91829,12/2/2025,UK,34a1ac34-1642-4356-86ca-1f88fd96d41a,Foreign,Electronics,64.99,3,50.68,4.17,Cash,Young,Female,Manchester,Tracy Jimenez
+d7b674d4-897f-4ac9-bca8-7efaca92004f,4/16/2025,UK,f093f0eb-51bc-429d-9f61-73806144756a,Need,Beauty,31.38,10,27.6,0.43,Credit Card,Adult,Female,Manchester,Regina Price
+7d3b7679-7c42-4b50-9ef0-c98626d599cc,9/18/2025,UK,82b3ace6-df67-4ce8-878a-f6131b292a6e,Feel,Toys,345.23,9,229.06,67.73,Mobile Payment,Young,Female,Birmingham,Karen Cochran
+8e4f5987-0001-460a-8437-7afe7c779c04,8/18/2025,UK,625ff07b-50ca-424c-8f56-d125658b3bdc,Onto,Clothing,13.27,10,8.02,0.41,Credit Card,Senior,Male,Manchester,Jeffrey Dennis
+3cabda10-5978-4635-ace8-ccded38aabf2,12/20/2025,UK,86ed948d-0b78-46f1-8524-1bd9b6a3463e,Building,Electronics,178.73,3,153.85,1.58,Mobile Payment,Senior,Other,Manchester,Jason Preston
+cae1d39a-be09-4e3b-88ac-33cacb9662da,4/16/2025,UK,583be04e-28a9-4a3c-b2b2-6f10f829dd4c,Security,Home & Kitchen,237.65,2,162.53,17.1,Cash,Young,Male,London,Carl Olson
+acb8e2d1-a9e7-4d2d-89f2-0d6350467279,6/6/2025,UK,f4d08536-797c-4d04-88a7-fd4f6bc68823,Result,Electronics,465.24,7,287.78,52.4,Credit Card,Young,Male,London,Andrew Wiley DDS
+3ae34a30-6352-4d4f-ab09-8f75493fac14,12/2/2025,UK,e34fc06e-8e89-420c-b3c9-b1fa80fece0e,Receive,Sports,84.69,2,60.65,1.07,Credit Card,Adult,Other,London,Andrea Foster
+bde96dff-1632-4176-bc0e-6aeb940c0231,10/9/2025,UK,bb7e7a7a-58d0-40b6-815e-b11b35e03a70,Respond,Toys,406.69,3,351.11,9.65,Cash,Adult,Female,Manchester,Christopher Nguyen
+17a8fa60-cabb-4570-b82a-942e0d8cdd8e,6/6/2025,UK,1a48defe-9c64-4954-9ecb-f75279a7cc66,Try,Electronics,399,2,350.36,47.71,Mobile Payment,Adult,Male,Manchester,Carl Garcia
+9cc1cdad-528c-4601-916f-2fa45f3c8d15,4/16/2025,UK,99973a5a-aed3-4721-adba-06ea9e46000c,Participant,Electronics,286.29,10,249.64,6.46,Mobile Payment,Senior,Other,London,Meredith Watson
+044445fa-5c4f-4aba-ad8b-eb426a0fcbcc,3/12/2025,UK,ce7a7e9e-4866-4009-8f20-b6daa0be5d2c,Point,Home & Kitchen,400.96,3,307.96,51.28,Mobile Payment,Adult,Male,Birmingham,Jennifer Mcknight
+aadd6de4-c865-46de-9abf-377286baa9a9,3/15/2025,UK,93953df0-48b8-4560-b643-a9b483a76982,Put,Sports,499.5,3,434.04,68.03,Mobile Payment,Senior,Female,London,Maurice Edwards
+b7b1c538-bd2a-47fa-ae13-a558671e1a04,7/7/2025,UK,8ec6c9e3-9755-4957-874e-e4d2d4862d26,Believe,Sports,302.62,1,259.53,39.91,Cash,Adult,Female,London,Elizabeth Cantu
+c7cd0b8e-2c38-4644-b925-0b148f0ebcff,4/16/2025,UK,8bbe0165-22a2-4577-9da7-fb119e3e1837,Audience,Electronics,100.54,6,73.41,1.63,Credit Card,Senior,Male,Birmingham,Jacqueline Holland
+f876bda2-e2f8-4c53-add4-3921f4a1aca9,12/14/2025,UK,6436d1a0-a0a8-4abb-8167-f6ec94e7cfdf,Day,Toys,493.99,9,301.28,32.7,Cash,Young,Female,Manchester,Christopher Munoz
+d244bba7-2300-482c-820c-76256c6a28df,11/10/2025,UK,8aa3b33c-e20e-48ab-a793-fe5415189be9,Run,Clothing,236.43,6,207.4,4.39,Credit Card,Young,Other,Birmingham,Martin Huber
+8579e721-f4ab-4f20-abda-ad268152d679,3/23/2025,UK,0dd9cfaa-cb39-4fe9-8937-ee9ebfaad14a,Cost,Clothing,470.42,8,354.52,26.35,Cash,Young,Male,London,Luis Kent
+e3d4fb2b-1e53-4659-b49c-dbc074bf8028,4/4/2025,UK,e3492241-cdae-4d1a-a5cc-a1c374c3936b,Institution,Sports,492.72,5,392.69,37.8,Credit Card,Senior,Male,Birmingham,Jasmine Spencer
+3faf9afb-887f-405f-af75-25cab69b3bda,7/5/2025,UK,c29e8f93-d737-4dda-b60e-5ad83e388b1d,Fish,Electronics,316.9,1,235.57,62.11,Mobile Payment,Senior,Female,Birmingham,Elizabeth Palmer
+0c3ad8a4-6723-45ad-be6c-878ad8502e64,5/14/2025,UK,5742efb2-674e-4913-844e-7877a8a8ef02,Radio,Toys,181.23,3,157.34,27.77,Mobile Payment,Adult,Female,Birmingham,Alexandra Jones
+b6484907-a8b9-4c63-9db7-dddb1e614efe,2/2/2025,UK,03f1d609-e4ea-4571-b561-1c3bb18308e3,Other,Home & Kitchen,362.25,8,278.1,65.05,Credit Card,Young,Male,London,Nancy Herrera
+548422e5-5a1f-47e6-93e6-9f135ec8b560,10/19/2025,UK,61c9f1d6-e87b-4d36-a1b3-a165db9b0f3a,However,Toys,425.72,2,302.6,71.18,Cash,Young,Male,Birmingham,Jasmine Martin
+47845b33-af1f-405e-85fa-6a55037186a7,3/3/2025,UK,64da3133-2db3-438c-a9d4-8bcf455b52ba,Ok,Toys,84.05,3,56.42,3.62,Credit Card,Senior,Female,Manchester,Omar Orr
+84a4e470-e809-42e4-a9b4-da74478c70ec,4/16/2025,UK,98d9df14-fb79-4929-8838-908a98cea7b2,Clearly,Beauty,428.31,3,350.1,78.56,Mobile Payment,Young,Female,Birmingham,Angela Carter
+d17030b8-b103-48ef-a776-f0c45c324ae7,10/19/2025,UK,cc715c3f-7de5-4833-b1e4-290306553b97,Space,Home & Kitchen,36.52,5,31.08,5.29,Mobile Payment,Adult,Male,Birmingham,Mr. Joel Patterson II
+123921f4-1d1b-47e0-9202-4f6fd1293eb3,5/14/2025,UK,958f134a-e9fd-40a5-88a6-f5112a82d9fe,Something,Beauty,198.79,1,142.49,27.95,Mobile Payment,Senior,Male,Birmingham,Kelly Becker
+feedce2a-416b-448d-a05c-946298dc6571,6/15/2025,UK,e880d339-5b01-4fc4-8968-d7958a702063,What,Home & Kitchen,439.15,9,303.81,73.93,Mobile Payment,Young,Male,Manchester,Mrs. Patricia Davis
+c28a56d0-d5c8-4b78-8374-991d30443796,7/8/2025,UK,e3b42592-fbf9-4ffe-981a-3417b2c53be8,Act,Sports,201.46,4,180.02,9.11,Mobile Payment,Adult,Other,Birmingham,Cody Bennett
+f4fecef9-a71d-461a-a1f4-7bd9870449a1,11/12/2025,UK,8371a27e-73d7-4d14-a7a6-73f2604fdd58,Player,Home & Kitchen,350.21,3,268.96,19.09,Mobile Payment,Senior,Female,London,Jacqueline Perez
+775175e3-ff9d-482e-a1f6-4613a19d33d5,5/14/2025,UK,bee9bea9-740f-4056-ade4-82c1c6b4c8fc,Its,Sports,131.64,1,116.62,15.16,Credit Card,Adult,Female,London,Peter Hamilton
+5331eec0-5012-4016-8a03-68b582049a03,3/23/2025,UK,36475e9d-7e2c-4e6e-b72d-624c0b5f3deb,Year,Home & Kitchen,228.85,4,187.95,18.6,Cash,Young,Female,London,Lisa Walker
+b8a8ad80-adf3-4a51-93b0-0894b1447785,7/7/2025,UK,3f6e07dc-0af5-4fd4-a290-5f383f4d47b2,Various,Toys,436.38,4,369.71,34.49,Credit Card,Senior,Female,Manchester,Joseph Rodriguez
+ab542711-7ac0-4a44-a817-61cf0e15b0d7,9/7/2025,UK,d9b36036-9d9e-49d8-9212-3b7871396f02,Six,Clothing,206.99,7,129.73,7.84,Cash,Young,Female,Manchester,Walter King
+7ad03beb-5c42-40c6-9a0b-3b78a252d2b0,4/13/2025,UK,53ff7543-db67-4eda-a854-529c465d91c2,Explain,Beauty,439.53,6,324,30.46,Credit Card,Young,Female,London,Courtney Martinez
+953bf239-bb32-4672-ac26-338804efcf11,3/3/2025,UK,4f2c78e6-050a-4b9c-acf9-2f9992d875eb,Respond,Beauty,123.82,4,88.42,13.78,Credit Card,Senior,Male,Manchester,Joseph Baker
+e5783d6a-7f61-4016-9299-b1e96f82f3db,6/4/2025,UK,7eb9b632-4666-41eb-87a8-07a47466268e,Trouble,Clothing,409.31,3,281.52,81.84,Credit Card,Young,Male,Birmingham,Amy Hill
+37a23693-6698-41c0-bba5-69525e10b3d3,7/7/2025,UK,6ff7211d-3c75-4742-b8fd-0a503a69cc0e,Better,Sports,296.3,6,245.7,39.79,Credit Card,Adult,Female,London,Jonathan Berry
+4930bd86-c40d-470e-b19c-36082530bead,4/16/2025,UK,9f29e67d-74da-4d88-a144-d02f6c5cefd7,Media,Clothing,224.22,5,175.41,9.86,Mobile Payment,Adult,Male,Manchester,Justin Jones
+08e6b8aa-ec05-4c94-b477-ca761eedaedb,3/23/2025,UK,3461d992-546d-4fbb-bb23-6127e52e5148,It,Clothing,14.64,5,11.35,2.76,Mobile Payment,Adult,Female,London,Mark Torres
+b02908aa-75d1-434c-b869-d3b4d29ae5c7,5/14/2025,UK,e5d188db-495c-42c2-97c7-3a1a36919a68,Expect,Sports,60.13,7,51.01,10.89,Mobile Payment,Young,Female,Birmingham,Richard Watkins
+6c6945f2-42f9-4832-b85f-3b95b49f232b,7/8/2025,UK,caef3655-52c0-4472-a3d8-5c572949b313,Could,Clothing,122.57,8,91.07,3.99,Credit Card,Young,Female,London,Susan Herman
+887c6168-a1df-4c9f-b19c-7d445ad13266,4/4/2025,UK,55dea25a-75f1-497d-9053-cefc7da02746,Newspaper,Toys,233.48,10,172.9,38.01,Credit Card,Senior,Other,London,Julie Montgomery
+bb4ed198-400f-4a25-9cc2-c8d686f37bf1,7/8/2025,UK,3d954116-0d7a-48b5-a035-f89b7a9e72fa,Matter,Sports,48.85,3,38.77,5.04,Cash,Young,Male,Manchester,Emily Thomas
+300160e2-e135-43b1-a066-5a0ca212299f,9/10/2025,UK,9eae83d3-1f0e-4e86-93eb-0b4fc6637137,Nation,Beauty,122.16,5,92.19,24.27,Mobile Payment,Senior,Female,London,Tamara Massey
+0c7ec7b1-0f47-47e2-8b6f-925a87c7d5f2,3/1/2025,UK,d58e0e32-0dc4-4009-9559-77018a424580,Year,Home & Kitchen,140.59,7,93.14,18.89,Cash,Adult,Male,London,Derek Ferguson
+180765da-8707-4964-bcb3-cafb6d63b974,10/11/2025,UK,c324624f-4250-455d-84a2-32872b237ee3,Baby,Electronics,381.36,3,299.57,15.45,Cash,Young,Female,Birmingham,April Howard
+46a2c435-3c86-401e-89c6-18e1e14ebb11,3/3/2025,UK,fa9ae7a5-3746-4172-93ba-fc3638c3f785,Government,Toys,484.66,4,420.34,10.42,Cash,Senior,Other,Manchester,Susan Turner
+740b72b7-0c67-4412-8154-7d9b2498668f,12/22/2025,UK,41f5b278-4cc0-4cbe-b925-ea53ae6f4fcd,Country,Home & Kitchen,24.47,6,15.04,2.42,Cash,Senior,Other,Birmingham,Paul Thompson
+7a67fd68-e1ec-43c0-ac77-a4599950319a,10/19/2025,UK,9bb92286-661b-42d4-804d-e09dd1d6c206,Dark,Toys,23.88,3,17.98,4.73,Credit Card,Senior,Other,Manchester,James Howard
+489a5f1c-4acb-4b28-9047-f5495de4095b,12/13/2025,UK,c50f8e3f-02db-4929-822e-092f79113b6d,Before,Sports,459.22,7,387.37,87.95,Credit Card,Young,Other,Manchester,Amy Dawson
+820d5bf3-7a73-4a64-881c-c98f880d2f96,1/28/2025,UK,e01e80ec-ef0d-4055-9d8e-eae0579c602a,Occur,Home & Kitchen,332.23,4,258.43,24.09,Credit Card,Senior,Female,London,Kelsey Fernandez DVM
+de2cfaf9-973e-4ed0-aa6a-4258667bef63,10/11/2025,UK,0006aa7f-a477-4c78-85d4-5a8850dcbb5c,Decade,Clothing,233.26,4,200.28,25.87,Mobile Payment,Young,Male,London,John Nixon
+88f4ae1b-ca53-491f-bed9-b66c2c895f32,12/22/2025,UK,267e18aa-4558-421e-b8d1-d25a06e119a6,I,Toys,79.84,8,52.27,4.52,Cash,Young,Other,Birmingham,Adrian Ramos
+732ead17-2b7b-4582-a96f-7fe04629aa3d,10/30/2025,UK,7a765c9a-13ee-4ec4-a6fb-a37f8838d956,Continue,Sports,469.92,9,349.52,42.79,Cash,Young,Male,Manchester,Richard Carter
+436e676e-c9a2-4afd-b8f2-2ced1dfbd805,2/16/2025,UK,2175fb79-d106-48b4-b717-3f13c4fdfcd9,Sing,Home & Kitchen,69.16,10,49.28,5.93,Credit Card,Young,Female,London,Shannon Johnston
+4999ce0d-8c6c-40ab-b36f-c962d623e466,12/11/2025,UK,335f7d4c-d2ca-4aa0-8c68-cc69fd52a003,Soldier,Home & Kitchen,367.92,5,308.49,66.42,Credit Card,Young,Female,Birmingham,Donna Hicks
+eedea1d5-7168-4857-b913-2921479841f5,7/5/2025,UK,ae65f66f-2999-45e6-9213-a855146a94cb,Me,Home & Kitchen,387.29,2,264.39,32.67,Cash,Adult,Other,Manchester,Laura Barnett
+f3dcf7f0-e389-4228-b25d-2c1b5c131a12,1/27/2025,UK,5572cc99-fede-46f6-8edc-eca86724c40c,Firm,Sports,54.2,6,39.73,6.59,Credit Card,Senior,Other,Manchester,Joan Brown
+cd938bf4-c851-4bc2-b463-808973e94821,12/20/2025,UK,04cb9d14-3888-4ff8-b603-b9a37f2779bf,Career,Beauty,256.65,2,203.1,36.76,Cash,Senior,Female,Manchester,Christopher Wheeler
+25f9ee97-bc13-4700-91f7-c6a493703f8e,11/20/2025,UK,e5b268ff-75d4-48d1-baff-ab348ae633eb,Each,Toys,297.3,10,232.93,14.7,Mobile Payment,Young,Other,Birmingham,David Young
+a3def423-8efb-460a-8e39-688f018695ff,5/25/2025,UK,93e66636-c5ba-47e9-b856-6cedcf8fd27f,Source,Electronics,156.16,6,97.56,3.22,Cash,Young,Other,London,Gina Burns
+7a98a855-0674-46c3-bb25-ab5f5f309dba,3/23/2025,UK,773d9f26-5a1b-4e4e-b242-93145b54c272,Third,Home & Kitchen,435.04,5,344.06,79.05,Cash,Young,Female,Birmingham,John Thomas
+a0eeab48-2f76-43f7-96fd-4388a611e835,4/13/2025,UK,3bee0930-ce85-498a-953a-ed1e20f3a803,Once,Beauty,412.84,8,361.86,30.82,Cash,Young,Male,London,Daniel Mitchell
+b663fd79-ac8a-42d8-84e1-61177d8047f9,6/6/2025,UK,e5089344-06ab-4dce-b735-01572a4fbd19,Radio,Electronics,375.65,6,334.07,15.56,Mobile Payment,Adult,Other,Birmingham,Trevor Dominguez
+ec21c353-b1cb-435f-80f3-f9396cf420ee,6/4/2025,UK,06b252cc-edc8-425e-8ce4-f7087e136c30,Firm,Toys,118.42,3,99.5,10.14,Cash,Adult,Male,London,Rita Smith
+d76a1e3b-5fae-403d-acf2-d0272035b857,12/1/2025,UK,f9e481b4-fe2d-4129-8d9c-77665117db0c,Education,Toys,18.44,7,12.71,1.76,Cash,Senior,Female,London,Patrick Garza
+12e40756-e65a-4f82-a6c1-f9c58519d6be,8/18/2025,UK,761174a0-63b3-4593-a886-91902f5bc452,Mean,Clothing,33.89,5,28.11,6.33,Mobile Payment,Senior,Female,Birmingham,Maria Young
+5ed6f501-b0f5-40e2-bcb9-c59436a87ecb,7/5/2025,UK,51d313ad-b67d-4322-a0da-1ec2f539417a,Word,Beauty,186.26,9,163.39,8.92,Cash,Adult,Female,Manchester,Kristin Mcclure
+f357b37e-affa-48fd-b392-5c5733bdb472,1/24/2025,UK,ac234d9c-6c8b-400c-a509-65ae8cd93715,Player,Beauty,66.25,8,44.24,2.43,Mobile Payment,Senior,Male,Birmingham,Jessica Freeman
+7295f31b-1983-4f1c-a6c0-fc7a0f0782f3,9/29/2025,UK,87d307f8-848c-4950-98e7-19eee6ab296d,Door,Sports,352.38,9,312.85,44.17,Mobile Payment,Adult,Other,Birmingham,Robert Ortiz
+6c79c4d7-ac03-45c3-a997-18e33482098b,1/13/2025,UK,d50a2f08-e717-4a47-825d-85e9edb8d2ed,Loss,Electronics,375.93,8,255.96,4.98,Credit Card,Adult,Female,Manchester,Valerie Miller
+3e620df6-c6d8-4956-8876-b6782ee68ebf,7/16/2025,UK,fc4b8be1-f8aa-4524-bce9-caedc24921a1,Imagine,Toys,283.17,1,185.4,5.71,Mobile Payment,Adult,Other,London,James White
+196985eb-3ee4-4753-b83c-77bc2169f1c6,5/25/2025,UK,565182db-b0a6-4e61-96ff-5297e80172c0,Line,Electronics,124.96,9,103.28,17.36,Mobile Payment,Senior,Other,London,Jonathan Wilson
+b1c09806-8c50-46b3-a886-159aafcd9cce,5/14/2025,UK,ee8a3f83-24a7-4431-9215-d9f3d239860d,Data,Electronics,382.85,8,305.35,33.93,Mobile Payment,Adult,Other,Manchester,John Malone
+52e41c34-6aa0-4d01-899b-84fb7f4fdf03,1/17/2025,UK,bfa50ea9-b6c8-4708-bd8e-22a3ebe52395,Best,Home & Kitchen,293.25,8,203.99,42.53,Mobile Payment,Young,Other,Manchester,Robert Bridges
+04897a2a-ac1f-420f-a0be-16859cc086a7,3/3/2025,UK,9577154e-160e-4cee-860c-3c1076fb9c87,Same,Electronics,207.17,7,124.93,36.97,Cash,Young,Male,Birmingham,Ryan Huerta
+a6f479c0-d759-4e3c-9434-f9683f47dbf4,1/5/2025,UK,08b85f3b-f634-4ba9-9138-b7e0aaa2b22c,Behind,Toys,60.95,10,38.85,9.07,Credit Card,Adult,Male,Manchester,Christopher Brown
+07f7c97c-dd2b-40ff-b6dd-11cfaaf1f87a,9/7/2025,UK,04e035d7-1491-453f-ad3f-67b7f4563f3a,Matter,Toys,191.02,3,171.28,35.99,Credit Card,Adult,Female,London,Kaitlyn Price
+db9f84d3-32a8-4be7-a060-4e78b42dd416,7/16/2025,UK,2fa33b95-0783-4c4e-adb3-5c814d396175,Leader,Home & Kitchen,291.56,2,176.72,3.96,Mobile Payment,Adult,Other,Manchester,Eric Flores
+0233f481-d957-4bf8-864f-dce5a464c911,8/6/2025,UK,eff29687-293f-4cba-9b41-cdc1ffe415a7,Weight,Home & Kitchen,129.27,9,101.86,8.59,Mobile Payment,Senior,Male,London,Dwayne Clark
+3cc22a04-ed98-479e-b6e8-5baae10b949c,9/29/2025,UK,998e20a3-6603-4e88-a2ee-0cd8a6005fa8,South,Toys,320.21,7,273.4,47.4,Mobile Payment,Adult,Male,London,Karen Roth
+c446876a-f34a-40cb-b4d7-98166f36443e,4/2/2025,UK,69db3af6-3c7d-4143-b12b-e624dbfdae7f,Population,Home & Kitchen,23.78,5,16.36,1.61,Credit Card,Young,Male,Birmingham,Brandi Allen
+0964d697-9e94-42b7-8f34-1ef9f28a3718,1/26/2025,UK,e2370bae-7a0a-4f49-bad7-5befeb364d2f,Lead,Toys,287.43,3,226.85,8.01,Credit Card,Adult,Male,Manchester,John Hogan
