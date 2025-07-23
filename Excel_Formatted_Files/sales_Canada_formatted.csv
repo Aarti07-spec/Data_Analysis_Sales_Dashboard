@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+596875d9-4ad0-4188-86fc-930a0283d228,2025-07-16,Canada,295dceba-6976-4206-8460-38da4be04f88,Camera,Clothing,459.35,4,339.05,80.72,Mobile Payment,Senior,Other,Montreal,Leonard Cuevas
+9e9fc769-09f7-47a7-bac6-df435a615ddb,2025-09-08,Canada,84d0acf6-10c4-41ef-b95e-6121d3ad2abe,Return,Electronics,122.03,6,105.56,13.79,Mobile Payment,Young,Male,Toronto,Jessica Fox
+7c2aaf34-c888-47bb-9eb5-6f91abcb4795,2025-07-08,Canada,40c24b25-986f-497e-8428-c60638079ba3,Church,Toys,116.68,3,83.96,7.41,Mobile Payment,Young,Female,Vancouver,Michelle Garcia
+05f7fa3b-8b6e-4b74-87ab-c093cd94cd6c,2025-12-14,Canada,ddbeb11d-e70a-4f70-9acc-970102eef3df,Sometimes,Toys,335.86,9,207.14,26.1,Credit Card,Senior,Other,Montreal,Bianca Taylor
+c02a0391-e849-4e02-85b7-c28dc90f3743,2025-11-20,Canada,98e07924-7742-440a-bfa7-63167bd574de,Under,Toys,333.86,10,274.66,16.8,Mobile Payment,Adult,Female,Montreal,Brett Miller
+bd741311-592f-4359-98fd-3c9c83226c1a,2025-07-16,Canada,3011e6de-df43-429d-863c-6b4a106c16c7,It,Beauty,442.57,4,308.18,30.87,Cash,Adult,Male,Toronto,Lisa Fischer
+b43a559a-9660-4d03-bd73-7497c96ce5ff,2025-12-01,Canada,89bef734-1ded-45aa-bddf-2fdd5dc5232c,Expect,Clothing,481.75,3,377.28,70.09,Mobile Payment,Young,Male,Montreal,Richard Preston
+4bcd42ac-fbd2-4fc0-b2e2-97207a1f9604,2025-09-10,Canada,b169cb8e-ae59-41da-aab4-3ad4a5a47f6d,Result,Beauty,367.24,8,238.01,69.14,Credit Card,Young,Male,Vancouver,Amanda Moon
+bbac824d-28cf-4c2a-88d4-f40917856021,2025-11-20,Canada,57687693-bd29-4786-a709-f8b2964e0a1f,Resource,Electronics,291.92,1,253.47,18.88,Mobile Payment,Senior,Male,Montreal,Rachael Lopez
+41dc353f-2a9b-463f-a466-baf2f26725a0,2025-11-20,Canada,ab7b1356-36e2-4478-aa42-6519b97c981a,Relate,Electronics,114.67,6,85.32,1.96,Credit Card,Senior,Female,Vancouver,Charlotte Norman
+1976e6db-3ce3-4414-a08b-1458adea9960,2025-12-14,Canada,09dd9e05-dac9-4c08-b54a-2ffc7aefbc4c,Dinner,Electronics,370.24,5,297.96,57.41,Credit Card,Senior,Other,Montreal,Michelle Floyd
+90abcc63-0d6f-4397-8755-91f41fa1854b,2025-06-06,Canada,b1f1088f-2b55-4d28-8d9d-f05151bc4e5b,West,Sports,298.9,10,216.93,15.38,Credit Card,Young,Female,Montreal,Adam Smith
+e8b7fbbe-2075-4387-b4f7-42f396a47c84,2025-05-03,Canada,3d3f36c0-6d94-4fce-aa62-76a321bf196c,Candidate,Toys,309.55,3,211.15,41.73,Credit Card,Young,Female,Vancouver,Virginia Hickman
+4a0dc932-8abc-4d93-9719-47cad4d2afca,2025-11-20,Canada,7c88d37b-dcce-49cf-8c75-7baea0a55f26,Who,Clothing,375.65,10,302.8,67.57,Credit Card,Adult,Male,Montreal,Christine Campos
+5e2d5c52-6ac0-4bbe-9d47-fed978f8b20e,2025-12-22,Canada,9f5f0c7f-51af-43b3-a6ae-75ab6229bd91,Stop,Clothing,33.61,10,28.57,1.4,Cash,Senior,Male,Montreal,Brittany Jones
+da5cbcde-370e-43e3-9279-86c260df51d5,2025-11-20,Canada,326106ec-2568-4c85-915e-5cdff5df1693,Every,Electronics,278.13,3,187.44,39.03,Credit Card,Senior,Male,Vancouver,Robin Ward
+fed3f20c-21b9-4a9b-bf61-329728de6c24,2025-09-19,Canada,6540cbfc-55dc-4131-92b2-54ecf6cff8d1,Culture,Clothing,265.8,1,230.08,34.9,Cash,Senior,Male,Montreal,Julie Rowland
+428dce59-ca0b-4d28-ab4d-1c15d3145939,2025-07-26,Canada,47d2c0d9-d641-450c-b138-2746be5e7d83,Stage,Beauty,444.69,4,345.35,78.84,Cash,Senior,Other,Vancouver,Michael Miranda
+60d04c33-b4ac-4fa4-b0ab-4cbc8fe01ba4,2025-09-18,Canada,106cdac3-5741-4cbc-bbd7-67d7e48e3962,Morning,Sports,113.1,10,68.13,21.92,Credit Card,Adult,Male,Toronto,David Dennis
+e665080c-9d42-4858-9ec5-7f009abde027,2025-05-25,Canada,2688e085-dcec-4f0a-8ced-acdfe2b7b5b8,Early,Electronics,104.9,1,93.27,18.39,Credit Card,Senior,Female,Montreal,Ryan Wolf
+965c99da-f5ab-44c3-a309-7f52fab42639,2025-08-17,Canada,19cc0fb6-7825-4053-b5e1-16068314f629,News,Beauty,499.98,5,417.6,7.94,Mobile Payment,Adult,Other,Vancouver,Stephen Kent
+a2e00c16-0563-4733-8221-838bcc3725a5,2025-05-17,Canada,db116c99-28d1-4471-a411-e652511505c1,Say,Electronics,75.75,4,50.93,13.96,Mobile Payment,Adult,Male,Vancouver,Jennifer Osborne
+9dada223-10b0-4f44-965f-0d05a3639a8b,2025-07-16,Canada,cb927b1e-c0aa-4f9f-b421-481311e376be,Pm,Electronics,156.13,2,121.04,18.18,Credit Card,Senior,Female,Vancouver,Elizabeth Olson
+9ac4e033-2710-4e08-b0eb-3454e5225adf,2025-12-14,Canada,667e98f2-a3b6-474f-88a0-e4a5bd6fbca9,Experience,Home & Kitchen,33.8,7,26.57,5.82,Cash,Adult,Male,Toronto,Daniel Mccarthy
+adb6d89e-e9ee-4151-aa1a-25f6eacc4789,2025-07-26,Canada,46127ebe-d402-4ac6-8b8c-91d70c53b8ad,Be,Toys,348.65,2,222.51,50.47,Credit Card,Young,Male,Vancouver,Amber Mitchell
+b8d61217-b5d2-49e5-96c2-5b8824701a1f,2025-06-06,Canada,24327b95-1220-4e31-a723-06de89b970a0,Seem,Clothing,72.46,8,49.27,7.56,Cash,Young,Male,Montreal,Tony Caldwell
+c173c4bc-622c-4d95-8b13-712ba275e2e5,2025-11-20,Canada,179ffcbc-94ac-4a82-8f52-b1ec74fe0b45,Level,Sports,318.77,4,192.5,48.47,Credit Card,Adult,Female,Montreal,Stacey Alvarez
+d2ae239a-44d8-4527-b96d-b246a79b24aa,2025-05-17,Canada,d5615e4d-1897-4687-83ee-c53c698e1239,Stand,Home & Kitchen,15.47,3,10.28,2.86,Cash,Adult,Other,Toronto,Brian Roth
+50644fd5-61ff-4aac-8592-a426e824a568,2025-04-24,Canada,526c0dde-dc72-432d-aa89-cf238506aea4,Fast,Electronics,39.52,5,34.23,4.84,Cash,Senior,Female,Vancouver,Jessica Blevins
+77323e90-fbb9-4434-9f73-6028b9748e9d,2025-03-03,Canada,4de5c5af-d970-4cb4-b0da-4c71ef39580c,Give,Clothing,398.89,3,283.02,44.2,Credit Card,Senior,Female,Toronto,Penny Randolph
+3d6cd03e-60a3-4f5d-9683-5d7298820d23,2025-10-11,Canada,de0c63c5-c891-4518-be78-eff599976be5,Draw,Beauty,179.31,3,143.16,24.26,Credit Card,Young,Other,Montreal,Sean Gordon
+bf08376a-79ce-4793-ba96-159f1e5b2689,2025-06-04,Canada,8c1d21ef-1da3-4ce7-82ad-9de4ce320718,Fill,Electronics,338.85,7,244.02,55.51,Credit Card,Adult,Male,Vancouver,Robert Davis DVM
+eabbad23-959f-4a0c-977d-aa98d7cfbb3f,2025-03-03,Canada,ec005cdc-1d50-4a5b-b3de-9d721e7be123,Bar,Sports,254.26,9,180.4,23.93,Cash,Young,Female,Montreal,Stacy Walker
+f0730993-7c77-4da7-898d-8c00fe701cb2,2025-03-03,Canada,3fea5fd0-0b41-4b27-81dc-4982e82af6a2,Event,Electronics,448.97,1,385.29,33.3,Cash,Senior,Other,Toronto,Brianna Thomas
+83d37e8a-f157-4c6a-bb38-6e9c1f19baee,2025-05-03,Canada,462e63bb-5fd6-4789-b5c5-5a22d20b9914,Marriage,Toys,379.5,10,317.45,66.4,Credit Card,Senior,Male,Toronto,Erin Williams
+9e4f3e8d-75e8-4f97-991d-81de0115125a,2025-12-31,Canada,31ed28b4-4693-4144-9616-c990131f42d2,Defense,Electronics,327.34,4,281.28,31.7,Cash,Adult,Other,Toronto,Lisa Nixon
+149598d4-a12f-4ace-b0dc-fd63ddf1adfa,2025-04-24,Canada,018b02c3-f78b-4f97-8849-4d3d60f832fc,Fire,Home & Kitchen,382.12,10,290.32,33.41,Cash,Young,Male,Toronto,Christine Henderson MD
+cc73003a-1e54-4926-a763-eee0d8ffbf4a,2025-04-04,Canada,f7a66335-a31b-43ae-a983-6f3926fcb67f,Strategy,Home & Kitchen,391.71,4,281.86,15.89,Cash,Senior,Male,Vancouver,Tamara Powell
+c38718cc-241f-4cbe-8002-838c6e7e89f4,2025-12-13,Canada,53c233f6-8148-4467-8ff9-50bf47005934,Professor,Sports,493.47,5,346.66,78.04,Credit Card,Senior,Male,Vancouver,Rebecca Miller
+af44e02c-13ff-4e66-b1e5-8d82b125970d,2025-08-06,Canada,02d4e973-ef70-4e40-beb7-df0a775a47d4,They,Home & Kitchen,243.22,7,199.09,7.7,Cash,Young,Female,Montreal,Jesse Combs
+ea728ea1-580d-4bed-b4d9-e9b369431176,2025-12-01,Canada,202d45db-8766-4c76-9351-8a5258425af3,Worry,Beauty,329.19,7,252.35,24.85,Mobile Payment,Young,Female,Montreal,Mark Carson
+c3c0486b-8ae0-4a90-8d3e-b1f6cdcf2848,2025-12-14,Canada,98be210e-c8b7-42ee-8f74-fdc5c085ec87,Ok,Beauty,178.64,3,153.57,18.2,Mobile Payment,Senior,Male,Toronto,Tristan Jacobs
+09101008-35ec-4b03-b148-1ca70fa0172a,2025-08-06,Canada,a3872d67-5d17-4e09-bb23-ccf328c849e3,Happen,Electronics,263.56,1,210.43,14.12,Credit Card,Young,Female,Vancouver,Linda Rodriguez
+b5f1fbc1-87d8-44ef-a106-fc276bca3c42,2025-08-06,Canada,c15294a1-04de-448c-bead-4179f23cece0,Financial,Sports,208.8,5,153.21,23.0,Mobile Payment,Senior,Male,Montreal,Richard Lewis
+061f89e3-ecb1-4303-b17a-f7eac77fb1b3,2025-07-07,Canada,74435c5b-8320-4254-8ac1-a168e3c6568f,Never,Home & Kitchen,406.41,9,331.37,36.39,Credit Card,Senior,Female,Montreal,Cesar Avery
+4973953e-04ce-46df-a247-6788eb0e18c7,2025-11-10,Canada,76026cd0-0597-4618-88df-69c621a52297,Interview,Electronics,426.0,6,329.44,82.49,Cash,Senior,Male,Vancouver,Dawn Jones
+4755279c-cecd-453d-a7d1-81a02d1ae5ef,2025-12-02,Canada,f950a33f-0168-41f5-bc67-75620ff93980,Many,Toys,26.15,2,17.58,0.58,Mobile Payment,Adult,Other,Vancouver,Alexis Espinoza
+80e63017-f1a9-4231-999e-0c10b8de7807,2025-06-15,Canada,b73c64c8-7259-4856-8254-29c485051554,Film,Toys,288.89,10,214.52,36.78,Mobile Payment,Senior,Male,Toronto,Jonathan Cantu
+8635ed0f-c30c-46ba-8c73-8bc836c5ceea,2025-06-15,Canada,f4c33168-944e-479f-8a50-8bae662440ab,Hard,Clothing,179.27,9,135.19,30.77,Cash,Senior,Female,Vancouver,Adam Turner
+cfb2c049-481d-477d-9190-ffa016f7a7a4,2025-03-23,Canada,3f0ea8f0-af5c-47d4-a96e-3fc8813a1810,Green,Beauty,406.08,7,365.09,29.58,Cash,Senior,Male,Vancouver,Brian Hughes
+80f2077a-4232-4a68-b2ec-874eed8f22e5,2025-04-04,Canada,3fa5dc84-9bfc-4cdb-bfdd-6c9a8aee13cf,With,Electronics,157.65,5,96.76,17.35,Credit Card,Senior,Male,Montreal,Melissa Shaw
+b99d50e4-98f2-47a0-b3aa-2c4c3b910d11,2025-05-17,Canada,937b4ba1-b840-4566-bbd4-40e0811dc844,Bag,Beauty,231.91,8,193.0,8.89,Credit Card,Young,Female,Vancouver,Caitlin Spencer
+7e55c23d-0f7f-46a7-8177-bc521a8f8784,2025-11-12,Canada,afb66496-fa5b-49cf-8ffe-3a59b7e4ed95,Care,Electronics,119.93,9,103.89,11.91,Credit Card,Senior,Female,Montreal,Taylor Patterson
+6d3d9ca4-6ad4-4c0b-91ce-3fbc14c51d2c,2025-12-01,Canada,a31d64b9-0c07-4e5d-8bd8-bb9ad7ec7e30,Player,Clothing,216.45,8,144.4,13.11,Mobile Payment,Senior,Male,Montreal,Juan Hernandez
+9443e93e-18ef-418f-ac2d-a4c18277d259,2025-11-12,Canada,f1289fdd-08e1-48e9-bbbb-0cb6696d3d9a,Fire,Home & Kitchen,111.16,3,95.39,9.77,Mobile Payment,Adult,Female,Vancouver,Mercedes Jackson
+bf8e5331-4834-493c-bfba-b8cf06067300,2025-03-03,Canada,2ae17ccd-5dec-44b6-8008-37c8795abe02,Send,Toys,251.93,1,175.83,5.86,Mobile Payment,Senior,Male,Vancouver,Chelsea Fox
+41d191f4-3f2c-4fd0-afdd-ba02c8d7be84,2025-12-02,Canada,125e1ddd-bae5-4ab5-8bdd-e3314c7c765c,Federal,Sports,317.84,5,270.03,48.53,Cash,Adult,Female,Vancouver,Donald Stevenson
+a21b489f-f366-44ef-9a8b-16f24d12700f,2025-07-05,Canada,80236d10-e479-4f22-9fd0-de836e9be923,Ground,Beauty,135.82,2,101.78,5.42,Mobile Payment,Senior,Male,Vancouver,Stephen Hobbs
+d53678e0-41cc-4956-b2ec-c50c3721e172,2025-07-27,Canada,c81bed17-1301-4e59-ae4b-e47fa0906995,Sort,Home & Kitchen,297.32,9,179.29,35.06,Cash,Young,Other,Vancouver,Cynthia Bryant
+71dfa20f-583b-4cd1-9103-4fee454eab59,2025-10-11,Canada,5b59444a-1f7f-4257-9ceb-2e1b076f1438,Process,Sports,407.1,7,249.02,20.51,Mobile Payment,Young,Male,Toronto,Natasha Luna
+b20fd489-a5c3-41d8-af54-2b13d447c8f7,2025-05-17,Canada,2da2aee1-ed63-4fa6-b1e1-396f3ebc74e1,Most,Electronics,213.1,6,177.33,19.59,Mobile Payment,Young,Other,Toronto,Ryan Cunningham
+12a5aeb3-08b6-4bd8-a571-9a9374487957,2025-12-02,Canada,150e11cf-3692-4fc5-b4e1-4749c29ceab4,Short,Home & Kitchen,320.83,1,217.14,61.5,Mobile Payment,Young,Female,Montreal,Christopher Hall
+3e5e8a41-d2ec-4726-91b8-40360cd7b034,2025-05-03,Canada,f1b1aeb7-82d5-493d-b2c4-ec5f6d4f1f20,Indeed,Home & Kitchen,74.01,2,57.68,8.84,Mobile Payment,Adult,Male,Vancouver,Richard Montgomery
+e4799e63-3f3a-4efd-b4bc-65f6e42896e0,2025-09-19,Canada,7af3e6bb-49f9-4382-a7a4-0d8546c37cda,Somebody,Electronics,252.12,5,157.05,25.42,Credit Card,Young,Male,Montreal,Katherine Fuller
+5c3fa165-0c54-42c9-bd97-7024ac9e3525,2025-07-05,Canada,7acda275-fefd-496f-b1cc-4fe595f55949,System,Sports,109.86,8,81.3,4.63,Cash,Young,Other,Toronto,Raymond Gould
+d630b270-dacc-448e-94cb-164597f5b7b5,2025-09-10,Canada,02ae8bab-ccc4-4fb0-a057-8c7a1045d9d5,Least,Clothing,148.06,9,89.27,24.85,Cash,Adult,Female,Montreal,Mark Stuart
+e99c727a-b69a-4248-a858-03664dccfc78,2025-06-06,Canada,bc839816-c4cf-4555-9b73-d80dfc615dc8,Guy,Clothing,179.98,6,136.48,7.12,Cash,Adult,Male,Vancouver,Philip Harper
+88f30cb9-8943-4547-bd1e-f828e1990e0d,2025-09-08,Canada,a5c5d5af-1ff2-4a91-a1e6-132cdb708b0e,Arrive,Beauty,66.06,1,56.22,8.26,Mobile Payment,Young,Other,Toronto,Wendy Lopez
+86b7fa13-d2df-4feb-9123-b7d3bf89c79d,2025-09-10,Canada,eeb63602-f41c-4ea9-9a91-6daafbcc4017,Old,Sports,69.84,7,44.99,13.24,Credit Card,Senior,Other,Toronto,Martha Palmer
+f29ad4bb-77c5-4265-861d-95d0aadfa53c,2025-10-30,Canada,a0faeab5-0e69-45a8-bb11-09c00a028351,Because,Beauty,152.51,10,119.72,13.36,Credit Card,Young,Other,Montreal,Barbara Lopez
+0f363297-ec53-436b-b0cc-f2d95d5ea82c,2025-09-18,Canada,5a74c05f-5cbb-4ab4-b7d4-63a494e66ef1,Perform,Home & Kitchen,70.72,4,50.36,5.37,Mobile Payment,Senior,Male,Vancouver,Andrew Anthony
+c5fb7a82-df17-43dd-bfff-5739ae82eca4,2025-11-12,Canada,c0a4f2ea-8d89-4e3c-84dc-5b0aae930748,Since,Electronics,394.33,4,308.25,46.74,Credit Card,Senior,Female,Montreal,Jason Jacobs
+a44286cf-61a9-4173-854a-7d52513b1c0b,2025-09-10,Canada,95f85c56-f711-4212-a2e3-8f4ae978c89f,Board,Sports,254.92,8,179.91,31.87,Mobile Payment,Young,Other,Montreal,Mr. Hector Mccarthy
+bba3cbc9-757a-4634-83bb-c9c3c12011e7,2025-08-28,Canada,a37deb03-dadb-48a2-9ce6-c026a87474e5,Require,Home & Kitchen,135.67,3,82.44,2.59,Credit Card,Senior,Male,Montreal,Samuel Davidson
+b44fdd65-7192-47d9-bc8e-de7220a75984,2025-09-18,Canada,28cc6d76-037d-437b-8e83-5de77f62c437,Market,Beauty,479.86,9,375.89,21.99,Cash,Senior,Other,Montreal,Jonathan Erickson
+71f94f97-0d9f-4acd-bd26-c3d3278d0741,2025-09-10,Canada,d1864248-606c-440f-b60c-51c203b55b61,Point,Sports,196.91,5,123.08,29.54,Mobile Payment,Adult,Other,Vancouver,Donna Gomez
+0aaed8aa-3820-4744-94c0-a84843744193,2025-12-13,Canada,f10f428e-d0c9-4e0a-b093-95123c588236,Baby,Electronics,452.02,10,309.06,2.93,Credit Card,Adult,Male,Montreal,Jennifer Washington
+a0d9f531-5216-4142-87a8-79971c1e5433,2025-10-09,Canada,eab946ad-062f-44e6-8aff-345b46e95092,Across,Electronics,480.75,8,308.51,22.88,Mobile Payment,Adult,Female,Vancouver,Jesus Richardson
+d43479c8-1556-4562-adf5-8a1e3fa4fba3,2025-12-14,Canada,876bdb77-3023-4208-94b1-1c6a9b06c9ea,Least,Beauty,258.96,10,156.97,6.86,Cash,Adult,Female,Vancouver,Bethany Kelly
+576fadb6-d7e5-4a8f-bd67-5d8892cb002e,2025-11-20,Canada,f797a567-3098-466c-ae15-c7841c899932,Trouble,Toys,397.35,4,305.64,14.07,Cash,Adult,Male,Montreal,Tyler May
+7b587993-e488-4620-9602-0563e7b30d33,2025-07-16,Canada,baffe69f-2049-4947-83dc-c2659d95d342,Build,Sports,266.86,4,181.32,32.42,Credit Card,Senior,Other,Montreal,Danny Ramirez
+6c05d8ed-4255-4380-97c7-702893866460,2025-08-17,Canada,99a18154-0b02-42a7-a852-218ed1bce5dd,Available,Home & Kitchen,421.34,5,322.29,34.94,Mobile Payment,Adult,Other,Vancouver,Nathan Taylor
+b56a7b57-a52b-484d-a0fd-f0260248aa24,2025-10-30,Canada,4e559554-48ad-4311-aa6e-7bf7487dcd5f,Mean,Electronics,168.47,4,130.16,30.91,Cash,Young,Other,Vancouver,Anthony Rose
+ff71140b-deb7-461a-8133-2a207a73552c,2025-09-08,Canada,6e4ea03a-68e1-4f9c-bf64-6008c4b0188b,Hard,Toys,343.14,1,236.98,54.0,Credit Card,Young,Female,Montreal,Vincent Suarez
+3bc6de19-3566-4580-98d8-fa07fb45c8b8,2025-12-22,Canada,7e07194f-5229-4ee9-83f1-2d2109d08e9b,Woman,Electronics,158.54,4,137.61,29.52,Mobile Payment,Young,Other,Toronto,James Garner
+eab8b308-a44b-49fd-8b3f-37d7f9926c44,2025-09-10,Canada,590cb294-d4d4-4dfc-ae20-7332a9946fb6,Thought,Clothing,428.44,2,352.38,36.39,Mobile Payment,Adult,Other,Toronto,Joshua Hamilton
+b8ccb45b-df1c-44ff-8c7a-4f40e32f3479,2025-12-13,Canada,4cbac425-cccb-42e0-a4dd-0f6f2290afad,From,Toys,438.81,1,263.43,49.76,Credit Card,Young,Male,Vancouver,Marissa Mcguire
+fc19a3e4-c73c-40c9-a8d4-6821884c1fc4,2025-07-08,Canada,2b327fe8-ab16-4bf0-b036-87cc954ad52e,Employee,Toys,41.94,5,29.01,7.35,Cash,Senior,Female,Vancouver,Sarah Davis
+7c35c064-89aa-464a-9928-be075ce81b84,2025-08-09,Canada,cc152179-d6b5-4e8c-ab39-8b4ad6913c83,Center,Clothing,324.1,9,265.95,53.8,Credit Card,Adult,Male,Toronto,Veronica Reynolds
+e395a0dc-5b57-4da0-b540-8955340cecb3,2025-12-22,Canada,69d3c3dc-e3ac-436b-89ea-ddbdfa8efec6,Third,Beauty,22.45,2,17.38,1.87,Mobile Payment,Adult,Male,Toronto,Christopher Mccall
+7ee8ab4d-2533-4ee7-a30f-b00d93f00097,2025-06-15,Canada,14b6d4c1-17e0-4a5a-934d-b469169d20f2,Item,Electronics,156.98,2,110.07,10.06,Cash,Young,Female,Toronto,Wendy Mathews
+e5a72d46-6047-40fa-aaa9-643e75373c05,2025-07-05,Canada,d759b7ad-8203-4bfd-bb97-e8a5bf04c5bc,Agree,Home & Kitchen,499.92,9,423.76,0.23,Mobile Payment,Young,Female,Toronto,Kim Mitchell
+b2aaee9b-46a3-4d0e-a6c2-937343bf944e,2025-03-23,Canada,6579266b-8c80-43b8-a6c4-360c4b97a367,Value,Sports,197.36,7,159.42,24.65,Credit Card,Senior,Male,Vancouver,Steven Taylor
+29935913-d219-4e8a-aad0-49d9fe039132,2025-10-30,Canada,976e9e10-f6e6-4694-82b5-68bd1ef8879a,Deal,Electronics,382.63,1,317.63,12.59,Cash,Adult,Other,Toronto,Catherine Williamson
+34ba44d1-78a2-41ee-8333-3887241c68e1,2025-05-25,Canada,bb96028d-32e7-435c-bfcf-a5f151c422d1,Every,Sports,209.65,4,167.96,16.71,Credit Card,Adult,Male,Vancouver,Ann Rhodes
+1032b96f-1fba-4edd-be0f-ac0d1eee5379,2025-05-25,Canada,2f44c054-a078-4adb-9474-b863a1e093eb,Speak,Home & Kitchen,475.89,2,286.79,4.94,Mobile Payment,Senior,Female,Montreal,Charles Carr
+8cd40b80-fe42-40a9-b3aa-a03b7cec1fbc,2025-07-18,Canada,45b79b2b-923a-4c95-a5ec-cb7dee235702,Participant,Toys,113.78,6,77.44,15.48,Cash,Senior,Other,Toronto,Lawrence Montgomery
+17b4da9b-3fc7-4df1-93c2-a70078f773e7,2025-07-08,Canada,989d55b8-0082-4294-9032-d84b5b132b2f,Kind,Beauty,282.16,7,217.26,10.69,Cash,Senior,Female,Vancouver,Justin Mcdonald
+529065e8-a233-4de8-bb3c-a17f407484f4,2025-04-02,Canada,352934cc-f44c-472e-9d4f-c05e3fd4214a,View,Electronics,315.37,6,204.57,24.35,Cash,Young,Female,Montreal,Jason Howard
+cee38e8b-a605-4d96-bce6-e7357beb7987,2025-12-22,Canada,4cec9bec-7606-47e3-9da9-3b1ba6c4a34a,Ready,Toys,217.03,9,133.06,41.54,Cash,Senior,Female,Montreal,Alison Bowman
+c7f99f46-3888-4ec1-8707-2b813a462365,2025-03-15,Canada,0ca014d6-34c3-4f57-b3b1-42082ebb7bb4,Specific,Beauty,224.35,6,189.89,34.6,Cash,Adult,Male,Toronto,Spencer Davis
+154e4925-4ac5-4ba1-abff-875ecc3f2aab,2025-09-19,Canada,f09c8372-6a8f-46d0-bfa1-c4878b2eddf9,Score,Electronics,486.75,6,414.45,23.42,Cash,Young,Male,Montreal,Ian Wu
+3bf42289-fe9d-47fb-9eca-2c83fc0a85cb,2025-03-23,Canada,2e6d7091-1d06-42e7-97cd-6463d5d46a15,Like,Electronics,455.32,10,393.06,63.57,Cash,Senior,Other,Toronto,Ms. Renee Young
+e7b925e6-d430-43f9-91fc-b3dd492ded1a,2025-06-04,Canada,b4da41e5-1a20-4d37-8a61-60dde1bc2c06,Media,Clothing,355.78,1,313.43,45.18,Cash,Young,Male,Montreal,Peter Snyder
+4972bd4f-2d2e-4a33-bd54-fd64e0127ff3,2025-10-19,Canada,7c3448f9-ee67-4579-951a-116e58e7b56b,Hand,Sports,10.31,8,6.75,1.82,Mobile Payment,Adult,Male,Montreal,Christopher Boyd
+58fddae3-f568-4c1c-ae6b-974753cebd31,2025-10-19,Canada,4e1c5ed9-2942-4da5-bf12-91fa17e90321,Within,Toys,376.6,5,290.27,49.37,Mobile Payment,Senior,Male,Toronto,Angie Burke
+63e33491-b2a6-4740-b2af-166dda0cc420,2025-12-21,Canada,c4bbcdd9-5b8f-4022-950d-1e0533b307ae,Who,Beauty,406.4,5,261.51,78.27,Mobile Payment,Adult,Other,Vancouver,Julie Williams
+3d056fbd-5961-49ab-945e-40b58fd4dc14,2025-08-09,Canada,a301f3b0-5923-46d0-8a4f-897336481bd3,Learn,Beauty,49.66,4,31.21,8.32,Cash,Adult,Female,Montreal,James King
+54cb2bdf-6222-4d5d-89e4-55f0327c6937,2025-08-17,Canada,391e7807-136d-4350-8920-9ac6d2ffa4ea,Forward,Sports,121.96,7,88.87,14.26,Mobile Payment,Senior,Female,Montreal,Michael Davidson
+2ee48ef9-3b09-4a00-bcfc-9d5e0646bbb5,2025-10-09,Canada,1fe2b21d-4516-4ce1-999f-27c236ce67fa,Company,Sports,255.49,5,175.36,11.67,Mobile Payment,Young,Male,Montreal,Cynthia Chavez
+4fa91ba4-cf30-49f9-8f1d-0ce02559f784,2025-04-16,Canada,45dfe621-0c2a-4531-9c0d-8c6545ad908d,Bill,Toys,289.24,4,231.98,47.94,Mobile Payment,Senior,Other,Montreal,Michelle Johnson
+ac05a520-b6a1-455e-9cc5-49e5055fb11e,2025-12-11,Canada,5517b92b-7da4-472f-a50b-b3b913babca3,Among,Sports,413.81,8,281.48,72.29,Mobile Payment,Young,Male,Toronto,Dr. Linda Burton MD
+e46873ca-7142-4490-a279-fa44bc7ab4c2,2025-11-10,Canada,acf9cec4-8d5f-41b5-9a70-4bb05d78d494,Here,Sports,377.79,9,318.42,61.93,Credit Card,Senior,Female,Toronto,Matthew Robinson
+4776b8c3-50b6-4e1f-89d3-e3da8b1888e9,2025-10-11,Canada,768d1f75-453f-4db1-94a4-f0d7afefd106,Check,Beauty,209.99,6,130.02,15.29,Credit Card,Senior,Other,Vancouver,Jonathan Garrison
+ec88b258-f230-4d1a-8e33-a34a188802a6,2025-04-24,Canada,7557d0df-0608-40bb-8c7b-4f27b6b084d3,Information,Electronics,368.78,8,292.11,6.51,Credit Card,Adult,Female,Vancouver,Michael Baker
+7d87656f-2ee9-41c3-bd38-35d44e93de3e,2025-10-19,Canada,d360554c-345b-4dfe-bb26-8a0d02d62bc7,Military,Toys,172.23,9,114.62,16.02,Mobile Payment,Young,Other,Vancouver,Christine Hill
+5ac6af87-8670-419c-8c6f-ec2a3de16c18,2025-07-07,Canada,8d6c6d91-7d9e-4dd9-b52a-de3214c17b86,Wide,Electronics,320.97,3,282.1,21.99,Credit Card,Young,Female,Toronto,Dennis Richardson
+2970a4ee-08a1-414a-99cb-a660aca1b87b,2025-05-17,Canada,24b5e3ad-c226-48d1-b849-0e6fc65b2f78,Kind,Home & Kitchen,435.32,6,377.67,56.51,Credit Card,Adult,Other,Montreal,Manuel Johnson
+ef478496-a1b0-4303-aed0-e8a0c5d2d3e1,2025-04-16,Canada,ff4fda5f-6ba3-4dd0-9fb5-9e2f40753b8b,Cause,Electronics,445.88,2,349.25,69.58,Cash,Adult,Male,Vancouver,Joseph Smith
+95d38357-f324-4203-9882-21cd5c0d8541,2025-06-15,Canada,69926bcb-a06c-46d7-95c3-f2d61af723e3,Get,Toys,127.67,4,85.08,3.72,Cash,Senior,Other,Toronto,Jeremy Smith
+b0ee0924-33f8-4f09-bd92-b4aaa60bf26c,2025-05-14,Canada,41b11489-4c81-46a9-996a-24a097f73642,Usually,Sports,248.96,10,202.71,49.34,Credit Card,Adult,Female,Toronto,Johnny Novak
+238f1107-3e50-4c0c-bf6e-cabb8aff2242,2025-11-20,Canada,3a1eb0dd-8887-45dc-ad49-16d60161c36a,Congress,Beauty,352.36,10,254.85,43.85,Mobile Payment,Senior,Male,Vancouver,Megan Elliott
+ebf80909-e756-415d-be9d-f0fd8033b291,2025-08-06,Canada,a05c7e19-5d8e-490e-823d-dfed915ad73f,Rule,Toys,190.34,1,166.44,3.17,Cash,Adult,Female,Montreal,Kyle Anderson
+48514807-aafb-41f0-9607-f45e7f28c86c,2025-11-10,Canada,e88f65c9-d339-4e19-a07f-a045c94edc90,Ground,Clothing,188.15,2,138.71,35.53,Mobile Payment,Adult,Other,Toronto,Karen Booker
+a0096eba-58c5-4ff8-b83a-66332f9dc312,2025-11-20,Canada,3eb2c473-9ff0-4553-be0b-614a0326c848,Fine,Beauty,469.4,10,339.74,41.44,Mobile Payment,Young,Male,Toronto,Kristi Taylor
+317b961b-aef5-439b-b4a5-87b00f812e1e,2025-12-31,Canada,4e7e457b-3b1a-40ca-851a-dc3fd48a3185,Sound,Clothing,328.1,7,233.94,47.81,Mobile Payment,Young,Male,Toronto,Sandra Reese
+f71e4de6-cecd-49b6-92c5-f207bc8370f1,2025-06-06,Canada,03b9cee3-f5e4-46cb-bedb-44e421d68cf4,Respond,Sports,35.45,7,23.22,4.48,Credit Card,Adult,Female,Vancouver,Timothy Russell
+a4485257-3ee0-4010-b85f-eb60b0ab1da8,2025-10-19,Canada,b087cdda-6d97-497f-80c5-f00aafdd9951,Consider,Sports,284.13,1,206.53,56.78,Credit Card,Young,Male,Vancouver,Rachel Hill
+9b7932f7-5a12-4373-a780-30ad0aac8c55,2025-07-27,Canada,edc0f3bf-4de8-441d-bd15-2221b1ee6eb1,Top,Home & Kitchen,482.76,1,391.28,34.44,Mobile Payment,Adult,Female,Montreal,Andrew Stein
+b3b354bb-7f28-44ad-9605-b4137c294304,2025-07-16,Canada,2db3da69-f82a-43a5-996d-283399a5638b,International,Sports,424.03,5,309.4,30.63,Mobile Payment,Adult,Female,Toronto,Donna Aguilar
+6a821fd8-75ec-4943-a4b3-0536361004e2,2025-11-20,Canada,22dc76f0-fbac-4766-a772-d7cece8b03fc,Economic,Toys,180.55,8,109.45,16.89,Cash,Adult,Male,Vancouver,Tiffany Ponce
+108007df-4145-43c3-9fec-702e2d457deb,2025-11-12,Canada,969a6dbb-689a-4032-a50c-10ab08111f52,Ten,Home & Kitchen,138.97,9,92.0,22.02,Credit Card,Young,Male,Vancouver,Jorge Rios
+2217a353-bfee-4d4a-866b-a1520c7ad224,2025-07-16,Canada,4a4140b3-d09b-4133-b39f-86bc360d6983,Movie,Clothing,152.12,10,119.82,3.27,Cash,Young,Other,Toronto,Daniel Glover
+8a332dc1-6f7e-4e57-8e72-e07754baca14,2025-09-29,Canada,621c1662-6a54-4a2e-bd49-43905c6b3af8,Since,Clothing,275.45,8,216.85,40.85,Cash,Young,Male,Toronto,Jennifer Martin
+78b11cc0-6ba1-4894-8e83-e037a2458151,2025-07-16,Canada,dac52a3f-9f53-4b57-a9a3-e7be72b18ff7,Cup,Home & Kitchen,484.41,9,387.99,72.51,Cash,Young,Other,Toronto,Cynthia Buckley
+dc97d047-7938-4ab7-b019-ae3cd5672dcf,2025-07-18,Canada,f3030a4c-af94-4537-8ffd-c07150c50983,Change,Home & Kitchen,463.81,6,407.47,76.89,Credit Card,Adult,Female,Vancouver,Nancy Stark
+7a70112f-152e-46ab-833e-86ae52ffdd8d,2025-11-20,Canada,2c7026c4-7f25-4aae-ac39-55be7ffddd30,Water,Electronics,175.53,2,123.88,6.9,Cash,Adult,Other,Vancouver,Jane Weber
+db70cb15-d722-411d-bfdb-021ad5ecc1c9,2025-05-14,Canada,696b280b-a72c-4909-83d9-81adc6e87e35,Listen,Home & Kitchen,201.84,10,178.41,14.19,Mobile Payment,Senior,Male,Toronto,Beverly Collins
+78a17b05-4ede-4ba8-b878-fc3c5b80aff4,2025-10-19,Canada,6505705b-5990-4d48-b598-14d45fb05d76,Husband,Electronics,402.84,1,248.42,49.73,Mobile Payment,Adult,Female,Vancouver,Mary Smith
+a146a166-560d-4d89-bc6d-f696374c03a3,2025-10-19,Canada,af7430cf-49b2-483f-9852-d3076cf59800,My,Toys,82.6,2,72.03,5.7,Cash,Senior,Female,Montreal,Michelle Carter
+5de8aa55-793b-4947-a30e-38f750ef46a9,2025-11-12,Canada,58205404-2d72-4c8b-a7b6-0367ab0b663a,Type,Toys,434.97,7,297.17,61.89,Cash,Adult,Male,Montreal,Alexander Stein
+a8ac7087-2834-4075-9eeb-0960108c8964,2025-05-05,Canada,ca2b7b24-7892-4933-84e4-9fa4052fe321,Hold,Clothing,98.74,3,80.59,13.19,Credit Card,Senior,Male,Vancouver,Joseph Mcpherson
+ed184c77-26aa-4869-8e0d-5e9cd9aa62cf,2025-07-26,Canada,d13bca91-9388-47c2-8386-8cba4468f9a5,Base,Sports,303.94,2,209.64,49.38,Mobile Payment,Young,Male,Toronto,Deborah Gonzalez
+4878cf83-d793-41e0-ace4-3583698c343b,2025-10-11,Canada,6bff35a4-2f05-4455-8cc1-6339c67328f3,Win,Sports,475.27,7,346.7,85.93,Credit Card,Adult,Female,Montreal,George Rios
+bc109146-3c21-4396-8b96-32445d132352,2025-12-13,Canada,d36ae74d-85e3-4a73-90b5-b2642099a552,No,Toys,312.36,7,234.96,39.49,Cash,Adult,Other,Montreal,Amy Lawrence
+184d7341-7a54-40be-af2e-2675e159af73,2025-07-07,Canada,49f5a26d-f023-4af1-aecf-bc139bee8ca6,Control,Sports,496.14,8,344.83,3.11,Mobile Payment,Senior,Other,Toronto,Barbara Levy
+a9521379-f3b8-4c8d-bb2a-1b419dd52310,2025-03-12,Canada,3aebd73a-fd7b-4a92-87a4-c47e05064042,Realize,Home & Kitchen,316.79,5,214.44,12.73,Mobile Payment,Young,Female,Montreal,Wesley Gregory
+6cf437e9-d4cc-4385-8a34-26014a9b2c19,2025-07-08,Canada,97913d03-bff6-4885-8b92-7684c3bbf6e1,Suggest,Sports,278.59,1,237.99,8.9,Cash,Adult,Female,Montreal,James Santos
+fe0be4e7-6ded-4c17-8af5-e163836c7da3,2025-07-08,Canada,65359b2b-cfa1-4846-bf3e-3b6d5fc29355,Husband,Clothing,27.74,6,16.8,0.41,Credit Card,Young,Male,Toronto,Amanda Chaney
+548c80af-393e-4564-b8ca-789966be63db,2025-09-10,Canada,5938d468-ff39-4577-8d32-ee8e6966186b,Message,Clothing,165.49,5,135.27,11.48,Mobile Payment,Adult,Other,Toronto,Gary Carrillo
+76d26404-6454-446c-8cd1-982ae91f1ecd,2025-10-09,Canada,093a06d0-d3aa-4671-a9f3-0bdc9fb72bc4,Own,Electronics,42.14,9,31.48,0.44,Cash,Young,Male,Vancouver,Thomas Maxwell
+43c6e638-05d1-44b9-9f9e-65f7df3f1baa,2025-09-07,Canada,4b002f33-6f98-4a28-a0dc-6d6f4f5ce251,Economy,Clothing,45.79,10,31.45,7.13,Credit Card,Young,Male,Toronto,Robin Gamble DDS
+2065e700-5f7a-4fa1-9a3f-ee58895f81a9,2025-12-11,Canada,e02b2cc3-aa65-44ed-94eb-11185f2f6375,Paper,Clothing,162.98,7,130.42,10.18,Cash,Young,Other,Montreal,Tara Hicks
+66e7424d-c10a-4f47-9e36-4cc56de53b23,2025-12-01,Canada,66e6028d-7e7a-4b42-add6-4a26d7dee08a,Show,Toys,135.53,10,112.23,19.69,Mobile Payment,Senior,Other,Montreal,Laura Olson
+ad86ebbc-4106-4df2-bf51-e3485d7ae1b8,2025-09-07,Canada,36f2f42a-0441-4b12-9c03-2c65608aff56,Environmental,Beauty,79.1,1,58.43,14.89,Cash,Senior,Male,Toronto,Michelle Bell
+afffaff2-bd03-4bc4-8714-8ca96fe1bb95,2025-03-03,Canada,988ce140-cc2f-40de-9f37-6fe08dfc3986,Should,Electronics,193.72,4,167.16,38.26,Credit Card,Senior,Male,Montreal,Steven Williams
+db12f0d1-9c3a-4b3b-a2db-bcdff4ee97ba,2025-10-09,Canada,4b859428-ce5c-45fa-b3da-d59e7a926de0,Stand,Beauty,404.08,5,304.67,59.21,Cash,Young,Other,Montreal,Roberto Blackwell
+a197314e-68d0-459c-9231-9fa0829122b7,2025-07-07,Canada,ca538406-071d-4207-a477-26701c36e812,Pattern,Toys,310.66,7,189.96,36.28,Cash,Adult,Other,Vancouver,Jermaine Murray
+b7c69c24-52f8-44a9-a4bf-0db3256bd10d,2025-05-25,Canada,15bf5cf4-ca07-4788-8b30-8ac6ca165c8e,Color,Toys,487.11,8,389.02,4.78,Mobile Payment,Adult,Other,Vancouver,Thomas Boone
+40178caa-74ec-403a-9c61-7b0676229715,2025-10-09,Canada,18b537ba-a65f-457c-b44a-ba6e7bdb1b52,Book,Sports,331.94,7,236.43,1.63,Cash,Adult,Other,Vancouver,Scott Patel
+ab079978-36ae-4c06-9031-d15f1510e05c,2025-10-19,Canada,7c494c3f-2238-4699-9270-36f437bac3ab,Various,Home & Kitchen,34.78,3,26.21,6.08,Cash,Young,Male,Montreal,Kevin Adams
+c63afbe2-994b-4f9c-bbd0-fde61ae95df5,2025-05-25,Canada,b11a1245-9bc3-4c42-bd52-43ee38f2e20d,Water,Home & Kitchen,110.99,3,73.2,12.38,Mobile Payment,Senior,Male,Toronto,Cindy Knox
+2a046892-b96a-4c2c-b480-f038fe35f1bf,2025-06-04,Canada,681a9df8-94a7-4d4d-8ee9-67eddc1246e3,White,Home & Kitchen,397.49,1,249.2,61.86,Credit Card,Adult,Male,Toronto,Dr. Andrea Acosta DDS
+38e70a69-632d-449c-965b-7d899b732ce3,2025-07-18,Canada,92bab0cb-7c42-4636-8199-ebe7f3ee57c7,Article,Sports,446.49,6,312.86,15.05,Mobile Payment,Adult,Male,Toronto,Robert Price
+d749df4f-b2e9-452f-abe5-b4b27983a3d5,2025-03-01,Canada,f862dd81-209b-491e-9c5f-63a63054de4e,Serious,Clothing,45.26,3,37.85,0.16,Mobile Payment,Young,Female,Vancouver,Deanna Miller
+ea51ade6-b056-4bcd-ac48-f49350e1ed70,2025-06-06,Canada,aed512ec-34f3-433b-bf45-bcb2089833eb,System,Electronics,201.24,8,132.25,22.52,Mobile Payment,Senior,Male,Toronto,Alejandro Martinez
+6a0414e4-a67d-427c-91ff-f8798a400fca,2025-07-27,Canada,ea2b24aa-a2e6-4c49-b0ae-808dc02b748d,Scene,Toys,237.96,7,164.19,10.81,Mobile Payment,Young,Male,Montreal,Karen Clayton
+19423a9d-6b8f-45bc-bc02-e8a71479d44e,2025-12-01,Canada,16ae4fde-c887-4ffe-a08f-ad729a299a11,Majority,Beauty,302.24,3,246.46,20.58,Credit Card,Adult,Other,Montreal,Wendy Chambers
+2eec5e97-9440-4289-9cde-bb15b8ac6b05,2025-05-05,Canada,e020b9a4-3f29-4828-8289-d07164c3178b,Probably,Clothing,145.15,6,122.78,7.64,Credit Card,Senior,Male,Vancouver,Dr. Terry Hammond
+3c8cd994-d080-4d3b-a2d0-bfebce67600b,2025-11-10,Canada,80fd4d0a-1ba4-4be9-85db-dd19c197e293,Individual,Sports,231.05,3,193.76,28.66,Mobile Payment,Adult,Other,Toronto,Ruth Savage
+d8f329a4-81f4-4746-8347-3159abfa4657,2025-10-30,Canada,1d4b6edc-96dd-45c3-9d58-88246b742568,Some,Clothing,180.72,1,112.05,27.43,Cash,Adult,Female,Toronto,John Martinez
+a3fe0d5b-6bd3-4c88-a664-d6becc9ba8cb,2025-04-16,Canada,c04f604c-c550-45d9-bb09-d3ebf889e845,Bit,Electronics,143.73,1,101.57,15.41,Cash,Young,Female,Vancouver,Adrian Carlson
+5e44f37c-d131-4c4f-9889-9305b38ec350,2025-06-15,Canada,a34d28ec-8309-485c-aa7f-14445e19e2ea,Hard,Home & Kitchen,151.9,8,112.59,15.93,Mobile Payment,Adult,Male,Toronto,David Mendoza
+7443e692-8d5d-4b6f-bca8-1c95065628be,2025-04-16,Canada,ae863b78-5bb5-4212-b79c-714b1a14852a,Relationship,Electronics,117.33,3,74.01,18.79,Mobile Payment,Adult,Female,Montreal,Anthony Bond
+c543aaca-ebc2-40c0-b6f8-5c6b9b2c79ee,2025-04-04,Canada,2a8d2cb3-271a-4f02-9fe9-5eaa77c19f2b,Like,Home & Kitchen,11.53,9,8.79,0.47,Mobile Payment,Senior,Female,Toronto,Deborah Patton
+b3f6305e-8085-4f23-b784-4e5dbfb348cd,2025-04-04,Canada,7bd8e62b-f266-4683-bc2f-2c7ebe242c88,Blood,Beauty,374.59,3,251.35,31.51,Credit Card,Adult,Other,Montreal,John Cook
+23ec9094-0fef-4850-ae4f-385033215ce3,2025-03-12,Canada,63858bde-063b-4bce-9279-fcb61dcb0f7d,Long,Electronics,491.47,10,325.51,46.32,Cash,Young,Male,Toronto,Patricia Heath
+5efebea1-1e65-47c4-82fa-dd6c9f2b7677,2025-08-06,Canada,e0f5b6e5-5afe-4976-a19c-15a44e4e19ad,Trip,Clothing,467.25,5,340.48,51.52,Credit Card,Young,Male,Montreal,Matthew Conley
+20bab182-ffcb-46d3-bb5e-f694fca61b46,2025-12-11,Canada,f4f3756e-e682-4375-b53c-c62e84412459,Whom,Clothing,83.46,1,50.76,9.83,Mobile Payment,Senior,Female,Toronto,Wendy Griffin
+c11fcb78-27ea-4a58-aeff-7fd2aa1fcafd,2025-07-05,Canada,5f1341a8-874b-4511-8da0-4369bac47713,Ground,Toys,313.28,2,200.0,21.87,Credit Card,Senior,Male,Toronto,Alisha English
+e25534fd-0c1a-4246-948c-87e410e460ab,2025-04-02,Canada,702ba957-aedc-4901-a6c3-4d63986756d1,Stop,Clothing,69.52,3,60.41,7.82,Credit Card,Young,Female,Montreal,Maria Reid
+980100be-d0c4-4a40-9d50-b72655bcf223,2025-08-09,Canada,beb194a0-2009-4740-b766-c003d44ed9c2,Similar,Beauty,342.12,9,223.75,61.67,Mobile Payment,Adult,Other,Toronto,Thomas Key
+f4dfafff-01ce-47ce-8b42-31a0db1c0270,2025-09-08,Canada,77fc2946-62e0-4c21-acac-892a22ed7fb6,Ready,Home & Kitchen,288.64,1,246.88,39.24,Credit Card,Senior,Male,Toronto,Jason Warren
+f7ca5cdb-94aa-463c-86be-262e698a0ed1,2025-03-23,Canada,5216373d-2751-42f3-9e99-a0844a7cbbd7,Less,Toys,468.63,5,400.81,86.53,Cash,Young,Male,Vancouver,Debbie Oneal
+1749a324-506c-4cba-9c5f-75584c622c37,2025-06-15,Canada,78500c3f-b29c-4c18-9f64-026fff4166a1,Stand,Sports,370.87,6,261.68,2.21,Mobile Payment,Young,Other,Toronto,Daniel Farrell
+73cdea06-b44a-4526-9a81-178a04a908f6,2025-03-03,Canada,8a3c56d9-15d2-4e32-a866-0d7a9ab6ce26,Movie,Beauty,168.71,2,134.24,6.71,Cash,Young,Female,Toronto,Alexis Hartman
+afb9921b-c3f6-45ef-9ff7-25a86a4a0d0c,2025-09-07,Canada,40b1461e-f017-4dfe-a319-105e4cdceab8,Today,Home & Kitchen,217.53,2,171.08,24.81,Cash,Young,Male,Montreal,Leah Palmer
+2f37d200-4c99-454d-8582-9ecbaf6a1b4c,2025-03-23,Canada,821ac7e9-8dd7-4280-802d-bee6a118a35d,Form,Toys,86.58,6,76.42,5.06,Cash,Young,Female,Montreal,James Saunders
+32965a00-a53e-45c9-b0bb-f99791cf8903,2025-11-20,Canada,d6f22315-1aa8-4ed5-89ca-7b1aa3ba995f,Section,Electronics,468.87,10,342.1,6.83,Mobile Payment,Senior,Female,Vancouver,Brian Marshall
+10cc37cc-ea8c-432c-99b8-45d3165a1b5c,2025-12-31,Canada,70124b2c-913f-478a-8c91-8729af29070d,Want,Electronics,425.95,10,293.66,74.45,Mobile Payment,Adult,Male,Toronto,Ricky Oliver
+9b86887c-c134-49f4-a28e-749b826b94d4,2025-10-30,Canada,72d8eafa-fe7b-40b9-bd2e-0d5b4786d774,Beyond,Sports,287.84,8,232.7,32.12,Mobile Payment,Young,Other,Toronto,Marcus Wilson
+a5840eed-bd44-4eb6-ada8-f04e00fa919e,2025-04-13,Canada,f2e444db-c1a4-4570-8fd2-c724710d6f4c,Summer,Electronics,129.12,4,95.07,24.98,Mobile Payment,Young,Male,Vancouver,Ashley Little
+8bd58f59-201f-4d8f-ae39-b68129ea4603,2025-10-11,Canada,aaa80894-5ed5-4b7e-b7da-576128ec0e63,Concern,Clothing,274.65,9,229.51,31.68,Cash,Adult,Female,Toronto,Linda Mills
+ef87a678-e329-4b29-800a-6255c5f3164b,2025-11-12,Canada,eeb5bf93-b473-4d3f-b168-e4c047fc32f4,Put,Home & Kitchen,46.41,9,41.77,5.33,Cash,Adult,Male,Montreal,Michael Burns
+aefab486-bc1f-45f3-add8-74ffcc4caa28,2025-12-11,Canada,dd427248-f9f7-4d11-8aa0-243f7cd819f1,Coach,Clothing,300.03,10,246.61,27.96,Credit Card,Senior,Other,Vancouver,Daniel Kane
+9c7ff495-a33a-4ab2-a613-e2c2638f34b2,2025-10-11,Canada,a9af9714-7aea-4a50-a4ba-eb1ab74c7292,Value,Clothing,497.45,3,326.27,98.84,Mobile Payment,Adult,Female,Toronto,Katie Charles
+a3b22a49-7dc4-4738-8a08-18c523077c98,2025-08-17,Canada,8d2f9c55-e91d-4c6c-9c60-93cf07a6adf7,Into,Sports,327.97,8,278.87,20.69,Mobile Payment,Young,Male,Toronto,Kenneth Suarez
+88e18844-096f-4138-96b4-9f67e63f3ba7,2025-11-10,Canada,1bea1c26-cf5d-468c-a6b2-796e47a9389d,Sit,Home & Kitchen,331.83,8,265.4,48.04,Mobile Payment,Adult,Other,Vancouver,Nicholas Rodriguez
+ffd6e65b-b017-4aab-af1d-a13279cfe661,2025-09-07,Canada,b2d33c69-d59b-4330-8eb9-ed08f53d6819,Difficult,Sports,434.33,8,327.71,62.77,Mobile Payment,Adult,Female,Vancouver,David Gibson
+f830bbcb-e403-48eb-a55c-fea6dbcf1dde,2025-06-06,Canada,52d1ee20-3637-4b74-8a8a-747109bb6866,What,Toys,146.2,4,92.49,4.78,Cash,Senior,Other,Vancouver,Lisa Bennett
+019c6dfc-781a-4a24-b2dc-d72a4c32ebba,2025-10-09,Canada,b7e43ad9-6aa6-4a74-abfe-1974f00d7dd5,Government,Home & Kitchen,121.21,1,82.53,1.62,Credit Card,Young,Male,Toronto,Arthur Dunlap
+2aac6b32-c878-4974-a22d-cfa62f61ea79,2025-09-18,Canada,15c620c6-a13f-4d92-ac4e-007bc11bd06b,Job,Electronics,478.21,5,345.47,24.9,Mobile Payment,Adult,Male,Toronto,Courtney Barnes
+4788846e-fdcb-49ba-85ac-9454fffa2d24,2025-03-12,Canada,e651387c-6a39-41e2-8f17-8532b174f5a5,Walk,Clothing,472.16,4,349.19,38.99,Cash,Senior,Female,Montreal,Kimberly Marquez
+b5fef807-dc11-481c-8e6b-c58dd2af6667,2025-09-08,Canada,2975386c-8e00-4fdf-a0e4-feffb6457827,Box,Electronics,256.17,7,162.49,0.18,Credit Card,Young,Female,Montreal,Susan Butler
+e726443e-2fc6-4d19-8703-7c9e239f8106,2025-07-16,Canada,aed1d4b6-e669-4769-a9a3-6466cf084e42,Research,Toys,401.65,4,271.03,23.81,Mobile Payment,Adult,Male,Montreal,Juan Black
+c328bcfc-56a6-463d-ab0f-53e2dcb621bf,2025-09-08,Canada,cdc9abbd-5e23-40d6-ab73-41835e7967a6,Middle,Toys,114.04,9,81.26,12.37,Credit Card,Young,Other,Toronto,Mr. Roger Lam
+4756c58b-4f0e-425e-b31e-bbe072b0aefd,2025-07-27,Canada,1dca68a7-975c-43a2-8449-3b7c6cea8d29,Agree,Beauty,174.93,6,154.1,18.08,Cash,Adult,Female,Vancouver,Sean Mendez
+44901185-047a-4c18-a02b-873c44d3ebb3,2025-08-09,Canada,7b285641-f76a-402f-a9df-50c0a2353f16,Main,Beauty,226.74,2,162.51,9.44,Mobile Payment,Young,Male,Toronto,George Gonzalez
+8e78471a-8b44-4256-8dd0-1ce7352d5842,2025-09-07,Canada,c1688c8c-9e97-4f27-b3b1-8359c6f58993,Almost,Electronics,192.47,9,172.25,1.06,Credit Card,Adult,Female,Toronto,Taylor Curry
+64965789-37eb-4581-9cd9-01423a374b1b,2025-12-14,Canada,4b4104d2-39a4-4a24-8cdb-54e56525edea,Bed,Electronics,245.07,8,156.06,28.64,Credit Card,Adult,Male,Montreal,Tanya Smith
+dbc92cb6-4280-4fef-b73b-48bb5cda1a48,2025-03-01,Canada,8ff84cc2-90e5-4d23-a80a-40973cc94596,New,Clothing,202.92,3,131.82,36.14,Cash,Adult,Male,Vancouver,Sandra Boyer
+3c754a17-b729-4849-b357-2128c0643720,2025-04-13,Canada,4aee70ea-fc68-4a1e-ad15-2501f80781b7,Serve,Toys,76.09,5,49.53,9.72,Mobile Payment,Adult,Female,Toronto,Carrie Turner
+fbcbfe1a-de7d-4ad0-ac6b-810856bf6451,2025-04-24,Canada,9d111907-a2c3-429a-803a-6be224da4b8d,Art,Home & Kitchen,344.7,6,261.61,19.92,Credit Card,Young,Male,Toronto,Leslie Pierce
+436408bc-9097-4d2e-bad0-2f6e13857440,2025-09-18,Canada,4ef4bb68-2174-4e72-b589-00d141d2c4df,Relate,Home & Kitchen,167.22,10,132.84,1.81,Cash,Senior,Female,Toronto,David Dougherty
+2ecdd7a9-0bf2-42ca-a79e-32830763f44b,2025-03-12,Canada,5dbb7cde-5ce9-4722-bd2f-f663b31658eb,Appear,Beauty,447.39,6,392.69,82.05,Mobile Payment,Adult,Female,Montreal,Connie Miller
+34753009-5986-4193-b66f-41572d98ff58,2025-08-09,Canada,3a147d33-b1c1-405b-bf39-ae7917145ff8,From,Toys,86.94,2,78.15,8.34,Credit Card,Young,Female,Montreal,Cynthia Patterson
+6c51dae3-c5b1-47d5-825e-1f6da8ea9fd0,2025-07-18,Canada,a4206b63-dc59-4170-8942-1f45d12f31dc,Push,Electronics,119.26,2,79.67,16.59,Mobile Payment,Young,Other,Vancouver,Aaron Davenport
+a99eb184-3e7c-4ae2-9a60-2637eb15079e,2025-08-28,Canada,b186ec16-4983-4705-a948-826d475be5a6,Kind,Home & Kitchen,92.02,5,67.57,15.16,Mobile Payment,Senior,Other,Montreal,Wendy Brown
+6a0b5aa7-71df-4aab-bb00-166a3108c225,2025-05-17,Canada,3f366e66-1cee-43b2-aac9-e11cae9a4c05,Career,Beauty,240.46,10,202.45,43.65,Cash,Senior,Other,Toronto,Annette Baker
+02de8b8b-a940-4fa8-9c5d-18c2f4b9e690,2025-08-17,Canada,7e8fd164-48dd-4c6a-959c-354ee9420606,During,Home & Kitchen,331.33,8,281.32,48.71,Cash,Senior,Female,Montreal,Eugene Ferrell
+0b36c24b-51db-4411-8479-b65392016270,2025-07-08,Canada,ebac93b8-6fcc-4293-9f3a-d01e607e8859,Health,Sports,307.61,7,227.37,38.68,Cash,Senior,Other,Vancouver,Joseph Olson
+5b5b4397-ec59-466e-ba3a-150154e1f15a,2025-07-07,Canada,76d9a7db-6c19-4ed8-bc42-2a3f65308e59,Want,Toys,248.05,2,199.29,9.3,Mobile Payment,Senior,Other,Montreal,Michele Mcmillan
+b21182a8-a652-444d-93a2-1eb72a27832d,2025-12-20,Canada,a6195659-5ccc-4048-843e-cce3a78d75f2,Figure,Electronics,25.26,4,16.68,3.95,Mobile Payment,Young,Female,Toronto,Lisa Orr
+5fe0c6c3-66e1-4162-84ce-393aa74ac7ed,2025-09-07,Canada,083b69e7-c0ef-41d8-97b6-a45fcc424fe8,Base,Home & Kitchen,493.12,4,441.03,10.84,Credit Card,Senior,Male,Toronto,Aaron Newman
+fa25b308-8062-4bf4-85b1-21a34ba92c20,2025-09-07,Canada,c338f310-4e38-4cc1-a487-6e393f4d9d93,Appear,Toys,50.27,6,37.48,8.33,Cash,Senior,Female,Montreal,Terry Thompson
+3076bfd8-b87c-46b7-baf7-235656e1a7e2,2025-04-24,Canada,e41516a0-ffd5-4124-8423-e180a22d561a,Education,Electronics,15.3,10,10.48,2.17,Cash,Young,Other,Toronto,Samuel Moore
+f68a6839-d038-4121-abc9-4da4ec5186bd,2025-04-24,Canada,77db0b5d-cca4-4b4d-83c4-782d60087174,Mention,Toys,108.63,9,89.53,15.22,Mobile Payment,Young,Female,Montreal,Dawn David
+cc936c53-2ecb-448a-b046-dcf8133437a0,2025-12-31,Canada,91e559e0-298b-43d7-bac9-85e0bb953b7d,Traditional,Electronics,160.63,8,102.46,18.66,Cash,Adult,Female,Montreal,Joshua Higgins
+aedcef40-fc05-402c-ba9c-dc0c0bd94994,2025-08-28,Canada,64e2c1c0-2d13-4d4f-8ba8-49a055e79477,Media,Sports,121.36,8,83.72,23.32,Cash,Senior,Male,Vancouver,John Lucas
+6fe5b989-8898-453d-aefe-b50808d0c131,2025-04-16,Canada,37625c28-e091-4926-88ca-ce9bc999d53f,Respond,Beauty,17.63,3,15.21,1.01,Cash,Adult,Female,Vancouver,Carrie Garcia
+734f1b1b-e8e8-4438-97a9-fff8229c50a4,2025-04-02,Canada,a1e9d750-8180-4901-a26d-eea45a27b562,Position,Electronics,315.58,2,231.52,30.45,Cash,Senior,Female,Montreal,Richard Chapman
+3fa785c6-8ac9-43e3-a09e-91d2613db373,2025-10-19,Canada,6c0749c3-9f20-4338-a25a-792e2bd4c0cb,Media,Beauty,110.96,2,98.25,7.29,Cash,Senior,Other,Montreal,Jacqueline Carroll
+c1e0dbf9-2464-4a94-a4b4-3fa79fdbd3fb,2025-04-24,Canada,ffb7cee4-a97f-4d48-84ac-792e7c4e9d3d,Able,Toys,30.95,4,23.22,3.76,Mobile Payment,Adult,Female,Montreal,Dakota Horn
+8903ea63-4589-4bd7-b101-feb48e3d2cca,2025-12-02,Canada,0cd1d63e-0799-48fd-a545-c1c027716c0c,Between,Clothing,388.31,4,294.13,13.78,Credit Card,Senior,Female,Toronto,Debra Stewart
+3524acff-31cd-4c6b-850b-4c0347274538,2025-08-18,Canada,2507dfd3-4500-494a-835b-03e17a1cf121,Red,Beauty,89.22,8,61.38,8.1,Cash,Young,Other,Montreal,Zoe Caldwell
+d2a9349f-ce96-49f5-9b08-d9c244041a58,2025-05-05,Canada,8639ed20-33b0-44d7-98fc-90c1de89bec8,Husband,Home & Kitchen,380.92,7,250.71,12.16,Credit Card,Senior,Female,Toronto,Jessica Jackson
+b3f8ab12-2a74-4efb-923c-4ef783a13238,2025-03-01,Canada,1a8f52a1-264d-43fb-8aca-626fddfba219,Consider,Beauty,199.73,1,148.88,34.07,Cash,Young,Female,Vancouver,Jason Hall
+dc56ca25-2339-4c03-be3e-1a71a3b65437,2025-03-23,Canada,5c964436-40ed-42eb-bf85-fb567d309755,Development,Home & Kitchen,318.39,6,232.8,18.66,Mobile Payment,Young,Male,Vancouver,Diana Sharp
+5c643ee2-7722-4dbe-bfc2-b2633069e5f8,2025-05-25,Canada,5f3e61c2-183c-4b45-8129-9b8680c3e7cd,Too,Beauty,435.4,4,389.08,73.2,Cash,Adult,Male,Toronto,Christian Hanson
+44eee5f8-99fd-48a6-bfa9-468e0705a8c5,2025-10-30,Canada,21fdd88d-6f8c-406a-bf86-d5658a331e54,Name,Beauty,395.84,1,252.07,19.84,Cash,Senior,Other,Toronto,Joy Hunter
+c790714f-4247-4def-ad95-10051e56bffd,2025-03-23,Canada,69af3fb3-db43-4589-b3d7-2bb2153a186e,Something,Electronics,183.86,7,126.12,35.97,Credit Card,Adult,Male,Toronto,Cindy Stark
+3b5ac24c-6bec-448c-b60f-679503742454,2025-10-30,Canada,67b4a63d-3855-47b8-b46e-627013ccd16b,Describe,Sports,208.78,6,142.58,41.03,Cash,Young,Male,Montreal,Bobby Rodriguez
+35c64849-57b0-4e4a-a028-45922ad02737,2025-04-16,Canada,3534d01a-7558-46b2-9fe8-bedd6b70029f,Able,Home & Kitchen,150.73,3,107.76,18.73,Credit Card,Young,Male,Toronto,Elizabeth Salazar
+b62bd930-6852-4270-b29e-435c6fbc0a53,2025-03-01,Canada,81a3e954-7142-48e9-ae60-3d6f5e7269bd,Sound,Toys,180.57,2,128.59,15.71,Mobile Payment,Young,Female,Montreal,Hannah Payne
+38daa991-9d1e-4358-97e7-15f247e44cff,2025-12-20,Canada,0a3eeffd-805a-4121-bd88-b2b75e2f9cef,Instead,Clothing,384.25,1,290.35,24.52,Credit Card,Young,Female,Vancouver,Anthony James
+29def5f3-2868-434b-98fd-2fbc539ee959,2025-07-08,Canada,f82fae27-e466-45b2-b31b-18f4ed77e205,Some,Sports,194.96,3,148.22,20.41,Credit Card,Adult,Female,Vancouver,Andrew Montoya
+2ae587b3-ed38-4f63-bb26-9ed85c7dc7cc,2025-06-17,Canada,fecaed90-b7db-4319-b7a5-bbba3c45cc25,Glass,Beauty,49.29,6,34.67,0.77,Cash,Adult,Male,Montreal,Jennifer Lee
+b212d291-4f57-4f22-a83a-16b63505a962,2025-03-23,Canada,ee3abbf4-0fe4-4697-bf65-854a854b9559,Cause,Electronics,207.6,9,157.29,30.41,Cash,Adult,Female,Toronto,Jennifer Jennings
+60ff160e-d5ec-411a-8336-4b616db702dc,2025-08-18,Canada,b49622cf-13e1-4085-ac60-3e95801992d5,Left,Beauty,168.48,3,118.04,0.21,Credit Card,Adult,Male,Vancouver,Alexander Greene
+13329fa0-638f-4f16-bfdc-0a6855cd8b34,2025-06-17,Canada,3b30e87d-5c3f-45e3-bbdd-6161e7a6426e,Him,Sports,89.72,5,62.21,10.87,Cash,Senior,Male,Montreal,James Fisher
+e88484df-36b2-4d0b-b11d-0b41bca93db2,2025-12-22,Canada,ff9c8e6a-c726-4c20-bfc8-154adeb5e04a,Nation,Sports,460.16,6,406.17,24.63,Mobile Payment,Adult,Male,Montreal,Barbara Petersen
+8ac29777-a89f-45d0-80b4-b11536f41462,2025-12-02,Canada,07c79845-8cb8-4cf6-b259-25383a0d8255,Right,Beauty,482.68,1,430.15,93.24,Cash,Young,Male,Vancouver,Jennifer Ortega
+410927dc-a2b3-4d63-9819-1272a948de83,2025-12-02,Canada,5550078a-417d-464e-8ffd-0be9a23a25f4,Star,Sports,157.5,5,95.14,21.28,Credit Card,Senior,Male,Toronto,Hector Lopez
+e6f43432-fead-499e-91ac-f835792e234d,2025-12-01,Canada,a9647ba6-3d18-4512-ad0e-3b1af93fc147,Open,Clothing,156.53,5,136.51,24.88,Cash,Senior,Female,Vancouver,Kevin Berry
+2e0d1ae5-4149-4e9c-ac64-9d8d78ab197f,2025-06-06,Canada,79d4a923-4b92-430b-8e33-b95b5de39e36,Yourself,Beauty,231.76,5,147.32,31.03,Mobile Payment,Young,Male,Montreal,Philip Vasquez
+e9e1202e-4cdf-4ab4-91fc-da9cdca8c765,2025-03-03,Canada,20104be3-89aa-4e8c-aa51-e5d80821f5f4,Couple,Electronics,385.63,7,262.96,39.29,Mobile Payment,Senior,Male,Montreal,Joshua Ayala
+d999eff3-1442-4a7a-905a-f2eac3675a1e,2025-12-22,Canada,740e2a33-a483-4827-9c97-1aec54c14bd5,Experience,Beauty,385.01,8,313.51,3.72,Cash,Adult,Other,Vancouver,Deanna Anderson
+ff723fb7-26a9-4431-b6a9-bad324b4d590,2025-06-06,Canada,7c68dc0a-30c9-4bba-8fc5-d8d5fabfec9a,Forward,Electronics,492.66,6,377.65,26.76,Cash,Senior,Other,Montreal,Jasmine Scott
+f664ab6e-cb8e-4de7-8756-d3f134b1cfed,2025-09-18,Canada,faf9efbc-981b-4ad0-9dcd-7c7ef1b159a1,Degree,Clothing,456.24,5,343.82,64.79,Cash,Adult,Female,Vancouver,John Cardenas
+f66335c1-9ad8-4252-a95d-5704e1cbd8db,2025-03-03,Canada,f408c9e4-093a-4f19-b12c-1961d0e66078,Finally,Toys,98.83,2,82.45,3.87,Cash,Adult,Male,Toronto,Crystal Crawford
+6f1a2416-880f-49c1-a318-a6aaf62ea396,2025-07-16,Canada,408c9bd4-96ee-4b26-bf2c-5369516ee209,Similar,Beauty,437.61,8,335.34,18.9,Mobile Payment,Young,Male,Vancouver,Melissa Mejia
+59c36ff8-cb60-4785-8d25-051b1ccd3151,2025-09-07,Canada,f3ce7c2b-f50a-4985-a382-93b42de9fefe,Trip,Beauty,78.17,7,62.06,0.68,Cash,Senior,Female,Montreal,Tyler Lee
+31775310-2bcd-4f23-b02e-8204779ba0e6,2025-11-20,Canada,e48061c5-1dad-4e12-85e3-a69d2d529ed8,Both,Toys,29.07,5,21.29,1.2,Credit Card,Adult,Other,Vancouver,Teresa Keller
+b29e2d3a-5b29-4110-aaa3-63fd69533229,2025-11-10,Canada,e71007e6-cedb-4792-8372-344ba9118721,Current,Home & Kitchen,296.17,3,233.42,44.08,Cash,Senior,Other,Toronto,Jacqueline Watson
+46b0116d-a036-4bdf-a6af-3cc5ad820eb7,2025-08-28,Canada,ebeb0d7e-5a04-4610-ad73-233ea2813630,Scene,Electronics,272.32,7,186.49,8.41,Mobile Payment,Young,Male,Montreal,Daniel Watson
+702ccdd5-ca2e-45f3-b0b3-1b6926f41a5f,2025-08-28,Canada,6e179836-8216-4b4b-8b96-7bcc8da48c35,Significant,Home & Kitchen,363.86,7,218.37,53.27,Mobile Payment,Senior,Other,Toronto,Jacqueline Thompson
+0a9c560c-7fb1-48d9-b424-6b551282c9bf,2025-12-11,Canada,2a0b7ad6-a96e-477d-9670-9187b8fa5139,Dream,Sports,59.69,1,43.01,1.85,Mobile Payment,Young,Female,Vancouver,Elizabeth Riddle
+ae6b0a29-0a94-4ecd-91c8-07bcb65ced0e,2025-05-25,Canada,248083f5-0ccc-4b3a-835e-8e96b263947d,State,Sports,238.17,3,159.16,32.42,Mobile Payment,Senior,Other,Montreal,Ashley Sanchez
+885b9f62-a3a8-4abd-af6b-ce6840473910,2025-07-26,Canada,76c0940b-1ba4-4f00-ab5f-e764d883646b,Raise,Sports,289.5,1,189.92,46.32,Cash,Adult,Male,Vancouver,Melissa Vargas
+f64d7336-59f3-4744-ba1f-1ebc15c3c70c,2025-06-17,Canada,567d9392-2624-4510-aad1-58265d32f66d,Detail,Beauty,258.51,6,191.04,0.75,Credit Card,Senior,Other,Vancouver,Amy Mathews
+4b3656c0-16ba-4a96-8517-76aa877d4f4e,2025-12-21,Canada,29a6399b-f958-40f5-9238-400f82fe8103,Next,Toys,457.51,7,302.38,41.14,Credit Card,Adult,Male,Vancouver,Catherine Booth
+134d7c52-95b0-4cfc-a0bc-ce6bd2b51bd2,2025-05-03,Canada,2a4faf5b-c88b-41c9-8453-5b68ceb3fad4,Culture,Electronics,254.4,10,226.71,18.84,Cash,Senior,Female,Vancouver,Jeffrey Moore
+7da601bc-09b5-4666-9de6-0a8b88080eb3,2025-05-14,Canada,f04ebfb3-0686-430e-b80c-fc1d09cab354,Store,Home & Kitchen,308.58,10,235.96,54.55,Credit Card,Adult,Other,Vancouver,Robert Young
+a11dcd0e-fb0a-4ce1-af5c-c0f419972294,2025-03-12,Canada,d64ab822-2b87-47a9-849a-71c23a6d22c1,Art,Beauty,495.75,4,414.03,85.32,Cash,Senior,Other,Montreal,Anthony Sanders
+a2c19953-6926-4175-a752-536046c4fd2d,2025-12-02,Canada,46860b67-10b8-4860-8b48-0ef6f6031784,Ten,Toys,328.39,3,260.23,26.17,Cash,Adult,Female,Toronto,Tammy Lynch
+0e9dd20d-3c60-4e75-a2fd-a139f39aa4a9,2025-04-16,Canada,4c99ebe7-6586-44f7-87ea-93478dc6940e,Baby,Electronics,492.64,5,400.59,64.47,Cash,Young,Other,Montreal,Ashley Dyer
+a0c095ea-f81c-4207-8cb9-66a67f3afab3,2025-09-18,Canada,921b48b9-a5e2-46e8-9926-d03e3cc737fe,Husband,Electronics,343.55,8,292.28,8.05,Mobile Payment,Adult,Other,Montreal,Elizabeth Mccall
+96f7cad6-14ba-403e-bded-5302d1d09e87,2025-08-18,Canada,5acae6c5-7c9a-4fa4-afb8-e45a2494fe9f,Democrat,Beauty,344.44,3,286.79,3.61,Cash,Young,Other,Toronto,Raymond Harrison
+68a1ded1-9bcb-421c-8243-27520fc83d15,2025-12-20,Canada,c9eaceea-859a-43b5-af96-b23bc04dc010,Leg,Electronics,425.35,7,363.17,77.59,Mobile Payment,Young,Other,Montreal,Jaime Pope
+a99b69af-fee8-46e2-a3ff-94d1ec82e8fc,2025-04-16,Canada,19445a0f-0d3c-4ca8-9492-18216e5ab245,Support,Electronics,85.18,8,67.46,11.05,Credit Card,Adult,Male,Toronto,Melissa Rios
+d25ff4be-7583-48db-8a36-d5339a849778,2025-06-06,Canada,846dd1a4-8862-4283-9996-250edfb5f33e,Half,Home & Kitchen,202.57,7,167.34,15.19,Mobile Payment,Adult,Male,Vancouver,Tina Jacobs
+7457946b-0600-4f9f-a563-22c069518f49,2025-12-02,Canada,67fd46bb-991d-4de5-8db3-88174d99b138,Modern,Toys,379.55,7,263.21,32.41,Cash,Adult,Other,Montreal,Laura Underwood
+2345c8ff-1dfe-41d1-8082-64c5ae49ab10,2025-10-09,Canada,a55776d4-43e5-4644-a4c1-a0b278669d5a,History,Clothing,264.91,6,197.48,15.7,Cash,Young,Other,Vancouver,Adam Scott
+e6834f94-5c12-47a9-ac54-14aca6de7304,2025-06-06,Canada,210509ef-963d-44b4-bd10-c07fb823a6f2,They,Clothing,174.06,4,114.31,17.9,Mobile Payment,Young,Other,Toronto,Rachel Johnson
+24bad4b2-d680-495f-9113-1a8cfa153cb7,2025-04-16,Canada,ea7fdb81-f269-4aa0-8a9b-2464fd829a1f,Believe,Home & Kitchen,293.54,8,239.79,16.72,Mobile Payment,Young,Female,Montreal,Linda May
+361fa148-07c8-48bf-88a2-761f7c317520,2025-03-12,Canada,e7c35690-117e-43de-a154-286fd4feb08f,Remember,Clothing,42.63,7,29.9,1.27,Cash,Adult,Other,Vancouver,Crystal Franklin
+0116a5e5-9e15-4cd3-af66-9921516e8c71,2025-03-15,Canada,34bdd1f5-e6cd-4193-98a3-950ea67ebc43,Maintain,Clothing,72.26,9,50.85,13.64,Mobile Payment,Young,Male,Montreal,Gerald Austin
+3236c5af-9cd7-4712-9f8b-b7f97c240eb4,2025-07-07,Canada,77e18b4e-e6bf-44d0-9b3b-c4dd7fc20b1c,Hospital,Electronics,36.44,9,27.86,6.08,Mobile Payment,Senior,Male,Vancouver,Richard Bennett
+87f781a0-9ce2-48f6-9ac3-fef6e7097a6c,2025-04-16,Canada,2f2148c0-9bd2-4486-bd12-134ab5157810,Agree,Toys,90.66,10,71.23,13.88,Credit Card,Adult,Other,Toronto,Nicole Williamson
+99c4a39e-9f08-4fc3-815f-22180c37a303,2025-12-14,Canada,725ab1fb-6fb8-4819-bb6a-448ec865e995,Executive,Toys,492.6,4,370.0,59.9,Mobile Payment,Senior,Male,Vancouver,Michael Parker
+d177ef0d-09a4-417d-bf90-0017836ac413,2025-11-10,Canada,b10880ea-6976-4cf0-b377-892ddeea74eb,However,Sports,447.28,10,310.28,52.65,Mobile Payment,Adult,Female,Toronto,Melissa Peterson
+ac9aa0d3-5834-4fea-b541-065cc95f2d7f,2025-03-23,Canada,f8f03ed9-4ba1-42ba-8c75-a3b520602b33,Letter,Toys,312.27,8,223.37,52.51,Cash,Young,Male,Vancouver,David Bass
+72b47a00-c35e-45d7-8779-b6d9d2656b16,2025-04-04,Canada,33a4e869-a214-4d28-8669-eb46dbbc8014,Range,Electronics,146.4,3,119.07,16.23,Cash,Adult,Female,Toronto,John Pierce
+9fceb672-68c9-4b64-8046-00d15410563f,2025-07-05,Canada,f6427775-fc7c-4564-8364-43f363630268,Allow,Home & Kitchen,151.36,1,107.27,18.32,Mobile Payment,Adult,Other,Vancouver,Rhonda Cruz
+c2a370d7-929f-414d-9201-47fc51b992d3,2025-05-14,Canada,902fc9b9-e29f-4679-842f-c1574e88222d,Pass,Electronics,173.33,7,137.54,0.7,Cash,Senior,Other,Vancouver,Jacob Cook
+bbd4feb9-6d1d-47f1-b0fe-14569b3e30ef,2025-02-02,Canada,e602cb95-05b5-46f6-ac29-6a34ca7b69f6,Capital,Beauty,225.66,8,169.55,11.04,Mobile Payment,Adult,Other,Vancouver,Samuel Wilkerson
+a2278641-7d64-4bf8-a7a4-8236a6f46a3d,2025-10-19,Canada,b68f8c8e-0e15-476f-973b-c9668732b22e,Travel,Electronics,172.93,7,113.4,1.9,Cash,Adult,Male,Toronto,Jessica Flores
+05188dab-125e-4fc2-bf2a-f41894f470ca,2025-03-03,Canada,936431b3-21fd-43df-83c9-b7186cc44eea,Like,Clothing,67.1,6,57.14,12.88,Cash,Senior,Male,Vancouver,Madison Perez
+2cc42812-e227-42fb-bd5e-4c0172a25498,2025-04-16,Canada,c498e876-71b0-48a4-a486-05dc989c9bdf,Remember,Home & Kitchen,217.73,7,191.61,31.73,Mobile Payment,Adult,Male,Montreal,Stephanie Harper
+dd59b949-5055-4c97-8ffb-f1f62f30d948,2025-10-19,Canada,250f7b04-8825-4d74-8026-81b880af18ce,Hard,Home & Kitchen,417.67,2,292.84,72.13,Mobile Payment,Senior,Female,Toronto,Samuel Hutchinson
+681f5689-8077-41c7-ac57-2ea16392ca3e,2025-05-14,Canada,b6cd117e-0306-43e9-80d9-82677149eafa,Commercial,Clothing,211.85,8,187.68,35.59,Mobile Payment,Adult,Male,Toronto,Desiree Martin
+ca8b3843-961a-4b8f-ac82-84bf3cbd3816,2025-06-15,Canada,d8923423-e6c9-4f85-a750-b93680b224e0,Carry,Home & Kitchen,491.96,9,412.42,97.21,Mobile Payment,Senior,Male,Vancouver,Heather Stark
+cfa0bc1e-26e0-4707-bc50-fcbcb0f1a0a6,2025-07-08,Canada,ffadbb68-3717-41e7-9b60-010404b044b9,Fall,Beauty,62.3,5,50.03,11.17,Cash,Senior,Female,Toronto,Brian Wood
+cb5bcbcf-5d03-4108-91cb-87b3a4ae7265,2025-11-12,Canada,bb80db5b-ea68-470c-8a16-d9252499b1db,Simple,Home & Kitchen,81.51,7,56.24,7.85,Credit Card,Adult,Other,Toronto,Robert Tucker
+5dac5d6a-84aa-4176-90e2-a70f78019c51,2025-05-14,Canada,dae35ec0-6bf8-4cf6-81f7-2e0705f9b776,May,Home & Kitchen,231.13,4,203.47,10.86,Cash,Adult,Female,Vancouver,Joseph Perez
+3989ac9e-06bf-4d51-a7c3-cc0ad1e294e9,2025-03-23,Canada,8a540a40-8af9-470a-a24e-6a1157ae86bb,Method,Clothing,455.62,5,335.57,2.99,Cash,Senior,Male,Montreal,Caitlin Simpson
+ccb2cb18-4b36-4965-8ddf-834edb7facfd,2025-07-07,Canada,a7be6a4e-169b-44c6-b443-44ba090c349a,Organization,Home & Kitchen,250.14,3,154.47,10.97,Credit Card,Senior,Other,Vancouver,David Murphy
+4f559b8d-80b8-4d36-a7c5-4c438cf1cf6d,2025-09-07,Canada,d034b65a-7f22-45f2-9456-7448a24228cc,Republican,Electronics,363.37,8,325.66,32.8,Cash,Adult,Male,Vancouver,Justin Rodgers
+9d573a52-41b3-41de-8d49-f544a140a22e,2025-04-13,Canada,91655f3a-a2ce-4185-9056-f5e256fa1596,Stand,Clothing,135.07,2,85.33,12.52,Credit Card,Senior,Male,Vancouver,Edward Hall
+656fdc89-bee1-42ce-a7b0-09fb34b3e322,2025-03-03,Canada,9117646b-633f-474a-b3b6-2b29ef404614,Write,Toys,86.21,7,67.13,16.75,Cash,Young,Male,Toronto,Curtis Jacobs MD
+6a32e901-bdb1-4b07-9884-6bf1c3f53786,2025-06-04,Canada,363dadae-4f08-4695-83c6-8ff18e2524e7,School,Clothing,377.13,3,314.93,52.85,Mobile Payment,Young,Male,Montreal,Larry Jones
+3141accb-a7a2-49f3-b122-dc5d2613f31e,2025-07-07,Canada,70128f82-3468-48f9-9e6c-8e561488d842,Suggest,Electronics,418.34,2,356.93,67.19,Mobile Payment,Young,Male,Toronto,Michelle Gonzalez MD
+ff147c9a-9b26-4232-819e-ce816892f64f,2025-04-16,Canada,b733b1db-43a4-4f2c-86d9-94c7863ae7a2,Clearly,Sports,136.83,5,116.68,5.22,Mobile Payment,Senior,Other,Vancouver,Sylvia Hernandez
+13b733b6-ebbe-44e9-ba12-51f9cb275522,2025-03-23,Canada,a5873a2c-35f3-440a-893f-d1af4498d94f,Option,Clothing,123.31,2,74.6,5.58,Cash,Senior,Female,Toronto,Deanna Brown
+2a1b570d-7cb0-4ec5-a9c4-df8f695f1bb4,2025-05-14,Canada,3c2e0926-c7c6-4aab-ab7b-d9918e99b4cf,Money,Home & Kitchen,39.4,7,25.66,1.84,Cash,Senior,Other,Montreal,Kevin Foster
+11162f2c-107d-4ab2-be6f-f5dc738966d3,2025-07-08,Canada,80cdad10-11ee-407d-a2cf-e5b86d717a4b,Item,Toys,421.62,9,321.91,13.71,Credit Card,Senior,Other,Toronto,Adam James
+457c35d3-aef0-406e-b1db-c822e1c36db9,2025-04-04,Canada,e0275ba6-8c05-42f9-aaa6-1d7c1cfe9ad8,Mind,Electronics,10.46,2,6.84,1.46,Credit Card,Adult,Male,Montreal,Jodi Graham
+428536cc-193d-49b9-8746-044851f36f3c,2025-07-08,Canada,0951800a-515b-4014-beba-6a83a05e589d,Recent,Sports,334.53,8,212.49,10.24,Cash,Senior,Other,Toronto,Aaron Reynolds
+415d0f48-5dbd-4117-9e78-660e1245e9a9,2025-09-10,Canada,c290ed27-046a-404f-9f14-ade6a5d412b2,School,Beauty,239.67,7,197.78,20.56,Cash,Senior,Female,Vancouver,Adam Cooper
+d66d9ade-d7e0-47a9-9468-eb1cbf8659dc,2025-03-01,Canada,0a9d3e68-ef7d-4bac-8ea0-6ee83d1e37fb,Fight,Sports,446.71,6,352.27,48.98,Credit Card,Adult,Other,Montreal,Frederick Holmes
+19638bf8-eaab-4043-af70-1f5f6a6a5279,2025-10-11,Canada,71fda3b2-eb7f-47f9-879c-523d4084cf3b,Line,Toys,85.49,4,72.98,8.61,Credit Card,Adult,Female,Toronto,Antonio King
+8fb0bcb2-70e6-4e55-b001-cba8a97bc005,2025-03-03,Canada,b77318c6-7ecb-49db-a147-adc6c8582cd6,Important,Sports,335.7,4,263.66,50.94,Mobile Payment,Adult,Other,Toronto,Breanna Bell
+0fcc350e-668a-4b2b-a3fb-a581417ab901,2025-12-22,Canada,0cba2cb6-a6f8-4106-98b0-3ab0b152d132,Sport,Beauty,406.27,5,351.23,16.97,Mobile Payment,Adult,Male,Toronto,Ebony Williams
+00fd3cbf-93c2-413d-9a38-656e09fd8c92,2025-10-19,Canada,f98fe624-5d13-4374-849d-fa5c8c711e3b,Sign,Electronics,378.6,5,228.32,6.57,Mobile Payment,Young,Female,Montreal,Jonathan Harrison
+d27e98e2-3648-4de4-8bd9-74e5c303c988,2025-12-13,Canada,619ac8dc-ee1c-4c18-b846-91f17a838e8c,Skin,Clothing,216.45,6,187.02,37.59,Cash,Young,Female,Vancouver,Anna Murphy
+4137342c-61ad-4549-90a4-5583cce47579,2025-01-28,Canada,5e228880-3816-420e-a9ae-4f5591de5c83,Year,Clothing,435.88,6,322.37,50.77,Mobile Payment,Adult,Male,Vancouver,Sara Clark
+7c213389-fdc0-492b-aa58-770fe31617a7,2025-10-11,Canada,fdc972e2-98b6-4f99-9a26-04d60e9424e3,Nature,Sports,11.88,7,8.53,0.89,Credit Card,Young,Other,Toronto,Christina Phillips
+85c42cab-2817-4942-8819-05797c2e825f,2025-12-22,Canada,cd35976d-1a20-45f2-95e4-6beec776953a,Night,Electronics,251.01,2,168.66,11.24,Mobile Payment,Young,Male,Toronto,Peter Brown
+cdc3d4b8-5c6b-42cf-a56d-4136edc144c7,2025-10-30,Canada,6b0bdb7b-e9ea-44c7-b39c-7c49337cd9d0,Learn,Toys,119.57,4,91.11,9.56,Cash,Senior,Female,Montreal,Alicia Torres
+03a5c448-b806-4c4a-9129-77e63f47b99b,2025-02-16,Canada,8fa779e8-01e5-48ee-baa4-c2e8af8b17bb,Step,Beauty,127.66,7,81.03,9.5,Mobile Payment,Adult,Other,Toronto,Eric Ellis
+95aa8986-8a8b-443a-8b86-d021d309f960,2025-12-11,Canada,ef7eebe3-b2ab-4b69-8a82-8257bfbc03f6,Sell,Clothing,156.07,2,140.12,29.82,Credit Card,Adult,Other,Toronto,James Johnson
+e03e0e40-be63-4a42-b561-7a2a28f3217f,2025-07-05,Canada,768851e2-4fc4-4c58-96ee-6451296eea1d,Administration,Sports,41.54,2,33.85,5.96,Mobile Payment,Senior,Male,Vancouver,Donald Gibson
+8f89b43f-e79e-4ce1-9f32-58a8349c7a46,2025-01-27,Canada,488fccb0-9a40-46b3-8011-1a7906bd6e48,Summer,Toys,37.32,2,33.08,4.86,Mobile Payment,Senior,Male,Vancouver,Michael Rodriguez
+6a039804-b94d-45a8-8edc-de05aeb5d493,2025-12-20,Canada,ec449361-969a-434b-a8c7-573eaf798bb4,Which,Toys,179.08,8,133.2,3.56,Mobile Payment,Adult,Other,Montreal,Abigail Sweeney
+0cff7ec1-4bcd-43dd-afff-4e6f49ce897e,2025-11-20,Canada,f473dbbd-7c26-42c4-ba65-33261ed23082,No,Sports,394.4,6,285.89,67.27,Credit Card,Young,Other,Montreal,Jordan Davies
+28b9476a-a798-443b-8719-d97dd2df6a41,2025-05-25,Canada,601b668a-5b2c-4749-a12b-d0012d1a5a17,Land,Sports,339.14,3,264.98,52.74,Credit Card,Senior,Female,Vancouver,Michael Harrell
+a221e043-73e4-41d3-b0aa-501c372a664c,2025-03-23,Canada,6e8a9d04-d660-4e4d-89fe-67cce4b9e47b,Exactly,Beauty,323.14,10,284.75,5.63,Credit Card,Young,Female,Montreal,Ronald Thompson
+97fba81b-92ba-4177-b181-20b301da2a8d,2025-04-13,Canada,bd53f8f8-6c19-449b-9b89-4a769c8dd9ab,Very,Toys,173.47,6,104.69,8.58,Credit Card,Senior,Male,Toronto,Joshua Wilson
+ef824efe-eadc-4c11-b40f-ff01b1b623b6,2025-06-06,Canada,d5809a4e-0e35-48f5-99fb-43272947f87e,Happy,Electronics,296.59,5,245.73,17.9,Cash,Adult,Other,Toronto,Paul Martinez
+41be317b-19db-4570-ba26-aee49bdd2514,2025-06-04,Canada,4cb2eb38-a217-4e16-bc32-6fad3e93a728,Theory,Sports,255.05,10,160.94,32.52,Mobile Payment,Adult,Male,Montreal,William Johnson
+a81b9e5c-2a88-4c9b-ad43-7e7142befa1c,2025-12-01,Canada,22027a1f-a06c-4193-91e6-edfd377983a6,Television,Sports,406.29,7,344.23,23.2,Credit Card,Young,Female,Toronto,Melody Jimenez
+0f1b406d-8da2-4073-bc27-83ef8dac6361,2025-08-18,Canada,f29d6416-4bd5-4af5-a5ce-2bc65388c652,Body,Electronics,451.15,9,391.61,73.88,Cash,Senior,Female,Montreal,Jesse Thompson
+81143be8-5e9b-4a95-8fae-c7f6f2fe48ca,2025-07-05,Canada,acf2f803-fdde-4a08-85d4-98359ad6e11d,Dog,Electronics,84.36,6,58.4,8.91,Mobile Payment,Senior,Female,Toronto,Thomas Torres DVM
+6cd54f59-3890-4553-bd74-ee1eec860652,2025-01-24,Canada,0a6e5fed-f9a4-422b-b63c-61ebe465a925,Subject,Home & Kitchen,116.45,9,103.31,21.49,Credit Card,Young,Other,Toronto,Erin Butler
+973c7efa-84c4-4f62-bb77-3e9a83e80dff,2025-09-29,Canada,d0836290-a6f6-4ed8-b202-f446e82a28de,Range,Electronics,106.48,2,83.01,2.1,Mobile Payment,Young,Male,Vancouver,Jeff Johnson
+f49c7303-0b16-428d-a6a6-0d3b355c9d65,2025-01-13,Canada,46534ef3-3bd7-4161-9158-b6bfd9513126,Mrs,Sports,443.98,7,363.28,3.67,Cash,Senior,Male,Vancouver,Jocelyn Wilson
+f0b2bf3f-5676-4fd8-b505-2bbde3c28dfb,2025-07-16,Canada,0654cfb4-d83f-4813-b917-15fe1423be98,Assume,Clothing,98.0,7,76.27,0.07,Cash,Adult,Other,Vancouver,Shawn Johnston
+ee13163e-f21e-4d60-b521-c06e3a3ac42a,2025-05-25,Canada,366412c3-96e0-4584-8b8b-29c1f683ce10,Television,Clothing,160.77,9,103.5,15.88,Mobile Payment,Senior,Female,Montreal,Diane Shaw
+1eab4586-5928-4adc-9dd3-ee8f49770501,2025-05-14,Canada,99678971-aa64-43e8-a22b-023efffde767,Society,Home & Kitchen,160.01,7,104.8,30.83,Mobile Payment,Senior,Male,Montreal,Jennifer Osborn
+29485186-002f-452c-aff2-8689341078c8,2025-01-17,Canada,5314def9-f3e7-4b49-8047-d49b256dd61e,No,Sports,250.86,3,160.65,20.6,Credit Card,Adult,Male,Vancouver,Robert Schmidt
+42c138a3-0c94-4027-a930-80bfc6b922a0,2025-03-03,Canada,9b1be8a5-4110-46a8-b642-edbacb78bc59,Contain,Electronics,47.42,5,31.56,1.33,Credit Card,Senior,Male,Montreal,Tonya Moody
+e80edd0a-52a9-450d-aecb-d63ae5b2953b,2025-01-05,Canada,7e76001c-6bd1-491a-bbbe-434c1051e0a7,Serve,Home & Kitchen,106.78,1,65.62,13.79,Credit Card,Adult,Male,Montreal,Daniel Carson
+25055493-a12d-4730-a539-2fa081dcd128,2025-09-07,Canada,43578cce-ffb9-48c6-9796-a1ddf231027c,Add,Beauty,216.61,9,154.99,6.38,Mobile Payment,Senior,Other,Toronto,Carolyn Jones
+efe64bf0-d47f-43ce-92fb-d4c9c5744f91,2025-07-16,Canada,37b6b9f6-f801-4666-ac3e-2806a252f090,Simple,Electronics,360.57,4,311.4,18.98,Credit Card,Adult,Other,Toronto,Lisa Kane
+5f3a20a4-bd97-4e84-8fed-2feea1a7d92c,2025-08-06,Canada,0c184273-aac7-4da8-915d-a08ed138e9eb,Who,Electronics,163.25,3,100.12,12.52,Credit Card,Young,Other,Vancouver,Timothy Curtis
+c38cd5cd-1709-4082-bdd8-4eebf5632fcd,2025-09-29,Canada,65ce9a13-01e8-4ad1-8d45-1e11e0802f64,Eye,Electronics,477.89,2,363.92,55.75,Mobile Payment,Senior,Other,Toronto,Chris Wiggins
+d5e153ce-a6ac-4fa9-9c02-56346980438b,2025-04-02,Canada,07923b0b-c341-48b0-9350-25893f3d36d3,Line,Electronics,335.83,4,268.62,15.86,Mobile Payment,Senior,Other,Montreal,Karina Schneider
+07df4deb-f526-47a7-90ed-b08221c5e9cc,2025-01-26,Canada,307398e1-a80b-48e0-9588-325531c88549,Trip,Sports,198.26,10,148.6,4.5,Mobile Payment,Young,Male,Toronto,Kelly Duran
+d3cee382-fac8-486d-a770-e46a11667211,2025-04-04,Canada,9f032f79-25da-4d9a-bc17-e4cc6e8afebd,Idea,Beauty,94.45,5,60.46,18.87,Credit Card,Senior,Female,Montreal,Natalie James
+722b8c5e-00e6-44f6-bc9d-f9688ee8263d,2025-12-13,Canada,032fe5ee-bcab-4149-88dd-293a8eec2be1,Economy,Home & Kitchen,375.69,7,233.27,59.09,Mobile Payment,Senior,Male,Vancouver,Cheryl Williamson
+659de4b9-31f2-49b0-b869-41d335b14e58,2025-10-19,Canada,73c70863-8b59-4b51-9865-a9db66cc22f5,Stay,Clothing,418.03,3,324.64,10.46,Mobile Payment,Senior,Female,Toronto,Scott Owens
+13d02b17-d521-4402-a585-52bd1240c629,2025-07-16,Canada,beeeabdf-387b-402c-a0d3-468546de87fe,Reach,Beauty,112.4,8,82.3,11.3,Mobile Payment,Adult,Male,Montreal,Maria Mckee
+9d43fb66-3730-4019-a681-616e5dd2612e,2025-12-20,Canada,03f98ed3-c8b5-4afd-9da5-088f99a88e0d,Know,Clothing,443.3,1,274.83,7.05,Credit Card,Young,Male,Toronto,Stephanie Johnson
+435000c7-145b-4f56-846b-a3529fd4352d,2025-12-20,Canada,96bcf0b1-e5ab-40e8-856b-088459e6e355,Election,Toys,290.38,6,228.49,30.54,Cash,Senior,Other,Vancouver,Albert Coffey
+7f016257-9498-40ea-882c-b706ba6d310b,2025-10-11,Canada,38efbf46-29c1-4f2c-b1c9-d72cd7691fa9,List,Home & Kitchen,177.07,1,132.21,3.01,Credit Card,Senior,Male,Montreal,Christina Nguyen
+d0087050-d2fa-4ab0-8eaa-88a584dc0cd5,2025-06-06,Canada,febcfd7b-fdf3-4785-85fa-fc8f1e38b7f6,Though,Beauty,339.43,3,298.09,51.47,Cash,Adult,Female,Montreal,Michael Rosales
+3ea12422-92a0-4a08-a084-407ad11f2849,2025-01-12,Canada,c00418ad-2d52-41c3-99a5-3d2a11e9d33f,Bed,Beauty,479.42,9,324.61,9.76,Cash,Young,Male,Montreal,Michele Jordan
+48d5067a-64f0-4464-ab05-f3ab703727b2,2025-12-13,Canada,8e8379b9-88ef-473c-8a00-ed771121369a,Federal,Toys,176.67,2,150.86,34.64,Credit Card,Senior,Female,Toronto,Walter Gonzales
+fed580ad-c6bc-4cc6-8a69-866bb4373d38,2025-08-09,Canada,d93cd18e-04ba-4ef4-8141-52b6d58e14f4,Else,Sports,146.26,10,130.95,20.39,Mobile Payment,Adult,Other,Vancouver,Mrs. Lisa Pugh
+ec716fcb-3520-4837-8f5b-1b4d1239989c,2025-02-03,Canada,aab8ed67-05ec-4396-9d36-e060d03a1774,Firm,Toys,18.96,4,13.01,1.27,Cash,Adult,Female,Vancouver,Adam Castillo
+9cf0f1a0-a5d1-4240-a42d-ccf4d5f3ca4a,2025-03-15,Canada,9b2c13a2-3402-430f-be02-dcd0208eaf5d,Item,Beauty,384.85,10,278.08,33.65,Cash,Senior,Female,Toronto,Henry Morris
+97c59a74-681b-4120-bdcd-a149b80bc3de,2025-10-30,Canada,db9d04cd-b229-4cbf-b3fb-4b1bc452ce03,Item,Sports,264.31,3,163.3,39.41,Credit Card,Senior,Male,Montreal,Ryan Moreno
+9334d10d-108c-4f1e-a860-f18f4c1298bb,2025-08-09,Canada,00334805-bca9-47a5-928b-126f5f771c31,Part,Clothing,306.78,6,227.96,37.82,Cash,Young,Male,Toronto,Sandra Mcmillan DVM
+f5de2ab1-536e-4697-94c3-c976760ce9c2,2025-06-04,Canada,a9e3c8b2-acf1-416a-be76-18fe962dc5ef,Understand,Clothing,402.27,7,267.05,60.75,Mobile Payment,Young,Other,Toronto,Brian Gallagher
+c2a25578-a62b-446c-b809-7e1d4be0ea10,2025-10-30,Canada,6858a8f2-caa5-4ba3-a4fc-e44104366c63,Strong,Toys,211.39,3,186.79,5.48,Mobile Payment,Senior,Male,Vancouver,Kim Butler
+eb218c49-9d62-432d-a88b-94ea751970a3,2025-08-18,Canada,0c2c4d55-eb71-42dc-9cbd-94bf59494cfd,Water,Beauty,74.39,3,49.07,3.31,Cash,Young,Female,Montreal,Melissa Murphy
+071189ff-5185-4431-a435-c4dd71a998dd,2025-12-13,Canada,e6c90f5c-dfc5-43d6-9f43-5cda051a3f4d,Change,Clothing,196.02,10,146.09,16.65,Cash,Senior,Female,Toronto,Dominique Christensen
+f02169de-0685-4d36-a12c-a15ae70f1173,2025-03-15,Canada,a3fa4def-345c-4493-b77c-d55210d0bdb6,We,Home & Kitchen,139.45,10,95.95,18.69,Mobile Payment,Senior,Other,Toronto,Katelyn Rhodes
+16d84b29-629d-421a-8199-4ea2e63d35c1,2025-10-19,Canada,36b48ba8-1228-408d-ab15-1071cd45fd0f,End,Sports,52.9,6,43.48,4.48,Cash,Young,Male,Montreal,Linda Mcneil
+e365f605-0cdf-4b04-80d4-311e0dd2bf6a,2025-09-29,Canada,db7a50bb-0b7c-4517-a048-e0d09021533e,Consider,Beauty,312.03,10,191.16,22.03,Mobile Payment,Young,Female,Vancouver,Lisa Burnett
+f0b8b467-45c2-4c9e-a979-33d9fbde163a,2025-02-03,Canada,5a6d3d75-8a8e-4a19-a178-41773525b5d2,Maybe,Sports,29.23,2,22.53,0.4,Mobile Payment,Senior,Other,Vancouver,Dennis Alvarez
+614c388d-2866-4c59-9fcc-a70943ad0067,2025-05-14,Canada,f8ae4790-5325-4235-9cc4-1944b8702ac1,Civil,Toys,226.16,8,166.72,1.17,Credit Card,Adult,Other,Montreal,Kimberly Lewis
+1829b3ca-33af-4379-9d16-aa5dc6855921,2025-01-06,Canada,5d7309b9-df39-41ed-8807-97699110929f,Create,Clothing,114.7,2,86.01,3.11,Credit Card,Young,Female,Montreal,Michael Cooper
+f27af008-880d-4b53-88f8-e2f29053c16f,2025-01-23,Canada,df9bfe7d-bb21-4ebc-9282-88750bc50ec3,Phone,Clothing,486.27,6,424.86,48.26,Mobile Payment,Senior,Female,Vancouver,Jordan Hernandez
+c0c0df0a-d132-475c-b207-9933fc65cec8,2025-06-06,Canada,824e10f2-799f-4487-9e77-916ccddbccf1,All,Beauty,131.5,4,115.42,16.75,Cash,Young,Other,Toronto,Jeffery Johnson
+3a807788-ae1e-402e-825c-15884ea5cb8d,2025-10-11,Canada,4614071e-ba3c-48f4-9b79-62dd1f8961ec,Report,Clothing,221.3,1,166.47,27.3,Mobile Payment,Adult,Male,Vancouver,Glenn Anderson
+9a5df449-556f-4bd7-aee4-10d1b783067c,2025-02-04,Canada,05204511-fecc-45e3-bda9-970412ae9752,Send,Sports,391.83,1,303.71,5.01,Mobile Payment,Senior,Male,Montreal,Logan Ellison
+a2809247-ffb1-499f-bc81-14a951ace6c7,2025-09-18,Canada,e5c72d09-e1cf-4554-a426-bedda53ec559,Within,Home & Kitchen,276.61,6,168.52,46.13,Credit Card,Senior,Male,Vancouver,Stephen Miller
+d8ca784e-eca0-4e42-828a-40ae207414c4,2025-07-07,Canada,783a20b1-54ab-4b97-8b3a-e14877c4274a,Meet,Electronics,498.32,7,368.14,29.48,Credit Card,Adult,Other,Vancouver,Bob Bush
+1dc03fc0-f156-4db5-89f2-4713e8d629ac,2025-01-02,Canada,8d4eaea1-9747-4704-8785-cae101c0df2c,Receive,Toys,498.12,2,358.65,23.99,Mobile Payment,Young,Other,Toronto,Samuel Hill
+3fcd7b7c-3c55-46c9-9045-b4344e76a12b,2025-01-23,Canada,013a0d8d-b52e-49ed-9439-4c6a5fe420bd,Wrong,Beauty,52.42,5,31.62,8.77,Cash,Adult,Male,Vancouver,Christopher Webb
+c96894ab-3b5b-463c-860b-86899b0d211f,2025-07-08,Canada,8e5970ba-ac4f-4d88-a113-21586b3dcd2f,Foreign,Electronics,148.51,1,128.46,3.95,Cash,Young,Male,Toronto,Beth Brooks
+6fcbcebd-9dd3-41ad-8147-048e3ce681e4,2025-11-20,Canada,b57a4fe0-767e-47b0-87de-159b64b7e8b1,Three,Electronics,74.84,5,59.38,14.56,Credit Card,Adult,Female,Toronto,Dylan Hopkins
+e66a9636-fbba-4bcc-9563-15ee33b08fde,2025-07-07,Canada,687f260f-91f3-49cb-a763-6cfbf7c9d9db,Process,Home & Kitchen,441.79,2,288.56,74.13,Cash,Young,Male,Vancouver,Linda Reese
+b826862d-71af-4abd-b98a-22c72b9aa7d1,2025-02-05,Canada,72efae36-6dd7-4741-90e7-64d11c926dbc,Behavior,Clothing,117.81,3,104.61,21.97,Mobile Payment,Adult,Female,Toronto,Cole Williams
+6aecc382-d0cd-4fb6-a0c6-9f98a391c075,2025-02-13,Canada,cea45615-096b-46c9-9184-60d6442b003a,A,Clothing,22.31,4,16.48,2.21,Credit Card,Adult,Other,Toronto,Craig Eaton
+79c44d4c-3b46-46da-a781-506dd78d06c1,2025-08-18,Canada,a37fc4a9-19b6-479a-87f8-603c6e552a72,Maybe,Beauty,153.82,8,130.98,0.43,Credit Card,Young,Other,Montreal,Colleen Baker
+2b9b13f0-78eb-4c47-9d27-209978474e5e,2025-03-03,Canada,fba5e91b-3059-423a-9906-6c76d7a2cfa2,Dark,Clothing,481.43,7,380.68,50.92,Mobile Payment,Adult,Male,Vancouver,Kevin Blanchard
+74677f31-d5a6-452d-a472-7312f8dc3093,2025-04-16,Canada,f4e3bfed-b2fe-497f-8c0b-8f3deb1cb12d,Recent,Clothing,222.37,4,152.04,32.38,Mobile Payment,Young,Other,Montreal,Gail Bowman
+733787b1-6f96-477a-97e6-886400d37308,2025-10-19,Canada,1855ebac-a31d-4bf2-a98c-d671377c365f,Time,Clothing,452.45,7,290.66,63.53,Cash,Adult,Female,Toronto,Anthony Johnson
+fca38b2b-9178-4acb-89c0-1203f7ebcd4f,2025-05-14,Canada,6e6ea41f-98ed-431f-b198-7edcf4dc55a7,Evening,Home & Kitchen,429.75,4,339.74,59.29,Credit Card,Young,Male,Toronto,Aaron Velasquez
+d89e677c-20a1-4abf-9194-cd696dd31286,2025-06-15,Canada,10b163ce-6db4-4073-aca7-86e3c9a70853,Occur,Clothing,469.09,6,339.31,67.05,Credit Card,Adult,Female,Toronto,Robert Johnson
+009cefe6-6f47-4a52-b441-c931281b9565,2025-07-08,Canada,8740be34-3a9b-4446-ade3-1e91cc623b0e,Magazine,Sports,231.69,8,180.26,39.62,Mobile Payment,Adult,Female,Vancouver,Deborah Thomas
+1fc4f84c-c169-4ed0-ac5f-4a38290f0ac0,2025-11-12,Canada,cc7f2df0-656c-412e-b964-f5b97b9a0cb4,Not,Toys,285.29,10,176.3,46.2,Mobile Payment,Adult,Other,Toronto,Krista Martinez
+a7466570-5851-4570-8a3d-8afa1543a51e,2025-05-14,Canada,254987c3-26b4-4970-bc51-378126bb19c8,Look,Home & Kitchen,338.02,8,279.51,43.83,Cash,Adult,Female,Montreal,Luis Dominguez
+8ec70dbf-9cd3-4574-94e4-e4b9bcd67286,2025-03-23,Canada,07af1db1-2d40-486f-b7d9-14176863f111,Lose,Beauty,258.95,10,178.78,44.4,Cash,Adult,Female,Montreal,Brandon Norris
+59162265-f8ca-4580-abab-c746cf641a5f,2025-07-07,Canada,96442ec6-15f6-4540-8e6e-c6d8ca348907,Sense,Home & Kitchen,486.7,2,392.62,44.33,Cash,Young,Male,Montreal,Kimberly Sanchez
+befbc89c-847c-45ac-af27-38db55e87337,2025-09-07,Canada,7b4b2cde-0cb4-42b7-b16b-545c074f449b,None,Clothing,108.83,1,80.11,0.33,Mobile Payment,Adult,Female,Montreal,James Crane
+d949f82b-b7e4-4f5c-b6cf-f0c887a25bc8,2025-04-13,Canada,d555fa8f-e8d4-487c-ac1c-71c820523f72,Walk,Sports,116.4,8,83.39,20.6,Credit Card,Adult,Other,Montreal,Rachel Smith
+50b3b16d-362b-475d-917f-d214a78393da,2025-03-03,Canada,09c347c7-a532-4089-84b2-dbf9913c0852,Year,Sports,498.65,4,407.79,41.65,Cash,Senior,Male,Montreal,Nicole Pennington
+d7e3e829-d543-4751-b312-f10db71d262b,2025-06-04,Canada,cdd35062-2032-4a6b-94b7-c9fefcb3872d,Everybody,Toys,165.86,4,121.88,26.7,Mobile Payment,Senior,Other,Montreal,Samuel Shepherd
+b763477a-eaaa-4259-adcc-59a5bbc46a50,2025-07-07,Canada,bffbed76-35c2-42f2-89b1-0f064eaded99,Instead,Clothing,17.0,6,14.86,3.2,Cash,Young,Female,Vancouver,Suzanne Medina
+d27a2e9c-6793-49d2-8ec5-08f3c5d504ee,2025-04-16,Canada,c2018f32-f2d8-462f-a1ad-b80cf4860b5c,Rate,Home & Kitchen,439.69,1,359.55,67.31,Credit Card,Adult,Female,Montreal,Hector Lindsey
+fceaccc7-9541-4d58-bc51-602893e2ea14,2025-03-23,Canada,2c126fed-c103-4e88-8d97-e0585391badc,Group,Home & Kitchen,211.17,4,174.45,7.7,Mobile Payment,Adult,Male,Vancouver,Richard Lopez
+0585e12c-1677-4ede-8010-3a71b6f4a67b,2025-05-14,Canada,81fa4941-38bb-438b-8c0f-1d99adda7afe,Experience,Toys,112.1,7,89.63,0.77,Mobile Payment,Adult,Other,Vancouver,Maria Brown
+55d6ee77-cd0d-41f2-80a0-f6a6053bb91d,2025-07-08,Canada,ee3fa00a-8c2c-4a81-a610-99696a89aee3,Sort,Home & Kitchen,144.98,5,121.15,10.2,Mobile Payment,Adult,Female,Vancouver,Sherry Humphrey
+0d17a1a7-b7b0-4b70-90b8-5c4e2d49163c,2025-04-04,Canada,876feda7-3908-4f52-91fe-bd1804cbd9d0,I,Clothing,441.53,3,371.93,7.4,Cash,Young,Female,Toronto,Kenneth Davis
+5458f484-0a24-4b3f-a9c0-f769698913c4,2025-07-08,Canada,0cb96c45-e102-4324-ae24-8fa72179af9a,Tv,Beauty,476.19,4,354.11,41.88,Mobile Payment,Senior,Female,Toronto,Melissa Harrison
+63388caf-9466-4cfa-a2c0-58f8ca9ab35d,2025-09-10,Canada,9c673c7b-84c3-4870-b538-4fb6d0fcc9ba,Want,Beauty,405.88,6,325.39,70.3,Cash,Senior,Female,Toronto,Gloria Jackson
+4a976dc8-cfa2-47e4-9e53-ec12ada60f3d,2025-03-01,Canada,1900d3df-3f42-4cad-b07e-33f7d4ae4458,Federal,Sports,61.39,2,49.94,12.22,Cash,Adult,Female,Toronto,Terri Taylor
+94efa4d8-cc32-4c9c-9cd1-aed2945eccdf,2025-10-11,Canada,a8b14d41-61f9-4c07-9616-7e17b55e2f22,Next,Home & Kitchen,379.69,10,242.68,61.58,Credit Card,Young,Other,Montreal,Valerie Hebert
+b91a8229-1918-4d45-b4a4-4390d52ae680,2025-03-03,Canada,15e69a16-177f-47bd-8bca-fe198bb0cc87,Test,Toys,284.66,5,237.52,54.18,Cash,Senior,Female,Montreal,Jeremiah Rice
+73ead0b0-1a3b-4efe-bdba-320c8814bca4,2025-12-22,Canada,b538221e-1901-44af-851a-cd7991e71f4e,Financial,Toys,65.27,1,48.58,4.19,Cash,Senior,Other,Vancouver,Theresa Gross
+35a7a62b-aaa0-4bfb-a318-037d25a810a6,2025-10-19,Canada,e2c11941-fbe9-4d85-9b7a-8ae80b94eac1,Dog,Home & Kitchen,105.6,7,82.68,20.23,Credit Card,Young,Other,Toronto,Courtney Bishop
+ae8c84f1-f312-4924-903d-8db4bfd13614,2025-12-13,Canada,bad91d35-5bdb-4d58-9eb7-21c1f80048aa,May,Electronics,64.21,6,40.41,0.51,Mobile Payment,Adult,Other,Toronto,Crystal Yang MD
+cb0c5689-b1b4-4957-b725-a159c9bebeed,2025-01-28,Canada,4249fba1-6104-4d6b-bfb5-9f1a3c9b1d15,Provide,Sports,32.27,4,25.21,3.9,Cash,Senior,Other,Montreal,Daniel Phillips
+31d1efd6-768d-438c-a552-4e274757bb8c,2025-10-11,Canada,8ad89c95-1692-4fea-9bad-8bbf00d67755,I,Electronics,123.88,1,83.46,18.98,Mobile Payment,Senior,Female,Vancouver,Jeffrey Roberson
+4cf090c8-3b46-4a47-adda-987e4ed83213,2025-12-22,Canada,38093304-265e-4184-99cc-dcba8c734698,Foreign,Electronics,76.18,5,57.24,11.7,Cash,Adult,Other,Toronto,Nichole Walker
+61291c49-e23b-472b-b52b-2814ea6b9beb,2025-10-30,Canada,4957dcdc-47b5-456c-8214-1db5414fc97a,Boy,Beauty,491.43,6,381.75,30.44,Credit Card,Adult,Male,Vancouver,Lisa Johnson
+53278584-4603-4b8a-aea6-94eb2c2de438,2025-02-16,Canada,3674155c-4f3c-40dd-a709-3b7142b40760,Information,Clothing,272.05,3,174.04,28.74,Cash,Adult,Other,Vancouver,Brittany Zuniga
+66cfdb91-e2ad-4159-a726-8d329b9f0234,2025-12-11,Canada,b5baaf30-adec-47f0-b8bb-816c062e0c97,Choose,Electronics,73.67,3,60.92,4.12,Credit Card,Adult,Male,Montreal,Judy Hernandez
+cb55d190-19ff-414c-9547-e5295cab4c59,2025-07-05,Canada,433fafeb-e027-49ed-842e-5bea74c4438f,However,Sports,358.95,2,309.14,24.36,Mobile Payment,Senior,Male,Toronto,Ronald Middleton
+c01a6935-026e-4e75-9805-220049acd12a,2025-01-27,Canada,8c58fe44-da5c-456b-9797-db497595ea76,Everything,Sports,386.17,8,296.64,0.63,Credit Card,Young,Other,Montreal,Gregory Richard
+54bd2e98-e212-49cf-80b7-424186142d8a,2025-12-20,Canada,75ad1a38-ee6c-4a22-8902-b30ed7f91ae9,Tend,Toys,341.59,2,220.84,44.91,Cash,Young,Other,Montreal,Andrew Fox
+47409c72-8cf0-44f0-ae55-2b1c83d1ad3b,2025-11-20,Canada,8ff81676-246f-4d31-b12b-b88ad897fde4,Common,Beauty,45.04,6,34.64,0.6,Cash,Adult,Female,Montreal,Kayla Greer
+9e493ebc-ecb8-4df6-94b0-6d612a95dfa0,2025-05-25,Canada,2fd0a313-65bf-4fdf-aee6-0e9d1682ddb1,Cold,Clothing,401.27,4,312.31,45.98,Mobile Payment,Adult,Male,Toronto,Tiffany Harrison
+6f3608da-4a07-4eaf-8ee2-77db2e91952a,2025-03-23,Canada,d727032b-404b-4cea-a4c4-a3a4e783ae96,Marriage,Clothing,394.82,10,271.02,15.76,Mobile Payment,Young,Female,Toronto,Michael Parker
+cc28ebf3-8708-4872-9ef5-3396267e6950,2025-04-13,Canada,f9b31acc-d329-472e-b37b-a3dfbfb238ba,Red,Clothing,419.3,9,294.78,49.82,Cash,Adult,Other,Montreal,Janet Newton
+af5954d9-c586-4b34-9bc0-9ff04d8aa184,2025-06-06,Canada,1f018f01-90d2-49c1-92ad-950b3bd9059e,Thought,Sports,140.9,2,114.06,25.45,Cash,Senior,Other,Montreal,Casey Roberts
+e5002a57-bf03-44fd-8f11-e4803265167d,2025-06-04,Canada,da71cdfb-b552-4077-b8a0-1300668b5fbf,Health,Beauty,168.62,4,117.17,5.24,Cash,Adult,Male,Toronto,Corey Brown
+e9f0e1d0-59cd-4f65-80c9-0b1b67e3f80a,2025-12-01,Canada,633fbed5-df34-4d92-89bf-934b628013fa,Might,Electronics,373.45,8,320.15,49.85,Mobile Payment,Adult,Other,Vancouver,Kimberly Porter
+f0204202-4735-4340-a287-2ce53de2239d,2025-08-18,Canada,334d2947-d0f6-4541-9952-ac39e3bd0437,Traditional,Beauty,176.86,8,143.18,6.4,Credit Card,Adult,Other,Toronto,David Galvan
+cf0e86f1-c660-4f31-a97e-9868923b5fdd,2025-07-05,Canada,08a2dde7-7e2c-411a-bf58-6eacc543b44e,Month,Electronics,105.22,5,75.05,8.74,Mobile Payment,Adult,Female,Toronto,Erika Sanchez
+c090602a-7158-4653-ae62-bf0edd6ffa8c,2025-01-24,Canada,46723a0f-b966-47e7-b236-7d2d40d34525,Everyone,Sports,249.63,1,204.07,0.51,Credit Card,Senior,Female,Toronto,William Smith
+83ed6fac-8019-4eeb-ba2f-a132b0b4ffa3,2025-09-29,Canada,7ef220f7-28ca-43e1-b7b5-f0a145c22bee,Piece,Clothing,301.54,4,236.52,48.42,Credit Card,Adult,Female,Montreal,Patricia Brown
+aef46800-1914-4e4b-a7eb-668751d3b3d6,2025-01-13,Canada,66d79cd0-75d6-46c1-976a-fe1ab2c21c5b,Whose,Clothing,317.94,10,276.78,17.11,Credit Card,Adult,Female,Vancouver,Jamie Vargas
+eeb5b1f5-c11d-41d0-aa81-8b692be8d37c,2025-07-16,Canada,15b18188-6753-4c89-9a18-14cfe7bf530c,Rate,Beauty,57.18,1,45.22,9.77,Cash,Adult,Male,Toronto,Ann Johnston
+b1a92ed3-f70c-4307-b2d4-a0b17eba2de4,2025-05-25,Canada,a1e829ea-d86c-4939-ba5b-f818002aa539,Interest,Sports,284.11,5,241.94,39.75,Cash,Young,Male,Montreal,Cody Lewis
+713a9c2c-bc58-455c-807b-c86745437409,2025-05-14,Canada,d22b08e1-9f6f-4600-98cd-af3ae919554b,Money,Beauty,423.51,5,327.35,21.58,Mobile Payment,Senior,Other,Toronto,Shelby Holland
+7ba5dffb-b23e-49a2-b7d9-a01519a991e4,2025-01-17,Canada,47b8af96-d12a-4d90-a290-984bbb170a8f,Show,Sports,149.77,7,99.23,19.62,Mobile Payment,Adult,Other,Toronto,Jacob Kim
+41ef3bf9-af1c-4ab8-82a6-089f83a5ca0f,2025-03-03,Canada,0455eebe-6ef0-45f3-9762-50d46a1f5805,Herself,Electronics,12.01,7,7.78,0.36,Cash,Adult,Female,Vancouver,Emily Bowen
+f14892f8-5a5a-4fb3-9937-fe83f2146612,2025-01-05,Canada,5cebb707-ceac-4f7b-b959-b50f68132386,Institution,Home & Kitchen,464.78,9,406.68,24.86,Mobile Payment,Adult,Other,Vancouver,William Perez
+4c8ba8dd-179c-47f5-a73e-66a7bcfa6dd3,2025-09-07,Canada,761aa309-4f29-4d6b-b682-fbcedd0dfd61,Year,Beauty,125.73,8,96.92,4.25,Cash,Senior,Male,Vancouver,Hayley Jackson
+f1af8a7a-5f6a-4236-acb2-653b05f5c701,2025-07-16,Canada,ccc9f325-1b43-43aa-9be6-1a9ebdc47351,Interest,Beauty,162.44,5,109.64,5.93,Cash,Adult,Other,Vancouver,Darren Mckee
+4efca6ef-be98-488d-88e3-740e3dba5357,2025-08-06,Canada,df22ea77-8699-4ed4-aae3-05b5922e9251,Piece,Toys,490.52,8,408.19,24.66,Credit Card,Senior,Other,Vancouver,Meghan Romero
+b4c15554-652e-4b60-9eae-105e0cd072e4,2025-09-29,Canada,ec517916-c656-4544-8226-f6b802cf7a43,Pull,Sports,101.75,8,85.52,18.66,Credit Card,Young,Female,Toronto,Jeremy Armstrong
+d0b0a39c-d9f4-4e98-b5cf-4be790113dd2,2025-04-02,Canada,e35136d4-6c03-4166-9f7f-dd5414861546,Wonder,Toys,161.62,7,142.84,1.68,Cash,Senior,Other,Vancouver,Kelly Reed
+7d1eb3f3-73d6-475c-ba5c-46848ef325b2,2025-01-26,Canada,47672377-6ed2-446e-b898-23004db87c30,Quality,Beauty,259.75,5,190.99,25.27,Credit Card,Senior,Female,Montreal,Todd Clark
+5924b2db-704e-470a-b800-f8b2d9e3af6c,2025-04-04,Canada,46f7d50d-aff8-4ade-9fc2-98d0389085fe,Eight,Toys,283.89,8,210.22,25.79,Mobile Payment,Young,Female,Toronto,Jennifer Carr
+c6d10ca5-f756-4b64-b942-adc374879f4c,2025-12-13,Canada,1ec6aa00-d557-4bad-8ebd-a179b6886a52,Book,Sports,405.47,4,326.92,33.05,Mobile Payment,Senior,Female,Montreal,Robin Mendoza
+7cf87343-8f65-4dc4-8950-1551f0bc5a35,2025-10-19,Canada,6bcd561f-2aa5-4798-846c-5543fc4f185f,Piece,Home & Kitchen,33.06,3,27.51,3.09,Credit Card,Senior,Female,Vancouver,Dr. Erika Torres
+885ed4a3-d674-41d2-a5bb-2b26150f81e3,2025-07-16,Canada,990ea19e-5024-4a90-8851-629ab3be41fb,This,Home & Kitchen,74.39,10,63.51,8.46,Cash,Adult,Male,Toronto,Richard Fletcher
+11af657b-1729-43e4-8737-e76ef6d30f47,2025-12-20,Canada,8189a548-fbf5-4516-afd0-97577d689893,Voice,Beauty,50.28,5,41.92,7.28,Cash,Senior,Male,Toronto,Wayne Morris
+81725b6f-d7a1-4c5c-a26b-02e53aee62ce,2025-12-20,Canada,1e3aa4d8-62dc-405c-8686-9722de74edd8,Me,Home & Kitchen,198.75,10,126.9,39.63,Mobile Payment,Senior,Female,Montreal,Matthew Kim
+a0952a90-0f1c-4900-9dc5-913ef93d8413,2025-10-11,Canada,3cb92823-0536-43db-80b9-319c593c39fc,Sign,Beauty,238.74,8,203.81,32.57,Cash,Adult,Female,Montreal,Mary Jackson
+892d5263-5ae0-455f-b337-90cc2134236c,2025-06-06,Canada,2510d4ad-07db-41c4-8a63-88afab47fe3b,Finally,Beauty,24.71,3,18.71,1.71,Credit Card,Senior,Female,Vancouver,Michelle Graves
+353c79a8-e359-4d2e-8bfc-3766ca65b089,2025-01-12,Canada,ce90aa46-9e61-4f8e-8281-287d99b87a56,Step,Clothing,384.08,1,264.14,42.76,Credit Card,Senior,Female,Montreal,Sean King
+059186ce-adc1-45d0-839e-8e4dc760520b,2025-12-13,Canada,e47e8f2a-1526-4d15-bae0-f54ac9703e84,Concern,Electronics,483.97,6,404.25,77.59,Mobile Payment,Young,Male,Toronto,Benjamin Graham
+857d277f-8720-48de-935a-5e592558a612,2025-08-09,Canada,b265d474-e3e0-48b8-aac5-0395f2bbbe8e,Trip,Electronics,150.37,1,101.37,16.89,Mobile Payment,Senior,Male,Vancouver,Erica Williamson
+262abb98-496b-4b87-ace1-5eb9b69f4f7d,2025-02-03,Canada,f888f817-3fed-40ab-98f5-07928fe3c971,Three,Clothing,482.49,5,431.12,73.86,Mobile Payment,Senior,Male,Vancouver,Lisa Cardenas
+a9c490a3-63b0-463e-99ba-b656337826c6,2025-03-15,Canada,e40087e0-3329-48bf-a8e6-eb9c1b27164c,Entire,Beauty,169.55,3,132.35,15.95,Mobile Payment,Senior,Other,Vancouver,Elizabeth Robinson
+6370d722-eba8-4dbf-bf0e-f46e16a584d5,2025-10-30,Canada,59e76031-d463-4266-8ecd-00fb37e7da09,Yeah,Sports,380.3,1,248.09,53.5,Credit Card,Young,Other,Vancouver,Sherry Casey
+c8627068-66a0-4afb-a92f-535bf2669ee4,2025-08-09,Canada,9e0154ab-d9d9-440f-838c-440581f3d219,Way,Home & Kitchen,68.11,7,59.84,9.17,Mobile Payment,Adult,Male,Vancouver,Michael Mckinney
+3407c247-3d9c-4ccc-909b-1501f7282383,2025-06-04,Canada,dc6de803-5569-415b-befe-8dd6ff98c462,Arm,Beauty,426.74,10,350.43,58.23,Mobile Payment,Young,Female,Toronto,Brandi Perez
+e2110874-ff55-44da-93fa-b67359ee53df,2025-10-30,Canada,83e12554-0635-422b-8f62-539616c84579,Official,Home & Kitchen,181.83,1,161.21,19.3,Credit Card,Senior,Female,Toronto,Karen Cruz
+4a5afbe8-5fe7-4151-aaee-bb173a8dbb54,2025-08-18,Canada,d851cf0f-a29a-4406-a7c4-564d21b6fce9,Base,Clothing,399.73,9,250.14,46.26,Mobile Payment,Senior,Female,Montreal,Mary Conley
+8b6dfbb7-9c5f-4c3d-b67c-cf07ce745437,2025-12-13,Canada,87836575-167e-4da0-93d7-a607e169d09e,Weight,Toys,248.55,4,161.82,11.05,Cash,Young,Other,Montreal,Gary Padilla
+67b50bd2-9ef1-4b6f-b91c-45faad3140db,2025-03-15,Canada,daf96293-8e1f-4662-959a-401a0a52c603,Age,Toys,222.34,8,152.23,26.39,Credit Card,Young,Female,Montreal,Tonya Cuevas
+36d82178-28de-4299-8d11-6459b1a52114,2025-10-19,Canada,afb9a1f0-69c2-450d-95da-fe827640155c,Through,Toys,327.66,6,272.6,52.28,Mobile Payment,Senior,Female,Vancouver,Luis Rivera
+d4ab735a-5fc3-4370-88a8-79ab108fb0b0,2025-09-29,Canada,0ed269d6-4ef4-482b-84eb-6dd0841e2855,Should,Sports,155.95,3,93.64,10.08,Cash,Young,Female,Vancouver,Jennifer Clarke
+2bade32a-8f2c-4d9b-a75f-4128dbdd3115,2025-02-03,Canada,7b87ab7f-cd7f-4082-8020-52366828fb64,Fear,Toys,301.6,3,191.45,12.51,Cash,Young,Female,Vancouver,Amanda Newman
+8ce377e4-0055-47c0-abb8-a4b2c2141fef,2025-05-14,Canada,f5c00e42-7c8e-46fa-b9d0-e6de6fb6e07b,Maybe,Clothing,428.27,10,309.72,31.94,Cash,Senior,Other,Toronto,Douglas West
+5cac9d81-b466-4fb5-b2a0-94062a54162b,2025-01-06,Canada,f75521bf-0af0-44f0-93d5-db7be617ac2d,Forget,Home & Kitchen,198.84,7,159.97,8.22,Mobile Payment,Senior,Female,Montreal,Nicholas Medina
+45d62c43-ec2c-4308-baf8-c0ba25f050b8,2025-01-23,Canada,466b7dcc-8f49-488d-b935-897ebbc04ac7,Age,Beauty,23.7,2,20.99,1.87,Cash,Senior,Male,Montreal,John Mcfarland
+c05e3339-c0e0-40d4-8bf8-c4970f371524,2025-06-06,Canada,d4e84afd-bf35-4302-ba6f-5973b22f43b5,Wife,Sports,412.06,10,307.82,72.69,Cash,Senior,Other,Montreal,Julie Pena
+1a30c718-afac-4be7-8983-d75d692708c9,2025-10-11,Canada,f34b5843-dc28-472c-9c03-7582b7170ae2,Get,Electronics,291.79,8,258.3,49.35,Mobile Payment,Senior,Male,Vancouver,Kari Henry
+bf07d449-b9e2-41bb-b9b1-5173321ef80b,2025-02-04,Canada,ab8eb29b-8eea-4e28-8d36-5a6d2fa72972,Home,Sports,378.33,8,302.22,28.43,Credit Card,Adult,Other,Toronto,Jose Richardson
+9cc11d8f-0879-49f8-8a36-60ec7bca91ad,2025-09-18,Canada,ce92be36-bf5c-4294-8309-fed10206264b,Chair,Home & Kitchen,252.18,3,159.43,41.37,Credit Card,Senior,Male,Toronto,Jessica Malone
+3efe928b-47a0-4fe3-aaab-8297eda4945f,2025-07-07,Canada,ab1ae6f5-699d-4f66-aab0-a865cc6e9d74,Ground,Electronics,272.22,7,190.51,48.91,Cash,Adult,Other,Montreal,Mark Hernandez
+3817114c-3bdb-48a6-8c26-b51ede2378a4,2025-01-02,Canada,82c89a56-ab43-412d-be55-482fbaa535df,Even,Electronics,266.39,6,235.62,9.88,Mobile Payment,Adult,Other,Vancouver,Zachary Hunter
+0a82abc9-d0e1-4d07-bb19-7b72bbc6c0a7,2025-01-23,Canada,207c1a51-60cd-49a5-99a4-fc6f0ec8c40f,Memory,Toys,31.58,5,23.76,4.35,Cash,Adult,Other,Montreal,Joseph Aguirre
+2815ecd8-e70d-40a3-916b-2e2bab620c42,2025-07-08,Canada,fe5d2529-d9a3-4549-ac45-c6a8e86dd205,Admit,Toys,463.07,3,368.82,77.16,Cash,Adult,Other,Toronto,Dylan Castillo
+462bf419-e48c-4c83-abf1-fc85bf3eb333,2025-11-20,Canada,5dc3e091-0288-4132-bfd9-cf54f4b28ed7,Science,Home & Kitchen,148.22,8,91.34,28.1,Mobile Payment,Senior,Other,Vancouver,Richard Campbell
+91c8cec9-cf84-4e12-bce4-5abf270bd650,2025-07-07,Canada,104173ba-9b32-4bb6-a6d0-faecb6a47b8f,History,Electronics,225.63,2,138.57,32.69,Mobile Payment,Adult,Male,Vancouver,Daniel Castro
+e94f706e-e19a-475a-a56b-98dedddc2363,2025-02-05,Canada,354534a0-8628-4d8c-aa00-828c564895d4,Up,Toys,220.42,4,169.53,18.83,Credit Card,Adult,Female,Vancouver,Tyler Foster
+a6706ee0-6b08-4f5b-82f2-48251ee203c9,2025-02-13,Canada,48e3ad06-0842-4fc3-8d47-6928159d4f6a,Do,Sports,302.07,9,241.83,28.57,Mobile Payment,Young,Female,Montreal,Hannah Robbins
+6405713c-31fb-4681-b56d-fb85ce4b10b0,2025-08-18,Canada,27b637db-7464-4abf-aa0f-f9f67723c118,Save,Toys,221.04,5,141.42,41.55,Credit Card,Young,Female,Toronto,Alison Daniel
+152108b0-66b1-4bae-9c17-5e9875b4c6dd,2025-02-11,Canada,246bcd2b-f73c-49ce-a5c4-d2cdbf543c04,Modern,Electronics,167.68,6,143.85,28.92,Mobile Payment,Senior,Female,Toronto,Mark Buckley
+61d83489-ed9f-491f-aae0-a9fd28a6c720,2025-01-01,Canada,b866bd5e-cff0-4d50-99b3-c36a3e3b6534,Prove,Beauty,173.25,10,108.04,5.35,Credit Card,Young,Male,Montreal,Lisa Mason
+d7cc3b55-b05c-4d47-bdec-097dc1076e33,2025-02-13,Canada,b6a21f3e-584e-43c5-bd31-856624bcbb32,Better,Electronics,460.64,8,387.29,73.75,Credit Card,Adult,Male,Toronto,Patrick Parker

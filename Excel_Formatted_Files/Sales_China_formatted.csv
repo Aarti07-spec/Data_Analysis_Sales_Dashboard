@@ -1,0 +1,237 @@
+﻿Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+b7e2bb61-b8b4-4829-81ca-3899f55dcf7f,2025-07-09,China,527d2b57-5486-452d-a4dc-3f6d32592f8f,War,Home & Kitchen,150.28,8,122.92,10.36,Mobile Payment,Young,Female,Beijing,Edwin Blevins
+7b1f9c41-b987-4793-a4c2-74e86ef24620,2025-02-12,China,c979f285-769d-40e4-8bae-8e5979efec49,Deal,Electronics,138.41,1,92.63,8.87,Mobile Payment,Adult,Male,Guangzhou,Hector Turner Jr.
+4ee3326b-ebc6-437f-afe8-046cebd65b23,2025-01-12,China,13594924-b6b8-48a3-b7cc-eefc2c07e74f,Fly,Electronics,183.28,5,120.66,17.87,Credit Card,Young,Female,Beijing,John Smith
+6849109a-79b7-4995-bd40-c49c30b7d15e,2025-01-03,China,ed67f0a9-1ca8-4939-8584-ed39b8e0dff6,Write,Electronics,471.42,3,327.82,88.8,Credit Card,Adult,Other,Guangzhou,Sandra Cunningham
+12b26f72-159b-4199-9d2c-473b9ddf8fa1,2025-08-07,China,0a40db97-78af-4679-b135-59af726c9af7,But,Electronics,162.15,5,121.69,24.29,Cash,Adult,Male,Guangzhou,Dawn Cooper
+4463415d-36ad-4750-8b7b-47176b8e3202,2025-08-09,China,551c5b17-2714-465a-8608-554ce3e62ce7,Go,Toys,493.07,2,320.08,65.55,Mobile Payment,Young,Male,Guangzhou,Deborah Ferguson
+a2981d23-0919-496b-8ad5-d254082dc7e6,2025-08-07,China,20ecfea8-8307-4a4b-8498-00b2361456f0,Require,Sports,161.71,3,132.43,28.35,Mobile Payment,Senior,Female,Shanghai,Julia Parsons
+64437369-d6c9-4b1d-aa41-7ae570f1092e,2025-01-12,China,4a256bd1-d271-4e65-bc60-318eb05636fd,Course,Beauty,78.91,4,49.9,2.39,Mobile Payment,Senior,Male,Guangzhou,Jacob Burns
+51e3591b-0733-4165-bd96-a426f32137b7,2025-10-09,China,e21f0924-eb5a-4177-a619-c57aa41d5116,Special,Sports,30.03,1,18.35,2.11,Credit Card,Adult,Other,Shanghai,Jessica Walker
+bc01c0ae-04f7-4c7a-adeb-995fa76cca33,2025-06-06,China,a0119686-fefa-4e77-aa7c-38dac2eb4a22,Bring,Clothing,117.03,2,73,3.85,Cash,Senior,Other,Guangzhou,Bonnie Rice
+59067a84-3687-4515-be6f-2bbd113d0ee6,2025-03-05,China,23c551d0-80af-4d4f-b1ca-a22590d32dc9,Reason,Electronics,388.03,3,233.56,56.88,Credit Card,Young,Male,Shanghai,Karen Adkins
+e8e6393f-0fe9-4ad8-bbd6-ff21f80d6d86,2025-06-06,China,21154a23-2f6f-4bd5-8422-12c58ec52099,Might,Sports,306.22,5,248.63,17.68,Mobile Payment,Senior,Male,Guangzhou,Michelle Santos
+c6d07b3c-896d-40d0-bf06-3edc1aa6c9f2,2025-03-03,China,20729c7f-16c1-4285-86c5-da0965b89936,West,Electronics,441.61,7,317.56,54.55,Credit Card,Adult,Female,Shanghai,Lindsay Ibarra
+f721da73-af70-41bf-b84d-7651f1bceeef,2025-11-10,China,dc1610db-7bac-4543-94ef-bb1f5728c215,Worry,Sports,460.3,3,278.94,36.37,Cash,Senior,Female,Shanghai,Kathryn Gomez
+651c62cd-fe64-4fac-9a55-5c6fbf722ebf,2025-04-06,China,77dcd359-b309-4a77-9254-48e16d1d73c8,Certainly,Sports,130.82,9,100.54,13.16,Credit Card,Adult,Male,Beijing,Kenneth Hayes
+54173e4c-5a7b-4263-ab9a-3f234344c9ae,2025-03-03,China,2688e460-b6d1-4c86-9c61-d5943a0643d8,Picture,Clothing,239.42,6,189.81,3.25,Cash,Adult,Other,Beijing,Charles Perez
+181083bb-dc48-4975-97bb-184fd87d3c0f,2025-03-03,China,244315e8-c381-46ac-94a9-389bd6278076,Management,Sports,472.18,7,371.29,12.14,Mobile Payment,Senior,Female,Beijing,Blake Cook
+b512ddd3-69c4-4272-a41e-9a7851a01137,2025-03-05,China,b9547c1c-b183-481f-93a1-ef9d8d7bf721,Born,Sports,341.26,4,299.88,42.84,Cash,Young,Other,Guangzhou,Jose Porter
+acfdd85c-b511-4347-aeec-df15192384ee,2025-04-04,China,9c70fa99-b731-4fef-9d0e-a7581707e634,Despite,Home & Kitchen,47.41,3,40.97,3.08,Mobile Payment,Adult,Female,Beijing,Holly Miller
+3e297fad-b697-4b75-9faa-f63286fbd94c,2025-06-08,China,6fa63528-f82e-435e-8151-9d0d9df1200b,Just,Home & Kitchen,144.51,10,123.32,24.73,Credit Card,Adult,Female,Shanghai,Ashley Garza
+8afd99e1-ff58-4639-8a59-9f9a3560ba22,2025-01-12,China,a1719106-0e23-44f4-a302-900562ed79b9,Focus,Sports,387.18,6,262.04,15.78,Mobile Payment,Adult,Female,Beijing,Dawn Gibson
+6f53a2c5-45e9-4711-894a-11af6016574c,2025-06-08,China,73f9804f-5e3e-46e3-855d-0fe9d0018b8a,To,Electronics,78.49,8,63.71,0.07,Credit Card,Senior,Other,Guangzhou,Karla Cruz
+faa05b29-917e-4e6b-a19a-7fef4315b9d3,2025-06-08,China,26a59530-c61c-49b1-96d4-84eebc449f47,Election,Home & Kitchen,285.69,5,246.11,2.89,Credit Card,Young,Other,Shanghai,Cheryl Anderson
+70b32cf1-0fd1-4f29-adbd-54bd933798f4,2025-07-07,China,981193d6-f2a2-4fb8-910f-a7362e2e907c,Woman,Electronics,62.53,6,46.84,1.21,Credit Card,Adult,Female,Beijing,Robert Brown
+7c136f07-9f02-49c6-8882-5111800eaba8,2025-10-11,China,352e93a3-7c3b-4733-bbee-30700b172b2f,Able,Clothing,356.56,5,264.34,11.78,Mobile Payment,Adult,Male,Guangzhou,Joseph Hale PhD
+4c367454-0ea8-4009-a442-33abb4bf64e1,2025-02-12,China,73f79599-89d3-4593-aaec-e619012900aa,Market,Toys,461.43,5,391.11,34.21,Cash,Senior,Female,Beijing,Glenn Cook
+485c072d-8fce-4815-b35b-fe4376ab1b80,2025-04-04,China,6dca2d65-559f-4026-a414-922ff95c883e,Try,Sports,446.37,4,316.43,68.34,Credit Card,Adult,Male,Beijing,Luis Simmons
+ea511c99-3176-4f31-a6e3-f4753a599789,2025-12-11,China,902efcad-838e-481f-935c-5e3a0006576a,Little,Sports,53.21,8,45.3,6.43,Credit Card,Young,Female,Guangzhou,Kerry Stewart
+6b9bafb7-0456-4edb-b500-514e01de19be,2025-01-12,China,881b5285-dc28-4f59-ae97-b02578c83c59,Worker,Home & Kitchen,171.09,1,148.37,32.07,Mobile Payment,Young,Male,Beijing,William Hall
+86a14f2a-2c25-478d-a4f3-d549a2e045a6,2025-12-11,China,6346376a-6521-49dd-a0bf-5c50d837abc3,Second,Sports,144.14,9,96.04,19.76,Credit Card,Young,Female,Beijing,Joseph Woods
+27c4b49f-049c-44de-945c-9ce6bae28d97,2025-03-03,China,da7d975a-312e-432e-aa9a-06ee7714c6bc,Arm,Toys,402.69,4,309.9,62.73,Credit Card,Young,Other,Guangzhou,Chad Graham
+a5018b32-c497-4187-82cf-a971aaeb0d5b,2025-02-12,China,2bb990e0-e824-4fcc-a8c2-eca1cbbcbe7b,Describe,Electronics,174.14,4,111.93,14.18,Cash,Senior,Male,Shanghai,Alyssa Andrews
+1f149e9c-722c-4a24-bdf1-296ba1ac5413,2025-05-07,China,19cdf83c-44a6-4ec3-825c-4b47fd0bf94d,Indeed,Beauty,451.97,6,357.12,59.63,Cash,Senior,Other,Guangzhou,Michael Moore
+715c2e97-b8f8-4f6f-9f8c-0bfdb0ec7535,2025-11-10,China,0b3ce812-a21d-421e-84f6-dcfe47c1df71,Sit,Home & Kitchen,206.71,5,175.7,1.45,Cash,Senior,Female,Beijing,Geoffrey Osborn
+6a26f201-3038-4292-a1b3-d386b8df1fb6,2025-02-12,China,6eb60168-de37-41cb-aaa4-2d3c16469d30,Event,Electronics,400.41,2,242.64,7.35,Mobile Payment,Adult,Female,Guangzhou,Jessica Davis
+adb9c365-6fce-4f9d-8797-bfdcabd78f50,2025-03-05,China,26053962-9ffe-45af-b013-5d450788a82a,Laugh,Home & Kitchen,467.69,5,409.95,92.79,Credit Card,Senior,Other,Shanghai,Alan Thomas
+20abe8c5-1f9f-493e-ac37-dd3afdff158d,2025-05-07,China,9ada592a-2d70-4ea6-85d6-071bb121dc96,Clearly,Sports,223.08,10,155.76,20.94,Mobile Payment,Senior,Female,Guangzhou,Jorge Simon
+1bd3f618-3f46-4c40-837b-1cb02cc99ee0,2025-10-09,China,778454f3-9529-4c41-8641-2ecbd0e31322,Movie,Clothing,494.5,3,409.85,32.56,Mobile Payment,Adult,Other,Beijing,Mary Taylor
+d053d451-38f9-417f-8787-d2f2db3f99c0,2025-06-06,China,fc0c03c5-33b2-440b-8123-962cf8b6394e,Member,Electronics,64.45,5,42.33,7.78,Cash,Senior,Other,Shanghai,Micheal Hart
+d91ce6c8-3f38-4892-b0e2-905d845292c7,2025-08-09,China,c742d037-f37f-4725-9ad0-7dfee07d5b21,Send,Toys,336.46,2,218.09,39.54,Credit Card,Senior,Female,Guangzhou,Claire Hernandez
+96d57065-0bc9-4c5b-9d54-be8285649d52,2025-10-09,China,7da3b61d-2df6-49dd-9f61-6b61f349491e,Public,Home & Kitchen,180.63,9,119.73,15.37,Mobile Payment,Adult,Other,Guangzhou,Victoria Ho
+eb24e930-bb19-4b4a-b0dd-9f82f1a5a939,2025-12-11,China,03df802e-2c20-4b62-bf9a-d659ae936bd6,Conference,Beauty,276.54,5,180.93,24,Credit Card,Senior,Female,Guangzhou,Stanley Mack
+855d12e5-2fe1-4493-b6a6-95c985ea2b4a,2025-10-09,China,0210a79c-0efb-4424-b69b-ea39a7abe3da,Thus,Home & Kitchen,200.43,4,135.62,6.75,Cash,Senior,Female,Beijing,Michelle Rivera
+d004c4f5-2bcf-4eeb-bd11-734485fa47a4,2025-10-09,China,17e0067b-ca47-4107-a9fd-8957d920b46a,Accept,Home & Kitchen,345.77,3,295.21,42.37,Credit Card,Senior,Male,Shanghai,Lisa Lambert
+192a8396-3b5b-4444-bf06-1a6e9ede7818,2025-09-10,China,ee300f22-04ff-40eb-a50d-1e1fa691d1cb,Section,Toys,284.96,2,172.41,54.99,Cash,Young,Other,Beijing,Linda Huff
+769b8263-bce5-4d9e-a54c-456cede5f2f9,2025-08-09,China,a08fe56e-0c6e-4d78-8cbd-0df19107762b,Color,Toys,245.01,1,217.15,23.1,Mobile Payment,Young,Other,Beijing,Matthew Solis
+153c8fec-da42-46fc-a709-cab4202e9522,2025-10-09,China,0d02d08f-e1d0-4f0f-a2b4-479278542b5d,Just,Home & Kitchen,465.3,2,415.99,18.6,Credit Card,Adult,Male,Guangzhou,Michael Bradley
+5934fcf4-378e-45c9-a5d5-37a826a86d8f,2025-08-07,China,cc0237f8-c902-4946-a588-9e5d4b06fa4d,Wear,Beauty,94.7,4,68.57,7.66,Mobile Payment,Adult,Female,Shanghai,Devin Cox
+b2b478da-2def-424a-abfa-17b00d50b37e,2025-09-08,China,95ec6795-c500-4061-869d-4e4216475274,Bank,Sports,253.89,10,178.66,36.64,Mobile Payment,Young,Other,Beijing,Michael Schmidt
+c962a28f-4481-41f2-8454-7d02ad8dfded,2025-05-07,China,eb5e2bb8-46ba-4864-b6ac-a572dc2812f6,Why,Home & Kitchen,59.46,10,39.55,10.27,Mobile Payment,Senior,Male,Beijing,Adam Calhoun
+34e41191-1190-4e21-a101-b72c7590b771,2025-08-07,China,9d001cae-3ad3-413c-a19d-c3b8deb0c506,Determine,Electronics,202.81,3,134.34,36.64,Credit Card,Senior,Female,Guangzhou,Christine Murphy
+fdeb1f8d-a5a1-4dda-bcf1-8136b8de67eb,2025-01-03,China,d6f4b114-7c98-4aae-a853-4461ae8e59f6,Attorney,Electronics,385.07,10,241.94,33.3,Mobile Payment,Adult,Male,Shanghai,Shane Tyler
+e532da15-41de-45b8-a092-a45da5ebe87c,2025-05-05,China,5f49f587-9c4a-4194-8daf-23ed5b3d7e67,Administration,Home & Kitchen,409.24,5,349.42,60.75,Credit Card,Senior,Female,Beijing,Robert Ramirez
+e1c86fbb-d6ba-485b-a9d5-94e01b797c70,2025-01-03,China,3dac204b-9494-4ae6-8864-53e0630bcf59,Middle,Home & Kitchen,263.41,1,201.56,28.89,Credit Card,Young,Other,Guangzhou,Rachel Higgins
+1734bfcf-4910-44d3-8782-f43da1671c9b,2025-06-08,China,ccee80d6-c62b-4220-a390-72f7bc0052f4,Benefit,Toys,304.25,3,193.43,24.11,Cash,Senior,Male,Beijing,Christine Coleman
+48f1a8dd-de1d-4f90-8fa6-fe6340ce5fca,2025-07-07,China,cd9239d9-7517-4915-969d-3a542d097260,Article,Clothing,414.86,4,306.82,51.35,Cash,Young,Male,Beijing,Sarah Pearson
+2d5337ae-d42f-41c4-a9ad-c8adc3c90135,2025-10-11,China,ce71c881-5f04-47e7-a945-c412fd08b5d7,Rich,Toys,457.52,3,371.65,24.12,Credit Card,Adult,Male,Guangzhou,Linda Wright
+4e455844-841e-4c31-898c-d8ed55f4e1d0,2025-09-08,China,62f9a41e-7466-4725-af7e-bc27a2ca4a85,Language,Home & Kitchen,141.89,7,107.09,27.23,Mobile Payment,Young,Female,Guangzhou,Troy Bray
+0ae6390a-ff67-4b6f-b200-d273f99d43c3,2025-06-06,China,dc3b67eb-c2a4-4396-b3d9-253a53f13c0b,Task,Home & Kitchen,209.5,2,155.08,37.09,Credit Card,Senior,Other,Beijing,Christopher Armstrong
+d0326040-9137-4886-bc84-5fb9ebbfbad9,2025-04-04,China,1b1ccc9b-1b4f-423b-9de0-f8cf00faceaa,Line,Toys,221.36,7,137.24,38.3,Mobile Payment,Senior,Other,Beijing,Robert Higgins
+2bddb867-6d19-4c2d-ae20-defc52b3b3a7,2025-04-04,China,439095cf-fcb1-4c93-9f8e-c76b987b7e0c,Indicate,Beauty,457.02,2,303.81,89.11,Mobile Payment,Young,Male,Beijing,Joshua Mccarthy
+70ca8600-40d5-4eac-90b2-f9166a6dafee,2025-03-05,China,008a2875-e372-47f2-87e0-a61f0334a076,Example,Toys,88.36,10,68.07,13.35,Credit Card,Adult,Male,Shanghai,Michael Jackson
+70e36303-261a-41f5-afb1-f1326100db21,2025-11-12,China,ff15da7e-363c-4af7-b3fa-8cf2412f0489,Lead,Clothing,22.95,10,20.55,4.45,Credit Card,Senior,Female,Guangzhou,Zachary Chambers
+f15c90e0-c9ba-48a4-b7c8-4078aacb1b1a,2025-02-04,China,bbc5137c-9bd4-400f-bc25-45025d89efeb,Read,Home & Kitchen,431.75,10,377.63,82.54,Credit Card,Adult,Male,Guangzhou,Mark Holland
+7e20f5b0-8448-4a50-a605-b017b69b28bc,2025-06-06,China,3f2d5c39-10af-496d-814c-32ec7460da8f,Morning,Toys,321.24,2,278.15,10.13,Mobile Payment,Young,Other,Shanghai,Stephen Miller
+77de28ac-4fed-4133-9a22-529776e8dcc2,2025-11-10,China,1d1071ba-d6df-4a8e-b39b-966a24c1d218,Up,Beauty,449.92,5,351.16,14.59,Cash,Young,Female,Shanghai,Michelle Burnett
+ad449548-e9ae-4844-82a3-da6a4c3f5212,2025-12-03,China,f1808f07-2d8c-4777-b360-0bf5ccc27323,Project,Clothing,257.26,6,158.61,14.87,Credit Card,Adult,Male,Beijing,John Juarez
+99d9ba1f-46f6-4c4a-8ae6-3f7075565492,2025-08-07,China,bca80f01-f297-4ba7-aee7-b5432b16d262,Fine,Sports,384.13,4,230.53,6.09,Cash,Adult,Male,Guangzhou,Joshua Franklin
+dc83c9db-12d0-42df-8a66-dfd3e7b0a452,2025-10-09,China,1390f1c1-4162-48cc-b8da-617efaf2576e,West,Beauty,15.63,6,13.29,0.01,Cash,Adult,Female,Beijing,Eric Keller
+2c27e276-3d8a-4aaa-a3c2-ee07fbde7c76,2025-02-04,China,2a189531-00f0-4243-854e-7d40c31a2f3a,Late,Electronics,162.77,2,131.32,28.25,Credit Card,Senior,Male,Shanghai,Melissa Jenkins
+750516fa-7a2a-432e-8ef9-a0f3a5b9199c,2025-04-06,China,cb26617b-4750-41ca-86c5-e81c02fbb291,White,Sports,294.89,7,240.93,11.54,Mobile Payment,Senior,Male,Shanghai,Wendy Johnson
+80d7efc9-cb16-4937-b29c-e899542798aa,2025-09-08,China,2f4268e0-9da9-4d7f-977b-ed2115a79b49,Quickly,Home & Kitchen,386.52,5,312.1,14.93,Cash,Adult,Female,Shanghai,Rebecca Clark
+9d9b2f1a-f7ec-42dc-a4e1-3816edcecc4a,2025-09-10,China,00f0a52d-8f3a-4b98-aea0-c3e320f848e1,Try,Sports,16.66,9,13.24,3.04,Credit Card,Adult,Female,Shanghai,Darren Smith
+08d7e429-8a36-4c72-9867-03bfbf2a81c3,2025-11-12,China,ac994121-9b5b-43cb-a835-f7b2e014a4cf,Rate,Sports,278.9,3,198.82,6.28,Credit Card,Senior,Female,Shanghai,Scott Gonzalez
+14d1e92c-cdae-4d33-81a5-7ca06708e450,2025-10-11,China,07e1d5cd-03e0-43a5-a7d8-c7c451d3b61f,Condition,Sports,136.07,3,100.63,6.95,Cash,Adult,Female,Shanghai,Peter Norton DVM
+4a17e5be-a392-4757-9164-e96509bd716b,2025-11-10,China,97b72374-1289-4e74-b74b-05bb69679ff9,Yard,Sports,198.94,5,127.52,19.23,Credit Card,Young,Other,Beijing,Casey Copeland
+318b2b90-cd03-48a7-bae5-8a7e43eadb8d,2025-07-07,China,147e288e-31ce-4103-b2e7-5de59c53db4a,Another,Home & Kitchen,17.5,9,14.73,3.04,Cash,Young,Male,Guangzhou,Duane Ruiz
+0d308f66-001c-4f19-a915-8ddf2524600f,2025-06-08,China,ba277a9c-1862-459f-901b-e5816b0d688e,Letter,Toys,208.37,8,146.44,5,Cash,Adult,Other,Shanghai,Colin Chen
+597cba1b-a378-4e41-8617-a7ec90ea9ef6,2025-10-11,China,ffd404e8-0a95-4923-8cab-e031728195b2,Suddenly,Sports,355.38,7,256.31,70.47,Credit Card,Senior,Female,Guangzhou,Kelsey Good
+acee395b-33bf-4c73-b503-67a326be599d,2025-06-06,China,2d08ece9-fdda-40c5-8ab5-91f2c26bc402,Arm,Electronics,419.44,5,274.02,4.04,Mobile Payment,Senior,Male,Guangzhou,Dustin Payne
+a41f9c18-9865-43db-a7df-af3798842c37,2025-12-11,China,cbabb22f-66f8-4a87-8f01-5b203001d9a9,Exist,Beauty,260.56,2,161.84,23.28,Credit Card,Senior,Female,Shanghai,Elizabeth Rodriguez
+b7843a9d-3fe4-4442-bdd5-cccd7710f508,2025-12-11,China,4cf2a770-92d1-4127-b5c5-6001a853da03,Different,Toys,149.55,1,118.25,20.92,Mobile Payment,Young,Female,Guangzhou,Zachary Woods
+93eeffed-dac2-4991-9ff9-ff4a8e1ffd05,2025-05-05,China,c4ce35e1-65ca-4967-afc0-19a7092801e9,Officer,Beauty,279.17,8,183.77,37.1,Mobile Payment,Young,Male,Guangzhou,Bianca Hill
+33cda574-28ec-42d5-a6d3-11af90016e98,2025-11-10,China,a245c5e8-0bed-4bba-a13e-3b390c3d5c34,Prevent,Electronics,37.42,1,31.43,1.74,Cash,Adult,Male,Guangzhou,Amanda Schneider
+71a0ae3f-7630-48cc-891d-29eeb4496e19,2025-07-07,China,9ce80ffe-c568-4b22-beb4-a0b4939deff8,Choose,Sports,142.03,2,92.73,12.98,Mobile Payment,Senior,Female,Guangzhou,Raymond Martin
+b33f27d6-7f72-4009-810d-1e22fed53896,2025-12-03,China,9fc7a846-eceb-4127-8cdb-0bb15dc5168a,Reason,Electronics,117.25,4,74.59,6.85,Credit Card,Young,Female,Guangzhou,Norma Green
+e358ff1e-531b-40c9-b5f6-2ce0db7bac2f,2025-08-07,China,8201ed2b-f958-412c-9eba-aa24642da6d1,Cut,Clothing,174.07,2,144.1,33.85,Cash,Senior,Male,Guangzhou,James Swanson
+9246f76f-242f-4a51-affa-d790070aad22,2025-08-07,China,fb711e9c-f51b-445c-9cef-1a2d0c208456,Name,Beauty,437.01,4,323.6,30.57,Credit Card,Senior,Female,Guangzhou,Paul Hebert
+838d2b7d-9a6a-4927-b7be-52d141522ecb,2025-10-09,China,8e78ef59-3b21-4262-b750-f6ef7812d0f0,Forget,Clothing,418.63,4,370.65,55.08,Credit Card,Adult,Female,Shanghai,Justin Brown
+eb0936c0-1b58-41da-8cb3-7db01d74aa6b,2025-09-10,China,ec2743eb-a0c7-4e52-9503-f51599b2176b,Choice,Beauty,267.31,6,186.55,29.81,Cash,Adult,Other,Beijing,Cody Becker
+d0e42be9-4b5a-4ee8-b33f-ad7ecd02bff0,2025-07-09,China,d121b6ea-2e0b-4cff-a55e-985a11e11a2e,Meet,Home & Kitchen,312.3,9,194.26,19.52,Cash,Young,Female,Guangzhou,Mike Bennett
+d5df5465-73e6-471d-806c-0c9395af82df,2025-11-12,China,7ef6ec1b-6457-4103-92be-7f726a4f5912,Cover,Toys,330.63,1,214.57,5.21,Credit Card,Senior,Other,Guangzhou,Chad Gonzales
+b73c68ed-5189-4e26-9ccd-2414cc3ae145,2025-01-12,China,ee33d9b9-a225-4cc7-86c5-d6668e24a5e7,Trip,Home & Kitchen,365.16,2,327.07,60.95,Credit Card,Young,Female,Guangzhou,David Austin
+f3c344e8-fe96-40cf-9443-e400b3c84e89,2025-07-09,China,20f3cd9b-060d-48d5-9fe6-b59aa4b16aa8,Maybe,Beauty,499.04,3,393.59,54.54,Cash,Senior,Other,Beijing,Kristen Armstrong
+ec7de623-605c-4415-a691-742464f02ba6,2025-03-03,China,becd78dc-9c48-45b4-a856-d38be8f13360,Today,Beauty,23.21,5,18.91,1.28,Mobile Payment,Adult,Male,Guangzhou,Christina Wilson
+043e95a9-4fc5-4d6c-b27a-2dd36e3fcbe6,2025-09-10,China,2aee9ce3-770a-42c8-91b8-4d569fa929cd,Eye,Beauty,395.53,6,330.3,21.74,Mobile Payment,Adult,Female,Shanghai,Andrew Smith
+925b5dcc-d09a-4eb9-99f3-c587c5efd1ac,2025-07-07,China,1e4f1ba8-39c5-4a63-9dfc-cfb9cf54b57a,Lead,Home & Kitchen,489,1,416.34,65.97,Mobile Payment,Senior,Other,Guangzhou,Tina Santana
+0972d177-ba09-40a2-b7b3-5a644c572699,2025-09-10,China,34399bdf-230a-4aef-a0ef-0f38b3fbe01f,Generation,Clothing,104.12,9,73.95,8.29,Credit Card,Young,Female,Beijing,Jessica Wiggins
+61e01246-0d98-4b7e-afcb-6e07e3006aa7,2025-04-06,China,6a754f2f-2eb4-4bca-9881-47c69b44e599,Same,Beauty,103.55,4,77.94,10.03,Mobile Payment,Young,Male,Shanghai,Kyle Davis
+f024b759-08e2-4398-818b-9c662170e87f,2025-01-03,China,02a02284-aa3e-4041-9856-d182cf9e199e,Business,Home & Kitchen,375.35,10,311.82,23.92,Credit Card,Adult,Female,Guangzhou,Steven Johnson
+ee8854b8-0b01-48ec-94b7-ddf8234470af,2025-06-06,China,4d299473-bc3c-48d1-8442-09ef210c16e2,White,Beauty,382.85,4,304.38,67.6,Mobile Payment,Adult,Other,Shanghai,Walter Arnold
+9aa19baa-e148-4938-988c-077405f3be8d,2025-01-12,China,0df3a299-979c-41d4-89b5-1eceb6acd3b4,They,Toys,470.17,5,396.25,53.73,Cash,Adult,Female,Guangzhou,Jennifer Simpson
+be250036-2578-4e35-b1fa-aef22dc069da,2025-05-05,China,73e18033-12e1-4a71-aa9e-bd25d42336e3,Mean,Beauty,340.05,3,252.58,40.65,Mobile Payment,Senior,Other,Beijing,Patricia Smith
+ee78cb54-03d5-4c93-9f0a-aa17eff50af3,2025-10-11,China,b41170af-b743-4892-87e8-f0e96d4e708e,Environmental,Home & Kitchen,219.53,2,133.89,35.79,Mobile Payment,Senior,Other,Beijing,Kimberly Robinson
+66ad20ba-d49c-49c1-ac21-999401f2ff87,2025-04-04,China,0e2f9690-2e63-4121-b070-f173baea61c4,TRUE,Beauty,41.31,10,26.34,7.23,Mobile Payment,Young,Female,Beijing,Kimberly Phillips
+aecc45c7-01cd-4889-a676-99b3cd9f9255,2025-04-04,China,c7cb1bff-bdf4-41b7-bccb-991678b8a3b3,Tree,Toys,89.84,5,75.46,15.32,Credit Card,Adult,Male,Beijing,Erin Williamson
+50bc6ae0-799e-4a1a-9601-28bb760950dd,2025-12-03,China,ae5c9616-38ec-46fb-83b6-201fc4d3015d,Difference,Toys,422.83,2,284.53,48.01,Cash,Young,Other,Shanghai,Dana Morris
+eb516c47-491e-4c58-9e97-0c235c2e8eba,2025-06-08,China,c3a42ae5-84d8-4377-9112-5e702a8b8ead,Oil,Home & Kitchen,257.23,7,199.43,12.12,Mobile Payment,Young,Other,Guangzhou,Jesse Nolan
+0d8ff189-116a-4d7a-bc18-bb7ff6b2675c,2025-11-12,China,96d2d40b-52ee-43cc-ad7f-94c381604afc,Lay,Home & Kitchen,115.47,10,78.31,16.61,Mobile Payment,Senior,Other,Beijing,Gabriella Wilson
+c37532eb-eff8-4f7a-9646-8666d8cb7011,2025-05-07,China,918d256f-5c18-4cc3-bc09-7fe845f7d5c3,War,Electronics,461.62,6,337.06,5.7,Cash,Senior,Female,Beijing,Robert Hawkins
+7c3c4747-2381-4629-9d4d-8d121e74b9e6,2025-02-04,China,10d5400a-7b06-40b7-9f50-29239bb3d4f9,Build,Clothing,480.05,4,392.8,69.95,Mobile Payment,Adult,Male,Shanghai,Robert Carey
+1dabca58-11d9-4c32-95e8-45c89e7144b6,2025-09-08,China,6ff2c0f4-3d51-4d88-8885-297303b1b93f,Clearly,Beauty,58.44,1,38.82,9.06,Cash,Young,Female,Beijing,Joseph Fox
+f3f2b0e8-d6b6-4077-aceb-05c95af8ffbb,2025-08-09,China,a3f80273-80bf-48d8-9ec0-dde57e6d510a,Phone,Toys,148.29,3,121.14,19.91,Credit Card,Senior,Male,Shanghai,Samuel Miller
+08a65bcd-aede-4416-9603-9ba5c529d64e,2025-03-03,China,33c53f98-51a7-4ccb-96e0-c81f48670133,Day,Electronics,483.11,5,391.17,18.33,Credit Card,Young,Male,Beijing,Juan Mccall
+d0652087-0648-47dd-ad68-cda007d798cd,2025-07-09,China,8062ca8d-76f2-451e-921a-4aee73c3a737,Foreign,Home & Kitchen,274.27,1,202.37,43.2,Mobile Payment,Senior,Male,Shanghai,William Swanson
+8c5919a3-b1e1-4d58-a45f-7730cba9ad64,2025-11-10,China,fa49ffd3-4bd1-4924-bcd8-6e8f5b21a1fd,Main,Home & Kitchen,294.53,3,231.55,50.4,Credit Card,Senior,Other,Guangzhou,Ryan Taylor
+e39981f9-86aa-4b2f-9db3-ed84194acd7c,2025-12-11,China,c0692340-158e-4d5f-ae3c-25a44988b88f,Blood,Electronics,374.2,1,278.83,72.46,Cash,Adult,Other,Guangzhou,Stacey Carter
+c844b204-de9f-4ca5-922b-85ae9c6cb5fe,2025-11-12,China,19c8b4d2-bb26-4bf5-9eee-71fc6149c8f6,While,Sports,293.23,8,262.4,35.71,Credit Card,Young,Male,Guangzhou,Alejandro Aguilar
+16d9e936-7f3f-43c8-82a1-bd6cc4dbd615,2025-11-10,China,1e8b5fbe-98b6-4ebe-a3ab-17d7cf7c487e,Say,Clothing,132.64,3,109.65,8.93,Mobile Payment,Young,Male,Guangzhou,Alison Valdez
+4ad4d611-7ea4-4751-9ab9-7371a733c1d0,2025-10-11,China,df532e69-37b9-4bdd-bf2f-15fc4f784806,Follow,Beauty,474.59,4,418.07,81.42,Credit Card,Senior,Male,Shanghai,John Robertson
+55b2d83e-8b0d-4b76-967f-474adeb26b70,2025-07-09,China,741b11cb-cfd5-45fd-bcff-5589ab6edb85,Stop,Sports,301.74,7,200.3,47.82,Credit Card,Senior,Other,Beijing,Michael Brock
+10b6f798-51e2-445e-9831-08c7b2780512,2025-06-06,China,7f017f4d-ade0-44d6-8416-b11387f40bbd,Involve,Toys,206.79,6,150.56,40.64,Cash,Adult,Male,Beijing,Kathryn Carpenter
+dca33c50-16d1-465e-b3d1-00fde2dcad4d,2025-09-10,China,ba3148a0-6877-42a6-9414-c80bf6e74e2c,Us,Toys,19.01,1,14.44,0.48,Mobile Payment,Senior,Female,Shanghai,Edward Butler
+7e075ef5-f8d5-417f-9a10-d708ecf502d6,2025-12-03,China,6824b146-cdd0-4c8f-bba2-225ba090b9aa,Than,Sports,439.21,5,326.49,47.41,Credit Card,Senior,Male,Shanghai,Mrs. Kelly Davis
+5e1ce673-0fc8-4bd9-8327-c4fffdc9f4a1,2025-08-09,China,f3d30d44-ac2f-49f8-a23e-d97b8a5ca722,Pm,Toys,488.41,2,361.32,14.54,Mobile Payment,Young,Male,Shanghai,Barbara Davis
+5152b2a8-ed3b-4166-9413-fe18d1e3b585,2025-08-09,China,06f56dd8-cc4a-4aa8-a016-1568e0c22375,On,Toys,194.15,7,132.36,37.55,Mobile Payment,Senior,Other,Shanghai,Yolanda Barrett
+319c36ad-c848-4eec-8f4f-8530503e00fc,2025-09-08,China,223714ee-1edb-4542-bc20-c76fa1b3424d,Hard,Electronics,13.57,5,10.68,0.65,Mobile Payment,Senior,Male,Shanghai,Russell Moore
+05f77130-bb08-4541-9878-a25c7b53f71a,2025-07-09,China,0697da7d-511a-47b5-aab4-e34eaf58d740,Four,Toys,271.07,4,224.18,19.21,Credit Card,Adult,Other,Guangzhou,Karen Walton
+2d892237-55f0-4c54-8819-3868ee0e3e22,2025-01-03,China,f2c8347b-9eb6-4477-b54c-27b53cbe3681,Why,Clothing,493.2,7,369.77,82.76,Cash,Adult,Other,Beijing,Kathleen Villarreal
+be49eff1-239d-4f41-aa75-95e455e33c7d,2025-12-03,China,14d29ccb-e4fa-4759-adba-bad456fd0be4,Every,Sports,488.02,9,376.77,69.31,Credit Card,Young,Female,Shanghai,Julia Richard
+ca9ae551-cd42-4d3c-b3e6-bf701c6a48ce,2025-09-08,China,01bedc55-0329-47f2-a6a5-b51c68a42604,Keep,Clothing,494.51,7,317.96,5.86,Mobile Payment,Senior,Other,Shanghai,Dr. Ralph Zhang PhD
+69b07fd4-41ad-4235-9be0-3e4c6f162862,2025-08-07,China,e0dd9a38-ed85-413f-bd32-c80b2067f8c0,Authority,Beauty,314.1,6,253.52,51.02,Credit Card,Senior,Other,Beijing,Brian Lamb
+93b2d13d-00d5-46f5-a030-4a4f8fadde62,2025-07-07,China,f6b652a4-8339-442e-80d8-fd898f5bc348,Stay,Toys,299.44,3,254.05,37.46,Cash,Adult,Male,Beijing,Jonathan Jennings
+7dba772d-65c3-4486-8fe7-fedba68dfcec,2025-07-09,China,93525a7a-036a-4d7e-9ff7-3bd10a46b44c,Institution,Clothing,69.7,3,43.04,2.07,Credit Card,Adult,Male,Shanghai,Gloria Miller
+c63c5bb0-e04f-4bdc-b597-115292e34b58,2025-07-09,China,db1ac039-dd3c-4b4f-aa2d-0002dd56a0e1,Fish,Clothing,76.61,9,57.81,5.45,Mobile Payment,Adult,Male,Shanghai,Catherine Duncan
+c8ee3cb9-92cd-474f-841c-c15d21849131,2025-02-04,China,d964fff2-79c2-4614-8b8a-d32b7984b528,Walk,Home & Kitchen,139.64,8,101.06,7.39,Mobile Payment,Senior,Male,Guangzhou,Sheila Sampson
+c378ba97-9982-4a60-8abd-ebb297ef78ef,2025-02-12,China,50f44113-d129-4ca4-80d6-bcee149a49cb,Without,Home & Kitchen,420.41,10,306.63,71.78,Mobile Payment,Adult,Female,Shanghai,Mark Cochran
+377d21b3-38d2-4b05-91bd-51d15250898a,2025-05-05,China,7baf658b-e958-4c9e-b06b-d242f39572e0,Nor,Home & Kitchen,178.49,5,129.08,31.75,Mobile Payment,Senior,Male,Guangzhou,Linda Gallagher
+ad740954-1df6-4147-a3a3-76a8bbfdbf48,2025-01-03,China,ac90a66f-3412-431f-b22d-a1194b97f62e,Account,Electronics,462.25,9,344.39,5.42,Mobile Payment,Young,Male,Guangzhou,Michael Hutchinson
+6e2eb41f-5432-4c28-9a64-b38c97fb9b69,2025-01-03,China,2d60b8ad-5506-47b9-93be-dae00b4f7fd9,Add,Toys,159.29,7,115.55,21.3,Mobile Payment,Adult,Female,Beijing,Alexis Garza
+ce17f678-a7cf-4425-9dc9-f7158a3ec611,2025-08-07,China,6908abf0-da01-4a79-a349-1fc1c709b7bf,Coach,Beauty,73.09,6,49.7,7.79,Credit Card,Adult,Female,Shanghai,Monica Cabrera
+5e20bd61-8a81-42bf-931a-c8fbe376cfd7,2025-02-12,China,3139a45d-776d-4a5b-99f2-8142d3b60bc9,His,Home & Kitchen,90.14,9,72.67,6.29,Credit Card,Young,Female,Beijing,Bryan Gibbs
+ef70f26b-3099-4a5b-b809-6b51889b1676,2025-02-12,China,b49d900b-f6cc-4596-b861-0728593622aa,A,Clothing,232.52,1,198.98,31.55,Mobile Payment,Young,Female,Guangzhou,Beth Miller
+3745b89c-2053-4353-bab9-1c4acf21b0aa,2025-01-12,China,d6f18030-3860-4d4c-a9cc-ffc13dca25ff,White,Beauty,197.33,2,128.28,32.64,Mobile Payment,Adult,Male,Shanghai,Mariah Ellis
+a96812a1-b82a-4c17-a46f-e3ccd3146aee,2025-06-06,China,3d4a5656-f992-4444-b32c-5694d3a2ad19,Though,Clothing,441.42,2,318.93,16.27,Credit Card,Young,Male,Guangzhou,Jason Edwards
+5d0adb55-5b83-4c9b-802b-559b9b2ea690,2025-03-03,China,ee5e1e94-e500-4dc4-9f88-3d8c4341633a,Establish,Clothing,189.63,8,134.02,31.04,Mobile Payment,Young,Female,Guangzhou,Kelly Phillips
+56a49640-71a0-4e48-ba1e-9b677203bb1b,2025-06-06,China,16d32e6f-796c-48ef-b1db-84f6257c9c1f,Area,Beauty,318.95,7,192.66,6.94,Mobile Payment,Senior,Male,Shanghai,Heather Johnson
+a0030324-db0a-4b36-85bc-1571c4e3aa7c,2025-03-03,China,57ff7424-8742-4907-8c80-179eb2f26f27,Available,Beauty,123.59,10,92.13,9.36,Credit Card,Young,Other,Guangzhou,Anthony Jenkins
+4ab6c033-b868-4c7c-a935-05f7a7d82f62,2025-07-09,China,ce90f09c-a469-4596-a15f-205671a209b1,Meet,Electronics,238.99,2,194.58,7.92,Mobile Payment,Senior,Other,Beijing,Brendan Edwards
+e76184dd-2da2-44a7-b5f9-44302b64d418,2025-10-11,China,01cb3f42-b52a-4a46-ab33-100fa1497bb5,With,Beauty,25.53,7,19.68,2.27,Credit Card,Adult,Other,Guangzhou,Gary Evans
+8ebc4a23-08ea-4578-bd04-5c4349b39971,2025-11-12,China,eec099b1-ed66-476f-a0e9-c9ab3eb0dd29,Hundred,Clothing,42.58,8,30.26,4.96,Credit Card,Young,Other,Beijing,Amy Dougherty
+97856b7f-aeb3-48b0-ae26-c3c16d2589fe,2025-03-05,China,3f83001a-073c-46a4-98bb-109edb5ed5fd,During,Home & Kitchen,438.72,3,364.98,72.79,Cash,Senior,Female,Shanghai,Kendra Perez
+dd5b43cb-10f6-4527-8830-6497a136ea7d,2025-12-03,China,6bd09288-be1e-4eca-ab71-857d2c633148,Race,Clothing,291.49,1,181.69,31.26,Cash,Senior,Female,Shanghai,Cameron Sandoval
+a24cd623-8740-4f02-970c-fbf899b8c510,2025-02-12,China,d25ed101-3cd4-4742-913d-e3be7b2896e3,Deep,Electronics,336.76,1,252.92,34.85,Cash,Adult,Other,Beijing,Jessica Castro
+7d8fe13e-f9e8-4315-aa42-beae8b8d3bed,2025-06-06,China,4a4f008d-74b5-404c-ac0a-9ce5afee68b7,Blue,Sports,302.19,3,185.51,50.99,Credit Card,Senior,Female,Shanghai,Brian Choi
+2a7cbb01-18ce-494a-ac11-239f50f65793,2025-02-12,China,4a8c94a7-6edd-421c-b09e-e108775f86b3,Thus,Beauty,348.68,6,308.61,1.54,Cash,Adult,Male,Beijing,Sean Barr
+48e303d4-3337-4030-9d3a-a16539fcf822,2025-09-10,China,b9c829b7-cf61-44cb-a66e-ae8ecbbe9d2e,Not,Beauty,302.32,1,226.72,11.15,Credit Card,Young,Other,Shanghai,Melissa Anderson
+b0dbbc8e-9761-44eb-8470-dca2f0d57440,2025-06-06,China,77745488-1f77-4d94-8211-4a04525af57f,Fly,Toys,12.86,5,7.72,0.49,Credit Card,Adult,Female,Guangzhou,Erika Jimenez
+5956811e-c12b-40ad-add3-d6fec8c729cf,2025-12-03,China,561830bf-baef-4084-bbe3-d987716d9f90,Thank,Beauty,229.37,10,200.38,41.83,Credit Card,Young,Female,Guangzhou,Jacqueline Bush
+63ad8457-2d40-4f39-b232-ac95fae0308d,2025-07-07,China,3de8501e-5481-41df-a5e0-120ee4cf70c5,Need,Home & Kitchen,206.76,5,161.32,12.5,Cash,Young,Male,Beijing,Mark Morgan
+7a5ba426-c8d8-4329-b4f5-c60851935ec1,2025-10-11,China,77aa503f-aa14-46a8-be54-1f80dfda5d45,Relate,Toys,368.42,6,325.81,8.42,Credit Card,Young,Female,Guangzhou,Susan Davis
+a5312f5e-2209-4579-b8e7-ea8603227651,2025-04-04,China,579ef352-59fa-4365-99ae-d7d69f7e5810,Turn,Toys,473.83,2,381.37,78.01,Cash,Adult,Other,Guangzhou,Cory Bennett
+7a6bf5d4-5eb1-4526-81f2-14d83a767bff,2025-05-07,China,0703edaf-2c50-4c89-a2d0-cf04e17a245f,Two,Clothing,331.48,8,222.83,34.82,Mobile Payment,Young,Female,Shanghai,Russell Johnson
+34fe525b-7f6a-4e61-9038-7fa303fb704d,2025-02-02,China,05da95bc-dd62-4506-a9c6-080439e80d03,Crime,Toys,408.94,3,310.28,62.18,Cash,Senior,Male,Beijing,Sean Anderson
+57f272cf-12fb-48f0-b3c6-ec7c999c4678,2025-03-03,China,f3899119-d908-4aaa-b344-719c3f7efb11,Education,Toys,257.07,4,190.12,28.23,Mobile Payment,Young,Other,Guangzhou,Jennifer Williams
+bfca1e60-041c-440c-b429-b451029c527b,2025-08-07,China,8a528467-2e27-4313-894b-f8e3f71741fa,Hotel,Clothing,480.35,5,363.68,70.31,Credit Card,Adult,Female,Beijing,Charles Dickerson
+b9c7cdf8-ffef-4aa3-a9d0-e0deae047f31,2025-12-11,China,c343f8ad-b207-4d56-8732-af3e27ce8c45,Fly,Clothing,130.81,4,79.67,24.52,Credit Card,Young,Male,Guangzhou,Christine Rhodes
+4460adbd-80a3-40d5-90bb-3fd0e1098703,2025-07-07,China,a41e1c11-0b45-4316-9ec6-c7097cdcd7c0,Energy,Toys,181.29,1,136.1,28.03,Mobile Payment,Adult,Other,Shanghai,Jeffrey Anderson
+1965a543-323a-4ecd-966c-e570c576388f,2025-07-09,China,8e92a381-f231-4fef-a0b3-1e8c9d6fcdaf,Doctor,Home & Kitchen,149.34,9,103.81,0.49,Mobile Payment,Adult,Other,Beijing,Samuel Smith
+8754d103-75e7-424f-a7c1-1ea191b97c8d,2025-03-03,China,a251d400-cc9b-49d0-b314-bc8a1606dba8,Bad,Sports,32.25,1,22.42,0.11,Credit Card,Senior,Other,Shanghai,Mr. John Mahoney
+d6e5b5e6-d6ca-4d02-8b3f-44d0f5a21751,2025-04-06,China,ffb81e44-7df2-4988-93f6-17323ca62d1c,Main,Toys,94.14,9,69.41,5.12,Cash,Senior,Female,Shanghai,Linda Ruiz
+9e019fc7-8dfe-41a2-bcc9-42d4ee9d92e8,2025-07-07,China,949b5f95-131a-4f04-9319-8fcd6564d9d7,Bring,Clothing,99.22,7,84.07,6.19,Mobile Payment,Adult,Other,Shanghai,Tom Blair
+0f1a2ef1-164a-40bb-b206-6392d3244b43,2025-08-07,China,f03d383d-b7dd-495f-8ded-8d1124e18a06,Tree,Clothing,403.72,8,329.32,40.49,Mobile Payment,Adult,Female,Shanghai,Kim Kim
+d731b932-cf53-40ae-a75a-e2ac1c302c2f,2025-04-04,China,e2168194-ef5e-4f4f-ba9e-35c6dc16114c,Work,Electronics,207.04,3,160.64,38.14,Cash,Senior,Male,Beijing,Brian Fowler
+9f7c4280-5d91-4516-b2a1-a5fee97a2966,2025-08-07,China,d8487913-d037-4a18-aa2f-4b031c5ae250,Theory,Clothing,176.23,3,114.38,26.27,Cash,Senior,Female,Beijing,Maria Torres
+d0f95e62-34a1-4985-9e32-5e69e9694224,2025-10-09,China,95604314-27f5-4085-add9-e6bfac0e98e9,Fly,Toys,219.55,6,186.62,28.94,Mobile Payment,Young,Female,Beijing,Samantha Hawkins
+271380b4-e3cd-4af1-925d-e6c1ad2c6862,2025-01-03,China,f47d83d0-cd2e-4520-bc3f-0ec934e1d207,Card,Electronics,423.23,6,365.57,63.3,Mobile Payment,Young,Other,Beijing,John James
+f0a1abb0-3a16-40fd-b8ef-04e9f62da244,2025-11-10,China,0167b2a0-1b87-4a03-9a40-16444a3f91d2,Safe,Toys,392.48,2,286.28,7.56,Mobile Payment,Young,Other,Shanghai,Michael Hayes
+93865ce9-fbfd-4df9-afd8-3323d0ca91f4,2025-03-03,China,7fcd2b03-6b2c-46e3-820c-4ffa7fa69260,Simple,Clothing,143.35,6,122.29,22.42,Credit Card,Senior,Other,Shanghai,Kevin Marshall
+f30a01ba-5ee7-4c6f-9bb6-8ecbfdabf88e,2025-11-10,China,cfad3146-4cba-4825-ab54-beaebe6ebc7c,Soldier,Toys,465.74,1,407.1,17.99,Cash,Young,Female,Guangzhou,Richard Jensen
+8424cdac-4958-4c59-8165-2af486312d5a,2025-11-12,China,00c49e67-d2de-4550-ad6f-362af3dd6343,Red,Clothing,365.33,6,224.14,10.24,Mobile Payment,Adult,Male,Beijing,Donna Schneider
+bb18e07e-74ba-49c3-8d99-0fecd9257d6c,2025-05-07,China,12a150e3-bc92-41de-abb7-cd4cd9b28bfe,For,Home & Kitchen,486.48,10,349.38,31.39,Mobile Payment,Senior,Female,Guangzhou,Richard Reed
+56d32a97-cf2f-419d-bb00-b605537a5b3d,2025-06-06,China,72dc1548-3ddd-482e-90b7-2ddbd3a8f09a,North,Electronics,26.35,3,17.82,1.78,Credit Card,Senior,Male,Shanghai,Dwayne Berry
+884176a3-f49c-4515-b0ce-098cc521d2de,2025-04-06,China,11b4f0bc-50cd-4334-8ecf-63168c1e121b,House,Toys,258.43,7,177.78,28.29,Cash,Young,Female,Shanghai,Deborah Burton
+41c4db55-1e03-46bb-888b-06cb15ea7c2e,2025-01-12,China,d2af64f1-c291-4491-b0f5-860a7172d9de,Do,Clothing,166.94,3,114.29,20.18,Mobile Payment,Adult,Male,Shanghai,Christopher Yu
+e48eff8e-5e7b-4393-b7a0-336f3f938031,2025-05-07,China,6a458c29-60e2-4667-a1b9-934344b839fa,Local,Electronics,348.84,9,237.92,54.07,Mobile Payment,Adult,Female,Guangzhou,Charlotte Cox
+13906259-d418-4107-89f7-f937589b23be,2025-03-03,China,1a331190-0220-4a2f-97d7-34ff8b8b0992,Half,Beauty,329.05,6,207.32,53.16,Mobile Payment,Young,Other,Beijing,Natalie Mays
+e42fc76d-2730-49ed-957d-c3466f8e3914,2025-05-01,China,9a9870f8-4469-4253-98b8-d7162862bb7d,Our,Clothing,301.39,7,234.61,1.39,Credit Card,Adult,Other,Guangzhou,Kaitlyn Arroyo
+d01aa692-45ad-4807-bb7c-dece4c640291,2025-07-09,China,32ab093b-1c4c-424c-9574-c580d0c122a7,Environment,Clothing,302.36,9,189.57,26.56,Cash,Senior,Other,Shanghai,Craig Brown
+55018854-c04d-474f-ba07-cc09ace783c9,2025-06-08,China,b81adea5-d435-45a1-98fb-2b4354e0eea3,Soon,Toys,455.18,6,399.78,85.46,Cash,Senior,Male,Beijing,Aaron Mclaughlin
+8781812c-75de-43f0-bd3c-99f0ecf38743,2025-02-04,China,892ae34c-72e3-4fe4-a41f-c473abe742db,All,Clothing,276.72,4,209.52,0.83,Credit Card,Adult,Male,Guangzhou,Thomas Rangel
+f195b28f-d06c-43a2-983f-56fa09df3d5f,2025-04-04,China,e6b32b4e-1214-4166-a03f-fd1de5de1ef0,Actually,Toys,350.48,10,313.23,1.85,Mobile Payment,Senior,Female,Shanghai,David Gray
+7559df81-e1eb-4f5d-95a6-28f36e4b1913,2025-11-10,China,cbd7658e-860b-42ea-b3b8-e492e6cf71af,Ever,Home & Kitchen,441.48,5,271.26,51.39,Mobile Payment,Young,Other,Beijing,Heather Cook
+f74d7891-54b1-42a4-9fea-2c26a105a39e,2025-06-06,China,c45a75b4-cab0-414a-985e-368e5d845c32,Table,Home & Kitchen,188.25,6,156.09,3.9,Mobile Payment,Senior,Other,Shanghai,Nicholas Burgess
+428ebb7f-feee-43bd-98b4-a4539ef4e47c,2025-12-01,China,26e5787f-aea9-48e0-8aed-d2cf8e68a004,Body,Sports,47.42,3,42.25,6.47,Mobile Payment,Young,Female,Beijing,Ryan Ochoa
+a45c9f9a-ef6f-4421-a915-e0af6588f2d1,2025-09-08,China,4b6ad000-7626-437f-8eec-e7c1bbc48d84,Newspaper,Toys,134.44,3,92.65,4,Mobile Payment,Young,Female,Shanghai,Beverly Hawkins
+79fca01c-2b9f-4214-a798-d892b5bb50c9,2025-03-02,China,44bbdd38-4472-4318-b37b-cb1d8fda34da,Property,Toys,28.42,2,17.85,2.07,Mobile Payment,Senior,Male,Shanghai,Haley Vaughn
+8d7a8f64-89de-4634-8f75-35cf03d785b0,2025-09-08,China,66bafee8-697e-427f-92b6-39a132159e2e,Hundred,Toys,211.63,5,152.55,11.3,Mobile Payment,Young,Male,Shanghai,Kyle Hughes
+a27c7479-0f86-404a-8513-d3148c5cdf22,2025-04-06,China,ea15833d-444f-4b49-a68b-ef72b213d281,Own,Toys,255.99,8,220.87,45.49,Mobile Payment,Adult,Female,Shanghai,Suzanne Wood
+f27931d1-06b0-4a60-97c5-3c28e953e12e,2025-03-02,China,a3f5de96-1401-433d-8234-184a0c204e12,Recognize,Home & Kitchen,259.77,2,197.93,46.82,Mobile Payment,Senior,Other,Guangzhou,James Elliott
+b14c4d63-6173-4e41-9843-32205e1089fc,2025-06-01,China,d1793e81-2c68-455c-8be5-e937742e88cd,Practice,Beauty,356.63,10,319.11,22.73,Credit Card,Young,Male,Beijing,Sean Johns
+54cd50d9-de07-407e-9d5f-618bb43ca092,2025-06-06,China,f968340f-00ab-4dd6-aa90-e28f8d98bcad,Decade,Electronics,354.73,9,224.23,41.9,Cash,Adult,Female,Beijing,Mario Gonzalez
+5fc0d9cb-371c-4f9d-b62b-9ef7a42ce58e,2025-11-10,China,3a41fefc-f6b6-4073-859c-80865c73913f,Reality,Electronics,441.26,8,287.43,17.05,Credit Card,Adult,Female,Shanghai,Brian Case
+f92bfc6f-f2f9-48d9-bc45-dd271c75f43c,2025-04-02,China,7abfadb5-37b3-4767-abcb-e4c292233d9a,Deal,Home & Kitchen,482.99,4,309.05,41.13,Credit Card,Young,Male,Beijing,Ruth Morales
+a1d32599-3efb-4f7e-9612-0fead3091531,2025-07-07,China,1b6111c3-fba6-4532-956f-814c85bbcddb,Age,Sports,454.84,3,393.12,88.57,Mobile Payment,Adult,Male,Guangzhou,Thomas Dorsey
+71b1eca1-3cae-4c52-b7db-0d3b601d988b,2025-02-01,China,7928fdc6-9393-4515-a288-575484a84279,Suffer,Sports,373.53,9,244.98,7.54,Mobile Payment,Young,Female,Beijing,Alexandra Lewis
+195cc00f-7dc0-4735-a215-90ad9e79b5f0,2025-08-07,China,96209fd4-e2af-44d5-9ce9-b5a4fdbedf71,Meeting,Clothing,227.12,5,153.42,6.94,Mobile Payment,Adult,Female,Shanghai,Leslie Gilbert
+7d0c6454-8ced-473b-abf3-08f103e140e9,2025-07-07,China,986b5bab-be96-464b-a39a-718ae1043a18,Parent,Toys,37.4,7,30.67,2.95,Mobile Payment,Senior,Other,Guangzhou,Susan Cortez
+abf3f12e-f5af-497b-bbb5-e72f0e65ae1c,2025-05-02,China,31b756c6-3e5f-45e5-9c5b-055936187410,Describe,Clothing,65.13,9,42.97,7.98,Cash,Young,Male,Guangzhou,Connor Hudson
+a842c810-22a8-46ff-b1cd-4aefe40881d0,2025-11-01,China,d3539da2-5dc8-4e02-856a-00fd06375bd0,Thought,Home & Kitchen,245.97,8,208.05,27.43,Mobile Payment,Young,Male,Beijing,Veronica Terry
+1df24b2a-da76-460b-acaa-23b79fd0251e,2025-04-01,China,022ba3d6-5abd-4235-9b27-ea674f8084a8,Quickly,Toys,230.21,3,144.31,33.32,Credit Card,Adult,Other,Guangzhou,Nicole Palmer
+5405df03-fb55-4521-a753-876391cc8928,2025-03-02,China,763d0cba-6b86-4c5e-8ca7-851c5f3dcc29,Over,Toys,136.68,6,112.03,11.11,Mobile Payment,Adult,Male,Guangzhou,Shannon Carter
+a686b4cf-32a3-4b3a-b6ce-77da09dcf69d,2025-10-01,China,c644afb4-9e58-4ab3-8a26-dff595ab993c,Create,Sports,476.58,1,384.23,47.07,Credit Card,Young,Male,Guangzhou,Heather Tucker
+c4892332-7b22-4e27-9be4-0d635131f0b9,2025-07-01,China,a463faf3-1594-4274-bb44-603d22385680,Structure,Toys,84.01,2,59.54,2.3,Mobile Payment,Senior,Male,Beijing,Justin Cabrera
+c9febe59-5932-400b-9d98-84a983bcdb37,2025-01-12,China,140f14d1-b9ae-42e7-8eb9-bc6f881d1f06,Produce,Beauty,261.14,10,226.75,2.96,Credit Card,Senior,Female,Beijing,Misty Brown MD
+9f3c5e6b-a2b5-4c8c-aabf-9d947ff8748b,2025-06-02,China,4849d9c3-306d-4e99-88d5-47697800b119,Finish,Beauty,439.25,4,281.25,55.32,Cash,Senior,Male,Guangzhou,Timothy Edwards
+d0c34d90-5c77-4dd9-bd97-31da002ad5c4,2025-10-02,China,539197e2-b928-436b-8063-8d4da9349ac0,Herself,Sports,84.48,10,67.57,14.39,Mobile Payment,Senior,Male,Guangzhou,Ashley Singh
+43f74221-fc8c-4be6-a7ad-bace9099a9ab,2025-08-01,China,5ec80f03-e193-409b-9c1f-1e2d8ad4ca12,Step,Beauty,60.52,7,46.57,2.91,Cash,Senior,Female,Guangzhou,Andrea Munoz
+bd53d5aa-c4c4-4884-aae2-a68e87e287d3,2025-01-01,China,a9c8bd88-c9d2-48db-93cf-5649c7294c15,Effort,Beauty,422.27,9,311.97,12.62,Mobile Payment,Senior,Male,Shanghai,Brandi Edwards
+c3ccb1cb-d246-498d-9587-d3d4e38f8553,2025-04-02,China,6847ab0b-ddaf-4cf7-bd43-cedede743caf,Decade,Clothing,77.04,2,58.08,2.01,Mobile Payment,Adult,Female,Shanghai,Tiffany Parks
+d9892343-1938-49aa-ac06-eef27577a4e7,2025-01-02,China,1fa19c36-702a-4081-85f1-d7986a6ae91b,There,Clothing,466.23,7,300.66,82.95,Credit Card,Senior,Female,Beijing,Michael Hansen
+5147b691-02d6-4200-8fff-af7cb48dd419,2025-09-01,China,89e8fe3b-c550-4a82-ab0a-2a1c405d0426,Decade,Sports,207.35,9,146.43,2.86,Credit Card,Senior,Female,Shanghai,Dana Edwards
+86aeb56d-79d2-426c-8d43-a25ff0f28c32,2025-03-01,China,8b0485a8-c2cc-403e-8f68-50853fa1ed2f,Traditional,Toys,380.86,8,249.64,9.77,Mobile Payment,Senior,Female,Guangzhou,Crystal Davis MD
+5fb14ded-e47f-417a-be9e-28daae500d3d,2025-08-07,China,0624d12f-a712-42ce-9793-352c4eb62da9,Treat,Home & Kitchen,169.2,2,101.74,30.71,Mobile Payment,Adult,Male,Guangzhou,Victor Miller DDS
+542c80df-0d50-4918-ad6e-f5ff29dfeaf5,2025-12-11,China,eb1f588c-c81f-47dd-b66a-95a351af1a21,Commercial,Beauty,379.94,9,257.26,13.62,Mobile Payment,Young,Male,Guangzhou,Danielle Young MD
+ff4ed708-d7c1-45ff-982c-cbc58dcb73f0,2025-07-02,China,66bce405-4904-4547-9402-2e7c00f027d9,Building,Clothing,184.87,1,129.62,18.67,Cash,Young,Other,Beijing,Laura Nguyen
+9732ba0d-e593-41e9-a0c5-947f6335923f,2025-12-02,China,ada69f4f-6044-49ac-8138-9828390690fd,Police,Electronics,135.55,9,110.47,13.07,Cash,Adult,Male,Beijing,Edward Thomas
+c69af152-2aac-4c5c-a731-cbe8037f9984,2025-11-02,China,c3e06d63-4227-4e72-aa4f-e7875ae35e7f,Ever,Clothing,451.57,5,397.13,27.77,Mobile Payment,Adult,Other,Shanghai,Chelsea Mcgee MD
+6c8d0039-0861-4c98-ac89-2070dbebbab3,2025-01-01,China,de7159d9-5441-4563-85e9-ff1a573d500f,List,Home & Kitchen,170.57,7,137.72,23.72,Credit Card,Senior,Other,Shanghai,Jennifer Gibson
+4970f7e8-d3a8-4e16-9a14-2168c9680c90,2025-09-02,China,5c7de71d-5d05-4c3d-bbaa-3f12b9080a79,Identify,Beauty,316.28,1,194.09,6.8,Credit Card,Senior,Male,Beijing,Mr. Henry Jackson
+d80c772d-d779-4c34-a683-8fe8f5fcd817,2025-06-02,China,e7e543c0-062f-432b-9159-56593c90de74,She,Electronics,161.6,5,136.67,20.89,Mobile Payment,Young,Male,Guangzhou,Karen Cook
+8ca757d0-c318-4bb8-b230-9fb34b6a6176,2025-08-02,China,76b8507c-9127-4a1a-980f-15fe66056e7c,Degree,Sports,335.71,8,260.15,11.11,Mobile Payment,Adult,Female,Shanghai,Hannah Cline
+155793d8-3d2c-4ab0-9fbb-8979ca2a7e27,2025-02-01,China,18e9d1a0-b6ec-4f31-9b6a-6b929687c5c9,Fine,Home & Kitchen,71.43,9,54.12,2.52,Credit Card,Young,Male,Guangzhou,Jill Ramos
+329cd009-d642-42be-85ce-c5faddfdb63e,2025-03-01,China,091079ee-d0f4-4cf2-9593-fa43397ce12f,Section,Electronics,69.17,9,54.12,9.71,Mobile Payment,Adult,Female,Beijing,Caitlyn Schmidt
+c602c031-6dfb-47eb-8834-b6f8c3884e59,2025-02-02,China,8d810462-b665-436b-8c98-d9485bb6df03,Woman,Home & Kitchen,66.62,1,59.24,2.68,Mobile Payment,Young,Other,Shanghai,Frances Allen
+a9d6090d-5cb7-4cd7-a468-71d60bcb2abb,2025-02-02,China,149e9b91-adbf-4bf1-8e6c-4a40e184c512,Later,Beauty,260.45,1,195.12,9.06,Cash,Adult,Female,Beijing,Heather George
