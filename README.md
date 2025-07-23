@@ -78,7 +78,7 @@ Ensured column headers and data types were consistent in all six files (India, U
 
 Exported Clean Files:
 
-Saved cleaned files for each country to be imported into SQL
+Saved cleaned files for each country to be imported into SQL <br>
 LINK: <br>
 https://github.com/Aarti07-spec/Data_Analysis_Sales_Dashboard/tree/main/Excel_Formatted_Files
 
@@ -336,5 +336,5 @@ Lamkhade Aarti <br>
 Email: aartilamkhade72@gmail.com 
 
 
-				## THANK YOU
+				       THANK YOU
 
