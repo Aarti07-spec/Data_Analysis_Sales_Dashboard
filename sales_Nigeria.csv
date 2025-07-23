@@ -1,0 +1,502 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+beade0a0-c06c-4f2c-b07a-8ce55fbd81de,12/8/2025,Nigeria,7f03bcff-7fb8-47e3-a7d8-5ce0b7d893aa,Soldier,Sports,351.03,10,250.29,51.78,Credit Card,Senior,Female,Abuja,Leah Simon
+7a8ab7da-674b-4cb3-ae8f-d3ca0e690365,2/4/2025,Nigeria,ce09c7c8-acaa-4697-97e8-5b112a6d129c,Public,Toys,359.92,7,243.79,1.48,Credit Card,Adult,Other,Abuja,Roy James
+a88cdd7b-4229-4d1d-8474-4434511173c0,2/18/2025,Nigeria,3df1598f-498e-421c-b184-a7428e744351,Story,Electronics,287.57,7,177.57,24.41,Mobile Payment,Young,Male,Port Harcourt,Joanna Barrera
+0fccc32e-c8e1-41cc-aa9e-2e3390724207,12/8/2025,Nigeria,d88d221f-a53c-4c22-9faa-20568c20c3c2,State,Beauty,75.07,1,48.46,1.69,Credit Card,Adult,Female,Abuja,Zachary Torres
+5e57c3cd-da6e-41f0-850e-25dd0472c586,2/4/2025,Nigeria,93d96f55-f65a-4ab5-a312-8624964304f6,Market,Clothing,36.88,9,30.68,1.78,Cash,Senior,Female,Port Harcourt,Jamie Hendricks
+dfb49a89-4f68-44f5-bd86-9b50876ce7e6,2/15/2025,Nigeria,37c7b8b1-f403-4f2e-8e41-352667786077,Charge,Home & Kitchen,168.95,9,123.96,18.85,Credit Card,Young,Other,Port Harcourt,Kristin Davis
+62cbbd07-882b-477f-8af4-e09b019a631c,12/8/2025,Nigeria,03cc4f55-c905-416e-9524-ae110ec22a42,Mind,Beauty,424.24,4,315.89,82.16,Mobile Payment,Adult,Female,Port Harcourt,Rebecca Andrews
+ceaefbc0-c312-4a53-9a07-b0e900f38b0d,2/11/2025,Nigeria,2aa3a9f9-7f57-4fdc-b2fa-83ae04a99e7c,Floor,Electronics,157.43,3,134.26,26.1,Mobile Payment,Adult,Male,Lagos,Laura Vazquez
+4836bb7a-6091-4c0b-842f-7c619721a813,12/8/2025,Nigeria,48e373ea-8148-4a44-94f0-a84655c817bd,President,Sports,316.89,4,277.8,22.23,Credit Card,Senior,Male,Lagos,Jamie George
+c8339856-3ded-4104-8030-b8d9a57fec5a,12/8/2025,Nigeria,7cad69bc-ce72-42e8-bca0-f4a2f9395b40,Throughout,Home & Kitchen,405.35,10,309.33,33.87,Mobile Payment,Young,Other,Lagos,Nicholas Williams
+0f67c4b4-bd47-4323-ac5b-f0d40c8aaa70,12/8/2025,Nigeria,1f22c872-5cf8-4fdf-aefe-a0733fc2bcc0,Sport,Electronics,53.7,1,48.21,4.82,Credit Card,Young,Male,Lagos,Nathaniel Lambert
+6f8577ff-0bcb-4853-aee6-de8f3eb692c3,2/4/2025,Nigeria,c1fc70b4-a485-44c5-b50e-fbe641de032b,Red,Toys,192.83,10,155.39,29.02,Credit Card,Senior,Female,Abuja,John Greene
+c0512d2c-20e7-4156-8820-699793996502,12/8/2025,Nigeria,0616c4bb-d628-4313-b8c7-c6b8f8871c47,Hear,Clothing,404.77,6,292.23,77.54,Cash,Senior,Other,Port Harcourt,Alan Matthews
+658787ab-3821-4601-b75d-70fba304bc11,12/8/2025,Nigeria,4eab6df9-7a25-4b1b-bcc1-7149f9722289,Write,Clothing,176.28,4,142.72,14.69,Mobile Payment,Adult,Male,Lagos,Caroline Anderson
+8029b921-ad58-4f37-b536-94e877e7b308,2/17/2025,Nigeria,b739bb21-1db4-4c67-8391-925987802049,Pick,Electronics,397.21,5,353.88,65.17,Cash,Young,Male,Lagos,Beth Bowers
+4eb2db33-2991-4b2d-a629-604ae095b2af,12/8/2025,Nigeria,b1478aaf-fcc8-48c7-98ca-56c4766f0219,Fear,Home & Kitchen,449.92,4,394.18,79.7,Mobile Payment,Young,Male,Abuja,Amanda Kline
+213e39b4-9e87-4a4c-8dd5-4bb9b5905197,12/8/2025,Nigeria,b788e9a5-0d6f-4486-a385-67156db7f625,Full,Sports,486.73,6,366.36,70.37,Mobile Payment,Senior,Female,Abuja,Catherine Johnson
+4b500151-3b87-4b8b-bd23-0e894c9ca9e3,12/8/2025,Nigeria,4673ac77-2ba3-4c3d-b743-8760b5b85c0a,Writer,Beauty,462.3,1,341.98,83.34,Credit Card,Young,Male,Lagos,Spencer Perez
+8fccd4e7-0bf2-4144-a238-2f21860f2793,12/8/2025,Nigeria,bc466c19-bfb3-4b1f-b5fd-31e95329ff3c,What,Sports,371.97,6,227.3,14.93,Credit Card,Senior,Male,Port Harcourt,Tiffany Crawford
+c5170260-9a9c-4576-95d0-6d2609f14d59,12/8/2025,Nigeria,c1807f3b-be2a-4741-8245-d6a85660049e,Member,Home & Kitchen,430.41,7,341.13,8.61,Mobile Payment,Adult,Other,Abuja,Cathy Moore
+0919b35a-6bdd-4654-a4ae-4a1ad40c8023,2/12/2025,Nigeria,dbe2656e-9aa0-4f32-be8a-9a6e8f6f281e,People,Toys,87.43,1,70.83,7.83,Cash,Adult,Female,Abuja,Daniel Hickman
+efb50792-c0c5-4c2c-be83-3735a7d67c88,12/8/2025,Nigeria,ca2ecd33-454f-49e9-b5e2-73c846ce2faf,Sell,Beauty,11.34,5,8.38,0.01,Mobile Payment,Adult,Female,Port Harcourt,Candace Sweeney
+042bdeb9-00c6-445d-b996-4c0bddfe07a7,2/12/2025,Nigeria,61113048-b7cc-4d14-a151-a67895e1e592,Ago,Sports,341.42,1,293.43,31.17,Cash,Adult,Female,Lagos,Daniel Hernandez
+eabaedf5-d097-4a4a-8086-965d0ed488ee,2/1/2025,Nigeria,c7e624f2-2ed3-448b-851c-81f597e664c0,To,Electronics,126.56,2,85.04,16.58,Cash,Adult,Male,Port Harcourt,Brandon Ruiz
+55e490a3-eca1-4a87-9dbd-1d1d5880628c,2/5/2025,Nigeria,068655df-c221-4653-a35e-029ee1c31aae,Under,Clothing,335.5,7,226.73,8.46,Credit Card,Adult,Other,Lagos,Jamie Patterson
+b8cbd57e-f6b4-45c5-b1f4-453367c72697,12/8/2025,Nigeria,53c5d36b-6d3f-4be9-99e4-ec83115052a9,Discover,Sports,94.77,6,73.68,14.96,Cash,Adult,Female,Lagos,William Jones
+07a98812-91d2-4ea3-8259-073604f94a35,12/8/2025,Nigeria,bb770388-a068-4b1d-b6ef-cc8fd0d4a6f7,Everybody,Toys,271.66,6,207.21,42.18,Cash,Young,Female,Port Harcourt,Gregg Beasley
+5bedd8c5-510f-4d04-9663-7a4c9300c442,12/8/2025,Nigeria,ce58ae19-7665-4677-b9d8-a4aec844ae8f,Possible,Sports,20.47,10,17.88,1.24,Cash,Young,Male,Abuja,Mr. David Escobar PhD
+d0e1608a-0cad-48be-b66f-ec0340423c08,12/8/2025,Nigeria,266c6882-210e-42f8-a3a0-e69216007a39,Store,Sports,109.23,4,80.45,0.05,Mobile Payment,Senior,Other,Port Harcourt,Jasmin Sutton
+b9b1a969-a6e8-4016-b15d-603f6d72ec71,2/6/2025,Nigeria,e101184b-b0bd-4dd7-b74c-5503978a1d1c,Cost,Clothing,426.43,5,319.82,60.13,Credit Card,Adult,Female,Abuja,Michelle Henderson
+412e8055-01d7-4e1d-9f4b-c2375d748f95,12/8/2025,Nigeria,bd870ee3-6557-4693-95ef-aa25055103bd,It,Sports,451.01,10,331.88,56.75,Mobile Payment,Adult,Male,Abuja,Alicia Stevens
+5e0f8fa4-c4a1-4686-ba10-44347af385f6,2/16/2025,Nigeria,92640839-60ec-4e6a-b4d5-ed987098888c,Work,Electronics,326.3,6,255.97,10.26,Mobile Payment,Young,Other,Abuja,Jerry Mcbride
+7c92b43f-06fb-48fb-a6dd-700a3711924c,12/8/2025,Nigeria,ee664515-ba70-4df3-a0f5-60f21c03494e,Property,Beauty,12.69,2,9.44,2.31,Cash,Young,Other,Lagos,Logan Paul
+a0e542f8-620f-494d-acae-3815fe7e5ae9,12/8/2025,Nigeria,1d89fda4-afcb-4943-9d3a-ca2c5d382298,Once,Beauty,56.69,10,49.81,2.07,Cash,Young,Male,Lagos,Benjamin Thomas
+6fc8655a-09bb-4a29-b010-9f5628922eb0,12/8/2025,Nigeria,a349b8f3-14a7-4b25-90ef-c2b91d827336,Security,Toys,144.56,1,113.43,21.07,Credit Card,Adult,Other,Lagos,Joel Collins
+33f064f3-78d1-44c0-ba62-d2d22fc018b9,12/8/2025,Nigeria,73bc4a2f-f000-4429-8cb1-02166aca0e94,Reduce,Home & Kitchen,208.61,6,128.73,37.81,Mobile Payment,Young,Female,Lagos,Jesse Lewis
+c6eaf9ec-a199-4176-ad92-7492bf9ebe1c,2/10/2025,Nigeria,64352b34-4b82-4668-9163-8565aea75914,Lay,Beauty,458.79,5,383.15,88.62,Cash,Senior,Other,Port Harcourt,Matthew Erickson
+346579e6-cf12-44aa-8b44-8b0d139b23fc,12/8/2025,Nigeria,6d475abb-af60-4c0c-b7d5-296064a8c9ad,Brother,Clothing,264.67,3,174.45,29.95,Credit Card,Young,Female,Abuja,Michael Wood
+b86fe60d-2273-4fae-974d-046b44082781,11/6/2025,Nigeria,dc3570e1-2af5-4b09-8076-cac6055e9bf3,Lawyer,Electronics,134.23,10,88.51,6.78,Mobile Payment,Young,Other,Abuja,Kimberly Reed
+00a30472-89a0-4688-9d33-67ea8ccf7aea,11/6/2025,Nigeria,57e25f95-f455-4178-9e2f-0f6079060e87,Difficult,Beauty,456.12,,400.1,89.22,Credit Card,Adult,Male,Lagos,John Maddox
+1bf22d35-ef13-4382-8ac7-2a1ef18a89cd,2/9/2025,Nigeria,8110f1be-5805-4965-9476-983d313bbd5e,Marriage,Sports,391.34,8,250.39,4.49,Mobile Payment,Senior,Other,Lagos,Mark Coleman
+63b4143e-0569-43a8-b6fc-de73d3846c64,2/20/2025,Nigeria,881b5a1d-b607-4f7b-9db9-12a76778af2a,Hold,Beauty,298.94,2,194.07,41.73,Mobile Payment,Adult,Other,Abuja,Kyle Wilson
+aa5cfdc2-891c-4f85-9422-c4f8a3a3b2e2,11/6/2025,Nigeria,984a1804-7c64-440a-ab34-c6df441307a4,Involve,Home & Kitchen,413.45,6,352.39,9.98,Mobile Payment,Young,Male,Abuja,Steven Solis
+f66b2c20-f67b-451b-bb0b-59fada225788,11/6/2025,Nigeria,3b88485b-0859-467e-8483-493ca3c7c5cb,In,Home & Kitchen,92.81,8,58.57,6.21,Cash,Senior,Male,Abuja,Andrea Walters
+ddf86db5-d932-44cc-b2f1-3f63b80bba3b,2/14/2025,Nigeria,99c4b1e2-4f8f-4761-9705-7c2a9ec6c736,Figure,Beauty,407.84,5,301.92,0.78,Cash,Young,Male,Abuja,Christopher White
+4f63e06d-5392-44b7-82e7-844bb3b8c87d,11/6/2025,Nigeria,03a44002-37be-4e89-82e4-248815776c20,Claim,Beauty,38.94,7,26.56,0.07,Mobile Payment,Adult,Female,Abuja,Katie Harrell
+61c7990f-b752-4e2d-ad97-50c5b41ea70a,11/6/2025,Nigeria,9d0240f3-7406-4a9d-bcf1-17de19d6a9c1,Kind,Clothing,225.8,10,200.94,41.27,Credit Card,Senior,Male,Port Harcourt,Nathan Swanson
+eaf1db5c-22a5-4974-9be6-904195cef139,11/6/2025,Nigeria,4fd81779-9a6f-4731-9ac9-e8663f8d5ca1,For,Electronics,122.79,7,108.83,6.31,Credit Card,Young,Other,Abuja,James Hartman
+517f66e8-788b-4b55-846c-64e202b63a35,5/17/2025,Nigeria,fe7aca05-7ef3-416a-8f9c-9210938cf9e9,Administration,Home & Kitchen,440.47,6,327.81,23.36,Credit Card,Senior,Male,Lagos,Megan Edwards
+7d022f5c-ac19-4fde-90d4-49a35989899f,11/12/2025,Nigeria,82992434-ffec-4178-ac4a-46e4ecd956c3,Woman,Sports,305.05,6,268.14,33.39,Credit Card,Senior,Male,Lagos,Gregory Green
+d1880782-282c-48a4-9667-93968592119e,12/1/2025,Nigeria,b33fe6ed-987e-45d5-8cec-182f58ae5509,Difference,Clothing,97.98,5,61.59,10.52,Cash,Young,Male,Port Harcourt,Cassandra Gordon
+926df9c9-8295-4ca5-8b0b-229379426dbf,4/2/2025,Nigeria,f1d830fa-8071-43aa-84c4-8c8f102074ad,Course,Beauty,202.22,7,138.99,17.63,Cash,Young,Female,Port Harcourt,Summer Hayes
+a606709c-83b9-446d-a644-9baeae63702a,12/22/2025,Nigeria,b3bc78df-6de8-4853-bd20-814dcae4e260,Plan,Toys,166.43,9,113.04,22.86,Mobile Payment,Adult,Male,Port Harcourt,Karen Gilmore
+2bea6182-5186-4cee-9cd6-b637c8c8825d,3/15/2025,Nigeria,55f9e4ec-eea4-4dbe-be7e-20939bb01431,Member,Clothing,135.76,6,91.48,13.77,Credit Card,Adult,Female,Lagos,Matthew Thomas
+0f34e538-90a1-4aca-9be8-b212c67e0d3f,9/19/2025,Nigeria,cfe26dff-2e87-4111-921f-30d7df854fe4,Nature,Beauty,94.91,3,69.04,9.7,Cash,Senior,Male,Port Harcourt,Jessica Montgomery
+ecc00e63-1a48-46ff-b5b0-70c64a7ff148,3/23/2025,Nigeria,4ceac849-4266-4aaa-87c6-9627e602d234,Of,Sports,14.4,4,12.66,0.46,Mobile Payment,Adult,Male,Port Harcourt,Dawn Mclaughlin
+fe1d90d0-df27-4609-9d76-304e570134ea,6/4/2025,Nigeria,b0fc9dc6-d249-4f03-9f2f-ca8fc08ee9b1,Nothing,Electronics,58.04,3,45.05,6.12,Cash,Adult,Other,Lagos,Dawn Hensley
+19b8b8c5-4d46-4b16-9b2e-74fe55c0a768,10/19/2025,Nigeria,a2865c2b-a195-4eef-8417-1ce2bd24bed8,Need,Home & Kitchen,345.69,8,230.42,42.16,Credit Card,Young,Male,Lagos,Andrew Baker
+396ba832-42b7-46d1-8b12-e1f7c50b2d4c,10/19/2025,Nigeria,0092b187-0735-46a1-b0d6-625136038de5,Around,Toys,356.51,8,238.38,4.25,Credit Card,Senior,Female,Abuja,Cheryl Camacho
+3e94a8ad-3cc7-4255-a1ee-10d6c16c1bf4,12/21/2025,Nigeria,2942f60d-4512-4566-bf7b-9cf932a68bbd,Herself,Beauty,174.51,4,151.01,29.52,Cash,Young,Other,Port Harcourt,Donna Brooks
+0923636c-2563-458a-8f51-6f36cffb0bc8,8/9/2025,Nigeria,a5e03716-aebc-4465-bc5a-5f53ff384d9b,Thought,Beauty,91.47,4,79.09,17.55,Mobile Payment,Adult,Other,Abuja,Joseph Bradshaw
+81a5dea7-b44e-4f12-83dd-0550252514f8,8/17/2025,Nigeria,9b9fe568-ffc7-42e9-b034-9991bb669c06,Produce,Toys,262.25,10,193.6,27.58,Credit Card,Senior,Female,Port Harcourt,Jennifer Anderson
+fdf02b64-d61f-4016-b9b7-0a4cb069eaef,10/9/2025,Nigeria,e520b0d3-273e-4945-9768-cf73af2f38c0,Skin,Sports,399.61,7,257.72,65.98,Mobile Payment,Young,Other,Abuja,David Carlson
+1a20a4b7-f163-4b2b-86f3-d0864bc07d88,4/16/2025,Nigeria,21510d00-743d-4deb-9c17-dfdf6ba7a8c2,Similar,Beauty,482.38,9,407.35,24.12,Mobile Payment,Senior,Female,Lagos,Andrew Morris
+9df5262a-61eb-4a96-b974-ddf35a0d9189,12/11/2025,Nigeria,1f144655-921c-4c6c-873c-04b9f4e1946b,Different,Beauty,485.41,3,358.86,62.9,Mobile Payment,Adult,Female,Port Harcourt,Nicholas Norris
+88b1b7e7-bd41-433d-a8f5-30ca6f60cd4e,11/10/2025,Nigeria,58ebb2ac-6819-4326-8699-b7f88006e37b,Husband,Electronics,242.92,6,168.4,18.64,Mobile Payment,Adult,Other,Port Harcourt,Marcia Cherry
+ad0ad606-2443-4836-a220-79c20d52b919,10/11/2025,Nigeria,e13b2339-5c37-4813-8a62-db0d6033270a,Town,Toys,285.45,6,251.13,52.05,Mobile Payment,Senior,Male,Lagos,John Howard
+59bc9efa-c7d8-43fa-9ed4-03febb1f7c0a,4/24/2025,Nigeria,4ff011ae-662a-4d00-af00-a90d43779283,Affect,Beauty,85.79,8,60.16,15.41,Credit Card,Young,Male,Port Harcourt,Johnathan Jenkins
+5778e36b-a7a5-44b0-9290-d759aa5ecf5f,10/19/2025,Nigeria,2ea8dbfc-f43b-4233-8960-818f1e4d28af,Article,Beauty,82.75,8,66.72,0.76,Credit Card,Adult,Female,Lagos,Emily Brooks
+397ee14b-a96b-426a-aab7-c7bb555fcb1d,7/7/2025,Nigeria,184c198c-0026-4d6e-942d-4dc6e77faaae,Second,Clothing,241.95,2,166.32,25.53,Credit Card,Young,Other,Lagos,Jeff Rose
+fcb9cf28-9963-447f-8044-97313c26336e,5/17/2025,Nigeria,b6cb0137-cb59-474b-843c-d37bc0138b34,Lot,Toys,113.65,4,76.96,4.73,Credit Card,Adult,Other,Abuja,Mariah Fox
+73212166-8fd5-487e-b84e-90e9a2be4390,4/16/2025,Nigeria,f8062f22-b1ef-4ea8-9563-cb5e3f2ea7a8,Education,Beauty,363.29,5,244.37,39.58,Credit Card,Adult,Female,Lagos,Margaret Stevenson
+32857215-974e-47af-b4e3-b60922dc6d1e,6/15/2025,Nigeria,3dd84ae9-f386-4d06-861b-15b021ad58fc,Throughout,Sports,63.22,2,49.81,3.94,Cash,Senior,Male,Lagos,Eric Burch
+4c94f865-396e-47a8-a3a7-493be0c1c7f2,5/14/2025,Nigeria,215f49f1-f486-4538-963a-fb28dc18f2f4,Trial,Toys,398.94,1,352.94,43.43,Mobile Payment,Adult,Female,Abuja,Kristy White
+f3f6f1a5-76ae-428c-90cd-f109e8d761b4,11/20/2025,Nigeria,9a811a6e-220f-4437-bd5f-05fa79d1f593,Raise,Clothing,261.46,9,231.24,14.21,Cash,Adult,Other,Lagos,Katrina Gonzales
+7c7f72f6-14d3-4901-9d17-740973a08ba5,8/6/2025,Nigeria,81f5ee0f-aa6c-4319-bc67-e4038a24ecad,Center,Home & Kitchen,49.25,4,32.62,6.19,Mobile Payment,Young,Female,Abuja,Chelsey Sutton
+e9c4ef67-8150-4685-9f3b-1d9b4353b5d7,11/10/2025,Nigeria,c7772167-df69-44c6-9aa0-e54744233a0c,Wind,Toys,181.58,3,116.41,3.2,Credit Card,Young,Other,Abuja,Anthony James
+c3fa111b-e611-4990-9d6b-d3afc7cd7f66,11/20/2025,Nigeria,bae01b69-652c-4a7e-82a4-7862baf363d1,Discover,Sports,378.76,7,229.71,46.48,Cash,Senior,Female,Abuja,Paige Morgan
+593398d2-0f68-4fca-af2f-592c6bcc872c,12/31/2025,Nigeria,45dfa723-a791-465c-b0cf-042807f58fa8,That,Electronics,464.62,6,373.67,5.57,Cash,Young,Other,Port Harcourt,Cody Potts
+527a1998-0c29-47d3-9b01-c693dcc987de,6/6/2025,Nigeria,55c5d293-aecb-4223-8e94-0cdfb877630a,Television,Beauty,480.88,4,422.45,10.29,Cash,Young,Female,Port Harcourt,Amanda Garcia
+18715c98-ec6d-4c24-954b-86e2dc5fa276,10/19/2025,Nigeria,2246766a-e38c-47b2-8fde-d055bc81cd6f,Night,Electronics,42.28,3,34.58,5.07,Credit Card,Young,Other,Port Harcourt,Elizabeth Livingston
+1d8faa21-47bc-4d95-9df5-d3af7fcd87e2,7/27/2025,Nigeria,b7eb4441-ca4b-4d53-a5da-1f01682d528e,Rate,Home & Kitchen,366.45,8,327.81,4.99,Cash,Adult,Male,Abuja,Clarence Anderson
+a390b0ba-ead9-497c-9cd5-9f4931d2d012,7/16/2025,Nigeria,74f6d568-9f5b-4d64-8b87-27a126b45bf1,Bill,Toys,222.91,5,188.76,39.59,Credit Card,Young,Other,Lagos,Taylor Williams
+ba737b50-eba8-476c-ab34-f8d797c6dc4d,11/20/2025,Nigeria,8eb757bc-a7b1-4de4-9351-4002dabe72c3,Large,Clothing,359.34,4,294.55,68.73,Cash,Senior,Female,Abuja,Gary Santos
+6f1ea600-fccb-457f-93c5-95eeb4bf35ce,11/12/2025,Nigeria,f22875bd-61ce-4bbc-8817-47bc2d143c48,Position,Beauty,57.01,8,40.94,4.89,Cash,Young,Female,Lagos,Stephen Burton
+bacfe41b-ae34-4620-81d2-ab3d575b6291,7/16/2025,Nigeria,2261a745-1376-4cd8-9dce-2a90d5a40cc0,Can,Toys,480.12,1,361.74,82.88,Mobile Payment,Senior,Other,Lagos,Andre Howard
+07dbe664-fb62-491a-92bc-ce06c6fc0fae,9/29/2025,Nigeria,d3c5d63d-a858-45ac-9cf2-622c1d00e9fc,That,Sports,482.81,5,388,89.85,Cash,Young,Other,Lagos,Garrett Robinson
+8b5250ff-8bc1-4e93-b845-d87e23b4367e,7/16/2025,Nigeria,0cb4ec15-63ac-4535-934c-9be305f0a0d4,Chance,Beauty,491.42,1,405.53,63.88,Cash,Senior,Male,Abuja,Alexis Turner
+a8343ec0-c210-496a-a769-6f6e0a86dc66,7/18/2025,Nigeria,24bb5b88-44e6-442f-9f8d-5ab98753e1e5,Apply,Home & Kitchen,184.32,8,148.33,28.16,Mobile Payment,Young,Other,Lagos,Kelly Harris
+373a6001-2dc7-46eb-96e0-0d047da00d41,11/20/2025,Nigeria,1f109505-46d2-4e5a-a529-d4a29bbfc2ac,Enjoy,Beauty,390.82,3,316.2,69.61,Credit Card,Senior,Female,Port Harcourt,Marilyn Aguilar
+83e75285-e2b2-447d-826c-3497db88a533,5/14/2025,Nigeria,7164d1fa-04ea-4ce7-b4ef-4d2992c9a71f,Machine,Home & Kitchen,323.84,9,237.56,10.42,Cash,Senior,Female,Abuja,Matthew Yates
+7edae6d2-9ec0-49e8-afa5-4db8efd1f5d3,10/19/2025,Nigeria,a9cdd599-0511-4d65-9061-1ef97ec37403,Fish,Sports,463.44,1,324.56,89.1,Credit Card,Senior,Male,Port Harcourt,Devin White
+7fbdcb42-c625-41c3-9832-c1d167589ae8,10/19/2025,Nigeria,92a122a4-24cd-4a71-a0a9-e039334f08d0,Knowledge,Electronics,98.12,1,80.56,7.38,Mobile Payment,Senior,Female,Abuja,Joe Thompson
+54373f61-c751-45cc-8435-cb05998429a2,11/12/2025,Nigeria,47043204-90af-45e2-921d-9b6176638f80,Law,Clothing,472.49,4,350.29,6.53,Cash,Young,Male,Abuja,Patricia Hart
+b63c9d6f-8c61-4473-b839-1b04d58d8497,5/5/2025,Nigeria,6c5a51e9-6595-4d61-a604-a543868a9579,Note,Beauty,230.93,7,181.98,45.48,Mobile Payment,Senior,Female,Lagos,Brian Reed
+b62039fe-443e-4deb-b9f3-971c481cb735,7/26/2025,Nigeria,d64451ff-0821-4d42-987c-71e6b83bc3ef,Attack,Sports,403.64,7,344.45,61.58,Credit Card,Senior,Male,Abuja,James Hernandez
+a69add0c-a500-4e93-8fe7-fe76c60b51b6,10/11/2025,Nigeria,0e6be314-abf3-4608-b42f-f7400e411f7b,Successful,Sports,51.04,10,36.8,2.63,Credit Card,Young,Other,Abuja,Ashley Lopez
+6bc5c99f-151d-482d-8abf-c3dc2f24a469,12/13/2025,Nigeria,b8782594-44ce-4de4-b049-435dfe106be2,Husband,Beauty,55.35,6,44.09,0.76,Credit Card,Adult,Female,Abuja,Bruce Stout
+a6332b23-f629-438a-9ce5-8f072b081fde,7/7/2025,Nigeria,d62a0151-e764-44ba-aab8-141a6c926b00,Size,Sports,78.21,8,64.27,12.95,Cash,Senior,Female,Port Harcourt,Matthew Moon
+1f64d17c-83a6-4a4d-8635-8ef255e83eb1,3/12/2025,Nigeria,3e3f9e24-df77-440c-b601-ef3cf22b3694,Three,Home & Kitchen,61.14,4,52.05,5.67,Mobile Payment,Senior,Male,Port Harcourt,Ryan York
+fff9dd0d-d10e-4c14-9ef3-1b4dc6783827,7/8/2025,Nigeria,ef04b4c2-c8bf-4604-9bb3-eab5c6d24fa4,Resource,Sports,29.5,7,26.21,2.58,Cash,Senior,Male,Port Harcourt,Johnathan Flores
+713e3cf4-6f71-4d2a-8e27-034704960aed,7/8/2025,Nigeria,e4c77d00-4db4-4fb6-bfb8-0e23f1c535e7,Support,Clothing,58.21,9,44.74,7.62,Credit Card,Senior,Other,Lagos,Megan Perry
+0f2ae728-a9f8-48e7-9d94-6773addbac59,9/10/2025,Nigeria,0251f2bb-67de-4495-93a0-e76d36f1191f,Tv,Clothing,265.98,5,173.57,14.96,Cash,Adult,Male,Lagos,Gary Parker
+2729368c-4531-4a51-a815-62994ac9d737,10/9/2025,Nigeria,11f7d22e-851b-4721-a204-96b4b08c0919,Because,Sports,87.8,7,66.28,3.23,Cash,Young,Other,Abuja,Jessica Wilson
+d7af4093-1fb4-486a-8564-36b7246ff5ab,9/7/2025,Nigeria,b770cef7-3766-4120-a886-8c90ebbb3b45,Here,Electronics,418.1,9,315.76,24.4,Mobile Payment,Adult,Female,Port Harcourt,Omar Stokes
+ae8320ee-463b-4605-8c70-fca3acd3e65d,12/11/2025,Nigeria,4d8a4c77-cd5a-4f16-9513-af32b5f21c9c,Husband,Beauty,414.93,4,323.85,12.54,Cash,Senior,Female,Port Harcourt,Adam Webb
+73171ddf-2e20-4534-b359-ce19aecca36d,12/1/2025,Nigeria,7580eb0c-dcab-4e4d-ab74-8ada3d4c67e3,Issue,Home & Kitchen,172.64,2,155.24,14.75,Mobile Payment,Adult,Other,Abuja,Zachary Townsend
+f430146f-b250-42be-86e2-8e891d648c4f,9/7/2025,Nigeria,0303ed43-71fd-4903-ad6d-df59a5dbb5e9,Year,Sports,413.51,8,339.47,24.29,Credit Card,Young,Female,Port Harcourt,Dawn Gallegos
+707775d5-eac1-49b5-a476-0a4edebc3668,3/3/2025,Nigeria,b150f1ac-9e37-4583-9a62-4bf07be0b8bf,Information,Electronics,10.98,2,8.81,1.04,Mobile Payment,Adult,Other,Abuja,Sarah Hawkins
+201a253e-e1a7-4a14-8df4-95c09f4c3ac3,10/9/2025,Nigeria,5f9a48c3-114e-4289-b9a4-12ca83b4aff8,Discover,Toys,300.79,7,228.18,31.61,Cash,Adult,Other,Port Harcourt,Chelsea Lewis
+9eab7796-9b93-40b4-95fd-1c2c6b253314,7/7/2025,Nigeria,983ab429-e9fd-485f-b5a8-5f947ce225b1,Almost,Beauty,123.26,8,92.41,24.52,Cash,Senior,Other,Lagos,Joshua Smith
+c867471b-fe69-4c31-b924-9e4d35d45275,5/25/2025,Nigeria,749b7ab7-767e-4716-89b4-af41675e9136,Class,Home & Kitchen,283.88,10,238.34,28.28,Credit Card,Senior,Male,Port Harcourt,Crystal Ramirez
+cc7907ae-2277-41ea-adb7-a742dde43ea0,10/9/2025,Nigeria,2a1f3d8b-a9cc-42e7-af57-4f110bac1025,Myself,Electronics,307.54,10,236.46,8.97,Mobile Payment,Adult,Male,Port Harcourt,Joseph Perez
+3e2ea205-827c-44fb-b931-8b1f41c73a87,10/19/2025,Nigeria,9e33c1df-5dc7-4704-94cc-2aca97b197c8,Enter,Home & Kitchen,122.07,9,96.09,14.24,Cash,Adult,Other,Port Harcourt,Jordan Smith
+90ca16ad-c8ef-4fbc-8c5f-6a3c05260118,5/25/2025,Nigeria,e4e34d2a-38f7-48f3-a4c7-521877e2239f,Role,Toys,420.29,6,296.94,68.3,Credit Card,Adult,Male,Lagos,Alicia Austin
+cca0a5a7-32ce-4906-b0e4-654487a49d9a,6/4/2025,Nigeria,d26f09da-cba6-4419-a8e1-1b6bf70ef859,Modern,Home & Kitchen,224.56,8,136,43.43,Cash,Senior,Other,Port Harcourt,Joshua Pacheco
+9f7e5064-c190-4f54-9c50-f001bf9e59a4,7/18/2025,Nigeria,8c211df2-6d77-42d4-bc5b-7ac74d9132f3,Party,Beauty,98.91,9,72.59,17.94,Credit Card,Young,Male,Lagos,Shannon Rogers
+97c9ff9c-dd86-4178-becb-e010cbedede8,3/1/2025,Nigeria,621d51fa-0515-4755-9f8b-cf917cdace31,None,Toys,322.59,8,262.53,15.02,Credit Card,Adult,Female,Abuja,Tammy Peterson
+560f63e2-36ba-409f-b671-46b020749286,6/6/2025,Nigeria,23e6d87c-cb17-4e51-a91c-e81242ab5d38,Mean,Clothing,441.42,1,279.89,3.37,Cash,Young,Other,Port Harcourt,Mark Guerra
+1466230d-dd9c-4c6d-89ce-3001a184ca44,7/27/2025,Nigeria,92aa3997-1b44-4492-9ff9-674f6df665de,Knowledge,Clothing,187.14,3,148.73,20.51,Credit Card,Young,Other,Lagos,Patricia Richards
+97a3b524-0d9c-42ae-a895-c931cda7e44b,12/1/2025,Nigeria,a59fc1f8-3a2e-4721-a5ab-6a5d40a473b5,Half,Toys,354.45,9,306.54,43.92,Mobile Payment,Senior,Other,Abuja,Samuel Richardson
+0dedab69-6bbf-41db-bc98-7579f0d1d85f,5/5/2025,Nigeria,cf15503a-e396-403b-a388-8fb7fe1cb012,Evidence,Sports,444.44,10,335.08,7.03,Cash,Young,Male,Lagos,Veronica Johnson
+1890343a-3dad-4faf-a1a5-a242d27e6c39,11/10/2025,Nigeria,765382cd-eb8c-41b7-af2e-98f44a2faed5,Mouth,Beauty,142.21,2,122.09,0.56,Credit Card,Senior,Male,Port Harcourt,Lisa Richards
+87b26352-cbaa-450c-9d57-ee64a93c4754,10/30/2025,Nigeria,77beb007-63b6-4b49-9c06-c01cccf001be,During,Clothing,403.73,9,333.47,61.86,Cash,Adult,Other,Port Harcourt,Christine Freeman
+1679f298-9651-4bab-8038-99ec51dd2298,4/16/2025,Nigeria,c65c5fb3-a51a-479a-bcb5-317384d3d5de,Have,Home & Kitchen,470.51,6,300.28,39.94,Cash,Senior,Male,Lagos,Bonnie Kane
+8f3882a4-a150-4c69-bb97-cedc5d52f8d3,6/15/2025,Nigeria,3646f33d-4b88-443c-b9c5-d0023a6f66a3,Girl,Sports,19.17,3,16.1,3.08,Mobile Payment,Senior,Male,Lagos,Zachary Estrada
+c36f5014-d7fe-4dae-ae20-bc532664b3ce,4/16/2025,Nigeria,c0c8f416-4197-4df2-a7e9-75e30e7d5023,Investment,Electronics,261.31,5,183.73,25.19,Mobile Payment,Adult,Other,Abuja,Janet Smith
+70522f33-d276-4fcf-b53a-c5f2d83edef8,4/4/2025,Nigeria,18aee18d-8243-4221-9329-5882c0f1a2ee,Charge,Home & Kitchen,481.35,6,368.96,53.34,Mobile Payment,Adult,Female,Abuja,Angela Stevens
+0745dbc1-7856-4a66-bdb2-6075f9d81858,4/4/2025,Nigeria,f9687989-79f2-4b59-aac4-50c9470553d3,Well,Clothing,243.29,1,167.72,44.67,Mobile Payment,Senior,Male,Port Harcourt,Michele Reyes
+72ecd679-a15d-4122-9127-3d4500e51bee,3/12/2025,Nigeria,438b8c97-17e7-4aa1-b1a1-c843bbaf53cf,Blue,Clothing,388.35,10,299.71,31.1,Cash,Senior,Male,Port Harcourt,Cody Kennedy
+9c16c409-f8a1-4c1f-8e60-d6b55ecc5073,8/6/2025,Nigeria,cd787999-1b00-4156-a500-e03e553d2648,Former,Toys,198.12,10,173.09,29.67,Credit Card,Young,Female,Port Harcourt,Andrew Vincent
+80bf9d71-0690-42ef-bb50-036a350ccde6,12/11/2025,Nigeria,a3d8a301-69f2-4f00-adbf-3e06f5c7d8b9,Among,Beauty,43.1,5,27.91,5.09,Cash,Senior,Male,Port Harcourt,Katherine Johnston
+f274c458-74ed-439b-bd5e-9a88e92d65d3,7/5/2025,Nigeria,093d5967-9ee4-415c-9fee-e082ac07fea8,Available,Sports,115.16,3,99.4,6.7,Credit Card,Adult,Female,Lagos,Margaret Lawson
+df2bfb81-c81f-4548-a5c0-84b3f8e91b54,4/2/2025,Nigeria,1093911c-b91b-4bf1-9ec4-3d177e66f64b,Woman,Toys,182.45,3,109.89,16.43,Cash,Adult,Male,Abuja,Evelyn Lee
+1c21fd4d-7994-4214-89cb-502a81ca9612,8/9/2025,Nigeria,681a6160-c0ed-4ea7-a9fa-ee8926b75a69,Better,Clothing,463.5,3,373.39,57.36,Credit Card,Senior,Other,Port Harcourt,Charles Martinez
+d2844f36-2f9f-415e-bac5-d4cd88413fa1,9/8/2025,Nigeria,84ebcc34-85ab-4776-a832-dbf296faa5a4,Friend,Beauty,173.31,1,105.58,25.52,Credit Card,Young,Female,Lagos,Kenneth Nicholson
+7481e674-f87e-48e9-8427-a1b3837eeaf2,3/23/2025,Nigeria,9ab5102d-529a-4af6-b7e3-f3682956f04d,Of,Toys,468.39,5,415.49,26.4,Cash,Senior,Female,Port Harcourt,Gail Ruiz
+df615fd2-22a0-40df-95cd-50c795fa25cf,6/15/2025,Nigeria,ca02021c-5a26-47cf-bc88-d1b130a80986,Resource,Home & Kitchen,407.76,3,289.76,58.69,Mobile Payment,Young,Male,Abuja,David Griffin
+4a0dd0f5-b702-4fe7-8007-41ca9100dc3d,3/3/2025,Nigeria,0f1fe9b7-4c14-4dae-a3b3-73f1618eab50,Mother,Sports,330.66,10,225.26,10.18,Cash,Senior,Female,Port Harcourt,Karina King
+72ca868b-c8f3-4dc6-aba1-6d9bd6caf6c0,9/7/2025,Nigeria,447cb9cd-bf7e-4124-a34e-d8c85aeb7a62,Sure,Clothing,32.34,8,19.74,1.2,Cash,Young,Female,Lagos,Brittney Stevens
+3b69ae64-8676-4b39-98ae-6ea05bb26282,3/23/2025,Nigeria,cd2912fc-d8c6-4724-81f3-5f5ff8880924,Bar,Electronics,265.69,5,229.29,44.64,Mobile Payment,Young,Other,Abuja,Russell Bray
+87b32439-270d-41ee-9840-ba386bbc3a22,11/20/2025,Nigeria,72cb95b3-02c3-4373-a02d-0758e893a914,At,Beauty,265.94,1,216.89,3.03,Mobile Payment,Senior,Male,Abuja,Timothy Garcia
+4fbe2ad5-c666-479e-8a8f-df4f6c8918ad,12/31/2025,Nigeria,f5236bf7-77f2-428d-a380-5412123d0d89,Soon,Clothing,136.36,5,108.83,24.26,Cash,Young,Other,Port Harcourt,Kathryn Burch
+ddd3169e-5b0b-4172-b040-76dfe016df02,10/30/2025,Nigeria,3e6593c2-b10a-4ad2-b3fb-de88e049f187,Policy,Clothing,31.04,5,27.52,5.15,Credit Card,Senior,Male,Abuja,Kelly Mendez
+2a9d5dfb-090b-4758-85da-797e3e990b5a,4/13/2025,Nigeria,d0975b40-c57f-42f7-a359-004a1aa15256,Couple,Clothing,24.09,10,19.72,4.05,Credit Card,Senior,Male,Abuja,Tristan Patton
+633cbf30-55fc-40fb-8ce2-89be78c8a0b0,10/11/2025,Nigeria,6118cb4b-b94e-4626-81f1-0a006a088772,Into,Toys,234.49,1,183.01,8.23,Mobile Payment,Young,Male,Port Harcourt,Lawrence Moody
+7e884340-69f7-4176-a971-385e00590709,11/12/2025,Nigeria,66ee4dce-4c32-4b66-a55a-b7299824e8b0,Any,Electronics,143.33,10,95.57,26.34,Credit Card,Young,Other,Port Harcourt,Dustin Whitaker
+edd4b43e-edef-4961-b410-a2152cd538f8,12/11/2025,Nigeria,90adbcac-faef-44eb-af28-fd4b5647206a,My,Clothing,117.48,3,79.07,4.54,Credit Card,Young,Female,Port Harcourt,Antonio Turner
+d4f7c791-f066-42e7-a3a0-15834d379b9c,10/11/2025,Nigeria,956e14fd-0506-4ee8-b10a-2b7c23a5f372,Tell,Home & Kitchen,438.99,1,362.35,62.1,Credit Card,Young,Other,Lagos,James Thompson
+08b3bd12-225b-4df5-9092-b396dd88eda9,8/17/2025,Nigeria,536e90fa-58a8-4332-828a-95111bf4a616,Develop,Home & Kitchen,395.83,7,323.12,67.55,Mobile Payment,Adult,Other,Port Harcourt,Tara Baker
+0fdc9847-9e0e-426d-95d9-c6a0f984b629,11/10/2025,Nigeria,2b30f588-2090-4254-9cb8-9e30620aad3e,Forward,Electronics,268.41,5,180.54,27.4,Credit Card,Senior,Female,Abuja,Christopher Sanchez
+ce23b62a-b4d4-464c-9602-8a526f9e682e,9/7/2025,Nigeria,df3f8d02-2c7c-45e7-8bd2-5e3438e2646d,We,Beauty,145.69,8,96.25,20.07,Mobile Payment,Senior,Female,Lagos,Marie Gibson
+f6b0965b-2ec4-4b22-96db-2783df88241b,6/6/2025,Nigeria,d1813245-27d8-4b60-b58d-9748f0754e27,Fight,Electronics,266.3,10,192.71,37.39,Credit Card,Young,Female,Abuja,Jean Wilson
+963cc6e9-4c39-416e-a260-770e59f00ed2,10/9/2025,Nigeria,9cf5eb04-21e8-4066-a6cf-0950277187d5,Democrat,Home & Kitchen,27.7,3,16.83,3.94,Cash,Young,Other,Abuja,Eric Barker
+ab0fc847-578f-4ad7-8039-e228f76c4308,9/18/2025,Nigeria,8771b665-73af-44cb-bb46-974f1211e7e3,Chair,Beauty,202.89,4,172.59,25.98,Credit Card,Young,Male,Port Harcourt,Michael Payne
+03d0ac49-4280-44be-b727-aebc6ed24524,3/12/2025,Nigeria,8a9499ea-7f80-47e6-a17e-286666744379,Well,Beauty,233.19,4,143.39,15.22,Credit Card,Senior,Female,Abuja,Tanya Johnston
+7691f3b1-abb4-47f3-9b6d-ec2e586acf13,9/8/2025,Nigeria,f0f44fb7-4ca3-4b0b-a633-6b52be8cfcd5,Tree,Toys,208.74,4,154.42,5.02,Cash,Senior,Male,Port Harcourt,Connor Glover
+17fffaa0-1f92-4125-b915-c5e087dfea9a,7/16/2025,Nigeria,f1578c0d-be7d-422c-9b6d-5a7407ecee83,Success,Toys,103.45,3,87.65,0.52,Credit Card,Senior,Female,Port Harcourt,Alexander Hernandez
+08559bbd-f022-4320-9400-a4a6bf501cb7,9/8/2025,Nigeria,0bb9a89e-2cd9-48cf-852b-fd6e6e692db2,Decade,Electronics,488.26,4,363.43,2.93,Mobile Payment,Adult,Female,Port Harcourt,Bradley Howard
+5769e9a6-746d-4462-97de-fb0d901c3416,7/27/2025,Nigeria,ede24053-f0cd-4e25-813a-96dee348e957,Sound,Electronics,27.06,1,23.74,0.47,Cash,Young,Other,Port Harcourt,Andrew Allen
+3a51ae96-9a56-4842-8d9d-982ce670dde0,8/9/2025,Nigeria,b97225b5-8438-49ee-ae56-d338be46ef7e,Course,Toys,303.6,7,260.94,35.28,Cash,Senior,Female,Lagos,Natalie Murphy
+abcbaa16-9436-47f8-889a-54ce9e22a300,9/7/2025,Nigeria,cd2ace33-f79d-44fe-b7f0-6273c2567a25,Finish,Clothing,77.05,10,57.83,12.56,Mobile Payment,Adult,Female,Port Harcourt,James Martinez
+b58eacfc-f696-4fa2-821a-376716a6e297,12/14/2025,Nigeria,2428e076-e33e-4aa9-a781-6a8c45b7609e,Apply,Clothing,471.58,6,365.97,41.08,Mobile Payment,Young,Male,Lagos,Andrew Gilmore
+4d7d0f6e-1290-4849-8bab-2ef3dcb51d9b,3/1/2025,Nigeria,28de4470-c66d-4091-99ba-e5a2bb648e97,Factor,Beauty,446.93,9,360.44,29.95,Cash,Young,Female,Lagos,Amber Duncan
+30e7d6eb-bd38-452c-beda-f70c9aa0c9eb,4/13/2025,Nigeria,9cb7ed03-ca5a-4854-806b-9932a8a43c65,Upon,Toys,484.15,2,384.05,26.31,Mobile Payment,Young,Male,Abuja,Steven Bernard
+90f79643-04db-468a-97d6-bde64d0a1aad,4/24/2025,Nigeria,5ead4a07-165e-4ad0-8694-1bc0725266df,Animal,Toys,108.75,3,71.98,14.46,Mobile Payment,Senior,Other,Abuja,Dr. Ryan Chavez
+c9c90332-a5c3-40bb-9685-a928cd6d81c3,9/18/2025,Nigeria,c6d4778e-941f-4459-b897-2321f932403b,Effort,Clothing,441.5,6,330.91,14.03,Credit Card,Young,Other,Lagos,Linda Jackson
+8843de1b-f971-40e0-a38b-8ae5d82f3ab4,3/12/2025,Nigeria,bc07acad-9eac-46d8-b937-4e65d1b4258e,Recognize,Home & Kitchen,147.83,5,109.92,1.17,Mobile Payment,Adult,Other,Port Harcourt,Amy Roberts
+00eda44e-39dd-4c5b-9241-a2d35bb4e839,8/9/2025,Nigeria,551def98-2269-470a-9511-142b12b0a008,In,Electronics,191.41,4,118.91,4.36,Mobile Payment,Young,Male,Port Harcourt,Kristy Martinez
+20bf7346-4c98-46ca-a7c2-91fafc0f26d8,7/18/2025,Nigeria,e1fca892-6c1c-43c7-a572-3ce78df336ba,Her,Electronics,245.5,8,212.29,24.49,Mobile Payment,Adult,Other,Port Harcourt,Patricia Roy
+1b52d698-d651-4354-8de9-24e10796a74f,8/28/2025,Nigeria,fc6af2d7-1776-4d42-a940-8254343b2afd,Door,Toys,470.71,8,355.96,19.69,Credit Card,Senior,Female,Abuja,Yesenia Bautista
+22a29199-6916-47fb-b332-913f3f9ce87d,5/17/2025,Nigeria,5c081b81-39d5-4378-83f9-5967b56aa3c2,Out,Beauty,349.05,2,236.32,11.95,Credit Card,Senior,Male,Lagos,Kristin Wilson
+91ae172d-b818-4339-8091-22683b92fa5f,8/17/2025,Nigeria,2e0114ca-29ea-4f19-b358-94d72089f710,Turn,Electronics,20.94,6,15.52,2.18,Cash,Adult,Male,Abuja,Cameron Bowman
+197820a9-b31e-417b-ae7c-bf7886b3d758,7/8/2025,Nigeria,089f7b74-2c51-497b-9c9d-cbd73deac405,Bank,Sports,345.87,5,254.03,23.13,Cash,Young,Male,Lagos,Mr. Daniel Brooks
+fdf1a1da-43cf-4243-bbc8-a0b986adf9c9,7/7/2025,Nigeria,8445adea-d251-4914-b4ad-6cea1122d91a,Not,Clothing,470.53,8,345.51,75.4,Cash,Adult,Female,Lagos,Ryan Little
+5babac9a-f525-42c1-b1a8-493e95883c26,12/20/2025,Nigeria,c87027a6-7bf1-4a7c-82bb-d1b1679bd043,Fact,Electronics,426.08,5,325.46,38.13,Cash,Young,Female,Lagos,Bailey Boone
+3fba915c-bdf4-4aa6-a317-554b63694c69,9/7/2025,Nigeria,938d29b3-33e4-4b72-ba65-5c24398a31eb,Answer,Home & Kitchen,60.25,8,52.27,4.72,Mobile Payment,Adult,Other,Port Harcourt,Maria Garcia
+65478b93-1085-46cf-a7ff-69e7b3a1325e,9/7/2025,Nigeria,ef7f59d7-f73c-4206-95b4-cf2d5937a94a,Discuss,Sports,227.37,5,191.73,32.99,Cash,Senior,Male,Abuja,William Allen
+d773ea9c-20f3-4186-bd61-ef3a484033bc,4/24/2025,Nigeria,2d86a031-70a1-424b-822b-5bbf1755d07f,Vote,Sports,317.39,2,272.96,1.83,Cash,Adult,Female,Abuja,Raven Brady
+eeec93c2-48bb-4f03-adee-89286b49d3d9,4/24/2025,Nigeria,5d4e5634-8b68-475c-83ef-e74a0c4a34b1,Such,Toys,210.04,5,165.43,0.38,Cash,Young,Male,Lagos,Steven Cherry
+a8c58ddf-d026-4888-b6ad-bb971b0f507e,12/31/2025,Nigeria,2e3c5733-c642-42c0-b77b-ac73627dfadf,Whom,Sports,411.83,9,300.34,81.95,Cash,Senior,Other,Abuja,Sandra Christian
+54073530-67f5-42ad-a1ed-4e91294cdfdf,8/28/2025,Nigeria,90f6bd61-a1b2-49c3-9efe-3d12a7852ccf,Pass,Toys,358.54,10,309.16,18.12,Cash,Young,Male,Abuja,Jessica Wagner
+ee5e5ba8-5392-40a5-9175-bf43ef3eb257,4/16/2025,Nigeria,10f41f72-5c3a-493f-8edc-26007194556b,Station,Beauty,267.38,1,179.08,32.29,Cash,Young,Female,Lagos,Lisa Nelson
+7881e3e2-3a74-4373-8b40-8144a341f9ce,4/2/2025,Nigeria,7d35770e-2679-432d-b1e4-c4b9e70d25f8,Night,Clothing,83.31,2,61.6,13.67,Cash,Senior,Female,Lagos,Paula Scott
+d41a976b-0289-4eeb-a241-29afebd6558d,10/19/2025,Nigeria,5e1b7741-a993-4493-af70-4793aa5a6951,As,Beauty,138.66,9,89.58,4.54,Cash,Senior,Female,Abuja,Timothy Lopez
+edaa2807-a39f-4320-bb5e-1288d09930b2,4/24/2025,Nigeria,4b7d09b5-10b7-4665-8bab-357c7152f03e,Important,Electronics,179.08,8,131.27,23.65,Cash,Young,Other,Lagos,Richard Miller
+3fb7a961-3ab4-4209-9a82-2ba607f0c354,12/2/2025,Nigeria,ca121930-1128-4109-b4db-418d7116bad8,Per,Electronics,161.41,9,107.19,31.36,Cash,Young,Female,Abuja,Jennifer Sanchez
+cb48e975-9140-45e2-8a4a-8896095cfd12,8/18/2025,Nigeria,a3a361a5-b408-4c6c-8878-69cacf1214dd,Information,Sports,134.49,3,92.79,6.65,Credit Card,Young,Male,Lagos,Kimberly Palmer
+6229390d-d103-446b-b119-5e822ddf8ee8,5/5/2025,Nigeria,caa12ace-64f7-4870-8ee0-83d28c445671,Eye,Beauty,259.22,9,168.21,48.99,Credit Card,Adult,Male,Lagos,Breanna Stark
+4d2df635-b32f-4763-943b-f2bb355dc86c,3/1/2025,Nigeria,a262eea6-e467-42b3-81dd-a4d805a7387c,Get,Home & Kitchen,136.23,8,107.28,6.13,Mobile Payment,Young,Other,Lagos,Paul Reynolds
+a1b4b0c3-ca83-4cfe-a47b-c70691a31f96,3/23/2025,Nigeria,794dd714-fe70-475b-97f5-d2f3e9801111,Fund,Beauty,46.54,7,39.45,3.68,Mobile Payment,Adult,Other,Abuja,Rebecca Carlson
+b80d8df6-0ef6-4b45-ae82-05e8315c3c8a,5/25/2025,Nigeria,d4ec415b-fe2b-458c-9380-245896c98fd3,Media,Home & Kitchen,293.6,1,216.27,54.62,Mobile Payment,Senior,Male,Port Harcourt,David Jones
+8d5a2f33-4c27-466f-8cf3-65e3edb200f6,10/30/2025,Nigeria,5be64d27-c284-4971-8be2-64b450d7c62c,Training,Sports,179.37,7,149.5,25.86,Mobile Payment,Senior,Male,Lagos,James Wiley
+cb4a2e5b-cd02-460a-9aff-a87901fdbe8b,3/23/2025,Nigeria,0f2e6a79-602a-4110-886e-6786cc844437,Push,Toys,195.74,6,140.43,24.68,Credit Card,Adult,Male,Lagos,Omar Cabrera
+2b95c9e1-3913-49fe-bd74-5dec4f13d127,10/30/2025,Nigeria,27161d77-b85a-44db-91f9-d849018231f6,Section,Toys,133.06,8,106.56,0.96,Credit Card,Young,Other,Port Harcourt,Pamela Ryan MD
+5ab36635-c25b-4ddc-b5cd-c923752b03e3,4/16/2025,Nigeria,159e6294-6242-4726-8eb6-8668f731af99,Real,Beauty,268.89,8,205.11,19.87,Mobile Payment,Senior,Male,Lagos,Steven Jones
+5dc047fb-47da-4815-9a64-1305b4be0f1f,3/1/2025,Nigeria,e0c90797-4e81-479e-ac53-bf142131c0f7,Mind,Beauty,404.49,3,346.02,64.87,Mobile Payment,Senior,Male,Abuja,Robert Valdez
+d5f38508-0257-46a7-9b9e-228b00ab6043,12/20/2025,Nigeria,67d93436-87a6-45d3-8fda-05975180c811,Prepare,Sports,86.69,4,56.55,16.56,Credit Card,Adult,Female,Port Harcourt,John King
+23344fe9-14e0-4a56-adfe-5039154cf36e,7/8/2025,Nigeria,9aa276dd-2381-4976-8a0b-3c3db9d55950,Sea,Sports,425.22,2,380.35,7.25,Credit Card,Young,Male,Abuja,Drew Ward
+c8f3005e-a487-433c-92b5-4eba78347eda,6/17/2025,Nigeria,7dfc85cb-59e1-456f-9525-607e10ebd130,Light,Beauty,37.95,2,32.82,0.05,Mobile Payment,Adult,Female,Lagos,Maria Bond
+cf137850-5677-499d-b77e-ee3ad2bbfac1,3/23/2025,Nigeria,24f1d9d4-7ec4-4089-8dbb-e6133d70e95f,Bill,Clothing,417.92,1,347.12,62.39,Cash,Senior,Male,Port Harcourt,Angela Rhodes
+b46db773-acb4-4575-a235-0d66ed6ec021,8/18/2025,Nigeria,30e81ca6-ede9-4a11-a53d-8975e39c5ffd,After,Beauty,276.3,7,172.94,48.55,Mobile Payment,Senior,Male,Lagos,Kristina Atkins
+965165db-5828-470e-89c2-068aba48c4ce,6/17/2025,Nigeria,9debf766-ad13-4f09-8349-d4a523176945,Parent,Sports,142.65,3,85.69,6.94,Mobile Payment,Adult,Other,Port Harcourt,Tina Nash
+709bc6d2-1ab7-4301-badf-6b65b87bb711,12/22/2025,Nigeria,8d3c9bd2-c6d3-4098-a875-7f459f5801e8,Serve,Beauty,329.32,7,273.14,49.1,Credit Card,Senior,Other,Abuja,Robin Hart
+6bb2dbca-15cb-491d-99bd-81ed8ee268af,12/2/2025,Nigeria,e099181b-3677-4e18-8469-7bfb8565e761,Car,Beauty,89.5,1,75.11,5.95,Cash,Young,Male,Lagos,Karen Fuller
+b8d7074f-c2b2-4b80-96a1-9be67c88ddf8,12/2/2025,Nigeria,e0a999d7-b971-4ad3-9f86-d840a8b01f9c,Also,Electronics,146.54,4,113.95,10.3,Mobile Payment,Adult,Other,Port Harcourt,Brandon Brown
+cb06dcf4-6bd3-409b-b3c5-8c17a812642e,12/1/2025,Nigeria,66dd6a28-2ddc-43d2-96d9-66ab57fc5db8,Nice,Beauty,204.51,6,178.26,21.07,Credit Card,Young,Other,Lagos,Stephanie Barnett
+bb705014-c35f-46ca-8382-d7f6e8285606,6/6/2025,Nigeria,56000a7f-94e4-4e20-8d3b-8804747a0f01,Name,Home & Kitchen,81.39,10,70.87,16.06,Mobile Payment,Adult,Male,Abuja,Sheila Price
+8a86898a-0fe6-47b1-91de-cf0274fffe34,3/3/2025,Nigeria,806e43e1-be15-4813-a532-e27cbfba314a,Idea,Sports,111.37,7,72.21,5.69,Credit Card,Senior,Female,Abuja,Joyce Powell
+e82e17c7-a1e0-43d6-9d06-fc69e9ccb4ca,12/22/2025,Nigeria,895fc682-354c-45c2-84f0-e8fe1432cd4b,Wife,Sports,26.57,8,17.62,3.35,Credit Card,Young,Female,Abuja,Laura Cruz
+af883025-c083-40ad-a6f8-cf886e73be9d,6/6/2025,Nigeria,83639570-7dcd-4647-b1a2-eeadf9a8ebce,Cover,Clothing,404.36,3,303.88,27.86,Cash,Adult,Other,Abuja,Hannah King
+85ff323e-bdf8-4dd0-ae7c-97f58357c2d7,9/18/2025,Nigeria,3b1261f3-deec-4642-b286-3bbc5e36b40d,Phone,Electronics,488.99,2,328.04,51.7,Cash,Adult,Female,Lagos,Tony Jenkins
+4fafe269-bbe2-4ad8-8a27-2f92b1aa9ee4,3/3/2025,Nigeria,05625413-a4e4-46a8-928c-bc5b5250740a,Week,Sports,318.09,6,225.05,16.86,Mobile Payment,Young,Other,Lagos,Michael Powers
+99a85395-ed3a-4c70-8e0f-cdefc2bef459,7/16/2025,Nigeria,5e647119-cbfe-43a7-bf26-a7f9c6a2edae,Together,Clothing,332.41,10,249.15,60.72,Credit Card,Adult,Female,Abuja,James Macias
+eac1d531-070d-4205-a286-4020f8a44f52,9/7/2025,Nigeria,d3c5d6b4-4bc7-4b96-b2ce-804236991710,President,Clothing,62.01,3,37.36,8.93,Credit Card,Young,Other,Lagos,Gabrielle Jackson
+a5b4fde4-a31b-4d4c-8427-36c21b0eb103,11/20/2025,Nigeria,fe370f9f-785f-4d97-9162-b15c83f4cd92,Day,Clothing,135.81,10,106.73,5.38,Mobile Payment,Adult,Female,Lagos,Donald Hanson
+de8dbecc-1ece-40bd-83b5-be4bf54dda8b,11/10/2025,Nigeria,6d6b0922-dd93-4bd9-8a56-9ea6b8416be7,Rise,Electronics,199.43,9,145.9,1.79,Credit Card,Senior,Female,Abuja,Tyler Rivas
+5f05ac02-25e9-48b7-a0d6-31b293c936a5,8/28/2025,Nigeria,10179d0d-ce26-4a26-bce2-7ff77eb008a9,Home,Electronics,269.83,6,174.91,42.44,Credit Card,Senior,Other,Lagos,Timothy Christensen
+03a31ac3-7d41-44a6-a3b9-d2c0cfd57641,8/28/2025,Nigeria,e7430dcf-b0a1-4dbf-b933-7dd12a73da85,Also,Clothing,195.99,6,143.11,36.38,Credit Card,Senior,Other,Abuja,Michael Stevens
+52386201-813b-4ea6-9eb4-58e7cfd9aac2,12/11/2025,Nigeria,fc691f02-e921-455e-b1ab-48239144657c,Last,Clothing,188.24,3,124.27,15.7,Cash,Senior,Other,Lagos,Susan Reese
+b809f9fe-d5be-4cb1-8815-1de6fdd6739d,5/25/2025,Nigeria,8fa575a8-0291-45f3-ad65-9f9eefb80ff3,Loss,Toys,28.41,2,24.43,0.74,Mobile Payment,Adult,Male,Abuja,Gregory Ramsey
+2531be39-2282-4346-a57f-40bec5324987,7/26/2025,Nigeria,87b67eea-8b43-4ed8-ab37-c1f228fdb3cf,Herself,Sports,476.3,10,368.06,16.49,Mobile Payment,Adult,Other,Lagos,James Jenkins
+964a79c9-1a92-406b-aefe-8d0d6085e813,6/17/2025,Nigeria,a3982628-e065-4756-b07a-873fb21b8757,Spring,Beauty,296.36,4,262.72,2.9,Mobile Payment,Young,Female,Abuja,Gabriella Hays PhD
+4e7d616a-ba3b-4fc3-a6aa-66ee99c33bab,12/21/2025,Nigeria,5fe2fb45-f65c-41bb-a2d5-0ad70b711638,Will,Clothing,458.59,6,327.2,7.98,Cash,Adult,Other,Abuja,John Green
+7a07ca6b-b431-4724-ab01-02c0f7410663,5/3/2025,Nigeria,2f90c05c-1950-439b-99e8-703644d40615,You,Sports,397.09,4,316.54,43.73,Cash,Young,Male,Port Harcourt,Elizabeth Barber
+34adbcdd-27f8-40d7-9307-e2d8794eb3cf,5/14/2025,Nigeria,2e45be0f-8070-4049-a050-69616f09b6fc,City,Electronics,373.79,4,332.01,7.84,Mobile Payment,Young,Male,Port Harcourt,Jordan Johnson
+8e115e44-e7e2-4ea0-ab26-a648c806382f,3/12/2025,Nigeria,756dc8f5-ad95-43ff-903a-5ad394f5185e,Tough,Electronics,19.36,6,16.39,0.72,Credit Card,Adult,Female,Abuja,Daniel Garcia
+ced9acb5-6500-42ba-8bb2-1d949af2668f,12/2/2025,Nigeria,a8d83660-50ff-4530-bcd2-8b2ef7ea5fae,Measure,Toys,364.38,6,306.4,25.37,Mobile Payment,Senior,Female,Lagos,Edward Barber DDS
+c3f8309f-305c-4ce0-96ab-fe5ef9ae353b,4/16/2025,Nigeria,87209fc6-1067-4d74-addf-1be110b895cd,Leader,Clothing,120.91,2,94.93,4.42,Cash,Adult,Female,Port Harcourt,Mark Leonard
+1fc81561-2543-49aa-a8a8-a6c57da54721,9/18/2025,Nigeria,c737005d-ae47-4c9a-b60d-5120aa55087b,Common,Electronics,289.13,2,205.96,6.33,Credit Card,Senior,Other,Abuja,Karen Payne
+2d966a98-800c-4fd6-a06f-45425bbf9e13,8/18/2025,Nigeria,e4802dfe-a0fd-402b-a7e4-4c850d433da2,Care,Home & Kitchen,50.6,5,38.46,2.89,Cash,Adult,Other,Port Harcourt,Erin Johnson
+90a145c9-6e2f-416e-a8e6-f2eaf5f0b2b8,12/20/2025,Nigeria,7ade0367-62bc-4ee4-9441-eb17185e67be,The,Clothing,18.21,3,11.75,1.99,Cash,Young,Female,Port Harcourt,Kevin Wilson
+e9fa1f3e-5ee0-4c01-9569-e221e6f98849,4/16/2025,Nigeria,2dacf0cc-ce85-4eae-b845-a4d061f035d5,Article,Beauty,77.75,5,69.67,13.33,Mobile Payment,Adult,Male,Lagos,John Munoz
+36feed70-7172-4723-8dc6-56548af11df0,6/6/2025,Nigeria,cd2cc5c7-785e-4650-a7dc-8e8e3e0806e6,Long,Beauty,129.19,10,87.58,4.48,Credit Card,Senior,Other,Abuja,John Cobb
+9cdb4518-cdcf-4816-8f78-b702b1ad2910,12/2/2025,Nigeria,549aeebc-15ff-4a47-b192-0f4089c02826,Deal,Beauty,471.92,2,413.22,23.21,Cash,Adult,Other,Abuja,Amanda Payne
+a88f6de1-c481-4b2f-bb09-b2aa93a88227,10/9/2025,Nigeria,0ac6482e-dd7b-40c0-b680-ff3f7583c275,Suggest,Electronics,241.6,8,157.17,20.81,Credit Card,Adult,Male,Port Harcourt,Jeffrey Peterson
+a563789d-360e-4bbb-99b5-9ea56159ca55,6/6/2025,Nigeria,996771db-86f0-44f4-b641-afbd35fba8a8,Hold,Clothing,479.4,10,431.05,59.28,Cash,Adult,Male,Abuja,Patrick Collins
+ab3b28d1-f205-4706-b1e9-d966f839d5c9,4/16/2025,Nigeria,f8d1d4b1-869d-4c2c-b600-9fe3b5c17ecc,Religious,Beauty,177.12,7,147.12,1.15,Mobile Payment,Young,Female,Port Harcourt,Amber Williams
+efeca743-2c5c-4a4b-8ff5-397930dcd6a6,3/12/2025,Nigeria,6d621921-a890-45bd-9310-a0021652d260,Answer,Electronics,491.83,5,310.68,18.27,Credit Card,Adult,Male,Lagos,Dana Baker
+9d878de3-6722-4cec-b0f0-50882dd0b94f,3/15/2025,Nigeria,ab30ba85-f9da-450e-a328-5543cf80bc60,Case,Beauty,246.64,6,217.24,41.28,Cash,Young,Male,Port Harcourt,Paul Knight
+3abdc0dc-680d-4940-879d-d498a09988f4,7/7/2025,Nigeria,3f53c71b-f713-4976-8c5b-ccc4e3ce8b05,Reveal,Beauty,20.68,5,15.35,0.09,Mobile Payment,Adult,Male,Abuja,Timothy Norman
+c89f4b6e-11e9-4508-a8c4-c6d9ef169844,4/16/2025,Nigeria,bad4fecc-254c-4ef5-a8da-9a2a8280ab9b,Let,Beauty,150.78,2,127.36,12.44,Mobile Payment,Senior,Male,Lagos,Frederick Williams
+52cf17bb-2ad9-4b57-a9cd-a1eaa8f6545b,12/14/2025,Nigeria,955b2f83-73b0-457a-b9c8-615e296cf6b3,Item,Electronics,335.07,10,217.71,36.69,Cash,Senior,Female,Abuja,Justin Ross
+b2ec1576-aa2e-4b1b-af3d-0e03abcd8992,11/10/2025,Nigeria,0ff43948-0afe-4d13-9d2e-0477f161e5dd,First,Toys,70.02,8,60.03,0.19,Mobile Payment,Adult,Male,Port Harcourt,Joshua Luna DVM
+98ebe7fc-0aac-460f-beee-9dc5dec520ec,3/23/2025,Nigeria,30e8717c-ee42-452b-a621-cd4bcc5fdd25,During,Beauty,306.75,7,216.48,12.94,Credit Card,Adult,Other,Abuja,Samuel Livingston
+79915d6e-7293-44bf-8adc-915c37fde0dc,4/4/2025,Nigeria,a44d7ef6-e254-42da-a8df-e631e8fedf57,Stop,Electronics,413.15,7,261.56,51.35,Mobile Payment,Senior,Female,Port Harcourt,Cassandra Colon
+b23b5013-de23-4bf1-9655-7f7a59c81455,7/5/2025,Nigeria,dc1c79db-e902-4a1a-ae38-bb800a2c3be5,Rule,Beauty,411.08,4,354.33,47.22,Mobile Payment,Adult,Other,Lagos,Amanda Miller
+3b0b016f-afda-4fc4-868b-335391d23d8b,5/14/2025,Nigeria,8ca6fa0a-6817-4f40-9acc-889e70acc560,Act,Home & Kitchen,119.46,9,85.44,8.63,Credit Card,Young,Male,Abuja,Angela Herrera
+674e2afa-aaf5-45d3-9938-5835e676742f,2/2/2025,Nigeria,07c6cb2b-f446-44a3-93c8-8d38a87fbe7f,Where,Clothing,177.13,3,142.95,2.27,Credit Card,Young,Other,Abuja,Brenda Harrell
+359e9ed0-b55c-45e6-aee5-d7009b0bffc8,10/19/2025,Nigeria,3a332a16-e3f7-4b70-aa79-238eef7d7f1d,Through,Beauty,142.36,6,90.09,27.59,Mobile Payment,Young,Other,Abuja,Kristin Martinez
+bbfadd99-5cd7-4b95-a46f-1441ba77829a,3/3/2025,Nigeria,c5f79dd9-aea8-4d46-a268-495431f1bdea,Could,Clothing,386.03,8,254.9,29.72,Mobile Payment,Young,Female,Port Harcourt,James Gray
+9e476481-129f-49a1-96dd-0c8856ac7253,4/16/2025,Nigeria,cd516f04-61f4-4d6a-b46b-e5d0bc1da111,Identify,Toys,196.18,3,148.11,12.63,Mobile Payment,Adult,Male,Port Harcourt,Suzanne Reynolds
+7f2e5f91-e39d-4866-b2a3-ebc4d644dfc6,10/19/2025,Nigeria,23a4514d-bee8-465f-98c7-7af6210eef37,Pay,Toys,212.06,6,179.08,18.54,Cash,Adult,Other,Lagos,Kimberly White
+8f64ad01-a780-4480-b34b-ee45c6e5ccd2,5/14/2025,Nigeria,247024ca-6811-434d-82f6-90c248120af1,Become,Sports,440.66,2,319.22,63.92,Credit Card,Young,Other,Abuja,Crystal Arnold
+c2c3215f-31af-4d21-976a-8d62650da4dc,6/15/2025,Nigeria,59343f06-87a7-476f-a5a9-893dee63e155,Box,Sports,100.33,3,78.25,15.42,Credit Card,Adult,Female,Abuja,Angelica Mcpherson
+103e7a1f-e371-4c18-b945-27ca613e2f14,7/8/2025,Nigeria,086b2da3-68a7-45c7-a6a9-ac210a864c36,Know,Clothing,30.53,3,23.55,0.75,Cash,Senior,Female,Abuja,Robert Williams
+7463a316-304d-42b3-89c2-10f46c02b85f,11/12/2025,Nigeria,c0402203-5234-424e-8d06-f4fc785c35bd,Series,Beauty,130.54,10,113.04,11.25,Credit Card,Senior,Male,Abuja,Ashley Cobb
+286b773d-4d0d-4b46-beee-35fe70af45c8,5/14/2025,Nigeria,7b598c2d-ed03-4fb6-9d38-09ddf6bbd1cd,Worker,Sports,249.77,7,197.68,13.31,Credit Card,Adult,Male,Abuja,Ryan Bradshaw
+aaf57c42-258f-4072-b8fe-46b91f97182c,3/23/2025,Nigeria,e7b82c6a-0bfc-4761-b2e5-03bc6a8a2ad5,Want,Beauty,54.56,2,33.13,0.53,Credit Card,Adult,Other,Port Harcourt,Angela Smith
+016c7714-aaf9-4430-b2ba-9dbbaa06d82d,7/7/2025,Nigeria,490ca4b0-41f3-452b-b07e-38cf2b27fbc3,TRUE,Clothing,219.42,8,168.44,40.79,Mobile Payment,Adult,Female,Abuja,Ana Hughes
+10c60894-e931-48a9-8bd0-bdbf327b9299,9/7/2025,Nigeria,af176bf5-c627-450d-9dbb-0cce3f2ff30d,Decide,Electronics,55.67,8,35.5,6.3,Cash,Young,Female,Lagos,Robert Wheeler
+63c984fe-3ce8-4c9e-b892-f20c100a1489,4/13/2025,Nigeria,f8da95f8-04e2-4eca-bac4-ae909b6742a8,Source,Electronics,224.72,3,178.67,25.4,Mobile Payment,Senior,Male,Lagos,Janet Allison
+78b9965a-70f0-493a-8d89-918ef2d12479,3/3/2025,Nigeria,1bd5d8f0-9077-4850-97c5-21e84f767a58,Seek,Electronics,238.91,6,211.85,8.05,Credit Card,Young,Male,Port Harcourt,Maria Richardson
+307c6481-c65d-4c22-b29e-b5c66aaefa66,6/4/2025,Nigeria,d07c45e0-c69c-40f5-9819-00848451298a,Employee,Electronics,291.51,5,229.37,39.01,Mobile Payment,Adult,Male,Port Harcourt,Abigail Bradford
+c9825232-4490-4757-9f53-7a72f0c59ba3,7/7/2025,Nigeria,35f6e8b3-963a-4d47-9e94-17c6e55b6175,Serve,Sports,449.23,5,271.21,5.86,Cash,Adult,Female,Port Harcourt,Cassandra Pacheco
+7f62ea2a-67b0-46a2-9eb1-8a9e9110dd8d,4/16/2025,Nigeria,e1bcab0d-9dcb-4051-985b-f32091ebc945,Community,Electronics,152.38,3,119.61,28.51,Cash,Young,Male,Lagos,Manuel Young
+dd720360-b7a6-4c1a-86dd-39b51ed4b44c,3/23/2025,Nigeria,bc23fa0f-e10c-4e2b-b6ab-d9b151eea645,Hair,Toys,326.82,7,285.93,39.63,Mobile Payment,Adult,Female,Abuja,Sarah Salas
+87b0601c-db27-4e9c-9781-b0ca21367629,5/14/2025,Nigeria,54a9e5b3-ddef-4d0d-8cfd-4349cbdd66ca,Leader,Clothing,316.81,9,274.78,36.18,Cash,Adult,Other,Port Harcourt,Cathy Richardson
+9a271b0e-e35e-4d53-9677-b7d2a65a1b18,7/8/2025,Nigeria,9e1cd4e1-35b4-4b1d-ae4d-dee79491c6e2,Again,Beauty,460.79,5,317.83,26.62,Cash,Senior,Female,Abuja,Michael Hughes
+9852f487-6db9-4b2b-a437-ae1896fc1549,4/4/2025,Nigeria,46e9217f-3c54-4c15-b54b-760759abf977,Military,Home & Kitchen,334.84,1,269.07,7.13,Cash,Young,Female,Lagos,Cynthia Johnston DVM
+82cfef22-c07f-4f76-9817-cbe5573ad6ae,7/8/2025,Nigeria,534e0ec1-7d70-4793-aaab-731692650e3e,Staff,Beauty,410.63,4,250.4,6.08,Cash,Young,Female,Abuja,David Myers
+bb110a67-e736-43f9-be14-6a5dad09a5b1,9/10/2025,Nigeria,cf25e8a8-1e4e-4e25-b842-307121809100,More,Beauty,302.85,2,207.05,24.22,Cash,Young,Female,Port Harcourt,Tina Wallace
+bf42da26-ab59-4891-b024-835a5ff7f312,3/1/2025,Nigeria,f405711c-bd20-415f-8eff-93dfb49418bc,Effect,Toys,431.72,3,354.8,86.23,Mobile Payment,Senior,Other,Port Harcourt,Ricardo Moore
+f97311bd-1342-4ba3-8b7f-bb687775cfad,10/11/2025,Nigeria,3073d83d-2768-4eff-9a9b-12c52ae55812,Establish,Beauty,295.01,2,236.82,21.05,Credit Card,Young,Male,Lagos,Brenda Decker
+dc67d678-9624-4b29-b8bb-ba94f06b33ee,3/3/2025,Nigeria,adcacb2e-d322-4529-b758-c82af0ff802f,Skin,Toys,328.58,8,258.22,48.62,Credit Card,Young,Male,Port Harcourt,Henry Murphy
+18862378-e0ab-4c90-acb8-1a0fe00b070f,12/22/2025,Nigeria,5bb27ca5-a8f4-40f0-80eb-a70f2d170933,If,Home & Kitchen,329.86,2,290.07,65.32,Cash,Young,Male,Lagos,Jose Martinez
+ba34607b-0127-485b-ad54-81a4abd28c19,10/19/2025,Nigeria,944ec0a1-854e-4447-9f93-e333ee8ead57,Return,Toys,122.23,10,74.99,9.3,Credit Card,Senior,Other,Lagos,Latoya Greer
+b324eca8-8fdc-4c69-8c1d-1add97228809,12/13/2025,Nigeria,316cc32c-f21c-4ad8-a7cf-56a8c8b3dbfe,Learn,Home & Kitchen,109.27,4,96.07,15.01,Mobile Payment,Senior,Female,Port Harcourt,Todd Barnes
+08cbbac0-0162-4aca-b7b3-2c87789b4d3c,11/6/2025,Nigeria,5701b623-9205-4754-9a1c-d91bf732e0a1,Class,Home & Kitchen,209.13,5,151.61,2.56,Cash,Adult,Female,Abuja,Thomas Taylor
+97edebd2-2f5c-403e-82c6-1d31908a4230,10/11/2025,Nigeria,9170d1be-1870-43da-8927-0dbdea8fd513,Affect,Sports,255.32,4,193.11,49.29,Cash,Senior,Other,Lagos,Clarence Huynh
+44f79fbd-b9ac-43c6-85a8-1e47d4ea6267,12/22/2025,Nigeria,eb70683d-7a46-4e48-a6e9-380d3237d53f,Campaign,Sports,436.58,9,342.49,73.47,Credit Card,Senior,Female,Abuja,Daniel Cooper
+042255d0-a5ba-43ac-a5dd-406b0be63b54,10/30/2025,Nigeria,0a36a205-630a-4675-ae37-22dd8a3ef99e,Bring,Toys,389.61,3,333.26,42.47,Cash,Senior,Other,Port Harcourt,Yolanda Cooper
+6fb18b40-3679-432d-8f5f-b0769a0d990a,2/16/2025,Nigeria,acd1a33c-e79a-4e9c-84a9-7b3cf3dce40e,Maintain,Home & Kitchen,79.94,2,64.42,3.51,Cash,Senior,Male,Port Harcourt,John Welch
+ba7144dd-eb2f-4f7c-9839-5bcadf830e21,12/11/2025,Nigeria,e7484c2d-f030-4344-a9f9-b7201b713c1a,Operation,Clothing,21.89,2,16.57,1.82,Cash,Adult,Other,Abuja,Thomas Pope
+e668d9b6-5576-4027-b997-9e07aca312db,7/5/2025,Nigeria,52b60a3f-e319-4397-a02f-e77154decc99,First,Sports,348.18,6,240.58,9.93,Mobile Payment,Senior,Other,Abuja,Jennifer Cook
+d7cd1d8d-e218-47f2-9366-0b71932bc509,11/6/2025,Nigeria,0b5a6c41-c800-40c5-9a3c-e761ff96c8b7,Blood,Clothing,331.8,8,239.25,33.44,Credit Card,Senior,Male,Port Harcourt,John Stevenson
+c988c3f8-9f26-494f-a3e7-fac1cd68dc5d,12/20/2025,Nigeria,b6ccc994-f892-4e68-a8e1-4e0ac5d5fb77,Performance,Sports,464.16,7,365.1,41.82,Mobile Payment,Adult,Male,Port Harcourt,Jessica Rodriguez
+80cd250b-c80f-4ace-b6da-94d497d1f998,11/20/2025,Nigeria,5153a38b-5bb7-4e58-8082-bcbc3ecdb972,Art,Electronics,174.21,2,106.42,25.73,Cash,Senior,Female,Port Harcourt,Lindsey Blake
+4dd35258-1a90-4799-b53d-5899a2697c28,5/25/2025,Nigeria,3a405632-f840-4e67-ae4a-83eb351aefa1,Woman,Sports,435.44,3,356.43,76.96,Cash,Young,Female,Port Harcourt,Denise Carter
+b4eec519-7cab-4514-966f-f54a9b6f1a0f,3/23/2025,Nigeria,1b9e5577-9b74-4f2d-8c1d-a22f6fbf4968,I,Clothing,184.79,3,146.89,2.7,Cash,Adult,Other,Abuja,Michelle Carson
+c53bf551-73cb-4b49-bba1-8a27607cfb98,4/13/2025,Nigeria,ac9e8c3f-0e84-4a03-ac5e-fc261f06c361,Alone,Electronics,155.15,3,94.55,27.69,Credit Card,Adult,Female,Abuja,Brittany Nichols
+d69f5169-1563-4781-9845-2d5440837321,6/6/2025,Nigeria,85636fdd-0b7e-4248-8e90-f50df13b11a8,Occur,Toys,109.38,9,96.52,12.76,Mobile Payment,Adult,Female,Lagos,Mary Patterson
+50370d76-a8e7-4514-b748-7c9e6e4a4bc6,6/4/2025,Nigeria,5b2010e8-f894-4804-929c-5c2bab6b5e1a,Current,Home & Kitchen,477.43,8,322.37,33.3,Cash,Young,Male,Lagos,Jessica Holt
+abe8352e-2c82-49eb-b5dd-3655a6d34d35,12/1/2025,Nigeria,0a888cd6-ef4f-44cc-8ecd-d25e7a5d873b,Suffer,Toys,49.92,7,30.4,7.96,Cash,Adult,Other,Abuja,Jeanette Ferguson
+29b96af7-89f9-470e-aadd-50429e7f4e93,8/18/2025,Nigeria,dcc8f37b-c276-46ce-b618-1fa0534bea99,Author,Home & Kitchen,152.61,10,92.45,26.28,Credit Card,Adult,Male,Lagos,Steve Vega
+d1ade18d-9ae3-45cb-8593-e50ff35f6f5a,7/5/2025,Nigeria,1639656c-2dc1-4ddd-9d8c-50fae91a11b0,Mention,Sports,169.22,9,145.1,14.45,Cash,Senior,Other,Lagos,Brandon Reyes
+5c2f3688-cb0a-4525-9a88-b5206cd8b048,11/6/2025,Nigeria,d7424758-4988-4a6e-99a5-a9d89d9cb2be,Government,Electronics,122.61,1,86.43,8.5,Credit Card,Young,Female,Lagos,Ryan Patterson
+d3f4a588-00fa-42eb-8a34-a866ad98fa8c,9/29/2025,Nigeria,05cc9b79-9fce-46fc-8c08-ff2c59b65721,Wrong,Electronics,270.33,6,184.36,39.71,Cash,Young,Female,Port Harcourt,Brian Walter
+c6e1c6a6-6598-493e-8d52-bc860d0ae3af,11/6/2025,Nigeria,36480986-a204-48e6-be1b-28a2d34690ae,Success,Electronics,185.18,7,136.92,26.73,Credit Card,Young,Male,Abuja,Andrew James
+e9d794fc-57a0-42b8-a64a-7fae8280e178,7/16/2025,Nigeria,fb214a28-205c-4c52-8b92-b72db9faf08e,Lawyer,Home & Kitchen,200.65,5,143.62,15.82,Cash,Senior,Female,Port Harcourt,Mark Reyes
+e822cb9f-6120-4efc-9d73-26aa992ea468,5/25/2025,Nigeria,42bf9315-5f3b-4e4d-98e0-bc3d70d15135,Thank,Clothing,443.8,10,386.47,54.74,Credit Card,Young,Male,Lagos,Stephanie Miller
+dec7dbb8-c21d-4244-97ca-3edd47a21be9,5/14/2025,Nigeria,9016ad4f-3075-47a5-bdd7-7af683d9b123,Message,Toys,326.31,7,290.31,31.99,Cash,Adult,Other,Lagos,Lindsey Scott
+f93239b5-a2b2-45b0-8113-dca2c5a774a7,11/6/2025,Nigeria,0000bedb-7ff1-481c-b989-60f234751252,Opportunity,Sports,44.68,9,39.9,8.25,Credit Card,Young,Male,Lagos,Maria Lane
+a4e53419-5e41-472b-9308-9c89d66d3b49,3/3/2025,Nigeria,9ee16f7b-5c4c-4c2f-b3c4-7a82f9fca05e,Professor,Sports,246.62,7,203.99,40.9,Mobile Payment,Senior,Male,Lagos,Cheyenne Lopez
+afd46c44-3ebf-4450-b415-3005364a924d,11/6/2025,Nigeria,54ee0927-81d4-45bb-bcfc-5c0d4b08ecc0,Throughout,Sports,203.67,10,159.05,10.86,Mobile Payment,Adult,Male,Port Harcourt,James Moore
+87b29bcf-3601-41fa-9dff-f281dc8509ea,9/7/2025,Nigeria,d1fc20dd-5d1c-4ae8-b788-21dda3da8525,Report,Home & Kitchen,64.62,10,42.11,10.74,Mobile Payment,Young,Male,Lagos,Peter Hebert
+136707e4-d5b0-4a49-909e-7fa9bb917b5a,7/16/2025,Nigeria,9aedc1a1-307e-483e-b031-5122fba236ec,Involve,Home & Kitchen,352.59,1,307.33,8.43,Mobile Payment,Young,Male,Abuja,Andrew Green
+2cd1b848-fa0e-46c1-955e-2a8ec767b44d,8/6/2025,Nigeria,9d2dadb3-129d-40c1-9211-70f96961eb06,Those,Sports,15.84,1,11.26,2.3,Mobile Payment,Adult,Male,Port Harcourt,Mary Wilson
+2f97b484-1f6f-4de3-8ad2-1781838001de,9/29/2025,Nigeria,43a86673-e8f7-492d-bc82-9c4ee8059cfa,Commercial,Toys,371.25,5,320.93,72.57,Mobile Payment,Young,Other,Lagos,Andrew Anderson
+ca18d61e-eb03-4e2c-871a-5685cee92941,4/2/2025,Nigeria,d9f2dfab-99f0-4ce5-a6c1-82bf549ac273,Challenge,Clothing,215.09,9,177.17,12.39,Mobile Payment,Young,Female,Lagos,Michael Walsh
+18f06fb5-21d9-469c-90e9-809301346dac,11/6/2025,Nigeria,1e39e69f-b836-47b2-bd82-7c1cea93aafe,How,Clothing,38.08,1,25.76,5.88,Mobile Payment,Senior,Other,Lagos,Joseph Ramirez
+f536b180-3e62-4042-b471-cc377cbab85d,4/4/2025,Nigeria,ae8e7b49-4def-4aa0-9211-92b5373d3d85,Anyone,Sports,491.74,9,345.92,10.41,Cash,Young,Other,Abuja,Dustin Terrell
+f29bb653-ae15-4a9e-a120-01e9121df5d2,12/13/2025,Nigeria,d770cb30-6885-4168-bf15-a9f561d64f8f,Plan,Clothing,360.41,6,296,3.66,Cash,Adult,Other,Abuja,Jacqueline Winters
+62aad4b9-8c11-43ad-a858-1ec4e49f4703,10/19/2025,Nigeria,bde93aa6-3b0d-43ba-9480-5d2088e84950,May,Beauty,163.29,5,112.23,16.44,Credit Card,Adult,Other,Lagos,Benjamin Koch
+e6eebf40-e954-4509-b0c6-762a8f07ef95,7/16/2025,Nigeria,fb7af988-8bdb-4585-8a1b-3885371b030b,Kid,Clothing,219.05,9,140.22,27.46,Credit Card,Young,Male,Lagos,Julie Johnson
+ca0f9b80-634f-4c3a-baf3-a0cd9b0c221d,12/20/2025,Nigeria,d973a7d9-55e2-44e6-9f01-7cf6e8827b9d,Yourself,Clothing,204.57,5,137.55,2.1,Cash,Young,Female,Lagos,Christy Hill
+2910435d-7c26-4b28-b4f9-c26923545e8f,12/20/2025,Nigeria,7e9d7040-156f-43fd-85e7-9375b284dfce,Before,Beauty,344.7,1,222.42,40.23,Mobile Payment,Adult,Male,Lagos,Michael West
+b2340410-3cd1-4675-b976-7d136ddef930,10/11/2025,Nigeria,632a376b-f4d6-4e14-9f47-f4af5593f778,Behind,Electronics,288.91,9,190.32,52.7,Mobile Payment,Adult,Male,Abuja,Christopher Romero
+aa51dc05-51ad-4a1c-aee4-4df133bbe0ca,6/6/2025,Nigeria,55001287-ac11-438b-af6d-5dc7a5c4fe48,Left,Beauty,155.18,3,115,28.7,Cash,Young,Other,Port Harcourt,Stephen Campos
+5f78f72f-9676-4184-b8f9-173dce3d6d66,11/6/2025,Nigeria,8c10a564-f274-4e33-91b6-9b5683a4799f,Item,Sports,190.2,6,149.49,32.73,Credit Card,Adult,Female,Abuja,Renee White
+3650f200-e02c-4205-937d-22b83961cbec,12/13/2025,Nigeria,34bf930c-6381-41a3-9dd2-078c92825968,So,Toys,344.27,6,257.83,18.96,Mobile Payment,Adult,Male,Abuja,Michael Garrett
+80b2c244-83e7-47f1-8cbe-0917a909e13f,8/9/2025,Nigeria,7938ac24-4452-4538-8205-af09a802922e,Son,Clothing,307.78,4,186.49,3.62,Mobile Payment,Senior,Male,Port Harcourt,William Dodson
+e9968858-9b74-4cb5-8402-a9197b42a865,2/3/2025,Nigeria,0f172a36-691c-4b2d-9e69-561797cf26bc,Study,Clothing,307.5,10,231.34,39.63,Credit Card,Young,Female,Port Harcourt,Michael Taylor
+9bd78112-90e9-42c4-8c30-ee803270fadd,3/15/2025,Nigeria,0044f8e1-742a-4488-aab8-e33db8a569e1,Congress,Home & Kitchen,147.29,6,92.37,8.14,Cash,Senior,Female,Lagos,Lisa Rodriguez
+7696b25b-654a-42fb-9259-55c342eeefc1,10/30/2025,Nigeria,e2a9d150-c38e-428a-9222-8cf0b9a51239,Doctor,Electronics,149.15,4,117.3,10.75,Credit Card,Young,Other,Port Harcourt,Hannah Murphy
+b0c6921a-6dfc-4b44-8d99-97dab792809c,8/9/2025,Nigeria,0031a403-5f90-4c3b-8e39-e991d37bc2bb,Whatever,Home & Kitchen,343.97,5,288.55,35.73,Cash,Young,Other,Abuja,Diane Miller
+47a5a1da-0c22-463b-8a5c-41aee821e6d9,6/4/2025,Nigeria,637bd1bd-ceb9-451e-8bbc-87d622224603,Because,Toys,37.2,7,31.76,5.67,Credit Card,Young,Female,Port Harcourt,John Jensen
+e8ec27a7-ffa8-4fda-bf00-d1fc548e70ee,10/30/2025,Nigeria,dc05a676-0674-4a90-a545-7c92f9936d29,Style,Toys,353.91,5,239.18,37.13,Credit Card,Adult,Male,Lagos,Andrew Cook
+2d62a146-72fc-46b1-96d0-0e885560e69b,8/18/2025,Nigeria,dc5b2f1c-bce2-46f9-871f-ce3a37956ce7,Size,Electronics,122.5,1,81.12,3.37,Cash,Adult,Other,Port Harcourt,David Martinez
+95e49860-f77d-4598-a078-098a8c570147,12/13/2025,Nigeria,756a672a-0775-4d82-b93b-e00fcb279f2f,Discuss,Electronics,456,3,303.22,47.91,Credit Card,Young,Male,Port Harcourt,Jaclyn Warren
+cd6ba9c0-9159-4448-83f4-5293a86f03e2,3/15/2025,Nigeria,fb6357cd-5296-4ca7-beb8-06cabaf6032b,Its,Toys,334.43,7,268.2,50.13,Mobile Payment,Adult,Other,Abuja,Sarah Winters
+13780be4-d8c5-4707-8aec-ad50820a83c0,10/19/2025,Nigeria,be1d8480-bd89-435f-8cf8-4fe0f70cff87,Middle,Beauty,306.84,10,187.98,19.17,Cash,Adult,Other,Abuja,Derrick Ballard
+62e0d2f2-8536-464d-859c-6e06f2a7b55c,9/29/2025,Nigeria,728c6736-3f83-4e98-a4f9-92bed026b1c9,Speak,Clothing,451.22,4,400.99,87.7,Mobile Payment,Adult,Other,Abuja,Krista Cowan
+61a21746-541a-4c6a-b705-241cf9aa344c,2/3/2025,Nigeria,a299ae4a-3ba0-4198-bbb1-e6bec1921c48,Family,Beauty,302.3,3,183.94,3.98,Mobile Payment,Adult,Male,Lagos,Ryan Smith
+84f5590e-5e2c-45ce-ad65-38d4d5a0d4f8,5/14/2025,Nigeria,c73f5bc7-d67d-420d-a598-bf0d06718b58,Woman,Sports,362.82,4,238.45,50.18,Cash,Adult,Male,Lagos,Gary Lawson
+04908302-91f7-4076-9eb6-25f0971cc433,11/6/2025,Nigeria,810d1314-7c76-4300-9c60-544682b50520,Least,Beauty,276.25,9,178.75,40.5,Mobile Payment,Adult,Male,Port Harcourt,Joseph Morris
+1dd8ee4d-a644-4f30-ac12-412e8ff58485,11/6/2025,Nigeria,af7dd45c-b429-44d7-81cc-a0bf25e95e1c,Happen,Home & Kitchen,67.78,2,49.97,4.51,Mobile Payment,Senior,Other,Lagos,Heather Camacho
+9f3b871f-ab6c-4cf5-a355-72d1e7c09a79,6/6/2025,Nigeria,70e4b6bd-4eee-46c8-a197-c72610c42495,Project,Home & Kitchen,157.04,8,112.96,26.07,Cash,Senior,Male,Port Harcourt,Mary Fernandez
+d4724679-0be4-4ddc-b973-b758128a4f89,10/11/2025,Nigeria,62f7d990-f3c6-4520-9673-fcdfaf6d15c2,Fall,Home & Kitchen,96.05,3,77.74,15.48,Credit Card,Young,Male,Abuja,Ryan Logan
+6163137a-25d0-4c7b-bd01-c7b501678131,2/4/2025,Nigeria,4eaca3f3-51f8-4ab0-8952-bead491758ca,Fine,Home & Kitchen,431.62,5,350.61,75.87,Credit Card,Adult,Male,Lagos,Melissa Simpson
+b5fc522a-d392-48c3-a194-33e5cc09e227,9/18/2025,Nigeria,917cf509-aa6a-4c20-90ee-a6493fbfef77,Dark,Home & Kitchen,29.09,9,24.3,2.23,Cash,Young,Female,Port Harcourt,Katherine Chang
+6cd4a78d-ade7-4021-8c19-4ef9dbc6cfc6,7/7/2025,Nigeria,b6d56626-38de-4032-b526-1aa7e1ed9d38,Happen,Clothing,29.66,4,20.74,0.6,Credit Card,Young,Other,Lagos,Theresa Cordova
+3139ee51-0467-4a71-8e2c-a5cb38e26906,11/6/2025,Nigeria,c83aa0d0-d087-470f-8414-a8ca340fa105,Accept,Sports,126.49,1,112.1,5.89,Cash,Young,Male,Port Harcourt,Gregory Walsh
+d6474745-2b76-4cfa-93be-b561c31c3185,11/6/2025,Nigeria,2b9ff30c-2709-4347-bf67-dd8371a17791,Soon,Sports,449.74,7,354.12,13.39,Credit Card,Young,Female,Abuja,Edgar Butler
+6f9dd020-2c4d-446a-955f-86c6bb5e6256,7/8/2025,Nigeria,c490c851-5267-4dcf-8fa8-a284fd022896,Someone,Home & Kitchen,305.39,1,219.47,16.31,Cash,Adult,Female,Abuja,Jordan Gentry
+1153a6ea-df22-409c-ab6a-24c60a034aa5,11/20/2025,Nigeria,619d3a9f-4904-4c76-9d9c-dd0b3d62ee69,Live,Toys,282.49,1,205.62,44.8,Credit Card,Senior,Male,Port Harcourt,Edward Collins
+fec3c072-e5fc-4faa-9579-600af0df979b,7/7/2025,Nigeria,cd04bfc2-2574-4f7f-899e-1a05997ae420,Wall,Beauty,451.37,3,329.77,80.36,Cash,Young,Male,Lagos,Jeffery Jones
+51c0c8dc-2297-457e-823a-9edf8baee73b,2/5/2025,Nigeria,cd520ae6-9777-43ce-a231-47bfad05167c,Floor,Beauty,459.27,3,397.37,5.86,Credit Card,Senior,Other,Lagos,Michelle Browning
+c6efcfac-84b0-47bc-8340-b50f542ad393,2/13/2025,Nigeria,32cf8d04-01b7-421d-aab7-c948b45124c3,Often,Toys,156.08,1,139.67,14.11,Credit Card,Senior,Female,Lagos,James Miles
+4ec6f5a3-57a3-4a79-9682-c3be7466a0f2,8/18/2025,Nigeria,7e3e8d52-7ce4-4fb1-ad36-c258da8d343f,Stuff,Toys,125.32,7,95.2,9.47,Credit Card,Senior,Male,Lagos,Tyler Hart
+7b1f274f-2849-4319-b09b-ab7efab8a87b,11/6/2025,Nigeria,2eb8c560-af6c-4c0c-9429-0db464f1cb4e,Grow,Beauty,181.99,3,127.66,29.99,Cash,Young,Female,Lagos,Timothy Ross
+4fdfcc75-d0b6-42f9-b2ef-b5cf82f19861,2/14/2025,Nigeria,f5abb54d-b143-4787-b8a2-55c6868fb5a3,Her,Electronics,44.64,10,33.13,1.27,Credit Card,Adult,Other,Abuja,Jay Simmons MD
+f1192d37-7968-4552-8136-254c38dda442,10/13/2025,Nigeria,ae7e8bf4-17b9-42eb-b1e8-2eb4f90d2d31,Consumer,Home & Kitchen,440.62,6,336.05,31.87,Credit Card,Senior,Other,Abuja,Brooke Sullivan
+4113e45f-e044-4699-b0e4-c8fd1b4724ff,10/13/2025,Nigeria,d01b2b1a-4eb1-43d7-960b-9bcba9fe1f24,Make,Home & Kitchen,467.49,8,395.2,53.18,Credit Card,Young,Other,Lagos,Keith Johnson
+65c07948-357f-4c27-b098-53c2aa51448f,10/13/2025,Nigeria,c39b794b-6b97-4f18-a55f-3032a2e85a5a,Yard,Electronics,345.58,1,284.09,9.57,Credit Card,Young,Female,Port Harcourt,Miranda Adkins
+0725795d-c42d-43f0-aabe-864edd4c420b,10/13/2025,Nigeria,0d20362a-17ad-452c-a2b4-f6d6a64690f8,Rock,Clothing,194.8,1,134.97,30.61,Credit Card,Adult,Male,Lagos,Pamela Smith
+46175fb1-7f61-4f76-b2dd-0689f8c91024,10/13/2025,Nigeria,b845687c-3327-4aa1-aec3-20fbc58851cb,Southern,Beauty,209.65,5,182.92,2.95,Mobile Payment,Adult,Other,Abuja,Sarah Taylor
+96ca6c9f-bcea-42c5-9237-01a100401c1b,10/13/2025,Nigeria,9b55415b-e096-4ca3-9562-c6a885864103,Which,Beauty,334.01,2,212.17,66.77,Cash,Senior,Other,Abuja,Anna Martinez
+b1d5bd08-f1ce-4a34-b3cb-03ed22c4a217,10/13/2025,Nigeria,6da8a43a-dc80-4eaf-b236-0841cde54c59,Before,Electronics,324.24,8,283.19,14.09,Credit Card,Senior,Male,Abuja,Kayla Andrews
+c4dc3a01-8215-4992-aea9-9f672aa2eacd,10/13/2025,Nigeria,55cd16b8-5135-48aa-bf7c-a76952db9474,Guess,Electronics,420.34,5,342.33,62.53,Credit Card,Senior,Other,Port Harcourt,Courtney Barton
+c07a004c-ee10-4996-8d09-b6e1dbd797cd,10/13/2025,Nigeria,e923157b-835a-4d86-8502-186b488aefad,Improve,Home & Kitchen,17.42,1,15.47,2.08,Cash,Senior,Male,Port Harcourt,Alexis Franklin
+071b6cd8-ebc4-4832-b9a4-da75b455d7df,9/1/2025,Nigeria,3496ecb6-406a-47a8-bcce-25e6114d244f,Job,Beauty,297.51,5,199.64,5.79,Cash,Young,Other,Abuja,Amy Jensen
+a13a26e2-8cbc-4023-bff0-77e11df6cc62,9/1/2025,Nigeria,21536441-ee1f-4876-bf53-5be44cc12261,Represent,Toys,233.45,3,166.29,33.59,Credit Card,Young,Male,Lagos,Michael Noble
+67cff9fa-e165-4a76-bf93-1edffcc4d42c,9/1/2025,Nigeria,38141533-0cf2-49b4-8664-ba3c13fd8804,Save,Home & Kitchen,73.32,4,52.44,3.03,Cash,Adult,Male,Abuja,Gary Garcia
+662411c3-77cd-4fa2-8bc2-3bf4272afa68,2/6/2025,Nigeria,e78de7dd-f9f5-46d5-9d56-40058bcd0183,Though,Home & Kitchen,408.75,4,265.29,9.63,Cash,Young,Male,Port Harcourt,Jason Nichols
+b3542ac9-ef87-49f5-9507-7356657ea700,9/1/2025,Nigeria,5ae25e38-3ca2-454c-810c-76fb0a78069a,Upon,Sports,487.96,1,385.26,34.05,Cash,Adult,Female,Lagos,Joseph Meyers
+94cf3389-c264-4756-b4a2-4d53be63f26c,9/1/2025,Nigeria,48f7a0f0-c280-453d-a9bd-f5ac5e475f09,Upon,Sports,439.14,4,391.11,55.38,Credit Card,Young,Other,Port Harcourt,Kristen Hester
+d1d81aae-9d3d-4204-afcd-4eef5bced765,9/1/2025,Nigeria,1ead65d3-8b58-4064-8450-a29842257190,Example,Home & Kitchen,339.45,10,288.37,8.3,Cash,Adult,Female,Lagos,David Lang
+981f8746-32f5-4ac5-a7c6-08ea19b5fa4a,2/11/2025,Nigeria,620f2935-bb10-42ea-8306-987f3c663b7e,Ready,Clothing,39.37,7,24.96,3.16,Mobile Payment,Senior,Other,Lagos,Jessica Schneider
+c17d4683-36b8-4897-b4e5-40a54906df8d,9/1/2025,Nigeria,2e92dece-9768-4d8b-a8e7-34e03b40f91c,Mother,Electronics,441.5,10,350.21,63.76,Mobile Payment,Young,Male,Abuja,Eric Norris
+02f27380-217a-4f9d-afe4-d2e1905bd564,9/1/2025,Nigeria,0e49bbfd-5e9f-4fa0-ac4c-02d7170e1d5c,Get,Clothing,152.37,5,119.77,26.41,Cash,Senior,Other,Lagos,Evelyn York
+58189591-9576-4768-b69e-698947eab529,9/1/2025,Nigeria,6aff32dc-2964-4adf-8eb8-ab6941ce8df8,Change,Sports,187.58,5,128.05,3.89,Mobile Payment,Young,Other,Abuja,Elijah Mueller
+9c4d7375-fd7d-4a9c-9299-a9888aee6a06,2/3/2025,Nigeria,378114ca-b56e-4c19-9808-52010a1c3013,Perform,Home & Kitchen,149.37,9,111.89,28.52,Mobile Payment,Senior,Female,Port Harcourt,Carolyn Wells
+9ae9865f-d41a-4a08-88fd-fb9e71e007f5,9/1/2025,Nigeria,84c64421-4ae6-4d56-9102-252ee1d41ecb,Pretty,Toys,40.88,7,25.7,6.89,Credit Card,Adult,Female,Port Harcourt,Tammy Green
+cd95f47b-8545-4a7b-9c75-2eeaff979101,9/1/2025,Nigeria,feed8583-2aa8-4db6-83aa-ff42a62f3c50,Born,Toys,167.29,3,149.14,4.97,Mobile Payment,Adult,Female,Lagos,Todd Russell
+cab6643c-b122-4247-be57-1cd990c3a2a0,2/1/2025,Nigeria,f0f577e3-f796-44b0-8aba-6c63e3afe11d,Pay,Beauty,407.2,10,326.78,10.16,Credit Card,Senior,Other,Port Harcourt,Diane Kerr
+dd6568f4-495d-4130-9a19-bad1c3d6a7d0,2/8/2025,Nigeria,9f2060c9-9f5f-431e-bd9d-f9fa7bb75cc1,Box,Clothing,72.57,9,47.44,0.7,Mobile Payment,Senior,Female,Lagos,Theresa Gomez
+94204e19-46c1-4883-a94d-7860e44b6e13,9/1/2025,Nigeria,605a70fc-e0bb-4f0a-b900-933aa24a4d61,Measure,Clothing,228.8,6,184.66,20.31,Credit Card,Young,Other,Lagos,Michael Kelley
+21151388-3dfc-40af-94bd-43fbc9ecbb1a,2/13/2025,Nigeria,ddeaade0-efa1-413c-af45-2d158b4d3ccf,Fire,Beauty,94.18,1,68.99,1.06,Cash,Young,Male,Abuja,Lisa Oconnor
+60636091-f38b-4b04-b55b-768b83b9616c,9/1/2025,Nigeria,a453b498-b4fa-46e2-908e-c23031205d1a,Score,Home & Kitchen,163.76,3,123.66,16.55,Cash,Adult,Female,Lagos,Kevin Gonzalez
+6814d218-f213-465b-9321-a1b140476e4d,2/15/2025,Nigeria,478c6a81-8a19-45e2-a7cd-c32a497f4215,Anything,Toys,233.74,1,173.18,4.02,Credit Card,Adult,Female,Abuja,Karen Moran
+ba9cbf54-6113-4dc2-8280-b6b74036e0e4,2/13/2025,Nigeria,fa7bd514-8c3a-4527-9b09-a455f81bab56,Parent,Electronics,206.42,6,151.11,13.79,Cash,Young,Other,Port Harcourt,Jonathan Bell
+f3bd39dc-cff4-41e0-a10e-b1396794df90,9/1/2025,Nigeria,ffdafba3-7b3a-492a-9274-b1e6b46efb49,Many,Sports,287.38,6,198.75,16.17,Cash,Adult,Female,Lagos,Kevin Jones
+6712c97e-5476-4b3f-bb66-ac4474eae1ff,2/11/2025,Nigeria,829f1274-5e55-4e00-ab72-d569323d0bc1,Bank,Sports,84.71,3,72.66,15.63,Mobile Payment,Adult,Female,Abuja,Paul Reynolds
+71afcaaa-bd2a-4329-b8eb-fb403989131d,9/1/2025,Nigeria,e9bd225b-e8e4-4471-ac6b-d8c5473c8b62,Such,Clothing,187.55,8,164.45,18.22,Cash,Senior,Other,Lagos,Michele Gay
+eb39ae77-ade7-4e5e-82fc-e7a4228fde66,2/13/2025,Nigeria,ce45c537-97bd-46ed-a82d-d9aad5177bcd,Voice,Beauty,65.22,5,46.62,4.16,Mobile Payment,Adult,Other,Abuja,Erin Bailey
+e25a4cdb-65ea-4e78-b531-c2b8f99a264b,9/1/2025,Nigeria,f85812e3-5144-42ee-af08-25cd36edb31a,Consumer,Electronics,367.75,10,289.89,7.41,Cash,Young,Male,Port Harcourt,Elizabeth Davis
+84a921f1-5bfd-4c37-8c90-be85d2d4d38b,9/1/2025,Nigeria,bad32b9e-ba2e-4a3e-9c90-bde921c1cdae,Finish,Beauty,490.68,6,389.29,73.53,Cash,Adult,Female,Lagos,Jennifer Fernandez
+c95f9215-00d2-4976-825f-ded8ec47f60d,2/6/2025,Nigeria,91cc98a0-c3a8-4b3d-90e2-d15a7f093616,Usually,Electronics,164.18,9,137.04,8.5,Cash,Senior,Male,Abuja,Jennifer Adams
+67d858d0-5749-4239-b859-9498bbd63a38,2/16/2025,Nigeria,d5662317-3807-4b98-b9b0-cb43fb9a3b86,Glass,Home & Kitchen,30.76,4,24.49,2.67,Mobile Payment,Young,Male,Lagos,Eric Douglas
+0dbbd0c2-53fd-46b0-ba22-26dce81a5719,8/18/2025,Nigeria,8fbc2255-ac25-4552-9fec-71583b2cd939,Civil,Sports,286.47,7,248.39,47.32,Cash,Senior,Female,Abuja,Julie Dodson
+e29a5225-183f-4f44-9d09-8142bf6a1d2c,2/16/2025,Nigeria,bcda7bb8-8c68-4951-ab8a-4dd3145338e4,Idea,Home & Kitchen,334.04,3,225.25,26.97,Credit Card,Adult,Other,Abuja,Keith Ashley
+f1f5fc35-3d37-4f96-aa1b-2afab8f88283,2/15/2025,Nigeria,7079782c-1906-427b-90c6-6fe897403af0,Vote,Clothing,108.56,9,76.63,20.06,Mobile Payment,Senior,Female,Abuja,Nicholas Holmes
+3710f611-6950-488b-8c1b-610ddaaf5827,8/18/2025,Nigeria,370aa208-8de3-4ca5-a648-86adbbaacdfc,At,Clothing,333.71,2,277.61,9.02,Credit Card,Adult,Female,Port Harcourt,John Mendoza
+49f5be1a-021e-4873-a6fc-7557b6104e52,8/18/2025,Nigeria,697f7744-3216-40ff-9c0d-17fd1c333d2d,Write,Home & Kitchen,160.77,4,143.23,30.1,Cash,Young,Male,Lagos,Darren Norman
+836c0725-5fdd-45e7-b020-12b18c42b4bd,8/18/2025,Nigeria,1b3eacb2-90c7-43a9-9446-c3ca223f67d1,Guess,Electronics,214.91,9,170.7,21.69,Mobile Payment,Senior,Other,Port Harcourt,Anthony Brown
+06550a4a-a1fb-420f-99e6-3290e88edf7c,8/18/2025,Nigeria,34d3dc8c-1836-4668-9c87-8f9e5ab5ab6d,Represent,Clothing,68.35,2,49.4,7.75,Credit Card,Adult,Other,Lagos,Jessica Davis
+82fb3189-2c73-4df1-9f62-011aa84e25ac,8/18/2025,Nigeria,08740960-dbdf-483f-a6ef-c2876f56b323,Piece,Home & Kitchen,310.46,4,276.02,40.57,Cash,Adult,Female,Port Harcourt,Cynthia Ortiz
+e9754cc9-21dc-466f-819d-053323114b0a,8/18/2025,Nigeria,3cd92d58-f1b7-4a5e-b49c-ad6f2ef2475b,Design,Electronics,400.45,4,255.52,8.24,Cash,Adult,Male,Port Harcourt,Michelle Montoya
+cb17b6da-b9ad-4e84-a7df-989e65bd7aa8,8/18/2025,Nigeria,3b484b2f-8714-4e37-b988-8f36982cf8b0,Doctor,Clothing,355.9,4,316.42,54.39,Cash,Young,Other,Abuja,Erin Little
+ae457cce-b283-4724-bb29-d9e9380befce,8/18/2025,Nigeria,fcf8863f-ee6d-46f3-a626-2ae377735a59,Wall,Toys,109.98,9,72.89,1.77,Mobile Payment,Senior,Other,Abuja,Mr. Eric Cantu
+172f9c37-3634-40cd-9f5e-6a027ad08584,2/2/2025,Nigeria,228c6282-5639-4a07-adf4-a5624d7250a6,Into,Beauty,342.73,6,275.49,40.12,Cash,Young,Male,Lagos,Kristi Gomez
+ed337ade-3ab7-4229-84b8-15def9306680,2/20/2025,Nigeria,dc713d1d-3114-444b-9465-ff6c632255ed,Mr,Sports,314.25,3,239.47,31.91,Cash,Young,Male,Port Harcourt,Benjamin Wilson MD
+10d93de3-7157-40be-b467-7307f509b963,8/18/2025,Nigeria,ea013df7-a4e7-4766-ac0e-2a0fa2b9c3e3,Threat,Clothing,108.21,7,75.14,8.82,Credit Card,Young,Female,Port Harcourt,Jason Ramirez
+105b703c-8913-4042-a016-8e5c0d5cfdc6,7/2/2025,Nigeria,cf2d228e-857d-4528-80c1-b3e9725316a4,Event,Toys,141.5,10,86.77,22.6,Mobile Payment,Young,Female,Lagos,Jennifer Long
+c315035c-e127-4885-a84b-d7bed782142f,2/12/2025,Nigeria,7feb6303-4f5a-431f-8f67-b97b2aa4c7cb,Himself,Sports,104.92,2,89.34,20.74,Cash,Senior,Female,Lagos,Stacey Torres
+b0e5ca74-f2ff-4b1f-8473-7ba268e9ee37,7/2/2025,Nigeria,18e1faf1-319e-4dbc-8f49-4afa8186106d,Whatever,Electronics,220.23,5,161.95,16.31,Credit Card,Senior,Other,Port Harcourt,Shannon Murray
+a5aa7c5d-e47e-455c-94ef-8a2be5f5920a,2/9/2025,Nigeria,ff275a7a-db15-4209-8b19-54a043f21404,Work,Clothing,306.33,9,208.32,56.13,Cash,Senior,Other,Port Harcourt,Steven Phelps
+92240828-a134-4d75-80ef-0b93bdfb2004,2/13/2025,Nigeria,7d285b33-8536-480a-afcd-51710ffba066,Lead,Clothing,437.66,4,352.57,11.03,Mobile Payment,Senior,Male,Port Harcourt,Robin George
+9f563b4f-d5e1-4d6a-8782-e5365d2ba673,7/2/2025,Nigeria,43d088a4-2c42-4276-b6e9-9f1ae3b92ea2,His,Beauty,351.97,6,292.74,51.07,Credit Card,Young,Other,Port Harcourt,Lisa Sosa
+40a5a40d-5afc-45d7-b92a-0c13fc36343a,7/2/2025,Nigeria,a55ec189-45b8-4284-ba97-b36f035233f6,Art,Beauty,470.43,10,354.73,52.15,Credit Card,Senior,Other,Port Harcourt,Jason Johnson
+999b359a-7615-414c-9a9a-446690abe570,2/18/2025,Nigeria,c6125166-223d-489b-be22-2d6f7a538e15,Too,Sports,181.64,7,135.16,15.73,Mobile Payment,Adult,Female,Port Harcourt,Mr. Chad Allen
+41913d40-8618-40a5-873e-51527591a2a6,7/2/2025,Nigeria,71ddeaa4-bb78-49bd-ab8f-96c30b36e23a,Woman,Toys,122.42,1,73.62,12.59,Credit Card,Adult,Male,Abuja,Preston Paul
+f954df38-1bc4-45ed-94e6-e5542040613d,7/2/2025,Nigeria,bbcb54ac-37c8-4a7e-81d2-3fe670997e2a,Quickly,Toys,359.1,4,227.68,39.4,Cash,Young,Male,Port Harcourt,Andrew Davenport
+29395015-785f-4341-90bf-b21d6855bde2,2/15/2025,Nigeria,81534977-4f06-4b71-a73d-94cd15c6a8ec,Sell,Toys,471.66,6,367.31,29.31,Cash,Adult,Female,Lagos,Darren Mendoza
+ca13d94f-ae2b-4842-983e-b94dbead9585,2/8/2025,Nigeria,bc1479b5-3f86-4507-a8b7-66e2a9f1040a,Degree,Electronics,424.65,9,291.97,51.13,Credit Card,Young,Female,Port Harcourt,Marcus Pollard
+6d7da1ac-a6e9-4006-9511-3d78fbc045ab,7/2/2025,Nigeria,d8745626-8fef-4e9d-9ce9-a5fc8e6437f6,Performance,Beauty,292.72,4,238.79,48.83,Cash,Senior,Male,Abuja,Steven Chambers
+a7932be8-aa1a-4e5c-a028-ea504daf6bdf,7/2/2025,Nigeria,275722cf-22cb-4ce0-ab2f-1fb7fd9a751b,Material,Home & Kitchen,361.88,2,303.43,49.45,Cash,Senior,Other,Lagos,Marcus Garcia
+6615d20f-fcbe-48a2-b69a-a63b744bbd08,2/6/2025,Nigeria,85352d91-36a4-4bd5-8824-02be40ac4596,Age,Toys,407.25,2,316.17,54.47,Mobile Payment,Adult,Male,Abuja,Shawn Miller
+8341a36e-3c0c-4dbd-a86a-56637275e861,7/2/2025,Nigeria,3e676138-8fa7-4c26-8c09-199147d114fd,Later,Beauty,378.51,7,296.7,3.49,Cash,Senior,Other,Abuja,Susan James
+752de9a7-db4a-49c3-b8b2-541cb69cff7d,2/17/2025,Nigeria,09b87702-626a-4aa7-8ddc-ca2b5d02b50d,Here,Toys,180.74,3,123.93,33.29,Credit Card,Senior,Male,Abuja,Rebecca Jimenez DVM
+8f25f4c4-5ebc-46b0-95a6-bd38ff7d6d46,7/2/2025,Nigeria,20384710-48b4-4135-be35-48378f4810e0,Executive,Beauty,82.84,7,57.31,15.84,Credit Card,Young,Female,Abuja,Vincent Clarke
+ac57ebc8-94e1-4d21-9f7c-589809e28be2,7/2/2025,Nigeria,5958646a-737d-4b8d-a098-7177c5152e99,In,Clothing,51.62,6,38.02,3.31,Mobile Payment,Adult,Female,Port Harcourt,Jonathan Young
+57d3c45c-5cad-4aab-aea9-b93c1ff813c6,7/2/2025,Nigeria,6920cf33-60e3-4633-9dc1-6c8ed7d83114,Civil,Beauty,154.52,5,94.18,12.49,Mobile Payment,Senior,Male,Abuja,Angela Lee
+ff93fb33-a8c6-4e2d-a238-3f404cba3965,7/2/2025,Nigeria,e52319af-d361-4cbf-bb7f-6d32a5b071eb,Own,Beauty,124.91,8,78.35,10.89,Mobile Payment,Senior,Female,Port Harcourt,Sabrina James
+c9dfe92c-e901-4daa-ab51-4c9bd5d76677,7/2/2025,Nigeria,0002b26b-bb83-4252-8344-b10956e1dc4b,Even,Electronics,61.88,3,55.47,6.11,Cash,Adult,Male,Lagos,Amy Larson
+40d30942-a33a-4f0d-ab1e-3e7f47c4503d,2/2/2025,Nigeria,c3bfa16c-f663-4a28-b69d-a94b6cd18a37,Shake,Clothing,82.58,8,64.8,5.19,Credit Card,Young,Other,Port Harcourt,Troy Beck
+7a70c582-1693-4838-b186-6f333df035ba,6/23/2025,Nigeria,5dfe651b-6294-4077-8583-c4e5fd8a379e,Control,Sports,405.35,10,257.72,75.99,Credit Card,Young,Female,Lagos,Cynthia Johnson
+38e8e4a8-b9a7-4d50-807c-df289b55726b,6/23/2025,Nigeria,c02aad9c-4abf-49bd-a8dd-c51d1ee848ea,Raise,Home & Kitchen,140.59,5,110.78,20.48,Cash,Young,Other,Lagos,Diana Thomas
+45e4aaf0-240d-464c-b5cf-0ae075998169,2/20/2025,Nigeria,14c96e08-ff16-4b79-8475-141580607b36,Yard,Beauty,225.35,7,184.85,45,Credit Card,Senior,Female,Port Harcourt,Frank Martin
+dffd6d2c-87fd-4181-b9ae-3a056f2207aa,2/14/2025,Nigeria,b07e8f99-7409-4d13-a4c3-44a2d49bb9e3,Why,Clothing,278.69,7,240.34,1.65,Mobile Payment,Young,Other,Lagos,Mark Brooks
+c3487815-88ad-4546-a7b5-e3366bb842f0,6/23/2025,Nigeria,c487fc02-a509-4239-8f4c-ea6ad853ff49,Effect,Electronics,255.14,10,153.72,0.42,Mobile Payment,Young,Other,Lagos,Katie Simmons
+c64c62ee-5550-4a78-ab17-6e4b5f136906,2/20/2025,Nigeria,ecf0b81d-d57f-4eac-b3d5-a1c2c4b60ac3,Door,Sports,241.63,7,158.6,5.72,Cash,Adult,Other,Port Harcourt,Isaiah Hall
+a3f26851-d9ba-4f16-9588-889c5f6880ca,2/17/2025,Nigeria,5c5c815e-c76b-485f-96fe-42044210d3d3,My,Beauty,90.47,8,59.04,16.02,Credit Card,Adult,Female,Abuja,Colleen Horton
+db325f9e-37c4-4f56-ad63-3c932b88224f,6/23/2025,Nigeria,71582709-4a70-4248-b1cb-f853ee29b708,Image,Electronics,409.93,4,302.58,52.58,Mobile Payment,Adult,Female,Port Harcourt,Sarah Jones
+ff84be09-617e-478d-8857-67ec0f758240,2/8/2025,Nigeria,ad1b10a4-5f27-4f1e-94cb-a17538ccf866,Throughout,Sports,158.84,4,136.22,22.56,Credit Card,Adult,Male,Port Harcourt,Peter Valenzuela
+db69cd90-aaad-46d5-b93e-37306ce87ca8,2/11/2025,Nigeria,7ec4e707-8265-4f51-b0fc-8671296c5cdf,Reason,Clothing,410.24,2,344.38,33.38,Mobile Payment,Young,Female,Lagos,Adrian Cook
+9f82cb0c-9271-4e01-bcc3-9346a7dc432a,6/23/2025,Nigeria,2005208f-5abe-4005-aa93-8d7ab981a565,Bar,Home & Kitchen,379.37,2,281.14,66.02,Mobile Payment,Adult,Female,Lagos,Kimberly Tran
+4e33ea01-01f8-407e-a833-6d5f711be4e8,6/23/2025,Nigeria,e313c05a-a012-4756-bc90-94005f7fa794,Drop,Beauty,374.09,5,280.66,58.88,Mobile Payment,Senior,Male,Lagos,Cody Hill
+d880ae9e-5eab-4c2a-8762-8b99dde6d4a9,6/23/2025,Nigeria,cd6f7d9e-7c8d-4e1f-bc99-040cf17951df,Should,Home & Kitchen,117.29,5,88.64,22.89,Mobile Payment,Senior,Other,Abuja,Caroline Le
+27351be6-9258-4a43-9f97-70b9ed30656b,6/23/2025,Nigeria,a3e97c10-ac28-45d4-b575-0bb4393f1a5f,Voice,Beauty,483.34,2,291.31,52.31,Cash,Young,Other,Port Harcourt,Susan Montgomery
+7b2c8dce-099f-4b2b-8461-b1dc366ed120,2/12/2025,Nigeria,6013e183-0a03-4220-8dc6-f519c30ea61b,Hit,Sports,40.84,8,25.37,0.84,Credit Card,Young,Female,Abuja,Dennis Austin
+7ebaa42e-5a40-430e-9ed3-6005d3dc083d,6/23/2025,Nigeria,bbdb2151-e441-4619-835e-6b090c17335c,Try,Toys,221.72,8,189,17.16,Credit Card,Senior,Male,Port Harcourt,Amber Camacho
+f821f137-56bf-414d-ad79-d1fb45712a7b,6/23/2025,Nigeria,e2df6820-1d92-4ace-aa29-8545dfbbb179,May,Sports,387.82,10,284.17,55.61,Mobile Payment,Young,Other,Lagos,Gina Lee
+9a1730cf-e32d-49d9-ac34-6b9300bec1c8,2/4/2025,Nigeria,ff2eeb4e-6c4d-4c21-bbb2-571febc60199,Hour,Sports,36.19,3,22.01,0.8,Credit Card,Young,Other,Abuja,Jocelyn Ramsey
+79106898-3852-4911-a07d-1b247f8619dc,6/23/2025,Nigeria,2d676556-f495-45c5-b620-f060bbd8a7ae,Site,Home & Kitchen,25.24,9,16.74,1.54,Credit Card,Adult,Female,Port Harcourt,Eric Farmer
+64693c5e-5689-4a09-a585-1b022286843b,2/19/2025,Nigeria,7f4d1c13-68c8-4763-a021-01db920dd801,Require,Beauty,34.41,8,24.46,6.18,Credit Card,Young,Other,Port Harcourt,Angela Gomez
+df26ec6c-d7c8-445a-ae73-4c66292c5ede,2/1/2025,Nigeria,f7c24c6a-8904-4ab2-96a8-c399babd04fc,Risk,Sports,115.37,4,84.37,0.19,Cash,Young,Other,Lagos,Timothy Gardner
+3be54c67-773a-46a2-a31c-21cf66648398,6/23/2025,Nigeria,521ea3a4-221c-4bde-8828-6ebdc7a779ba,Seven,Clothing,385.97,7,333.24,25.65,Cash,Senior,Female,Lagos,Linda Curtis
+c1da6187-d240-4b36-ab12-f1e87d89c889,5/6/2025,Nigeria,174f5004-c69c-4c51-a017-7bca452b607a,Lay,Clothing,55.49,10,36.14,1.53,Mobile Payment,Adult,Male,Port Harcourt,Micheal Stafford
+7379b603-6279-4d40-8634-8daec5642c12,2/19/2025,Nigeria,49e34b15-af1b-4f80-acc7-3555a41d29f3,Executive,Toys,396.59,9,306.08,63.27,Credit Card,Adult,Female,Abuja,Jose Berger
+1f537805-d323-4041-bc1a-0f2ceac673f7,2/2/2025,Nigeria,92e24a53-6d7c-44ec-876f-fdc7217bba3a,Argue,Clothing,305.81,10,243.69,17.09,Cash,Young,Male,Port Harcourt,Cesar Joseph
+f00fb839-6ff3-4e89-b70c-5c43a793c28e,2/4/2025,Nigeria,1f27c90a-1cd3-4dac-97f9-7379df09cb19,Owner,Toys,259.16,4,156.22,14.01,Cash,Young,Female,Lagos,Elizabeth Moreno
+5892400e-ffa2-4aa5-bd41-a701a0efb500,2/11/2025,Nigeria,3987bb42-2f17-4da9-b975-5544ec231c25,Bill,Sports,195.42,9,166.28,36.41,Cash,Senior,Female,Abuja,Stephen Miller
+881acc39-4ad3-42d6-94c2-3ca2a8aec93c,5/6/2025,Nigeria,7ee74e8f-63ea-49a7-a831-4baa00ab9930,Right,Sports,259.27,8,226.44,8.5,Mobile Payment,Senior,Male,Abuja,Austin Hunter
+66003947-ecdb-4c56-affe-78d63e6052dd,5/6/2025,Nigeria,3d75d12c-46df-4579-9080-7717a5d527e7,Push,Sports,151.67,9,102.73,16.3,Cash,Adult,Female,Lagos,Michael Torres
+f5386a0e-ab79-4644-b7e5-e05f2ee51675,5/6/2025,Nigeria,0e776754-9c4b-4316-bf8e-150317fee543,Fall,Clothing,241.78,2,204.38,47.79,Cash,Adult,Other,Lagos,Erin Everett
+a885bbb1-bb72-41ec-b8df-1dd3ef262e33,5/6/2025,Nigeria,e0933688-c1e3-46b1-966f-e235b0961a59,Piece,Electronics,33.47,10,25.15,0.2,Mobile Payment,Adult,Other,Lagos,Julia Murphy
+21a08bb0-70e2-4d70-ba09-8b5a38510d6c,5/6/2025,Nigeria,bb07b074-642d-47ec-ab20-88c68712c215,Pretty,Home & Kitchen,85.91,6,59.09,7.11,Mobile Payment,Senior,Female,Lagos,Mrs. Elizabeth Gallagher
+186c2c78-e8bb-447d-8faa-2ec697f7293b,2/6/2025,Nigeria,abbe7bda-a104-4137-a150-9d986de8f833,Send,Sports,222.98,7,170.36,29.94,Cash,Senior,Male,Abuja,Gary Quinn
+ab6432ca-91b4-45a8-8ebf-7e9e7ad4c88c,5/6/2025,Nigeria,f03be2b3-f01a-4f69-b1aa-aab9f77eaa13,Cover,Home & Kitchen,133.29,2,81.92,10.7,Mobile Payment,Young,Female,Port Harcourt,Brianna Martin
+58d950e3-b82e-41cb-9b76-d3099c111b54,2/1/2025,Nigeria,e5f334e2-3d4c-4b18-91ee-0c3450820700,Everybody,Beauty,495.52,1,337.82,94.08,Mobile Payment,Senior,Male,Port Harcourt,Shawn Henderson
+664a9f9f-c865-4048-8ba0-e86fc6638e6c,5/6/2025,Nigeria,99cfc38d-496d-40d0-9a7c-a655373d9948,Reflect,Beauty,65.67,10,52.19,10.98,Credit Card,Senior,Female,Lagos,Brent Henderson
+d0eaa04e-b71d-44e0-9705-e82033f4faef,5/6/2025,Nigeria,48bd1535-bc5c-4bd5-a1e2-9b112a3e885d,Summer,Home & Kitchen,387.75,1,330.92,58.96,Cash,Young,Female,Lagos,Michael Thompson
+23ddaf02-77e2-4271-9d83-5245de46588a,5/6/2025,Nigeria,57fe1f0a-4994-4316-8833-6e1905937620,Message,Electronics,218.07,7,175.47,24.97,Credit Card,Senior,Male,Port Harcourt,Justin King MD
+13ebdd90-29d2-4391-be4d-b730f764bc1e,4/6/2025,Nigeria,2a04f71b-fad6-41f3-8352-5a89a26f3fae,Major,Clothing,180.5,4,134.87,10.48,Credit Card,Senior,Other,Lagos,Wesley Smith
+0f72e3d4-0a52-4dd8-b2c7-e3d4cc20b634,4/6/2025,Nigeria,4c31bb10-9dc6-4b49-805c-768c9946253b,Environmental,Home & Kitchen,477.74,10,295.79,39.72,Cash,Young,Other,Abuja,Daniel Wilson
+9fd06f6f-8802-45d5-8529-f30f778f65fa,4/6/2025,Nigeria,b72d0ccd-56ee-41be-9e53-c1311cda8e2a,Within,Beauty,44.76,10,27.58,0.28,Credit Card,Adult,Male,Port Harcourt,Tiffany Henry
+aff4bf68-bf90-4151-acb1-97b711e114c8,4/6/2025,Nigeria,09b1d0f4-4f9b-4dec-aa34-2ae6e93f2c11,Budget,Toys,14.51,6,12.85,0.16,Cash,Young,Male,Lagos,Robert Adams
+eca712d8-e91d-43d8-b0f1-164136a786c7,4/6/2025,Nigeria,f94af63f-3ed0-417f-b2b9-ba8b1f2e0dd5,Meeting,Beauty,188.62,4,135.68,36.88,Credit Card,Young,Male,Lagos,Stephen Simmons
+44ba9288-b5bc-486d-a525-90ff5a96b82c,2/15/2025,Nigeria,04f6befd-87b5-48fb-84d5-c9581f794ea9,Heart,Sports,125.78,6,86.28,9.21,Cash,Senior,Other,Lagos,Charles Garcia
+3776443d-7a02-47b9-be80-fcbf9491719f,4/6/2025,Nigeria,fee4fdee-9ab9-43aa-b46b-c17e853daefd,Lawyer,Beauty,246.64,5,157.29,15.56,Credit Card,Adult,Other,Lagos,David Peters
+3f140c1f-c0b7-4594-bcfe-e488841a67a9,2/6/2025,Nigeria,29f7e51c-aafd-4d51-9ab0-0139c5c0ab74,Measure,Clothing,437.42,3,330.52,47.74,Credit Card,Young,Female,Abuja,Curtis Rodriguez
+a5318fc6-3c0d-4914-a817-cd2ff2522be2,4/6/2025,Nigeria,e541ee84-1f5f-4cd3-b963-98f028a22a67,Later,Beauty,234.96,9,208.63,43.12,Credit Card,Young,Male,Abuja,Brittany Pratt
+2533d42a-349f-4b0f-8b3b-95c1751d25da,4/6/2025,Nigeria,413ae15b-840a-4c86-9c9e-f9085d76c5a6,Ability,Sports,112.23,4,90.11,9.88,Cash,Senior,Other,Port Harcourt,Aaron Marshall
+c5b7a622-b5bf-4637-8c9c-5113462e1f3d,2/8/2025,Nigeria,9ceaaf29-3189-4726-ba02-9243a2771b59,Key,Electronics,342.02,4,293.33,59.03,Cash,Young,Female,Abuja,James Marquez
+ed68b8bf-c475-4b81-8bf9-3882dd635414,3/27/2025,Nigeria,7c542826-1e66-49d2-bd0c-e77e7687cb89,Six,Toys,298.21,9,226.14,38.42,Cash,Senior,Other,Port Harcourt,Zachary Mcclure
+22510544-8ab4-474a-8463-84ef387e9c8f,1/5/2025,Nigeria,4ff6925c-1e68-4d99-9e2f-eea5848baf7e,Recently,Clothing,418.17,6,341.76,18.03,Mobile Payment,Adult,Female,Lagos,Jenna Harris
+c254e869-31b5-4c39-b576-8eba6b05c602,1/2/2025,Nigeria,6c73401d-b4d4-498c-bc55-a93384887274,Act,Clothing,144.03,4,89.69,18.8,Credit Card,Senior,Male,Lagos,Jeffrey Medina
+3439d804-59fb-4ef1-937f-9c156451900d,1/28/2025,Nigeria,13a94e52-fd14-4ace-a5b8-3a202173e607,Speech,Sports,119.49,10,74.88,13.13,Mobile Payment,Adult,Male,Abuja,Patrick Moyer
+8711443f-4b74-4a3f-bb2f-978c047a7357,2/20/2025,Nigeria,906019dd-1f57-43f9-8101-1ceb70986a4c,Assume,Clothing,423.75,10,340.4,7.78,Credit Card,Adult,Female,Port Harcourt,Michelle Cooley
+8a13f59f-c9f8-48bb-93ab-9e85b42b2d16,1/14/2025,Nigeria,78b3b7b0-a23f-4e1c-b252-e5fd6171333f,Let,Sports,222.68,3,192.69,28.18,Cash,Adult,Other,Port Harcourt,Carolyn Nixon
+a0f3cf61-b370-482a-8050-5ddafc3ec8e8,2/14/2025,Nigeria,855a9706-74f4-41c2-b5b5-c9d19b23722e,Keep,Toys,469.93,2,282.09,24.57,Cash,Young,Female,Abuja,Maria Roberts
+b942b580-3eb5-4cd8-a39d-4e59cea45732,2/20/2025,Nigeria,9db20523-3158-4bba-8400-a1972b095590,Crime,Beauty,113.63,5,100.89,17.72,Mobile Payment,Senior,Female,Abuja,Kayla Garcia
+b1a3e019-e5bb-48d9-99ff-0258b2418bd6,2/10/2025,Nigeria,0a6bdb93-cf3e-4ab9-b117-6b95b930b308,School,Toys,161.03,10,122.01,25.57,Mobile Payment,Senior,Other,Lagos,Kim Lopez
+c9d2c1e7-99f5-4c1c-8deb-17139ee8c9a1,1/29/2025,Nigeria,971276a6-17ac-465b-9e30-4dcae2e6ad0c,Material,Electronics,311.28,4,216.53,45.13,Mobile Payment,Adult,Other,Lagos,Pamela Cowan
+ab02e964-7ef0-481c-b5fc-c375ceeefdf2,1/30/2025,Nigeria,9752c9c2-45be-4756-b07e-4c5af73a4469,Those,Clothing,47.34,3,30.65,4.89,Cash,Senior,Other,Port Harcourt,Tara Chen
+72f52021-d520-4b16-a1f7-18dc564d972a,1/25/2025,Nigeria,b449f43c-23f0-46ca-af9c-91d4cb4f5af7,Mission,Beauty,23.25,10,14.57,2.17,Credit Card,Young,Other,Port Harcourt,Briana Ramirez
+90ec3c8a-efdf-412e-82dc-905d444af00a,2/19/2025,Nigeria,f6778134-4b4a-4b9e-aef4-94886af713e3,Age,Toys,497.06,10,379.94,64.34,Cash,Young,Other,Lagos,Jermaine Charles
+d3b95279-9c95-408a-add1-d3ba29e3f9f9,1/26/2025,Nigeria,87c1ab18-0b38-4059-8182-a9efb6e5a4d7,Knowledge,Beauty,121.9,7,75.86,5.62,Credit Card,Adult,Male,Lagos,Steven Davis
+68a3ddeb-7450-44a7-9b27-f3926d750f03,2/14/2025,Nigeria,0782dba2-a29c-40e8-b27e-ba4795868a9c,Industry,Clothing,114.69,7,101.8,13.6,Cash,Young,Other,Abuja,Jessica Serrano
+27cd78b6-5669-4ba0-bff9-7df56c0aa208,1/22/2025,Nigeria,28b6198a-4ddf-40c4-8da1-79e08459e197,Best,Clothing,433.77,10,313.69,2.59,Mobile Payment,Adult,Male,Port Harcourt,Brian Freeman
+6ea56a07-105b-47b5-acc9-e967c442cfe2,1/4/2025,Nigeria,5bb41b6c-4835-4454-ad32-4a4c3a9b2a3a,Option,Home & Kitchen,356.17,5,294.77,49.32,Cash,Senior,Male,Abuja,Isaac Mills
+68dd4f53-e58a-478a-859f-60663c6740c5,2/6/2025,Nigeria,afd1398e-2590-45f3-8e18-fdb8648e77aa,Bag,Electronics,283.15,10,237.49,33.26,Credit Card,Adult,Female,Abuja,Sandra Sanchez
+cce7ce24-3075-4bfe-9846-40675088751d,1/3/2025,Nigeria,912cb36c-05d4-4b54-802c-b6ad9dd085e5,Executive,Beauty,194.41,4,131.02,31.94,Mobile Payment,Adult,Other,Lagos,Michael Stuart
+1271f727-bda3-4aa6-8d5e-ecbfd2c6dfee,1/1/2025,Nigeria,8c874c7f-c3cd-4e08-8ec9-d9d5f145d43b,Beat,Clothing,163.26,9,137.62,10.73,Mobile Payment,Senior,Female,Lagos,Zachary Reid
+55c0234b-81e6-440c-a6e0-081aabd21fd2,1/16/2025,Nigeria,545c071f-14df-4961-a072-8db7207967c1,Second,Home & Kitchen,70.87,4,55.1,5.74,Cash,Young,Other,Lagos,John Duffy
+02159745-8c42-417c-8bf3-30c1ae648aaf,2/17/2025,Nigeria,16fc799b-ee40-4312-b018-b94315cc8ecc,Practice,Electronics,171.48,2,112.86,23.92,Mobile Payment,Senior,Other,Lagos,Gina Gordon
+3fc932c7-728b-4948-a687-596f9cfba91d,1/20/2025,Nigeria,f0878527-8149-4b68-b6ae-7f3593d84702,Without,Clothing,473.02,6,410.71,92.08,Credit Card,Adult,Other,Port Harcourt,Regina Williamson
+dddd380b-d95e-4cf4-a839-443884ec7e0d,1/18/2025,Nigeria,404043be-1274-40e4-b771-b10724431e06,Recently,Electronics,158.59,2,106.61,3.86,Cash,Young,Female,Abuja,Denise Nichols
+dduid380b-d95e-4cf4-a839-44763884ec7e08d,2/5/2025,Nigeria,9040893bue-1274-40e4-b871-b1072498431e06,Beat,Clothing,124.69,7,65.86,12.6,Mobile Payment,Senior,Female,Abuja,Abhas Abessolo

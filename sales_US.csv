@@ -1,0 +1,502 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+d3baff95-2969-4ac7-b31b-6ad335ec5777,3/3/2025,US,97d0b0a1-9178-4eda-9206-faeaaae6b0fe,Offer,Toys,314.21,2,247.08,41.39,Mobile Payment,Adult,Female,New York,Evelyn Day
+8e7c57ff-9fae-4f7e-9baf-3f71732dfeae,6/4/2025,US,ffdaf2ca-1422-4c7b-a88a-68496deb0f84,Carry,Sports,161.33,1,127.84,7.85,Credit Card,Young,Male,Chicago,Latasha Neal
+47f01e73-1a07-4d3e-942a-c363793f7650,7/7/2025,US,29a68711-d65c-4953-9d69-5c9c7ab336e2,Country,Electronics,182.37,5,141.52,34.25,Mobile Payment,Adult,Male,Los Angeles,John Wyatt
+af60412e-a3db-420b-a36e-f8a50d1624cf,4/16/2025,US,b863dead-d0ba-469f-ab23-018c5bd6337f,Trial,Sports,482.71,7,352.44,7.93,Credit Card,Adult,Female,Chicago,Ms. Diana Ellis
+ecee3c02-4fc8-4fd6-99b7-cbf3e46febc3,3/23/2025,US,8acec62e-9547-4708-b639-d657d8d34866,Five,Clothing,90.88,3,75.67,13.36,Mobile Payment,Young,Female,New York,Cody Martinez
+b1083fce-bf6f-4fb1-a2c0-66ea63039e31,5/14/2025,US,597ba6b1-6330-4daa-a95e-be96ac29778a,Produce,Home & Kitchen,398.5,2,313.17,73.77,Credit Card,Young,Female,Chicago,Melanie Adams
+d3b10adb-0d9a-4c17-9de5-4c123f60051b,7/8/2025,US,960c7a45-8790-4be9-8ae7-5a047b2cfc23,Effect,Sports,167.58,8,102.94,6.45,Mobile Payment,Young,Male,New York,Thomas Gould
+518a1432-5ce3-4b8c-8e91-c4ea0f8792b8,4/4/2025,US,dee7311d-9609-4e76-89bc-31a5e2616f08,Late,Home & Kitchen,97.66,6,60.08,0.72,Mobile Payment,Adult,Other,New York,Jonathan Hunt
+6c67f36e-6a3e-49a6-93ce-ab748667d8f9,7/8/2025,US,dfcbf9f4-0577-4e19-94d9-032d7ce7b52a,Gun,Beauty,260.46,2,190.26,34.47,Credit Card,Adult,Female,Chicago,Kari Powell
+0c8aa83e-e951-454f-a493-63a59768fd69,9/10/2025,US,4f7fe96e-a8ba-4abd-a8cf-6c170c87bc12,Agency,Home & Kitchen,470.92,10,421.12,67.97,Cash,Young,Female,Chicago,David Hernandez
+ea221f22-d542-40d9-89cc-56a4b7677479,3/1/2025,US,01bcd105-95b2-4ecd-9842-0f6d120745ee,Season,Clothing,464.99,7,405.35,42.27,Cash,Young,Male,Chicago,David Obrien
+a29aa8f1-a0b8-49b8-b183-e57b6a8013d1,10/11/2025,US,f7f8f6c5-177a-44f6-9107-778543d158a1,Floor,Beauty,307.48,8,249.71,19.01,Credit Card,Adult,Other,Los Angeles,Kristin Mcdaniel
+4e5c323c-aaf8-4537-9a52-ea0c5ec7cb8c,3/3/2025,US,7c7adab6-6561-42a6-a912-4d525b8b5654,Experience,Beauty,333.21,5,234.33,36.9,Cash,Young,Male,Los Angeles,Brittany Weber
+472eeb91-c9f9-420e-a762-5afaa3b94358,12/22/2025,US,ba894158-6206-4819-8f21-3616e8d02b9a,Administration,Toys,322.51,6,280.73,59.54,Credit Card,Adult,Other,Los Angeles,Ray Rose
+513a8199-2fa0-4684-8536-8347882f90b9,10/19/2025,US,100c3f20-5514-45d2-9b68-d110b04a775a,Try,Home & Kitchen,18.09,6,15.05,2.63,Mobile Payment,Senior,Male,Los Angeles,Samantha May
+017316ae-c637-443f-990a-7204caa817fe,12/13/2025,US,a49c99d5-e700-4ed2-b6eb-08bca65f9a43,Act,Clothing,219.79,7,188.29,6.34,Cash,Adult,Female,Chicago,Hannah Young
+2a43b38b-f050-4ecb-a954-5964e11d13fa,1/28/2025,US,bb8844e9-11f5-4760-9264-e22dd8adbc7d,Bit,Clothing,460.09,3,384.53,68.97,Mobile Payment,Adult,Male,Chicago,Jeffrey Duncan
+07f05532-9e83-4541-95dd-e53d823e4d8c,10/11/2025,US,71a53f28-7167-4582-b737-a26e09309804,Let,Toys,306.91,9,242.12,12.38,Mobile Payment,Senior,Female,Chicago,Katie Moore
+821fd08c-d20f-43f2-a23a-62c2f2c833b2,12/22/2025,US,0e2e625a-a40e-4d48-9ca1-162ee00d93c0,Meet,Clothing,62.93,9,40.13,3.47,Mobile Payment,Senior,Female,New York,Taylor Alvarez
+61604b29-c9c6-4d1b-a575-8f9d18da465e,10/30/2025,US,667bb138-83c2-4435-96d3-ead2bd5d9d43,Often,Home & Kitchen,207.39,10,152.08,29.28,Cash,Adult,Female,Chicago,Adam Baker
+82e31772-3a90-4f18-ba6c-f0636572b9f2,2/16/2025,US,859821ae-58f2-40d5-8353-dc056a9f2e95,Market,Electronics,391.71,2,281.17,2.97,Credit Card,Young,Male,Los Angeles,Samantha Anderson
+409cf8ad-1c65-440b-8f77-286427e0dfd4,12/11/2025,US,733fc674-5fa8-4bd6-80a4-2fce09875e62,Clear,Sports,342.83,7,256.18,44.9,Cash,Young,Female,Los Angeles,Rebecca Reyes
+b1a76c56-c6ce-4ecb-8559-7dd11f4e91e9,7/5/2025,US,c6da480b-7d5f-41c3-8fd8-2369707a64d0,Human,Beauty,137.22,6,123.35,1.66,Credit Card,Senior,Female,New York,April Harding
+f2237656-9067-4c99-9700-41c3a88f9848,1/27/2025,US,170eb65c-8ea5-4fdc-8b22-a7fa8e46619f,End,Clothing,399.03,9,344.08,34.78,Cash,Senior,Other,Chicago,Deborah Thomas
+2dd17921-05ee-4ac1-9fdc-27db2301618a,12/20/2025,US,b313f84b-e438-4328-bdfe-394cf795fdf4,Loss,Electronics,134.56,2,114.97,9.48,Credit Card,Young,Female,New York,Adrian Rodriguez
+b940881c-8863-4782-b0f1-808fbf0f53ff,11/20/2025,US,7c13d7bc-cd1c-4daf-a584-45d3a11db1ac,Somebody,Electronics,43.74,10,27.39,8.39,Mobile Payment,Senior,Female,Los Angeles,Stephen Bennett
+b96b686f-4bf5-4b0d-b2ba-f81d5f795f66,5/25/2025,US,3ac2be26-57e8-4273-80f7-41169a0fbb76,Music,Sports,411.9,5,278.53,55.02,Credit Card,Senior,Male,Los Angeles,Brandi Griffin
+71c63953-848b-419d-82e2-59a48c745d61,3/23/2025,US,09f785e1-206e-41d9-afa4-d0cc71eaf9f9,Difference,Sports,94.12,7,63.54,17.18,Cash,Young,Other,Los Angeles,Richard Henderson
+904e07de-ee6c-4177-b196-15440f76bf86,4/13/2025,US,f8c12391-d75f-4f61-98a6-c80dd0236665,Seek,Clothing,384.22,5,242.92,14.14,Credit Card,Adult,Other,Chicago,Maria Ware
+caf81688-46b5-4a2a-90e1-44dd97d53752,6/6/2025,US,39da39f9-122b-4158-b66f-69d3efc4b081,Whatever,Clothing,422.18,10,349.06,29.45,Credit Card,Senior,Male,Chicago,Mark Schaefer
+59c445ea-4070-41fc-a08b-56719fff30f8,6/4/2025,US,07e520e4-3b35-43e5-b093-21086d0a7ecf,Important,Toys,262.86,5,227.15,23.8,Mobile Payment,Young,Male,New York,Nicole Blackwell
+cd22f531-3f6b-4b52-ae7e-db8f0a0f735f,12/1/2025,US,4ef811c1-ac87-4b8c-816a-48697a593aa9,Might,Clothing,170.76,3,140.84,13.62,Credit Card,Young,Other,Los Angeles,Kayla Nguyen
+001898f7-b696-4356-91dc-8f2b73d09c63,8/18/2025,US,001a623f-697b-4755-a85a-b29a70bd0a02,Blood,Sports,,2,239.39,54.36,Credit Card,Adult,Female,Chicago,Kathy Ortiz
+9424e3c4-d90b-435b-a000-e945526e1f59,7/5/2025,US,c5617679-d7fa-4bf2-a3c9-f6a70fd84e1d,Yeah,Home & Kitchen,48.8,8,35.16,2.69,Cash,Senior,Female,New York,Jacqueline Peterson
+8e8e59f1-5e4f-44de-9734-1e380afcf3ca,1/24/2025,US,c010ca41-4763-4de6-9143-4d50b38e5424,National,Home & Kitchen,359.42,7,243.36,49.11,Cash,Senior,Other,New York,Mrs. Judy Mcdaniel
+bee9d5c4-6d1b-4986-b3c8-c7326a922dc2,9/29/2025,US,1590f6f9-9227-400a-b309-3a760adf1fff,Night,Home & Kitchen,33.25,1,29.37,5.57,Mobile Payment,Adult,Female,Los Angeles,Jessica Davis MD
+d2096afa-28a3-4412-81b6-f4bb6e55166d,1/13/2025,US,f72d5d88-750c-430d-9d96-726dbc148a70,Material,Clothing,291,9,206.77,19.73,Cash,Senior,Male,New York,Taylor Andrade
+449ff370-3d26-43eb-b63b-f6a95f1e9f78,7/16/2025,US,5b305b15-49f2-4acd-bf28-658c61796fa4,Adult,Toys,311.84,6,246.77,0.83,Credit Card,Young,Female,Chicago,Crystal Walsh
+a93bce1b-fabb-45be-83dc-91c09d36389f,5/25/2025,US,28b31ee0-2ce6-4275-a68e-d64f77eb6810,Rate,Toys,278.58,3,201.33,40.36,Credit Card,Adult,Male,Chicago,Melissa Butler
+487f0277-d85d-4c5d-84fb-5a30ef64f155,5/14/2025,US,c492a6ea-2903-4c34-bc55-08ddea5c44f6,Various,Sports,197.91,5,146.71,17.44,Mobile Payment,Senior,Female,Chicago,Nicholas Rivas
+9d34ae2e-a948-43ea-8832-734fca91c28b,1/17/2025,US,a32c927d-f9f5-44b6-9df3-32b3b6369b82,Worry,Beauty,207.64,10,184.64,1.38,Credit Card,Senior,Male,New York,Matthew Cohen
+ac1b351a-3e1b-4b9c-a979-51a301cfc095,3/3/2025,US,4f1f2b1a-e340-46e0-9722-da9689a0bb3c,Degree,Beauty,335.78,8,297.51,43.62,Credit Card,Young,Male,New York,Johnny Collins
+7d811cd3-5f37-45a0-ab95-6db96900166f,1/5/2025,US,c415b5da-6031-4fa6-9ee0-f9fc92d002fd,Mind,Toys,137.48,3,94.65,27.29,Mobile Payment,Adult,Female,New York,Maria Carter
+0c6671ac-3612-4575-84ed-5406d8bafc61,9/7/2025,US,ce87ef9f-fc7f-40fb-a4a7-7b20bbdab334,Mouth,Home & Kitchen,300.39,2,190.91,45.99,Mobile Payment,Young,Other,Chicago,Lee Dorsey
+3c0df8ea-11b9-4f22-b84e-d60d4ef7285a,7/16/2025,US,313eac23-0848-4589-aa05-5fc6eb9c575f,Whose,Toys,143.11,8,114.92,14.49,Mobile Payment,Young,Female,New York,Amanda Casey
+cee01ce2-07e6-404d-bdd6-8a97d689c909,8/6/2025,US,a2e1e08a-bb0b-4aab-bef1-ecb9a9384195,Politics,Toys,298.32,6,207.38,54.59,Credit Card,Young,Female,Chicago,Meredith Lynn
+8bf8380c-7f5e-4961-87cd-acc1793e84ed,9/29/2025,US,81f1ba0f-0681-45db-a2a4-70ade6a7ee72,Machine,Sports,126.15,10,81.98,12.71,Credit Card,Senior,Male,Chicago,Lisa Thompson
+6de89128-eae7-458f-b6f7-91c4e2a05690,4/2/2025,US,f818cbbf-453a-44cb-ba7d-52e308862edb,Nature,Home & Kitchen,98.75,3,64.44,6.92,Mobile Payment,Young,Other,Los Angeles,Carolyn Campbell
+8ec8eb14-61eb-4220-b15b-f4becdaf1571,1/26/2025,US,ebb5ab0c-90c8-4b99-b132-b934c8fb263c,Worker,Clothing,449.63,7,343.33,59.24,Credit Card,Senior,Female,Los Angeles,Kelly Hensley
+2195201d-c52e-407d-87df-ffd833e65a50,4/4/2025,US,db63b8ff-9053-4b2e-a3c7-7d204872483c,However,Toys,273.65,10,182.4,27.85,Cash,Young,Other,New York,Shelly Brooks
+f014834e-f3e4-4bd7-a905-de6316e3362d,12/13/2025,US,93267a39-42ba-4e81-9f17-d7b43d418a48,Claim,Clothing,165.42,9,127.05,18.02,Cash,Young,Other,New York,Julie Lewis
+92df7b7a-3f85-4b7e-9504-d7a2960f45a0,10/19/2025,US,d313fcdd-182b-4682-996d-52ae18fc20e0,Unit,Home & Kitchen,62.19,2,44.13,11.95,Mobile Payment,Senior,Other,Los Angeles,Ashley Smith
+d234478b-7384-4332-bbbf-7d6d3a16ef0e,7/16/2025,US,2673b85d-e094-41d9-9dbb-b81376c3dee3,Yeah,Home & Kitchen,191.94,7,170.47,31.53,Credit Card,Young,Other,Chicago,William Clark
+1541c9d9-e6d1-4b05-9d8d-380ce105b940,12/20/2025,US,23635de1-9304-4e9d-8f57-afb3e40ab027,Far,Home & Kitchen,141.25,10,117.33,27.62,Cash,Young,Other,Chicago,Judy Cline
+d11c58bc-285a-4e73-a16c-09770012bcfb,12/20/2025,US,caa47405-009f-411d-8986-c08c3cbbcde0,Anyone,Home & Kitchen,403.27,10,356.54,64.92,Credit Card,Senior,Female,New York,Patrick Jones
+1c58be4c-c3d2-4ecf-8471-40af403883b2,10/11/2025,US,a9549b3a-476d-4287-a438-96cc3406e57d,Dog,Electronics,26.4,5,16.84,1.33,Cash,Young,Female,Chicago,Christopher Snyder
+d6d5e294-8d7d-462b-9b6a-a1582c88c5e1,6/6/2025,US,2dadf113-ca67-4cad-b4f4-3fa0d77c0d47,Six,Beauty,108.31,2,93.87,4.49,Credit Card,Adult,Male,New York,Cassidy Wilson
+d6ee612c-0dbe-42cf-b18d-730130b0223a,1/12/2025,US,dafa485d-a028-4618-a38a-b866c72ae27b,After,Toys,47.37,9,39.84,5.59,Cash,Adult,Other,Los Angeles,Cynthia Goodwin
+dc4ac293-09d0-42bd-a2c3-faf2bd981470,12/13/2025,US,663a2aee-d3aa-4358-a374-11ea9cc2b6de,By,Clothing,97.98,5,73.55,18.85,Mobile Payment,Senior,Female,Chicago,Jennifer Mendoza
+950092c1-e491-48f4-9b95-8361be7ea0ae,8/9/2025,US,93bb0388-b1ee-4780-9201-d5be2be59377,Item,Electronics,292.2,2,224.23,7.57,Cash,Adult,Female,Los Angeles,David Sanchez
+6e15bfa4-cf97-46f2-94a8-fd52d6cdd80a,2/3/2025,US,43ab73fa-8098-462b-b1a2-d232177cd4fa,Learn,Sports,460.16,1,374.36,9.16,Credit Card,Adult,Female,Chicago,Katie Nunez
+b50730f7-b96f-4f3b-941d-80e1f447c385,3/15/2025,US,b0d4a6be-fe28-4d4b-b2d6-39bd6a299aa3,Down,Toys,131.74,1,83.93,8.03,Mobile Payment,Adult,Female,New York,Ryan Wilkinson
+221ff1c6-0a8c-433f-86be-50426118646d,10/30/2025,US,56ba9133-063a-468a-aaa1-d6a2982d00af,Easy,Home & Kitchen,460.8,1,363.01,30.77,Cash,Senior,Male,Chicago,Mary Thompson
+b9562415-b2a5-4bde-a878-b488b537c8f6,8/9/2025,US,57b41c16-0b5a-4eb3-ac26-bffc754cc786,Improve,Toys,24.87,4,22.3,3.71,Cash,Senior,Male,Los Angeles,Joshua Cox
+6f83a748-74a1-469a-b438-327b5bb1889c,6/4/2025,US,f2d20ad8-bc37-41ee-988a-410b25a97734,Some,Home & Kitchen,110.01,6,73.52,19.34,Cash,Senior,Male,Los Angeles,Joseph Roberts
+03e7fe63-29bc-4016-b263-d32d2d15946f,10/30/2025,US,8c4a4695-69af-40cc-bd6b-96ef74df2fdd,Remember,Toys,201.87,3,173.78,28.56,Mobile Payment,Senior,Other,Chicago,Jeanette George
+666f1430-deb0-4354-83d4-c0170c3655cd,8/18/2025,US,7953539d-dc8f-4696-b571-4b79ce4005a3,Represent,Home & Kitchen,236.74,10,208.9,21.73,Mobile Payment,Young,Other,Los Angeles,Matthew Miller
+f2ffdfff-6ab6-4c20-a61c-2f67924d879f,12/13/2025,US,55a305c1-96a7-4e26-bf34-adb76bde91b5,Relate,Toys,82.83,3,65.52,0.41,Credit Card,Senior,Female,Los Angeles,Sarah Steele
+de48bbcb-f5d5-4c62-8564-2ce14f062e82,3/15/2025,US,d79b3c01-ef3b-4b10-89a5-ac9a7895542f,Local,Electronics,455.02,10,310.23,63.54,Mobile Payment,Young,Male,New York,Roy Bowman
+0a38d139-8566-453d-a119-3790a593d400,10/19/2025,US,1b6207c0-8dca-4f41-a7f9-d984606c9706,Mission,Sports,311.31,4,262.26,12.18,Cash,Senior,Other,Los Angeles,Angela Jones
+af8e942f-b688-467e-aead-89dccdb65f03,9/29/2025,US,5bbbd871-6f21-4154-85f3-b19c0f4c8dd6,Mind,Beauty,214.25,6,189.69,14.75,Mobile Payment,Adult,Female,Los Angeles,Daniel Hall
+b4148879-4df8-47b6-8901-d48b3944a95f,2/3/2025,US,8e3c53e9-6680-46e9-a9d3-356fb6fc56bb,Director,Home & Kitchen,205.76,9,154.56,25.47,Cash,Young,Other,New York,Ryan Collins
+dab09ea7-178e-4b2e-96a9-321401a1db32,5/14/2025,US,3a6415b5-ef49-40d0-aa1f-d2cc5cefb1b5,Much,Home & Kitchen,101.36,6,81,19.98,Mobile Payment,Senior,Male,Los Angeles,Mark Garza
+c8133d40-390b-4e65-b5a8-1676241699ba,1/6/2025,US,fb68508a-2f42-45d8-869c-6c2b78d36134,Quite,Toys,176.37,7,128.62,2.49,Mobile Payment,Senior,Female,Chicago,Samantha Perry
+a92c1848-1310-4a48-a9f1-c2a8daf1478a,1/23/2025,US,53566ccc-3520-4084-b6a8-4780376e8ec7,Direction,Electronics,65.86,5,49.85,4.67,Cash,Adult,Male,New York,Ann Blankenship
+0e7a868b-546f-471f-87fa-d3036c19c212,6/6/2025,US,165a501e-3424-41de-a110-377aeab72573,Help,Clothing,88.79,4,63.05,3.34,Cash,Adult,Other,New York,Brandon Myers
+9d4c9df2-40aa-4fd4-861d-1c90f91a4ee4,10/11/2025,US,7d773558-6a63-4192-a71e-fd4282c632db,Them,Sports,214.46,8,142.12,18.61,Cash,Senior,Other,New York,John Blair
+fbfba20c-cd39-4cf2-8b3d-0d804f284d8e,2/4/2025,US,9949c316-4dbe-4045-8799-ffbdc4b6aeae,East,Beauty,453.76,10,316.18,83.11,Credit Card,Senior,Female,Los Angeles,Daniel Hanson
+f4e820e9-b43d-4b24-8d07-304ee1ee324a,9/18/2025,US,54729cd0-bccf-4146-85cc-d50ca4b3a5de,Book,Toys,266.09,7,221.79,15.9,Cash,Senior,Other,New York,Kelly Robbins
+d965722c-1fbb-4e42-a33e-b84e138eea4a,7/7/2025,US,1c35d36a-a28a-440e-97a8-319893743718,Tax,Electronics,362.9,1,311.32,22.92,Credit Card,Senior,Other,Los Angeles,Dylan Ramirez
+62430ece-dde8-49a3-b0ec-e29737f3ab1d,1/2/2025,US,538cd05d-f175-491b-a128-24984e764faa,Job,Sports,57.25,9,51.1,0.59,Mobile Payment,Senior,Female,Los Angeles,Judy Walker
+867e3a9c-382d-4356-bfe1-02dd0b4b48a7,1/23/2025,US,da23a827-0df9-4cd5-a066-9ef38658321c,Get,Electronics,163.15,2,110.2,11.1,Cash,Senior,Male,Los Angeles,Ricky Smith
+01547d7c-ce9d-4f3d-8600-f5d85deeaaf8,7/8/2025,US,cebaa7fe-4d67-4a4c-a124-0425f4f56b2c,Common,Clothing,84.94,10,51.47,0.69,Credit Card,Adult,Female,New York,Maria Young
+3122a9cd-26f7-461b-88b4-d37e564d468d,11/20/2025,US,a7849ca9-f57b-4c03-91b6-37bb3e255c28,War,Clothing,87.78,8,52.67,6.95,Cash,Senior,Female,New York,Bianca Ryan
+de5c8f0e-9336-4cae-b1f0-223cf6e6eab2,7/7/2025,US,ee7b934c-52c7-449b-a8b2-a299f7f18ffb,Likely,Beauty,465.69,7,306.53,57.13,Credit Card,Adult,Other,Chicago,Richard Oneill
+616668b1-5dad-4c10-ba2e-f53fc759cff1,2/5/2025,US,3285f24c-070b-4a11-93fd-4ad2b49b946e,Until,Electronics,315.81,2,243.37,19.11,Mobile Payment,Young,Male,New York,Jessica Gay
+7bee1bc2-6eca-4863-a020-259b12b55a63,2/13/2025,US,789686c5-7d73-435f-9655-9683c8ffed58,Medical,Clothing,156.38,6,94.14,9.32,Cash,Young,Female,New York,Destiny Vega
+05a14f9c-5955-4782-97a8-eeda8608568a,8/18/2025,US,7be39367-8486-410e-8abc-55745a0a64c7,Address,Home & Kitchen,125.54,2,105.25,4.44,Cash,Adult,Other,Los Angeles,Kaitlyn George
+d4055f77-4c41-4040-bf3d-0d9b19296580,2/3/2025,US,f647f256-1687-4f06-9294-f33f6de872ee,Help,Toys,473.31,7,295.21,39.29,Credit Card,Adult,Male,Los Angeles,Teresa Valencia
+77560ae5-ee36-495a-a7ca-7fd2b45cf1b9,1/15/2025,US,cf2ab0ab-2e59-4969-8150-5867f158a7b5,Capital,Sports,323.55,9,207.84,19,Cash,Adult,Other,Los Angeles,Ryan Reed
+985e9bc1-8334-412f-978e-f83a29bb2355,1/17/2025,US,2230f56e-292c-4c83-af88-0e574f9ce37b,Piece,Beauty,316.24,2,273.95,50.69,Cash,Young,Other,New York,Kathryn Gonzalez
+69ecf967-e89a-41d3-9d26-9dad5cd8d826,1/19/2025,US,3a7956df-34ed-49a9-9947-8f343a6a5272,Reflect,Toys,364.78,4,310.17,70.65,Cash,Senior,Female,Chicago,Daniel Taylor
+d14a06e6-4dda-4612-be46-e2f20e7318f7,2/19/2025,US,d18972c0-7da6-4735-a6d0-dfba553c4c13,Ready,Toys,464.01,6,372.59,30.53,Credit Card,Young,Female,Los Angeles,Lisa Shields
+1deaa0d8-5858-4f20-81fa-ca3fc6f7f72d,1/26/2025,US,1c776589-b749-4c4a-b77a-f81356199d8d,What,Home & Kitchen,342.2,8,209.46,4.76,Credit Card,Senior,Other,New York,John Flores
+81f5a042-2335-4edd-8b86-f34f519c5eb9,2/2/2025,US,7aa31cae-cbe8-4238-9535-dd45e9280d21,Style,Beauty,117.87,5,90.68,18,Mobile Payment,Young,Female,New York,Valerie Parker
+ad131295-2a7a-46dd-b3b8-4bd16968c7fb,2/12/2025,US,ff7c612a-90bb-4fb9-8349-49f4aaad8f40,Not,Electronics,198.05,4,120.1,1.99,Cash,Young,Other,New York,Charles Hall
+06167635-1d0f-4ed9-964a-862a55ef033f,2/2/2025,US,405670e3-2427-495a-a163-c6e8c23c1053,Then,Sports,65.81,4,54.48,4.19,Cash,Adult,Other,Los Angeles,Andrew Patel
+ba9821fe-9863-46d6-ad04-dc71e2930fd1,2/15/2025,US,0d1f8eb9-5c1b-4034-a979-0263e50b6283,Interview,Clothing,289.93,3,225.52,37.65,Cash,Senior,Other,Los Angeles,Jonathan Hamilton
+4669432e-6258-4f9d-9734-0d3bdbb68a57,1/28/2025,US,2b164cc1-a00a-4d57-8607-4a08474ff400,Analysis,Electronics,451.72,1,322.28,78.16,Credit Card,Senior,Other,Los Angeles,Cindy Kline
+75f95e12-5797-4d74-adc1-c8bb2436e128,1/15/2025,US,05cbcb67-e751-44bd-8047-5116ed43ca0a,Candidate,Beauty,35.85,9,25.04,3.95,Cash,Young,Male,Los Angeles,Cristina Hernandez
+41e2b5a1-8626-4562-9562-023a0b3400d3,1/27/2025,US,2b8282a9-2cf1-4476-854e-7a10af9b642d,Particular,Home & Kitchen,321.26,9,221.44,38.84,Mobile Payment,Senior,Female,Chicago,Steven King
+4b37c880-26d5-4573-9d8d-8db6d6d5641f,1/6/2025,US,16166286-737b-4054-861c-61a382ab3446,Rich,Clothing,103.46,8,69.75,12.01,Credit Card,Young,Female,Chicago,Teresa Hubbard
+bb97f05e-3029-4437-9feb-b23c7211228d,1/11/2025,US,78cff347-2cc5-4ad7-b16d-9a41f1690f27,Hotel,Toys,461.4,4,281.34,63.05,Credit Card,Senior,Other,Los Angeles,William Turner
+15593380-de29-436f-9047-d3a117021c78,1/23/2025,US,10c71ad3-1a68-460a-93be-a1031fcb10a5,Agree,Beauty,319.18,5,278.94,30.75,Mobile Payment,Adult,Female,Chicago,Sarah Obrien
+0d80c37f-686b-418d-b2e0-69e144fc10a8,1/27/2025,US,a0d8e76f-57dd-4fc6-b405-d483bfe527de,Per,Home & Kitchen,341.64,10,241.69,41.42,Mobile Payment,Senior,Other,Chicago,Lindsey Lopez
+c12e4791-bdb2-4c15-a325-8e5c2946d8b1,2/19/2025,US,d5490116-de55-423d-a069-0940eac7505e,Threat,Sports,412.31,2,300.05,34.09,Credit Card,Adult,Female,Chicago,Pamela Jensen
+76259e73-84d5-4ee6-91a6-bb8acbd4e9d9,2/4/2025,US,f5be8b9d-9d18-46b7-a27c-68ba39b7834e,Maintain,Sports,150.36,9,123.65,7,Credit Card,Adult,Female,Los Angeles,Deborah Anderson
+b8a8af58-3a82-4d7c-99b6-f9295883ae42,1/22/2025,US,8c78940a-67ff-4225-ad11-93cb05545c14,May,Home & Kitchen,89.76,5,68.04,4.4,Credit Card,Young,Male,Chicago,Sherry Curtis
+254e955d-13cf-4509-9b35-082b87316711,1/18/2025,US,e3de4fe2-ef04-42fe-9082-9e75c9095dec,To,Home & Kitchen,201.8,6,152.12,5.98,Cash,Senior,Other,Chicago,Mark Lopez
+9f36a233-75f0-403e-a7dc-d52d42069e57,2/11/2025,US,c08972b6-0b18-4f21-a316-4cdcff5fdb54,Indicate,Home & Kitchen,423.54,10,306.06,47.19,Mobile Payment,Senior,Male,Los Angeles,Brandon Ward
+d8a54378-823f-41da-9e2a-e5ab7ec9ee93,1/7/2025,US,03c905fb-1e68-49b5-b6e8-7af45ee465c7,So,Toys,28.14,8,17.16,4.23,Mobile Payment,Adult,Female,New York,Jeffrey Mathews
+e42b3b0d-2c41-4852-99f3-0400bbdb5c10,2/20/2025,US,e5b8518d-708f-4afb-b187-e8f37b829685,Set,Electronics,344.19,10,256.25,34.04,Credit Card,Young,Female,Los Angeles,Joseph Smith
+3c120ab7-3706-47da-ac3b-3f5c46da686d,2/20/2025,US,b01f7a92-17ce-4e6d-9a64-e03b4a615d4a,Wide,Toys,58.26,6,41.64,3.9,Mobile Payment,Senior,Female,Los Angeles,Anthony Adams
+b64490c7-4b98-45e8-82b2-d8e48d085af1,1/15/2025,US,f966a7c1-772c-430b-9b4d-175b39f4d8a6,Compare,Clothing,118.4,9,92.38,9.69,Credit Card,Young,Female,New York,Christopher Brown
+331a615a-9c61-4102-b105-37e038c5a268,2/4/2025,US,a3f7dbff-0a1a-4e99-96a9-77adcda1a4ee,Enough,Home & Kitchen,274.83,6,201.35,40.61,Cash,Senior,Other,New York,Todd Garcia
+3fa6cd2d-ecb2-46c9-a303-4ce025b84c1f,1/27/2025,US,07ee3402-b169-4273-a0d0-6b080688f497,Prove,Clothing,166.42,5,108.71,1.95,Mobile Payment,Adult,Female,Los Angeles,Adam Watts
+b9d7d77c-cb0e-4690-937c-aa330aeb6a51,1/8/2025,US,da1202c2-076c-4fb7-8470-2abf8804fc5b,Continue,Sports,207.76,4,155.42,11.11,Credit Card,Senior,Male,Los Angeles,Christopher Morales
+e90f9178-5c94-4dac-9727-d834990279f0,2/6/2025,US,c0579790-a228-46b1-8bed-3cdde42b5a7d,Political,Sports,146.22,9,98.99,14.96,Cash,Senior,Female,Chicago,Steven Lamb
+50c6b747-d684-4b7d-aec3-6142066b659e,1/26/2025,US,362340d6-7600-49cc-b438-7ef1decb474e,Happen,Sports,324.55,1,249.76,18.72,Mobile Payment,Young,Female,New York,James Andersen
+6ee1af49-7079-4125-a92c-1bb0bd3dfc2f,2/5/2025,US,e6fbaad4-9373-486f-be0a-dc509d0ca44e,Environment,Home & Kitchen,352.09,1,306.6,30.38,Mobile Payment,Senior,Male,Chicago,Kirk Johnson
+8f9ea888-e257-4149-ad61-b99e6284c83f,2/3/2025,US,11e3b829-a55c-484d-b148-8ad64c32936f,Well,Electronics,111.66,6,83.39,7,Cash,Adult,Other,New York,Albert Mitchell
+8be23e3f-9749-4e94-8825-510866eb26da,1/4/2025,US,d946547f-a9c7-418d-887c-9691f22cd222,Tree,Toys,443.68,6,309.41,23.92,Cash,Adult,Other,New York,Chelsea Hunter
+961d8b5a-43df-4b0b-bbcf-375459d055f2,2/7/2025,US,fe6dc9cf-edd2-418b-86a7-50aad96e998c,Now,Beauty,323.51,6,235,48.5,Credit Card,Senior,Other,New York,Sally Keller
+03dce3a3-d1bb-4baa-9f25-3fed69d475c3,1/4/2025,US,ae4dcb0c-8a48-402f-8027-0ebabaa49a4a,Send,Toys,30.74,8,26.95,4.89,Cash,Young,Female,Los Angeles,William Ramos
+49a58d1a-a8cc-4074-a3bb-b0b9c75c2023,2/4/2025,US,6911060b-118f-4049-a9ee-01ce23c3fbc5,Discussion,Home & Kitchen,487.02,9,357.82,71.25,Cash,Adult,Male,New York,Craig Harris
+9369ed68-916a-467b-9fd2-de9d46389ee3,2/8/2025,US,b88f4d5a-c094-40f6-9b00-dd1cbc8082f8,Could,Sports,238.95,10,150.83,0.78,Cash,Senior,Other,Chicago,Susan Boone
+57b5ed17-37bb-42ef-a105-375c63b2d0bb,2/10/2025,US,2f915807-3bd4-4107-8c47-461a7d76389b,Pick,Toys,108.69,3,68.43,17.2,Mobile Payment,Adult,Other,New York,Christopher Taylor
+d55538c4-1e54-4983-8754-cf8ef3b7a05b,2/6/2025,US,b5d0c927-fcd3-45c8-bc40-7104f2763a84,Voice,Beauty,61.13,10,37.06,1.89,Cash,Senior,Female,Chicago,Joanna Rush
+ca6daae5-26f7-481f-a640-c6fdada919b4,2/11/2025,US,98d7899e-a9e9-421d-b5e7-3ac638f817c2,Walk,Toys,483.98,9,428.84,72.3,Mobile Payment,Senior,Male,New York,Jeff Gonzalez
+1c0f01ea-c5da-4346-8c2f-25e8c98c7ea9,2/2/2025,US,7105d3c4-46f1-40a8-b672-8a24dbfaf4a6,Produce,Clothing,465.19,3,307.4,42.33,Cash,Senior,Female,New York,Sara Mccall
+1f3a868e-b49f-4efe-9a93-6392cedeb1d2,1/28/2025,US,1b06d17e-14a0-4697-805c-3d108babc170,Bill,Sports,235.48,2,206.78,1.85,Cash,Adult,Male,New York,Dale Mccoy
+a15a085b-b847-48cc-a19e-fe09e7156792,2/16/2025,US,b747bc9d-11a9-4ff4-8e3c-946e237de6ee,Program,Electronics,265.01,9,218.72,13.08,Cash,Adult,Male,New York,Timothy Rosales
+9f1ab34d-1f2b-43e5-a232-e6b72f85f608,1/21/2025,US,91b9070c-5b27-4fc3-9d01-f3db928c2b49,Source,Clothing,348.67,6,257.48,9.45,Cash,Senior,Male,Chicago,Sandra Holland
+52727e7a-110f-4345-8dbc-4a880ed46ea4,1/26/2025,US,b6ef4f40-32ce-4ca3-a8be-44ea735dda06,Detail,Sports,354.54,3,216.84,54.37,Mobile Payment,Senior,Other,New York,Darrell Jimenez
+67079efc-7e9c-49db-a5ca-b5d6572fc7f5,2/5/2025,US,48a8551e-8fe5-459d-8b6f-195060c12851,Success,Toys,121.17,2,90.07,15.55,Credit Card,Senior,Other,Los Angeles,Jennifer Garcia
+e708b16d-0b12-42c3-ba9d-22b812dcb869,1/11/2025,US,1cb94675-bbe0-4ac0-a2de-fd8503b8e3b9,Plant,Home & Kitchen,183.01,9,150.66,4.93,Cash,Adult,Male,Los Angeles,Savannah White
+845e05dc-0e38-4703-9434-097afe360f3c,1/16/2025,US,501becf9-dec8-47de-b668-8575973b3317,Herself,Beauty,122.91,4,76.14,1.42,Credit Card,Adult,Other,New York,Vanessa Berger
+dcf507d5-25ed-419e-a23b-193d52fcb29e,2/3/2025,US,6f4dd2e9-a551-48ef-a807-afb62b9f7fda,Tend,Electronics,177.96,5,138.56,12.92,Credit Card,Young,Other,Chicago,Scott King
+3cb66682-e1ad-4d5e-98d0-9f5a66baa017,1/13/2025,US,85d04112-01bb-44c5-b3d8-84ff5377b5c7,Sit,Electronics,315.78,1,211.73,26.26,Mobile Payment,Adult,Female,Los Angeles,Annette Page
+eddc9a81-96af-4ece-af16-d3b58289f59b,2/3/2025,US,b2490b21-ea4e-411d-a5a7-8806268d0f32,Total,Sports,51.17,5,38.72,10.06,Mobile Payment,Adult,Female,New York,Donna Smith
+6c6645c4-ae4d-472e-9dbf-929065d557c4,1/30/2025,US,5c2372a7-2316-4f75-beb5-67003aa3896d,Truth,Clothing,139.3,5,117.82,20.18,Credit Card,Young,Female,New York,Jennifer Sullivan
+e31f305f-8b56-43bb-b40d-a68694d80fdc,1/18/2025,US,fae54510-7f3d-42d5-8205-88403fe8b966,Figure,Electronics,334.42,1,264.37,61.1,Credit Card,Young,Other,Chicago,Patrick Thompson
+2a4c798a-d39a-408c-871b-ffe02aea5b4c,2/2/2025,US,817c93c5-5e49-4fea-a2af-1a499765367d,Serve,Sports,415.79,2,311.32,22.24,Mobile Payment,Adult,Male,Los Angeles,Ashley Phillips
+c7f89988-9a35-4e3f-b751-47c1c6affe4b,1/30/2025,US,8a09d4bb-346c-4649-96ad-1f8116d39234,Those,Beauty,498.62,1,388.58,2.91,Cash,Young,Female,Chicago,Douglas Stevenson
+e73dd83d-d6da-497d-adca-75d9a2da815f,1/21/2025,US,6093a150-4bcb-47a6-88d1-9c8a4c8b9d79,Peace,Clothing,415.98,6,255.72,35.04,Credit Card,Young,Female,Los Angeles,Bryan Olson
+f846af35-aa25-49d1-96fa-0ba73590b57e,2/9/2025,US,7fa9f85b-7c11-458e-83f7-a565d6f4b82d,Pattern,Home & Kitchen,243.49,1,188.02,36.77,Cash,Senior,Other,Los Angeles,Kyle Harris
+a65b6b71-57bf-4b2f-ae75-59db18c94b80,1/1/2025,US,dfefee0c-413c-46c9-9c55-f280a17ee9b9,Six,Clothing,19.26,10,16.14,2.17,Cash,Young,Other,New York,Justin Cox
+515188ff-d7d2-4999-bd0e-ca91e2e4eef3,2/11/2025,US,867e6044-128e-47ef-879a-313cdaec43aa,Yet,Home & Kitchen,261.04,5,198.5,40.47,Credit Card,Senior,Female,Los Angeles,Mitchell King
+2896ba4d-e9ec-45f0-a102-a5a3e36de1b9,1/15/2025,US,1cff1975-ea03-4135-8d45-2b5746635b99,Draw,Home & Kitchen,12.51,1,9.93,2.4,Cash,Adult,Other,Chicago,Chase Owen
+3686b0d6-fa96-4f9b-8b63-7bfb0e74bd91,2/4/2025,US,28f218dc-a3cc-435e-a3e4-e1b727943a08,Piece,Home & Kitchen,384.71,8,330.48,41.34,Cash,Adult,Male,New York,Michael Butler
+34119ebc-5791-45de-b028-7353dab271b1,2/18/2025,US,362dc64d-e9be-44f1-b36f-9bf46df50456,Big,Clothing,194.99,3,136.33,3.99,Cash,Young,Other,Los Angeles,Elizabeth West
+264cff15-7940-456c-8329-1b7c42b0ffd5,2/16/2025,US,1ecee6f8-b848-4cf0-9f59-636c6a140179,How,Sports,181.96,5,142.52,14.47,Credit Card,Adult,Female,New York,Ashley Ruiz
+c2d00daf-558b-45a2-b386-a69da2c8894f,1/23/2025,US,d37fbb8b-22dc-4932-ad14-05dac24c2f18,Third,Home & Kitchen,101,10,78.21,3.95,Mobile Payment,Adult,Male,Los Angeles,Joshua Johns
+793667ca-ff89-4972-9ade-74fdb698db81,2/19/2025,US,04493479-0627-4f5f-a423-1410613ec2bc,Want,Sports,11.94,4,8.12,2.3,Mobile Payment,Young,Female,New York,Elizabeth Sampson
+6928f787-1939-4aa0-8567-c33d0924fe16,2/17/2025,US,3584ac35-19d7-4b93-90a4-f3e917145732,Item,Electronics,487.28,4,343.16,93.77,Mobile Payment,Senior,Female,New York,Carol Adams
+58c9a7c5-08ac-4529-83ad-5db9b80bf934,2/11/2025,US,4a3e9558-51e5-4b6c-ab44-f6e6e4e0d644,Director,Electronics,130.69,10,87.08,14.4,Mobile Payment,Young,Male,Chicago,Cindy Winters
+c843071a-e926-47ba-bbbb-3f9178fca6d9,2/6/2025,US,45923e94-422e-410c-acb6-98f3eef52cc5,Own,Beauty,343.48,1,290.16,16.85,Mobile Payment,Young,Other,Los Angeles,Suzanne Martinez
+d6bd02a3-e751-4d22-985a-d0e4dc24e280,1/14/2025,US,e61b7af5-e06c-4ab7-b720-cd09eebdd766,Federal,Toys,139.28,5,102.36,25.33,Mobile Payment,Senior,Female,New York,Antonio Henderson
+5a823a92-0bfd-4e3a-8e65-80089c2fcf6a,2/11/2025,US,574eb7a1-b244-4081-af8d-c8c29a70df07,Administration,Clothing,311.61,7,204.64,39.96,Cash,Senior,Male,New York,Nicholas Huber
+f8996f50-504f-43f4-a420-8b1f1813652d,2/4/2025,US,9d96b388-2274-428e-a7e8-e90640391c39,Why,Home & Kitchen,200.37,4,150.54,17.5,Mobile Payment,Senior,Other,Los Angeles,Deborah Tran
+9cc2bab2-5ba2-4f14-b7a7-95f6b8defb00,1/3/2025,US,456e7765-ad8a-4f95-864a-609abef97a56,Someone,Home & Kitchen,366.6,2,291.88,52.66,Credit Card,Adult,Female,Chicago,Pamela Moore
+c4bf17c2-3135-4c7c-bc8d-d5c83227e8f7,2/12/2025,US,41baad09-b050-4898-b5ab-bffa1aa4eccb,Challenge,Electronics,13.66,2,12.11,2.14,Cash,Young,Male,Los Angeles,Brandon Johnson
+273b7f90-12e2-4dc6-8a0a-78e510a36b4d,1/25/2025,US,50656b2b-65d4-4a28-b869-e998e2e04649,Position,Beauty,375.5,6,317.14,37.32,Mobile Payment,Adult,Female,Los Angeles,Michael Ramirez
+d0233064-9b3e-4269-b36a-7af6f4ddaaa0,1/27/2025,US,83e00df5-cd1f-4e14-b515-7d14fb3533c5,Enough,Clothing,265.27,9,211.92,31.16,Cash,Adult,Other,Chicago,Whitney Henderson
+9c8c9359-13b1-4c95-9280-7398c081bc75,1/22/2025,US,6d98aca5-0494-4268-9bb7-ee5875e437f4,Cost,Home & Kitchen,269.39,10,200.03,40.97,Mobile Payment,Adult,Female,Chicago,Andrew Morrison
+43ddee69-d921-48c3-a06e-d8a0a37253ac,1/7/2025,US,3c1e0e9f-5561-4565-b4f2-9539e141c487,During,Clothing,73.38,4,46.24,12.06,Mobile Payment,Young,Other,New York,James Burke
+7262825a-f958-414f-907c-6159899279de,1/31/2025,US,665c97ec-ba66-47a7-b15a-bf5b1036b0f6,Side,Toys,463.17,3,310,50.26,Mobile Payment,Adult,Other,New York,Tiffany Roberts
+48e40031-b5a5-4ab6-9cad-b48151b87f8f,1/11/2025,US,085f653a-4618-4c9f-9704-31b1a92f3ae4,Hope,Clothing,45.83,6,34.57,3.48,Credit Card,Senior,Other,Chicago,Thomas Williams
+50259e66-ad71-4e6a-8156-c097288c70fd,1/6/2025,US,892a3062-7cfc-4552-a24e-9520d7712456,Direction,Home & Kitchen,164.88,9,113.87,1.38,Cash,Young,Female,Los Angeles,Gregory Nguyen
+5e9f6f8f-bfa3-4ab0-b879-de512830a964,1/21/2025,US,9727045f-dba9-4555-93c8-efd9a9e93920,Learn,Sports,473.54,8,357.18,21.95,Mobile Payment,Young,Other,New York,Jonathan Smith
+af92ade0-0e22-4943-9cb4-a784442e8c0f,1/28/2025,US,76a6770c-6234-4120-a436-d5c047f248bb,White,Electronics,139.83,2,91.65,10.77,Mobile Payment,Senior,Other,New York,Eric Spencer
+65020f54-8793-4637-b61d-aa7f174c3a92,2/12/2025,US,9361752a-b49d-4940-9513-deefcc18e3fb,Provide,Beauty,463.83,2,349.28,16.61,Mobile Payment,Adult,Female,Los Angeles,Rachel Ross
+3b741a15-b989-4a7c-b935-676a9e40d0d0,1/18/2025,US,ace9404e-c834-4374-b1aa-d95e8c3df199,Walk,Electronics,228.08,9,168.84,7.17,Credit Card,Senior,Female,Los Angeles,Holly Andrade
+76b91b9e-aa04-4f70-846d-194c594c1ec1,1/14/2025,US,28ceb9fc-4e37-433d-9853-e3f147e9e2b5,Material,Beauty,361.55,6,250.03,13.55,Cash,Young,Male,New York,Jeffrey Peterson
+fe664f13-26c3-4380-a8f7-070781882bc5,2/15/2025,US,851904c7-186b-45ce-b6f9-bc34a0549969,Firm,Toys,357.44,4,288.12,17.92,Credit Card,Adult,Other,New York,David Harris
+cb4826dd-84f5-48cf-a490-262915ad8f7c,2/19/2025,US,d4dcb68b-e48a-40db-8e39-ef4d3451492d,Reveal,Clothing,145.57,2,113.06,16.03,Mobile Payment,Young,Male,Los Angeles,Steven Jordan
+0978d34d-1609-490d-a18b-553007d90d07,1/5/2025,US,6af55cdb-28c3-4c6e-9e41-46903fa731ab,Create,Home & Kitchen,193.27,9,150.94,33.43,Cash,Adult,Other,New York,Danielle Cross
+cd6640ce-897a-47c0-acb2-dde2eda2b2ab,1/23/2025,US,4e46411c-5f5e-4995-8252-10ad3f47950d,Wide,Clothing,165.62,6,112.25,6.65,Credit Card,Young,Male,Chicago,Nicholas Gomez
+13a17f83-a46b-4cb1-92a6-5a9da3e887c1,2/2/2025,US,fd6cf4c4-eec8-4c67-b86f-e7bc98a05403,Republican,Toys,391.69,6,295.43,23.5,Mobile Payment,Senior,Male,New York,Maurice Porter
+01e257c1-c9cd-4165-b30e-ff87973769d7,2/13/2025,US,9b62d0d6-9beb-4df1-9a2a-ce9077808f2c,Picture,Home & Kitchen,221.53,1,149.64,6.42,Cash,Young,Male,Chicago,Nicholas Wilson
+9322a042-703b-40a6-ae27-fac36409d9ce,2/7/2025,US,5b130521-d8c0-4a2b-b8d4-d3bf5efe161a,Close,Home & Kitchen,453.71,9,386.7,66.79,Credit Card,Adult,Female,New York,Elizabeth Gonzalez
+54b6baac-b5e6-4f8f-a80f-3af1794df756,2/8/2025,US,a3010136-2b03-4e7a-9b50-0cccc297df9a,Project,Toys,107.83,3,90.15,21.16,Cash,Adult,Female,New York,Rebecca Foley
+ec3fe216-70b2-42c5-85de-36ddb1d48202,1/13/2025,US,4b156c75-7015-4a0a-b684-3973525707e8,Life,Beauty,346.62,2,286.23,26.23,Cash,Senior,Other,New York,Robert Trujillo
+bfe3899f-e21c-4b97-a438-5c669397f559,2/15/2025,US,60a1bd4d-7c67-453d-a429-6a9466f80552,Concern,Clothing,33.03,10,22.9,0.34,Mobile Payment,Senior,Male,Chicago,Christopher Morrison
+eeae27b1-281c-435c-85c3-657a4c61f5b8,1/14/2025,US,53dc703b-ad67-438b-b578-7e4c557ba49d,Citizen,Beauty,34.64,1,28.3,5.22,Credit Card,Senior,Female,New York,Deborah Lewis
+48194cf4-bb5d-483d-8f9b-8ae7455719ba,2/6/2025,US,11bab808-a34e-4cff-902c-889bf055f35d,Life,Home & Kitchen,321.03,1,194.11,39.86,Mobile Payment,Adult,Other,Chicago,Jenny Mitchell
+53668f39-f845-4f38-940f-49306b105464,1/9/2025,US,6a8c9c40-d258-4d6e-a4a3-c5b68ca87a60,Floor,Electronics,113.4,6,87.32,1.43,Mobile Payment,Young,Female,New York,Ronald Santos
+ba367d41-c75b-4ceb-9373-d52c721eda6a,1/8/2025,US,adad06f8-3a1d-4fea-a3ce-5684314ccd12,Though,Toys,105.72,9,83.77,13.97,Mobile Payment,Young,Other,Los Angeles,Linda Thomas
+69f75461-5f7b-4a53-8647-a0be8f2476b6,2/5/2025,US,874976e8-b401-4d90-a0c0-9131509d86a7,Prepare,Sports,113.71,6,96.8,16.78,Credit Card,Adult,Other,Los Angeles,Regina Martin
+e9de9a4f-f12a-4a98-8d7a-d2f782f50528,1/2/2025,US,ffae2f66-716f-4488-9688-c07c6cf4a0f7,Other,Beauty,446.11,3,345.08,78.6,Cash,Adult,Other,New York,Nicholas Gonzalez
+f60b2f5a-ce09-4e96-98df-2dcd4da621d1,2/1/2025,US,6abb9025-a084-4b7c-9bf9-c457890d33bc,Consider,Home & Kitchen,420.82,6,371.73,17.08,Credit Card,Adult,Male,Chicago,Mary Becker
+bcfcdae4-e329-4a09-95e4-1d232fe9798b,1/13/2025,US,7e65e899-3850-4a14-8dec-53c763f6c3a4,Realize,Clothing,87.31,5,76.6,7.08,Credit Card,Adult,Male,Los Angeles,Ashley Mcdonald
+3678a1b3-52b7-47af-a3a3-be0a0b9569f9,2/11/2025,US,3e77f35f-8fe5-49c8-a48c-34c89b9028a7,Kid,Electronics,56.73,3,45.91,8.34,Mobile Payment,Senior,Female,New York,Christopher Wilkerson
+de56184f-c45c-47bc-b1b0-1512fb742de0,1/23/2025,US,3c4983d0-41a2-49a8-8745-209b15cfae96,Pm,Beauty,380.24,7,268.49,9.72,Cash,Senior,Other,Los Angeles,Amber Kelley
+de83c037-3114-4c54-87e1-01d9525d88a1,1/14/2025,US,c1ede613-a6a5-40dd-9795-9a9a2fc9be98,List,Home & Kitchen,71.23,6,59.44,11.02,Cash,Adult,Other,Los Angeles,Steven Mendoza
+67d4c3a1-2156-4809-9f46-c7c234a9b08b,2/10/2025,US,59543720-3e7e-42cf-9f41-18308e38d32c,Order,Home & Kitchen,416.23,5,317.18,18.76,Cash,Young,Male,Chicago,Kimberly Daniel
+909dc570-a8dc-4179-a2d7-4e273506fb63,2/8/2025,US,f78d638e-e301-431a-9805-a450db7a2d69,Class,Toys,455.55,6,398.46,2.74,Credit Card,Young,Female,New York,Sabrina Bowers
+6c807555-1d28-418f-bd6b-097fbcfc6c2e,1/27/2025,US,88d8d21c-370b-4ac1-a785-12148b62fc95,Election,Clothing,271.46,1,194.08,11.45,Credit Card,Adult,Male,Los Angeles,Stephen Lewis
+f4496ae1-02f8-47f0-a301-be599d6197e8,5/17/2025,US,3bbaca09-8c60-427e-a266-8cb2b18f7bae,On,Sports,368.92,1,299.19,63.89,Cash,Senior,Male,Chicago,Joseph Hawkins
+82491fb5-e164-43b3-ae5f-22046b872647,11/12/2025,US,80f072c0-f1b4-43ce-b3b7-11971cfeb149,Audience,Electronics,491.37,9,331.93,42.93,Mobile Payment,Young,Other,Chicago,Nathaniel Boyd
+6ad0365c-b3ba-4601-891b-09ec8cc1ec53,12/1/2025,US,795c81b3-fe80-4dc6-b466-56e89ddcb58d,Firm,Electronics,402.64,4,327.65,37.83,Mobile Payment,Adult,Other,New York,Maurice Clay
+710068fc-4f03-430c-be8c-ba3e4f5b10d8,11/12/2025,US,da3e0cb5-54ab-482c-918f-661fe5efb403,A,Beauty,297.45,9,265.81,37.31,Credit Card,Young,Other,Los Angeles,Holly Hill
+170d624c-d3ce-409b-8c95-dee5efd37d40,3/3/2025,US,2fb86580-aab7-4b57-a488-08403eafa907,Case,Clothing,340.74,6,283.31,8.84,Cash,Adult,Other,Los Angeles,Stephanie Wagner
+201c8a39-92a2-4173-8669-460e658369c9,12/2/2025,US,530a48b4-d31c-4a23-abba-e53ef348fdb9,Strong,Clothing,180.28,9,110.9,1.71,Credit Card,Young,Other,Chicago,Justin Murray
+2fb877f6-30fc-485a-953c-297b87fcae95,7/5/2025,US,97e9289a-2e85-47ea-b9b4-a76697b23add,Activity,Clothing,489.64,3,357.95,97.41,Credit Card,Senior,Male,Los Angeles,Brian Dominguez
+7616df3c-2dc8-4ca7-8e84-8d983aa81630,7/27/2025,US,96f186fb-24c5-4695-9e83-8c8a01f27b60,Leg,Electronics,485.59,4,354.79,3.38,Credit Card,Senior,Male,Chicago,Scott Martinez
+f10497a4-e64e-43e2-b0a5-259aa8c0e8c0,10/11/2025,US,55602cdf-af30-47d5-9ee5-e3425984b7be,Event,Beauty,335.49,7,287.22,58.5,Mobile Payment,Adult,Other,New York,Megan Marshall
+11155eda-56aa-4f5d-bcf1-ad5bdd3443cd,5/17/2025,US,25ba4c5f-4d06-4e63-b037-f6b5df67b933,Hit,Home & Kitchen,64.27,10,49.05,11.7,Credit Card,Senior,Female,New York,Ryan Wilson
+5e38978d-f34b-46b8-82e8-2728dd72716d,12/2/2025,US,32d4468d-50f7-4ba1-9e70-476e43add509,Author,Electronics,331.19,3,285.5,26.63,Mobile Payment,Senior,Male,Los Angeles,Daniel Hall
+11a5d300-c880-4c9d-9cdb-58cc9259eba4,5/3/2025,US,09388ad4-67a5-46c6-8a2b-d22498280717,Instead,Beauty,340.82,10,269.65,62.73,Cash,Young,Male,New York,Tina Anderson
+5cdc48ca-15df-42ae-adad-0417c12e7d6a,9/19/2025,US,a11bb2c9-3252-4a5f-9a8f-41768fffa72c,Too,Beauty,204.56,8,154.41,8.03,Cash,Adult,Other,Chicago,Holly Merritt
+37b2cdcb-7ef4-47d2-af9b-7c12272648ca,7/5/2025,US,80cc7684-61a4-44b3-9d57-646e7fba9086,Enough,Clothing,310.28,3,227.8,46.13,Mobile Payment,Young,Male,Los Angeles,Ricardo Nielsen
+5e2e4dd6-cd6b-4455-934c-8be92788459f,9/10/2025,US,5379e455-3879-44b2-9ad5-a758fd3252f0,Accept,Clothing,258.56,4,163.73,19.23,Credit Card,Senior,Male,Chicago,Angela Sanchez
+324069e5-74eb-48f5-994d-6a89bb5f51e2,6/6/2025,US,cf43e00d-a6ce-46d2-9d5c-e5369b72313c,Tend,Clothing,205.07,2,171.97,30.73,Cash,Senior,Female,New York,Caroline Ray
+fea128cd-5aa4-4fe1-b585-a248410b7c12,9/8/2025,US,e9826776-691f-40c5-96e3-a86cc0ef2356,Study,Home & Kitchen,439.1,7,388.58,60.02,Credit Card,Young,Male,Los Angeles,Sonya Greene
+46016c7d-11d7-4e40-bf55-5930756bc235,9/10/2025,US,f9a51ed9-e3d3-45ef-b4ab-6af4e5c7e469,Follow,Sports,203.02,3,127.19,23.17,Mobile Payment,Senior,Other,Los Angeles,Jason Bell
+a20866e0-27c3-45ce-bace-82fe9ab75494,10/30/2025,US,540f4076-63ba-4a5f-b6ee-766626f8c049,Apply,Toys,475.49,9,327.26,58.5,Cash,Adult,Female,Los Angeles,Victoria Church
+2cb59457-e35d-4ae8-836e-80fad7920c63,9/18/2025,US,3d54e81b-5ea4-4751-816c-6b78661550da,Interview,Beauty,277.17,8,176.42,26.07,Cash,Young,Female,New York,Jeff Reed
+6e4f1fff-7629-4b9e-9e30-80a93ffcd207,11/12/2025,US,ee16a4c8-f397-4ed7-8ce7-8dd3bbd8e288,Drug,Home & Kitchen,43.51,6,31.62,6.49,Cash,Adult,Female,Chicago,Brandon Sawyer
+414f47ea-51f8-4fcb-940a-6c51c043c3c0,9/10/2025,US,3b594050-bcda-46c0-bf24-6e1df00df1b9,Particular,Toys,313.24,4,235.17,37.49,Mobile Payment,Adult,Male,Los Angeles,Tara English
+ee8df50d-56b8-4e16-9947-686297ed1bf3,8/28/2025,US,43c1c85d-8104-405a-b07b-4ba82f69635a,Nearly,Home & Kitchen,171.01,1,131.09,15.2,Mobile Payment,Senior,Other,Chicago,Casey Sullivan
+1024eb96-ad94-4d78-a567-8cedc62aad2a,9/18/2025,US,608845bd-3449-4024-abee-b56c4e7fdafd,Can,Home & Kitchen,384.49,8,278.77,60.25,Cash,Adult,Female,Chicago,Steve Harrington
+371aeecd-545b-4301-825b-a787854c954b,9/10/2025,US,b3481ab5-de61-4060-b6cc-0b689778cbc0,Price,Beauty,322.8,10,210.3,22.22,Mobile Payment,Adult,Male,Los Angeles,Peter Williams
+981b0990-9401-4d7a-88e9-89fe537425d1,12/13/2025,US,9d28c021-0530-4185-9158-dc26c7a5a8b0,Campaign,Sports,406.39,7,285.33,55.59,Mobile Payment,Adult,Female,New York,Anna Ortega
+3b074a53-97aa-4f90-a672-ebd843f3f8db,10/9/2025,US,7beabbcf-1974-47ad-9a67-5dfbfb693550,Only,Toys,310.36,3,209.74,7,Credit Card,Adult,Other,Chicago,Johnathan Bernard
+ff2b0f62-92c0-4a64-8651-8d29c26006a7,12/14/2025,US,747d067e-7cda-41b2-9b5e-9673f0fa54f9,Agent,Beauty,12.71,4,8.22,0.8,Mobile Payment,Young,Male,Chicago,Crystal Porter
+ca093a3a-2bcc-45ef-8282-3c5aeeb0000e,11/20/2025,US,f8bb276f-15f7-4406-a097-3f0bf8ce3694,Plan,Toys,250.62,10,163.22,3.21,Cash,Senior,Female,Los Angeles,Catherine Thomas
+415c6f92-382f-4423-a45e-745370b0994c,7/16/2025,US,bed7843f-cafe-489f-8f30-d44c1a25dcd7,This,Beauty,181.64,5,156.42,0.52,Credit Card,Adult,Female,Los Angeles,Sara Williams
+9652cd9d-8af0-4410-ad15-248dc95cee67,8/17/2025,US,5eb68909-69af-452d-aa95-9831e9a188ca,Against,Toys,393.56,4,280.65,21.71,Mobile Payment,Young,Female,Los Angeles,Hannah Phillips
+3848d28f-b8f9-48aa-9c57-40128fdd79d6,10/30/2025,US,c015206e-a9a8-4962-9a8b-7b1c7cc9e477,Life,Beauty,296.78,9,254.26,10.92,Cash,Adult,Other,New York,Shawna Hebert
+0e3755be-a65f-403e-80a4-ddd06e312ca7,9/8/2025,US,bffb0cc0-484d-4c16-99f0-2ef6903cb49d,Fear,Beauty,43.1,1,38.17,4.32,Credit Card,Adult,Other,New York,Elijah Gill
+acd9ac44-90b0-4754-a193-bb05c6b466b3,12/22/2025,US,e3f3121b-7a8d-4bf9-a1e7-a2fda9f48acc,Push,Home & Kitchen,402.03,10,321.37,37.82,Credit Card,Young,Female,New York,Jeremy Parsons
+35638d58-e668-41ed-8d4f-aef891ec8e22,9/10/2025,US,223316a1-f2a5-4227-b625-654e61887259,Art,Clothing,67.18,2,48.1,9.23,Credit Card,Senior,Other,Los Angeles,Shannon Harper
+29af4366-574c-4cc5-9fab-54484e9cfcbd,12/13/2025,US,9487779c-1cac-4722-823a-94fb6b329954,Evening,Clothing,29.28,5,22.12,4.87,Mobile Payment,Senior,Other,New York,Cassandra Shaffer
+410d9dc5-af3f-4da6-be9a-3e0451355eb4,7/8/2025,US,a16dbe81-49d4-489a-926f-776958c5537c,Family,Toys,320.14,1,275.92,56.68,Mobile Payment,Young,Male,Los Angeles,Steven Johnson
+ae3d4177-3522-4280-b2d9-5743f959c20a,8/9/2025,US,d3f62f8b-b91b-44ef-82c5-1a9f8aefc84e,Minute,Electronics,436.73,4,341.45,73.03,Mobile Payment,Young,Female,Chicago,Richard Walker
+efd1fbc1-9245-4145-9077-3b77d37b7dd0,12/22/2025,US,f868dd3a-eeaf-4ac2-a524-a8cac9dd9158,Maybe,Sports,151.39,1,97.69,18.71,Mobile Payment,Senior,Female,New York,Tyler Delgado
+23952bf5-fe6c-4181-8c2d-2dea5d67aa3a,6/15/2025,US,6427e9a6-3ee1-4ab2-87ad-fecf58458210,Among,Clothing,206.37,1,168.38,3.76,Mobile Payment,Adult,Other,Los Angeles,Mark Armstrong
+c9858723-a144-40cf-a7ff-d1f49989a26b,7/5/2025,US,94ff1f2f-c159-44fb-b902-672298d9df82,Minute,Home & Kitchen,355.11,9,298.03,49.13,Mobile Payment,Young,Female,New York,Victor Mills
+ca8c44ff-b465-4891-832a-f9859ec4fe41,3/23/2025,US,06f0a4fe-bec4-4d0d-af30-b53566eeb5e4,Especially,Sports,427.61,6,370.51,6.06,Mobile Payment,Adult,Other,New York,Michael English
+c89f2117-8349-45fe-83e1-d141b13011e8,10/30/2025,US,ae44ed26-18eb-4553-83a1-734269d9be2f,Collection,Sports,243.26,9,205.69,24.04,Mobile Payment,Senior,Male,Los Angeles,Matthew Smith
+a51a7ef3-a3dd-4fe5-af0d-147c0142226a,5/25/2025,US,2d8750f2-39a5-4780-ac72-1fa677520fb7,Indicate,Beauty,457.18,7,312.1,11.3,Cash,Adult,Other,Chicago,Dustin Jones
+c21393e6-68ef-4655-950b-8cf9f081a4a6,5/25/2025,US,8e34e504-f44a-4a2f-a5f1-91dafde173d6,Off,Electronics,476.46,6,371.87,62.59,Credit Card,Senior,Female,Los Angeles,Jennifer Eaton
+fd764279-0b69-4d79-bbb8-cd0af3a5375a,7/18/2025,US,da23ee5e-f9db-4e51-bc73-cd147681cb2d,Student,Sports,406.6,4,344.95,42.27,Cash,Young,Male,New York,Charles Valdez
+19a8e36f-7a91-43c5-9b41-0ec368182fb0,7/8/2025,US,4063a9f6-7ad3-4565-8b06-36bc74744932,Summer,Clothing,408.25,2,290.05,22.25,Credit Card,Senior,Female,Chicago,Jessica Mendez
+27ef5993-449e-4ddf-a18d-fcb5d22a4a5a,3/1/2025,US,92c00ac1-2e4d-491e-9c75-b9f5d85a7ff5,Say,Electronics,291.42,7,190.69,4.39,Mobile Payment,Young,Other,Los Angeles,Jared Howell
+2d189d67-e047-44d8-b903-8add9709a439,4/16/2025,US,4a124bde-5e4e-4451-b1c9-08921df2e8be,Chance,Clothing,355.4,1,312.99,5.62,Cash,Senior,Male,Los Angeles,Bradley Lane
+98a6c647-332e-4837-b7f6-9f6381442302,7/18/2025,US,8ff00420-e979-4d70-8a95-185b27f4d3c6,Fill,Toys,47.64,10,39.42,8.95,Cash,Adult,Female,Los Angeles,Phyllis Ramsey
+f7223b1a-08f1-4feb-bd60-2eda21053949,12/22/2025,US,a149e9c4-4dd2-49fe-94cb-c7c7ac6297c1,Believe,Home & Kitchen,251.24,5,205.38,7.35,Credit Card,Adult,Female,New York,Holly Miller
+89070569-b396-4c6a-a30e-f47861444cec,5/5/2025,US,42ca9e61-a238-49d0-8960-d6704f201422,Interest,Clothing,15.63,3,11.62,1.26,Credit Card,Adult,Male,Los Angeles,Ronald Lopez
+9f9159d5-27e4-42ae-9ae5-4cd30527aabc,12/21/2025,US,12d65217-f100-4d5b-b46c-ae160b4e8eb0,Once,Home & Kitchen,321.35,9,278.72,27.55,Cash,Senior,Male,Los Angeles,Kristen Bailey
+a08d93e2-e255-4f24-a1f8-7e1b4c877028,3/1/2025,US,53b31b2d-1e9a-4692-8988-868fa74bf5a0,Soldier,Toys,397.89,3,295.55,46.54,Mobile Payment,Adult,Female,New York,Gary Brooks
+b10df737-1a3c-4309-9897-caa994a5aded,9/18/2025,US,3ed433d2-21fb-491d-9fdf-6a011ee6c725,Fish,Clothing,195.33,3,173.5,5.01,Cash,Senior,Female,Chicago,Melissa Roach
+b3ce71d9-f871-4b85-a462-4a9b3ff83680,9/29/2025,US,da2626f4-78a1-4bad-b289-ee1b012228f3,Over,Clothing,312.95,9,221.29,20.18,Mobile Payment,Senior,Other,Los Angeles,Donna Dominguez
+3040915b-318f-493c-aa3b-417097384036,8/6/2025,US,47906b42-5f56-4af8-9c79-9ef8c72d25a7,Behavior,Sports,150.53,2,110.49,13.97,Credit Card,Senior,Other,Los Angeles,Tom Sullivan
+486e506f-1ee0-48f5-a929-40a9dde47c50,7/18/2025,US,8886373e-5277-43b3-a6a5-8bdb22d42fa2,Trial,Sports,286.71,9,194.62,15.94,Mobile Payment,Adult,Other,Chicago,Thomas Sutton
+aa3266dc-14b7-4185-843a-42fcef4828ab,9/19/2025,US,309d13f1-318d-4773-9056-7ab1a1801f99,Discussion,Home & Kitchen,441.15,7,335.62,53.27,Credit Card,Young,Female,New York,Nicholas Joseph MD
+b6351718-5704-4c5b-aa2e-f3c2ab43083f,7/7/2025,US,0b6a7aad-7d18-4ed1-86c0-da5dbbd35a68,Medical,Electronics,393.55,8,320.18,27.62,Credit Card,Adult,Other,Chicago,Richard Gillespie
+abcdd156-d036-4f2a-8120-ddaf2cc510c3,8/28/2025,US,ec0e7335-b027-4bcb-8402-b5d8e12955e4,Really,Clothing,324.67,1,229,17.65,Mobile Payment,Adult,Male,New York,Benjamin Jackson
+2bb2e4d6-3907-4d20-9c94-5c3ae3d20ea9,10/30/2025,US,41b2c4cf-d54c-41b9-ad7e-caf88dbaaeb3,Election,Beauty,304.19,1,222.43,19.15,Cash,Adult,Male,Los Angeles,Catherine Reyes
+9dcd1921-3486-49f9-be6c-ed3d0ba0b957,11/10/2025,US,0c7d664e-6e11-470f-a67e-0d0f27cb048b,Give,Clothing,83.21,9,72.98,8.83,Cash,Adult,Female,Chicago,Terry Bennett
+82fe65c5-6aec-4682-b27e-e434822180fc,8/9/2025,US,0386025e-ca8f-4dcd-b3c6-8e1bc9a8b10e,Bank,Toys,403.41,2,274.4,44.9,Cash,Senior,Other,New York,Christina Brown
+622dff3d-ace3-4d15-a7ac-48c813b43999,12/13/2025,US,cec9e72f-b8fd-460a-bc23-3124d4aa06f7,Cell,Toys,441.65,1,329.3,53.69,Cash,Adult,Other,New York,Tonya Long
+1f9f4852-90e8-432f-bbdf-f08ab3159d3f,6/6/2025,US,cc2b8d57-817a-4c39-9752-f5c86c09847c,Bank,Home & Kitchen,309.12,2,226.58,59.6,Credit Card,Young,Other,New York,Justin Moore
+1906d1d7-0c8f-4028-8eff-43e4e9f18419,12/22/2025,US,be026cac-b4e8-46d0-a8c1-33eda7a27285,Consumer,Sports,315.31,9,276.8,6.79,Cash,Young,Male,New York,April Gillespie
+03b3eddb-a35f-4209-a616-da2bd1e12f77,3/23/2025,US,7a90fe21-bb43-4cca-9d33-3d52cf53c96a,Whether,Electronics,119.72,3,96.78,16.23,Cash,Senior,Other,New York,Mandy Thompson
+e31bffc0-2eb4-4b88-89ae-286c3c52ed35,4/4/2025,US,f1cc8f25-b34e-44f0-9124-607b98ddc90a,Writer,Toys,499.14,8,379.62,31.32,Cash,Senior,Other,Los Angeles,Sharon Charles
+da001888-8655-4d52-905a-e8c92c56f72f,4/4/2025,US,5c447b69-9a32-4a39-874a-9727a6743fa6,A,Toys,434.31,5,272.24,8.67,Cash,Senior,Male,Los Angeles,Teresa Doyle
+227cffc5-3950-49b1-9e9b-afbb8ec78090,9/19/2025,US,11ae0cce-d122-479d-8681-3562e266faf5,Ten,Clothing,402.92,7,331.1,30.1,Cash,Senior,Female,Los Angeles,Alexandra Frazier
+a8ae2844-adc4-4869-81c2-3ad442f69315,5/3/2025,US,e245d9c7-5f1f-4f51-8854-5b19bd6db1fc,Southern,Electronics,276.53,7,222.84,38.96,Mobile Payment,Adult,Female,New York,Carolyn Long
+e3bdbe1e-d5f3-4528-a8a1-e26fd39b3a5b,4/16/2025,US,fe3a2696-0755-43ee-b8f2-8897695ea003,With,Clothing,241.82,6,151.49,31.31,Mobile Payment,Senior,Male,Chicago,Robert Vasquez
+b22fc894-41ec-494d-a33c-f7feaf1b4d5f,12/11/2025,US,7119f894-2e5e-4d48-9d70-4280b7b28c52,Purpose,Home & Kitchen,340.82,8,261.36,52.32,Mobile Payment,Adult,Male,New York,Wayne Pennington
+ba7ace1c-178a-4643-8b69-95002a743255,4/2/2025,US,0c9b5c86-7a7c-4e9f-9643-2c9ff661abfe,Evidence,Sports,31.92,9,22.89,4.15,Credit Card,Young,Other,Los Angeles,Lisa White
+032fbac3-604b-45b7-b3a8-7c5858a50125,10/19/2025,US,e5af37b3-b9b5-4bb2-9c25-19a89ab2a732,Design,Toys,287.04,10,206.67,52.63,Credit Card,Adult,Female,Los Angeles,Brenda Contreras
+d987e68f-a793-4fb4-bb74-cbee3be36046,6/6/2025,US,292280a0-3ada-4bb6-a882-c7e79cc42b24,Increase,Beauty,186.96,3,167.19,18.12,Cash,Young,Other,Los Angeles,Timothy Villarreal
+24e84856-8287-48f6-98cb-1f2a37a2f6ff,11/20/2025,US,4f80ef2a-9646-4c22-be36-3c3a327b1c8b,Security,Electronics,294.63,7,178.63,21.78,Cash,Adult,Other,New York,Lindsey Jones MD
+91063a36-8cc6-4e6f-b501-a8768b129ee1,6/15/2025,US,adc27196-6b01-4cb8-b1e4-2a19b1430c97,Human,Clothing,368.38,8,256.38,34.55,Credit Card,Young,Male,New York,Miss Jacqueline Yates
+465aa356-5910-4cf6-b8f1-3020371be241,10/11/2025,US,e1c6f689-9d73-4581-96d9-d38183c5fe81,Myself,Toys,445.59,4,357.51,10.3,Mobile Payment,Senior,Female,Chicago,Kenneth Fletcher
+9a85538b-a8a0-4adc-80a3-0cbf238113a1,3/12/2025,US,5ba4d6f6-694f-42d7-927e-b906ccba40a1,Often,Home & Kitchen,355.82,8,300.8,10.67,Cash,Adult,Other,Chicago,Charles Daniel
+0659132b-599f-4a12-aeb5-6f966bdc5d2e,9/19/2025,US,b88ce5bf-bb39-4983-b2d2-a3af0b1f40e2,Now,Clothing,27.7,7,23.8,5.18,Credit Card,Senior,Male,Chicago,Brian Crawford
+80c91e10-8df8-48b4-b269-671274bbd3fb,12/14/2025,US,f88ff4ff-e1cd-463c-a041-8772645d0881,Product,Home & Kitchen,297.46,4,230.14,38.47,Mobile Payment,Young,Female,New York,Janet Hudson
+8f18ba6e-cf60-4e20-97e3-6975af64d900,3/23/2025,US,1fa5e11b-6522-4a29-b61e-206dc695184d,Spend,Electronics,260,9,180.12,2.68,Cash,Senior,Other,Los Angeles,Kristen Smith
+a2bac996-d59b-4979-8517-c50e26c8eda4,12/13/2025,US,7f0d7b42-0505-4d73-9fc0-be071488d65e,Lot,Clothing,237.8,4,196.86,25.23,Credit Card,Senior,Male,Chicago,Casey Stewart
+b1e30f86-b917-4103-b256-def6b787b969,11/20/2025,US,c2178014-9609-4ab0-820f-81646d5ebdf8,Really,Electronics,134.27,7,81.39,0.34,Credit Card,Young,Male,New York,Jonathan Lewis
+fee44459-a65b-4ec9-8cef-a7653b661f6b,11/20/2025,US,7b4859d4-6346-460c-8fcb-5692d3eb4cd2,Glass,Clothing,85.13,4,76.22,4.11,Credit Card,Adult,Other,New York,Matthew Ryan
+d2fd05ff-f9b0-4f1a-b162-b5ffea94e82d,7/18/2025,US,340c86e2-5c0d-49bd-ad55-17a30fd4d91c,Exactly,Sports,219.1,1,169.16,4.93,Credit Card,Senior,Other,Chicago,Rebecca Wheeler
+9cfa0d47-ca71-46bd-8677-08ce3939aeaf,7/8/2025,US,18bdbf77-433b-48ea-a099-c36b486767ce,Consumer,Beauty,365.6,6,230.5,28.07,Cash,Young,Male,Chicago,Melissa Brown
+6d167789-40cb-4a3f-bc20-504961341130,9/10/2025,US,9b97f8a4-6870-4cd1-afe3-0dfe794820eb,War,Clothing,367.4,8,224.64,42.71,Cash,Young,Other,Chicago,Nathan Armstrong
+166dd402-715c-42e4-8bf9-e755866d31d5,8/17/2025,US,bfe015a6-fd16-4b67-9a80-0329c2ed6c50,Next,Beauty,298.01,4,264.92,8.3,Credit Card,Young,Male,Chicago,Cheryl Washington
+7b398e6c-814f-439f-b078-befb7ae8b65f,1/25/2025,US,5a9ea6e5-17e9-4d18-ae85-ecbfdac0138d,Vote,Home & Kitchen,491.54,3,428.5,91.26,Cash,Senior,Male,Chicago,Katherine Kelly
+8aa58561-5945-46aa-8f61-0fa097d773ca,4/2/2025,US,24e39685-2a54-4573-adad-5879909a7469,Save,Toys,99.22,1,77.29,18.07,Credit Card,Young,Female,Los Angeles,Mary Larsen
+58020425-25b6-47c7-a829-3eaba4c8a2c7,12/22/2025,US,62919c9e-9bfb-4251-81c2-a1dbf1ed006f,Or,Toys,191.38,7,162.06,22.2,Cash,Adult,Female,New York,Tracey Mcguire DVM
+b546ef73-326f-4a8b-9827-997128fbdc75,3/15/2025,US,4a22753a-6063-40f7-8578-78dab406a41d,Law,Sports,115.99,5,85.32,8.27,Credit Card,Senior,Female,Los Angeles,Jessica Smith
+e0c5f163-c405-4b9c-8686-101efd39a08c,9/19/2025,US,0cc74480-11b4-4462-b71d-42bf60b066af,Bad,Sports,283.93,7,246.47,3.86,Credit Card,Senior,Male,Los Angeles,Carl Smith
+09888652-cf68-4f85-bdf0-c94f95cbb73c,3/23/2025,US,f412c6db-9de8-4a4e-91f5-dfafecde5787,Sister,Electronics,109.91,2,71.89,6.81,Mobile Payment,Senior,Other,New York,Jenny Graham
+467dfff9-f511-442e-8d57-16cc7a41a4b5,6/4/2025,US,380c846b-b7c9-4937-9256-9bffb6af7734,Owner,Home & Kitchen,19.2,3,14.23,3.66,Credit Card,Young,Other,Los Angeles,Betty Lyons
+696da4d9-f41b-4b3e-91f2-327999ca8423,10/19/2025,US,e09bad45-cc9a-4c93-80e4-0c7f516d8e0d,Some,Beauty,202.34,5,163.75,38.83,Cash,Senior,Male,Chicago,Christopher Cox
+b1a9aacd-3206-4fff-9edb-a2a50e2d0517,10/19/2025,US,5ee56e46-25f8-4a28-a814-600676117ed6,Sense,Beauty,121.19,1,104.46,10.38,Mobile Payment,Senior,Other,Chicago,Jacob Campbell
+11aee6de-2774-4103-b60c-9b331e630a63,12/21/2025,US,fc5c5e48-7eea-4e1c-bac3-541dcd584cff,Total,Home & Kitchen,223.42,10,182.9,26.84,Cash,Adult,Male,Chicago,Jonathan Hamilton Jr.
+5ae4d329-879a-457a-b4cf-568e4b15076f,8/9/2025,US,50829cdb-5aa1-411e-a410-9ac368b0e09c,Process,Toys,210.49,8,150.15,15.89,Mobile Payment,Young,Other,Los Angeles,Katherine Hutchinson
+d437da6e-00b1-42dc-b70d-afe3f6eaab50,8/17/2025,US,6d026527-1420-41ea-87c0-0b8c95941c7c,Per,Electronics,157.38,9,129.83,6.51,Credit Card,Young,Other,Los Angeles,Scott Mcdaniel Jr.
+3294c405-0f29-4452-bae7-3f0d066db574,10/9/2025,US,d6904c38-d9b8-45f2-a6a8-2517b603b972,Election,Home & Kitchen,207.93,5,145.69,33.72,Credit Card,Adult,Other,Los Angeles,Jimmy Cline
+4cd8e664-d3ec-4f2b-9a89-9dce8340df05,4/16/2025,US,084bb799-5a3b-4ef2-a81e-5ae209e21ff3,Member,Beauty,234.36,3,159.77,41.7,Credit Card,Young,Male,Los Angeles,Roger Smith DVM
+df21c962-3c75-43c0-8215-66b2c6045c93,12/11/2025,US,799b9420-3ed7-4752-be53-087fb576b9e8,Technology,Home & Kitchen,115.94,7,75.93,5.33,Mobile Payment,Adult,Male,Los Angeles,David Newton
+c90591d3-e98b-4030-8536-dadfdaee4f6b,11/10/2025,US,c1f553ae-e0a8-48f7-8787-57603941ee07,Spring,Electronics,96.52,2,74.88,0.48,Credit Card,Adult,Male,Chicago,Catherine Garrett
+49ea5c91-6709-4421-b65e-f52b3a937c0e,10/11/2025,US,77fc8bf6-11cd-4887-bddf-3c7c2f9377a5,Attention,Beauty,342.14,7,261.81,31.78,Mobile Payment,Senior,Other,Los Angeles,Haley Hall
+1dfb083e-63a8-4789-9b39-e12634e628da,4/24/2025,US,0a61fb7f-b7ea-4d4a-b830-36708c7fbd03,New,Electronics,343.34,7,287.71,44.74,Credit Card,Senior,Male,Chicago,Kristi Guerrero
+f72f3983-4d27-4569-9175-7ffa7640feb2,10/19/2025,US,0a6896a6-b44d-49b5-b822-1eac44be72a0,Identify,Clothing,302.33,7,197.71,46.42,Mobile Payment,Young,Other,New York,Austin Galvan
+85bfb39b-12d6-47bd-96c1-b736ede25b31,7/7/2025,US,decf3d90-bfca-4563-a892-fd71bfa49328,Book,Toys,336.84,8,261.53,53.93,Credit Card,Senior,Male,New York,Julie Ramos
+0474d88a-b2e5-4f78-8e85-b202c3e51d22,5/17/2025,US,4f00b000-9881-453f-93eb-00a79e2c7dc7,Let,Beauty,311.86,2,273.59,61.45,Cash,Young,Female,Chicago,Brandon Floyd
+362b231c-e2cc-46e7-a35a-ba649f84146e,4/16/2025,US,bc123122-617b-45c7-9ed6-eaf517437574,Collection,Home & Kitchen,127.33,2,94.98,1.63,Mobile Payment,Adult,Female,Chicago,Penny Smith
+5b99b7e2-4c80-475d-b7fa-3af1ae0e9918,6/15/2025,US,869b6395-944e-4fb4-bd58-99f8acdceea3,According,Toys,109.8,7,77.91,2.75,Cash,Young,Other,Chicago,Charles Miller
+3e1e42a0-d2fa-4fe7-afee-09089eaff4e9,5/14/2025,US,5c70d4cf-46df-4fb6-a879-7dccea24d9a7,Soldier,Toys,392.15,9,264.95,4.05,Credit Card,Adult,Other,Los Angeles,Derek Neal
+d87ac692-2ba7-449f-b4e3-5ab6515866eb,11/20/2025,US,c557f7c8-c39d-4aca-af49-cf9b586fea05,Network,Beauty,429.44,3,289.36,8.87,Credit Card,Senior,Male,New York,Robert Baxter
+4c5c235c-e85a-47e0-b58c-98339432b145,8/6/2025,US,71a3ae95-ecd3-4579-82a1-5c3c00481c11,Democrat,Clothing,450.15,10,295.63,34.29,Credit Card,Adult,Male,New York,Benjamin Moreno
+55c22a92-95ba-43c5-b3cc-84d30b456b59,11/10/2025,US,c8bccdda-e283-40d9-b56f-56102802927f,Enjoy,Clothing,422.21,1,302.83,71.55,Cash,Senior,Male,Los Angeles,Ryan Finley
+a734f877-79ad-40ca-b4a3-206d1b97746d,11/20/2025,US,0e96d32a-98b1-495f-8eed-53c596004a1a,Have,Toys,211.63,8,169.38,39.05,Mobile Payment,Adult,Male,New York,Richard Davis
+be232d36-97f0-4275-8959-2710eae1147c,12/31/2025,US,05d45049-84e5-40d1-8d01-35dfb3a10fbe,Wide,Home & Kitchen,188.77,10,128.01,24.26,Cash,Senior,Male,Chicago,Edward Gray
+d9449d33-cd48-49b5-9460-b9fb6ff8c619,6/6/2025,US,af243452-0337-427f-81e3-6bb1d807e89e,Effort,Clothing,59.93,9,40.51,5.65,Credit Card,Senior,Male,New York,Sean Edwards
+25797f8a-5b2d-488a-9d6b-985c61455781,10/19/2025,US,cdaace72-7ffe-4542-aa44-959adc047e8c,Teach,Home & Kitchen,82.08,5,63.41,0.99,Mobile Payment,Senior,Female,Los Angeles,Lisa Roberts
+40b7e459-02ba-40e2-b30f-f167590a96dc,7/27/2025,US,14c2e8af-73a0-4d33-8274-5891baee836d,Put,Beauty,249.88,6,191.73,44.94,Mobile Payment,Senior,Female,Chicago,William Jones
+1d48b0bc-74b2-448d-a9d3-f71bd448854e,7/16/2025,US,dfd49197-e88a-4c91-97cc-e042de2f5052,Both,Clothing,315.09,5,216.1,48.94,Credit Card,Adult,Female,Chicago,Jamie Hernandez
+27377df5-68e9-4e42-9c0e-c14b1f47e011,11/20/2025,US,39668ab6-a6f7-4feb-b9af-d100474eaad8,Republican,Home & Kitchen,344.39,1,274.43,26.79,Mobile Payment,Senior,Male,Chicago,Katherine Nelson
+8c8d7134-82d6-4226-af2d-f83e93964e51,11/12/2025,US,7922dab6-f0e9-441e-935e-95906cbd56a2,Artist,Toys,368.11,8,306.93,52.59,Mobile Payment,Senior,Female,Los Angeles,Steven Rios
+14f1b07a-4317-4d2d-86a1-1c22c27215b9,7/16/2025,US,09993dc4-d46e-49e0-b5c0-de7152446c38,Attack,Electronics,363.37,3,286.35,67.8,Cash,Adult,Male,Los Angeles,Matthew Williams
+7f2e7dea-2540-49f6-a30b-01eb22d2a321,9/29/2025,US,dd8f5db7-fe42-4681-924a-ae258e2ef820,Method,Electronics,11.77,8,8.01,2.06,Mobile Payment,Adult,Male,Los Angeles,Philip Stephens
+68de2cc1-1099-4dfb-893a-a26b581f0a98,7/16/2025,US,9c80f669-0426-49c8-8d5a-28eda1c55101,Blood,Beauty,12.67,5,9.9,0.85,Credit Card,Adult,Male,New York,Amanda Villarreal
+bf3fa599-e33a-43f7-b286-a63eb595d0e5,7/18/2025,US,fe63d3a0-439d-4091-b251-3b95fad28953,Price,Electronics,289.54,2,190.34,4.7,Credit Card,Adult,Female,New York,Mark Williams
+201bec7e-b68d-4faa-a4f3-13e158a93daa,11/20/2025,US,def1b473-0013-4b1f-bf82-0ea7c78cce6f,Red,Toys,323.98,3,281.15,33.35,Mobile Payment,Adult,Female,New York,Dr. April Griffin
+81ad4fec-86d0-4498-9015-504720e1e5a4,5/14/2025,US,d1cc4dd9-c8ca-445b-870e-53aa51e0c120,Soon,Toys,10.61,7,6.49,0.56,Mobile Payment,Adult,Male,Los Angeles,Samantha Rivera
+c2a59ff3-cf7f-4ee6-afa6-316c8f5e0b90,10/19/2025,US,b801fbe8-b5a9-4895-96f2-6bd7620c5399,Issue,Toys,247.84,7,193.74,2.63,Mobile Payment,Adult,Female,New York,Jason Diaz
+4605ae71-1e65-4fa0-873d-7540a266a7de,10/19/2025,US,60c48dfe-c131-4846-856e-da6b4674abde,College,Home & Kitchen,489.45,6,403.48,41.09,Mobile Payment,Senior,Female,Chicago,Carrie Stephens
+ad42209e-377b-45d2-868b-fe264eff8488,11/12/2025,US,327ecc81-ff9c-4211-bbf4-9e340fbe1122,Score,Toys,285.6,3,208.16,33.72,Cash,Adult,Male,New York,Mark Hamilton
+e19ea898-f61d-47e4-a47b-d9081a056a55,5/5/2025,US,5aec9bc9-bb3b-4ff9-863b-490ae1557d93,Town,Toys,161.09,1,108.06,30.82,Mobile Payment,Senior,Other,Chicago,Jamie Harper
+f04a4d7a-397e-40c7-b557-6098dece2af9,7/26/2025,US,da7e3fa1-3107-4fdb-a9e6-344ef9356f61,Lot,Sports,41.84,9,27.19,0.5,Mobile Payment,Adult,Female,New York,Edward Stevens
+dd73e4b1-f66b-4177-bde1-fcfdb1846001,10/11/2025,US,43b35886-52d4-4ff9-bed3-33307d4592fc,Politics,Toys,451.64,5,301.84,64.77,Credit Card,Senior,Female,Chicago,Michelle Robbins
+6d39cd78-f9d2-4cb4-99b4-a874f6c752d2,12/13/2025,US,7751d567-42ea-4859-8ef4-e54fa73de811,Technology,Toys,122.15,3,107.17,2.76,Credit Card,Young,Female,Chicago,Adam Murphy
+38fa4aaf-34b0-4390-8d4e-bbc5733255c6,7/7/2025,US,72df4a67-72d2-4f17-b51a-93c8d45dffad,Possible,Toys,69.86,9,42.12,0.27,Mobile Payment,Senior,Male,Chicago,Douglas Lindsey
+e150af96-eaa1-4e0d-92bd-ecd6f10e4219,3/12/2025,US,6e0aa592-7deb-448c-8181-53a6f2cca9a6,Into,Beauty,66.77,5,43.52,1.05,Mobile Payment,Senior,Other,New York,Vincent Davis
+48506fcc-e2e1-43eb-afae-64ad6d008247,7/8/2025,US,946edd74-b124-4f7b-b6a1-b027d6f1f60f,Difference,Toys,179.37,8,112.18,25.49,Mobile Payment,Adult,Female,New York,Maureen Atkins
+3523a884-4bf2-4cf9-9d03-f3f634e41fb0,7/8/2025,US,86d35aed-ed94-42b3-96de-331d8c359ba8,Southern,Home & Kitchen,115.26,8,96.6,1.94,Credit Card,Young,Other,Chicago,David Cooke
+d44f06eb-f435-4f49-a034-4a28064d2084,9/10/2025,US,2b0cc941-cb1f-4bf9-9552-ccbce89acafa,Piece,Home & Kitchen,56.87,4,34.75,6.31,Credit Card,Senior,Female,Chicago,Susan Sanchez
+77a0cb09-a668-4181-a14f-ecff6439e62f,10/9/2025,US,4cdbe612-5390-49cf-a3d2-ffec88c30d02,Test,Electronics,233.82,3,192.85,43.95,Credit Card,Senior,Other,Chicago,Brad Jones
+73480088-f3df-40ea-9e81-eb0ba1ebd75f,9/7/2025,US,3b081b36-775d-432d-afbb-672650e3e61e,Show,Home & Kitchen,60.54,9,37.29,6.74,Mobile Payment,Young,Other,New York,Stacy Duran
+1b9e8086-0f46-4e24-95ec-21acd79ec6a1,12/11/2025,US,1856792e-ef72-41c1-b036-db921eaf6cff,Only,Home & Kitchen,162.95,10,109.2,7.63,Mobile Payment,Young,Male,New York,Sean Stanton
+228ebc5c-a657-4e8f-8c6b-b711daa89b5f,12/1/2025,US,5aa5a8d3-96a6-4c96-91e7-7f3043c66f05,Trial,Beauty,356.1,4,248.52,12.8,Mobile Payment,Young,Female,Los Angeles,Stephanie Moran
+635b6492-f2e0-445b-9006-83edb95d7979,9/7/2025,US,7860d666-13f3-4d08-a4c8-e7b8b071741b,Sing,Home & Kitchen,240.93,6,207.13,6.23,Mobile Payment,Senior,Male,Chicago,Mathew Donaldson
+bd2d4d20-814e-4fab-8a6d-749e29d33738,3/3/2025,US,15629251-73b5-43eb-b387-53816045778c,Rule,Electronics,73.19,2,60.82,3.75,Credit Card,Adult,Other,New York,Jennifer Stevenson
+535ad348-db78-4498-a636-33f038b051ae,10/9/2025,US,ba046c86-7a56-40c2-bdef-81c72b0dc397,Pattern,Toys,139.23,9,85.65,20.58,Cash,Young,Female,New York,Cynthia Richards
+5de63db0-ac27-4326-b580-c09c2eafa732,7/7/2025,US,251b6ec4-3670-4cd6-89ab-f9ac11a06910,Skin,Electronics,144.61,1,95.81,7.3,Cash,Young,Other,Chicago,Terry Estrada
+ad99a7c2-c3e7-43db-9b6d-9b6f4ca02382,5/25/2025,US,bcde4b84-38fa-4fee-8aa1-0c5012cb2dc3,Perform,Home & Kitchen,434.87,4,294.12,4.12,Mobile Payment,Young,Male,Chicago,Natasha Payne
+3ec353f4-8eb2-4f7c-9cf2-4abd07bc547c,10/9/2025,US,ef356f73-a282-400c-9dc1-ab95f93464f8,Cold,Home & Kitchen,220.93,8,167.55,30.17,Cash,Adult,Male,New York,Kayla Ramirez
+91be8965-8df9-4ffc-b378-c2756ec307d3,10/19/2025,US,b1f7ca8f-16ae-498c-bebb-cb641a2aebf4,Final,Sports,489.87,1,411.16,0.09,Cash,Senior,Female,Los Angeles,Harold Mccullough
+9cb75c54-b082-423b-89d8-fecd086d322d,5/25/2025,US,350aaa9d-4de7-47a8-9242-213236bf257f,Teach,Sports,180.13,2,110.77,30.73,Mobile Payment,Adult,Other,Los Angeles,Joe Franklin
+dd22e3fb-c5bf-45a8-93e2-5ced08f72351,6/4/2025,US,e32851d6-f37f-428c-8d0a-41f0ab22056d,Floor,Home & Kitchen,358.76,2,246.92,37.9,Mobile Payment,Adult,Other,New York,Julie Allen
+b8a8fb00-90b0-4433-ab43-83401e0c8fe9,7/18/2025,US,3ae8dba0-8ffb-4091-9d32-98c41280d636,Upon,Beauty,296.54,5,211.91,9.59,Credit Card,Adult,Male,Los Angeles,Glenda Barajas
+51b6756d-f746-4fa6-a935-31861ebd7689,3/1/2025,US,7ce5bba0-77bd-48b3-8765-04fe280da8a1,Occur,Electronics,334.14,5,231.52,7.04,Cash,Young,Other,Chicago,Alex Olson
+c060d577-02f5-4653-88d5-247d9762558f,6/6/2025,US,e6c7f630-2bab-44a5-a29a-a7ca215a2f8e,Clearly,Home & Kitchen,112.07,3,74.49,17.89,Credit Card,Young,Other,New York,Joseph Keller
+14bdb0d8-201c-45f6-a367-6210bfb64bc2,7/27/2025,US,400c1135-a400-4a3c-a001-ed295be7c4ce,Every,Sports,141.06,5,90.59,2.41,Mobile Payment,Young,Male,Chicago,Bradley Thompson
+be61186b-5f0d-4b31-91a3-96fe35fe32c7,12/1/2025,US,8760d0c4-874d-4e1b-81ff-c8f023c05ed9,Save,Beauty,265.09,3,216.36,32.95,Cash,Adult,Female,Chicago,Carlos Duncan
+e7ce2817-0eaf-42da-9762-a0960f3565c2,5/5/2025,US,cd4397f1-22d7-4d5f-bfc2-bc9d7d0b4ae8,Two,Toys,486.03,8,373.7,5.78,Mobile Payment,Adult,Female,New York,Jennifer Wiggins
+b8a3e7d1-e1f4-4d51-a5a0-a8c45f4d014d,11/10/2025,US,8f765070-ce6b-40be-86ef-0fc4d988fb4e,Single,Beauty,349.21,4,285.09,37.73,Mobile Payment,Senior,Female,Chicago,Jacqueline King
+cb5816b3-0b9f-46af-a855-40d7e5add9ca,10/30/2025,US,e49a0a42-73a5-4ab6-9bd6-4c8240c73cc2,Interest,Beauty,110.82,6,88.64,8.54,Cash,Young,Female,New York,Erin Marshall
+d834a91f-49f0-4090-a54b-e18009314e61,4/16/2025,US,ca151664-3a95-4a3c-b6a7-7623565328d6,Institution,Sports,86.3,2,63.16,0.33,Mobile Payment,Young,Male,New York,Douglas Brooks
+9b284687-8499-4b8b-a410-731d28cb935c,6/15/2025,US,0bbbfb4e-df7e-49da-8881-f7c9db0153d7,Chance,Electronics,13.82,2,11.68,0.91,Mobile Payment,Senior,Other,New York,Kayla Thomas
+da5beccd-55f5-40b3-83ed-c3c3bb52ba33,4/16/2025,US,6117b830-17be-4ec1-a08d-6b3b41c1f013,Theory,Sports,453.61,9,332.81,53.93,Credit Card,Adult,Male,Chicago,Rachel Austin
+b3fbd585-8bd7-4b1c-8d84-b078a57e9875,4/4/2025,US,cd7390eb-0127-4f8f-8454-5bb21ae151cd,Would,Toys,364.67,3,235.62,12.76,Cash,Adult,Other,New York,Michele Johnson
+bb0e9374-1bb6-4c26-b05c-5b92a9de9715,4/4/2025,US,60fa4404-f23c-466b-8df4-483b82e5c98c,Field,Clothing,315.32,10,198.85,2.64,Cash,Young,Male,New York,Barry Marshall
+ef6cb78b-1e01-471d-abe1-07fd07df5b04,3/12/2025,US,e19ef55b-5864-40ab-99ff-08d9c9ae4dfb,Remain,Sports,354.46,3,265.71,39.83,Mobile Payment,Senior,Other,New York,Jody Lambert
+da93d4ce-fb16-4ee1-a867-3cd37ec7e4b1,8/6/2025,US,7ea5020e-1f74-4bb1-800f-e71e98ca087c,Approach,Clothing,359.45,6,300.52,38.85,Cash,Adult,Other,New York,Ivan Stephens
+83e6b174-c718-409d-8c56-6a49ef5d7901,12/11/2025,US,87b81b7f-c4ec-48e6-9812-2ec912cdbff9,They,Home & Kitchen,200.29,10,159.76,32.35,Credit Card,Young,Male,New York,Daniel Li
+8409fa7f-d436-4a2e-aaae-b72850a62304,7/5/2025,US,b67f957d-23a0-41a6-a610-47ad11cd3ae1,Development,Clothing,421.14,6,279.17,65.42,Mobile Payment,Adult,Female,New York,Teresa Key
+857f9142-6de4-4bfd-89ea-c24a45d8248f,4/2/2025,US,9675069e-f838-4ba1-a490-c5dc4cab5398,Recent,Beauty,453.07,6,283.62,43.82,Mobile Payment,Senior,Female,New York,Ashley Phillips
+813a44e1-27c9-486b-b5d4-f01fd070be8c,8/9/2025,US,c598a904-1012-44ac-adf9-d214984432ed,Off,Toys,345.93,5,212.77,55.72,Credit Card,Senior,Male,Chicago,Eric Johnson
+15969db2-8235-4749-b50a-ef5ade56dc1b,9/8/2025,US,ae00c5ad-770c-4bf6-ad6d-2c46c1cd3c0f,Open,Beauty,363.99,8,310.1,8.9,Cash,Adult,Female,Los Angeles,Brian Boone
+dcaed124-b269-4c7f-9f36-92eeeedf931f,3/23/2025,US,fea61e97-1aa3-4f8e-bc50-a35174dab5fa,Have,Home & Kitchen,192.27,8,146.71,3.12,Mobile Payment,Senior,Female,Los Angeles,David Sanford
+01d1976a-c0ba-4a79-a896-37042bec0be1,6/15/2025,US,d2204fcb-5901-40b0-8c46-daf977471cce,Lot,Toys,172.56,10,134.85,11.13,Cash,Adult,Other,Chicago,Jerome Collier
+733a4567-d3ea-4d9e-bd9c-212502374b95,3/3/2025,US,00a192eb-700b-4c6d-bd15-e8f39e6b98c8,Social,Electronics,381.1,7,310.96,48.69,Mobile Payment,Senior,Male,Chicago,Mr. Albert Clark DVM
+d09f3d44-18e8-41ff-8044-108baaf2c80d,9/7/2025,US,8c885b90-ec22-41a9-984c-eef9a3f429bf,Card,Toys,307.86,3,241.8,31.51,Mobile Payment,Adult,Female,New York,Crystal Greer
+19c97881-07c9-4439-9b0d-3cfccbdbff86,3/23/2025,US,fe4510bf-fc55-4b0d-b8bb-6969593db635,Cup,Toys,448.24,9,341.77,56.99,Credit Card,Adult,Male,New York,David Pierce
+33372441-03ef-4979-8e26-d216f4b7c51f,11/20/2025,US,d0eabae2-d6bb-45f1-b122-b02430f16bd0,Market,Beauty,408.09,9,249.37,29.59,Cash,Senior,Male,New York,Brittany Walker
+6ef389f5-434e-47d7-907a-217d6b465621,12/31/2025,US,5812b632-cf14-4517-a4ce-428c3ee74e9d,Only,Clothing,447.22,7,372.75,88.39,Credit Card,Senior,Male,Chicago,Mr. Gabriel Johnson
+3d82ffbc-d961-425f-907f-d83ecef1feef,10/30/2025,US,cf28bccc-8265-4ae2-98c2-1a8f8d63a3f2,Usually,Sports,64.35,9,44.47,10.35,Credit Card,Young,Other,Los Angeles,Kathryn Caldwell DDS
+33ef1658-313a-4887-afde-e27c9a942d40,4/13/2025,US,07e2e4f3-07cb-4a79-b351-a133cbc8cd1b,Property,Sports,294.6,1,199.21,14.73,Credit Card,Young,Male,New York,William Curtis
+c926c66d-ecf2-4987-aa78-39e12085018f,10/11/2025,US,0fc8f774-d0cb-407d-8c5e-4a7b67ec1192,Behavior,Beauty,369.7,6,304.98,16.55,Cash,Senior,Female,New York,Victoria Kelly
+17b67864-8b18-4a61-8680-486b16bca7d5,11/12/2025,US,9982d032-2e2e-4eb2-a034-b55ef32dc705,Course,Clothing,135.69,9,103.4,14.83,Credit Card,Adult,Male,New York,Yesenia Rodriguez
+03b60a3d-61d4-46e8-b2d9-fb08ad55c30d,12/11/2025,US,2cbc1958-2fb6-4b1a-9af7-99b7306b24ec,Environment,Toys,403.83,4,356.48,67.8,Credit Card,Senior,Male,Chicago,Jennifer Peters
+3c70a86a-ae32-45a9-bb64-c43ed5d78b36,10/11/2025,US,13889b98-17e5-4078-845d-f740e29f016a,Rule,Clothing,85.85,4,56.7,17.15,Mobile Payment,Young,Other,New York,John Green
+557681e1-33ae-4a45-8598-1a565b05853b,8/17/2025,US,a1f24775-5bfb-4dba-bb03-3587c88ab795,Guess,Home & Kitchen,132.85,6,106.24,23.82,Mobile Payment,Adult,Male,Chicago,Andrew Johnson
+14b1ccfc-2b6f-42dc-a313-217d4184dac0,11/10/2025,US,ca9af245-7db2-4f8f-8ea5-14bb263dde43,Morning,Beauty,484.48,3,367.67,14.2,Credit Card,Senior,Other,New York,Mr. Matthew Peterson II
+4faa83ec-45db-44dc-9f8f-427847eb76bc,9/7/2025,US,633798e0-940c-4c1b-a669-75d5fcac22e9,However,Toys,422.19,9,332.41,71.27,Credit Card,Adult,Male,New York,Anthony Baker
+92094fcf-806a-45b5-a295-34b5b70035a7,6/6/2025,US,a13876aa-6d22-4ecf-bfb3-349a6d52cc17,She,Sports,180.47,5,133.48,6.48,Mobile Payment,Young,Female,Chicago,David Simpson
+267c3810-77a2-40e8-bd73-ec6a08a1b88b,10/9/2025,US,01c20736-4bbd-4ce6-b154-569b6fbeab6f,Color,Beauty,350.33,5,220.76,18.36,Cash,Senior,Other,Chicago,David Nguyen
+94d45765-73a0-4073-b270-a23a19c27891,9/18/2025,US,85e383df-6e0b-435b-8e8c-44ad959a1a3d,Successful,Toys,289.51,1,257.05,6.73,Cash,Young,Female,New York,James Joseph
+4ad0bdd0-9b07-484b-a6df-666fa54b199a,3/12/2025,US,be1a5dce-ae3d-45bb-90b0-1705c8db39a7,Cover,Electronics,43.56,10,26.36,0.89,Mobile Payment,Adult,Male,Los Angeles,Taylor Robertson
+1f3a600f-5a66-464f-87ee-f8c3dd8bb49c,9/8/2025,US,bd763f51-1690-4864-a736-0f2ef7c0e842,Few,Beauty,425.79,9,256.61,3.43,Cash,Adult,Other,New York,Danielle Davis
+e5ef8bc5-705b-498a-853a-d92cd41d38b8,7/16/2025,US,eef846d9-7dec-4d91-83b2-e8812efb4019,Nearly,Clothing,10.47,9,7.67,1.29,Cash,Adult,Female,New York,Martin Larson
+c08d00b6-53ff-410a-955e-f4c7ef5d0760,9/8/2025,US,b0b5a0cd-311f-426e-8df4-a35ab67911e3,Push,Clothing,442.56,5,357.84,62.79,Cash,Adult,Female,Los Angeles,Joshua Wiley
+7a0aa0f3-9ef2-4f66-baea-fb31210496b4,7/27/2025,US,9d0b1ee5-0c16-4e81-90be-5c863c7b6a49,Prove,Toys,36.35,2,28.9,2.86,Mobile Payment,Senior,Female,Los Angeles,Bryan Anderson
+b6d9a6d6-580d-4931-b35d-d2016635a0b5,8/9/2025,US,c0f6d3ab-7942-491f-bca5-92f42cec9f50,State,Home & Kitchen,13.41,7,11.79,1.9,Credit Card,Senior,Female,Los Angeles,Paul Spencer
+2e7ed6ac-d431-47d5-b031-347880471097,9/7/2025,US,60596b26-8aaa-4c32-8e6d-e4e1fd43c3fd,Every,Sports,101.39,1,84.39,14.93,Credit Card,Young,Female,Chicago,Dale Franklin
+3f18b0da-f89a-4312-b03c-cc310c9b0cb6,12/14/2025,US,055e3484-82eb-4289-a268-2bc54c1e91f4,Bed,Toys,54.35,4,41.49,1.07,Mobile Payment,Senior,Female,Los Angeles,Rachel Walker
+f4041fc8-491e-4790-8dc3-7727dac4d926,3/1/2025,US,55ca180c-bbd7-43ae-9e34-6eba4f50cb4b,Let,Toys,274.62,6,200.41,16.92,Cash,Adult,Other,Chicago,Gregory Thornton
+677bc24e-f9c4-4278-9a61-6968d91c6331,4/13/2025,US,3a71b099-28ae-48a3-ac28-dfbfd03a34f2,Mr,Electronics,95.31,7,80.07,14.74,Mobile Payment,Senior,Other,Los Angeles,Tyrone Wilson
+bcdcab83-5a1f-458f-9f5b-5168a2031a2c,4/24/2025,US,297c48e5-6d61-48e5-9912-d8440e814151,Form,Home & Kitchen,175.83,4,126.31,3.67,Credit Card,Young,Male,New York,Christopher Salazar
+861fd9fa-ab4f-4a8b-b691-9766ae7d7d3c,9/18/2025,US,396015bc-3789-4d57-ae93-499faf0bb680,Seek,Toys,156.83,8,130.49,3.24,Cash,Senior,Male,New York,Jason Nelson
+6ad3a4a9-7ae1-4c87-8bac-c355cb3db3a2,3/12/2025,US,a600107c-1265-4a80-ab2d-b8a9f39b3ae2,Exactly,Electronics,486.85,7,318.76,31.76,Cash,Adult,Male,New York,Mrs. Kimberly Perkins MD
+86f02225-88bb-4250-9fa5-508d35d19583,8/9/2025,US,d3626919-9edf-4086-bd9c-bdbe19a5f481,Southern,Sports,275.12,4,174.3,25.8,Mobile Payment,Senior,Male,New York,Gail Adams
+d0ad9afb-ce7d-4de4-b541-714abf1a53d5,7/18/2025,US,4edfa285-bb59-4b46-ae5d-4d65bf6617fa,Experience,Toys,314.72,7,218.82,3.67,Cash,Senior,Male,Los Angeles,Benjamin Garcia
+7d5f98f6-e4c8-4f35-9250-76fa7413902c,8/28/2025,US,e5642395-e883-4a64-ab08-368d8977cbe0,Whom,Electronics,311.91,7,248.59,35.04,Mobile Payment,Young,Other,Los Angeles,Christopher Castro
+848ddb71-dd00-407f-b21b-09e664cf176d,5/17/2025,US,330e2936-2ea8-4025-be63-3e5c4c0259fd,Better,Toys,470.2,3,337.43,22.53,Cash,Adult,Male,Los Angeles,Audrey Mcclain
+12116665-73a4-4986-8a6f-34e2275efdc4,8/17/2025,US,216808a5-1a09-47e2-966e-371cb746683e,Want,Sports,464.77,8,414.59,58.36,Cash,Senior,Other,Los Angeles,Manuel Jackson
+bb2c9c36-34be-4a1a-a0f6-989348e316fe,7/8/2025,US,e0a5153a-c97c-4676-a3df-9e4f0141c3cf,Ahead,Clothing,21.73,4,14.46,0.5,Mobile Payment,Senior,Male,Chicago,Jack Rodgers
+2fdff42e-079e-4a9a-8107-27e05779e9ba,7/7/2025,US,d2365882-da65-4416-a505-b6d459581f2a,West,Sports,54.41,3,47.48,9.57,Mobile Payment,Senior,Male,New York,Kendra Baker
+2d8b5477-0882-4767-a11e-36fcb3b03101,12/20/2025,US,ca8bc847-b9cb-4c94-b29c-d79e0f87e6a3,Make,Toys,112.96,9,72.16,15.74,Mobile Payment,Senior,Male,Chicago,Stephanie Garcia
+56992790-26fa-4dfb-b43f-2e8a8977699d,9/7/2025,US,f37e813e-4bf0-4a52-9fe5-aaea3c3e3732,Because,Toys,463.01,8,400.04,16.76,Credit Card,Adult,Other,New York,Susan Smith MD
+5e107427-6dd8-4516-82eb-d5a98da28e78,9/7/2025,US,44e93ceb-6893-4d13-a0a1-a531a664bcf5,College,Sports,302.03,2,266.28,10.22,Credit Card,Senior,Other,Los Angeles,Garrett Martin
+86f9a305-c794-4632-9852-77a28c6a9a46,4/24/2025,US,f8003bd1-d191-4f1f-b5c4-8452ac34af10,Style,Sports,52,8,42.05,9.46,Mobile Payment,Young,Male,Los Angeles,Robert Rogers
+18a7eedf-7a60-47d8-a5fd-da17b852d316,4/24/2025,US,f909dfd7-b369-4ad5-af6e-258fe7e111f7,Ever,Toys,448.71,6,327.37,51.79,Cash,Senior,Other,Chicago,Michael Winters
+61248b61-6900-4d6b-bc0f-0d7d16ebcf39,12/31/2025,US,bb5e3e64-77a7-4b16-b036-1405bf75e92a,Country,Home & Kitchen,328.36,4,265.57,36.03,Cash,Adult,Female,Los Angeles,John Turner
+0421d9c9-8cbc-4646-8bb8-ed773b752aa9,8/28/2025,US,f70c7884-e3fd-4568-a52f-8657f9819d6a,Religious,Clothing,318.5,9,272.27,24.17,Mobile Payment,Adult,Female,Los Angeles,Kerry Martin
+278bd6d3-9fa9-4415-ae70-69e3175ce7dd,4/16/2025,US,2c77737e-f5d2-4500-b1e5-69ca2bac200f,Exactly,Clothing,346.84,3,292.96,50.25,Mobile Payment,Adult,Male,Los Angeles,Shannon Richmond
+dac47e7d-298d-40e7-9acd-d2916e6b78d3,4/2/2025,US,3f4b499e-c0bd-4e6e-ad9d-1730027dec52,Account,Home & Kitchen,209.6,10,157.92,30.11,Credit Card,Senior,Male,Los Angeles,Juan Parker
+beb83039-5242-4b59-a605-e1d2f234c46e,10/19/2025,US,de8007dc-97e5-410d-a14d-46c652282d98,Which,Beauty,318.96,10,200.6,20.16,Credit Card,Adult,Female,Chicago,Lori Thompson
+fc8f9c6a-d054-424a-8146-5fac6c141f70,4/24/2025,US,b75599b6-949a-4526-8da1-bb74cf303c56,International,Toys,203.45,5,147.42,28.73,Credit Card,Young,Male,Chicago,Johnny Michael
+e904d07d-fff3-45ca-854f-340d13a74ac4,12/2/2025,US,45c314b9-82cc-435c-aac1-c0f5c2bcc2ea,Ball,Clothing,412.15,6,319.66,15.51,Mobile Payment,Adult,Other,Chicago,Kimberly Levine
+a07d91a2-f885-45b3-a675-b3812673f182,8/18/2025,US,1cf6c647-8662-4abc-9fb8-6b208f57dd6a,Bar,Electronics,150.93,5,100,15.73,Credit Card,Adult,Other,Los Angeles,Rose Williams
+af40496f-1e91-44af-a562-af31704625da,5/5/2025,US,6941bb95-a529-4038-b9c9-ab205e2dfe63,Save,Sports,387.44,1,247.26,22.99,Credit Card,Adult,Other,New York,Patrick Pineda
+67079ed4-980b-4abc-9ba4-1fb4780350a8,3/1/2025,US,00167304-af69-49f1-99a7-f0a06ec73bc6,Fund,Beauty,187.94,6,123.65,10.16,Credit Card,Young,Female,Los Angeles,Eric Noble
+16f49f75-eb6b-427c-85d5-b0453aac059e,3/23/2025,US,4aae92de-9020-4bc1-b427-104aa2fbc5f7,Until,Beauty,453.77,6,394.89,42.4,Cash,Senior,Other,Los Angeles,Anthony Ramirez
+c7a89b74-5a93-42b5-90ec-8042240d4624,5/25/2025,US,3cecd277-2160-48cc-95fd-4444c1fcd30e,Along,Sports,436.75,3,365.56,68.75,Credit Card,Senior,Male,Los Angeles,Deborah Wilkinson
+57967434-c89b-41ea-ad7d-652a68a775d0,10/30/2025,US,d618e77c-ccd0-43fc-969c-dd4e6cc2a1d0,Admit,Electronics,480.45,5,405.15,23.36,Mobile Payment,Young,Female,Chicago,Ruben Espinoza
+a28c1c5a-9ae3-4a5c-a4f5-a3080f196dc4,3/23/2025,US,576f028b-3852-4b44-862d-f72a8f730e91,Fill,Toys,181.6,4,143.06,25.73,Mobile Payment,Young,Female,Chicago,Matthew Campbell
+da9dd722-dd99-4ca5-adae-0af4d5715e0f,10/30/2025,US,ee06ec23-73df-4494-a74d-bcb9a45609a9,Church,Clothing,284.69,6,216.07,43.49,Credit Card,Adult,Female,New York,David Coffey
+1e428799-0cbd-42bb-b003-f409df9f894e,4/16/2025,US,c416f695-ea41-48cc-a712-b9434958d58d,Business,Home & Kitchen,270.51,1,203.83,53.63,Mobile Payment,Young,Other,New York,Johnathan Collins
+2754fb26-56df-4e0b-90d3-84e880bf7d6e,3/1/2025,US,549621fb-ae72-41ac-8bcb-e5c6fa22b4fa,Control,Toys,307.47,2,230.8,6.6,Cash,Adult,Other,New York,Gabriella Arnold
+084b8496-bcbd-471a-b9fb-05f9fe4a6833,12/20/2025,US,c9de707b-0d5f-4cde-923e-e891b3f6e47a,Mean,Clothing,167.83,10,109.03,6.37,Credit Card,Young,Male,New York,Elizabeth Murray
+6c92ea51-edbe-4c07-ab04-1d9d8f38c953,7/8/2025,US,76fb4f9d-71cb-44f6-92a3-3c1ed9d20bee,Couple,Clothing,219.16,10,143.93,37.4,Cash,Adult,Male,Chicago,Jason Alexander
+80925c02-2ed7-4bb3-88af-b5fe0bdddbd0,6/17/2025,US,d4b7518e-2adf-4161-87b3-61a68726cad1,Happy,Beauty,196.74,5,138.63,20.36,Cash,Adult,Female,New York,Kayla Soto
+ed56d7fc-73e6-4144-8da7-1bf50092a6e0,3/23/2025,US,2bba0ede-7467-4f60-960b-39e3c7e480d5,Cell,Sports,476.26,10,286.93,90.81,Mobile Payment,Young,Other,New York,Melissa Downs
+0e84f9b1-c469-4c60-9c88-1f753185adb2,8/18/2025,US,29e17a74-41c9-4d10-b3eb-276ac16a41d0,Prove,Sports,430.31,10,310.53,12.1,Cash,Senior,Male,New York,Wayne Wells
+e1dc8519-4e3e-44d0-b2db-00b573473e6a,6/17/2025,US,64bdcd91-32d0-42b0-8b3b-b3dbcb853565,Majority,Toys,17.12,10,11.76,2.87,Cash,Adult,Other,New York,Barbara Guzman
+09ce2d21-7f2b-4d5c-9504-bf34ddf2d319,12/22/2025,US,91f291b9-c7f0-4322-9c53-330de92f73ec,Together,Clothing,69.11,2,57.13,9.07,Mobile Payment,Senior,Male,Chicago,Elizabeth Nielsen
+8794a558-899c-444d-95f6-cc2b0463569d,12/2/2025,US,0cd948c7-5664-406d-b082-7ef47abe13c8,Health,Sports,373.71,10,243.59,60.4,Credit Card,Young,Male,Chicago,Rebecca Reyes
+8f17be0e-4189-458c-9dce-7cd029f80c61,12/2/2025,US,648222ca-662d-413d-a8b7-4a7a9869d9a5,Improve,Home & Kitchen,37.89,9,31.6,0.71,Mobile Payment,Senior,Other,New York,Vincent Vega
+6cb50723-bb92-49e2-a31e-fdfb7b95545a,12/1/2025,US,9566c41c-ef05-4493-b5c0-e3c413dcbd69,Small,Sports,166.29,4,127.85,9.45,Credit Card,Adult,Female,Los Angeles,Grace Mills
+b6949d72-15ce-4a48-bd07-89f48b89d84c,6/6/2025,US,1746dd6c-08a6-469d-9f39-d3c6aef2a17d,Player,Clothing,394.02,1,345.66,44.11,Mobile Payment,Young,Other,Chicago,Regina Gordon
+e750701b-9205-457a-81ae-556653219e7b,3/3/2025,US,da21b13b-5a0f-4164-8221-d7908d7aa42e,Himself,Beauty,348.58,8,222.37,36.59,Credit Card,Young,Other,Chicago,Michael Harris
+b1131d5a-3c59-4b59-ad75-4f985c558e4c,12/22/2025,US,bc1ea83a-88a5-412a-8311-3b3e0c20a453,Owner,Home & Kitchen,343.18,7,252.8,57.25,Credit Card,Young,Female,New York,Anna Miranda
+fbec000b-f666-4c1c-8587-58af2446acf9,6/6/2025,US,fab13580-3acf-4db0-9c44-b1622c5f3433,Sort,Clothing,248.86,2,207.32,40.43,Mobile Payment,Adult,Female,New York,Chad Franklin
+c1b59c48-5cde-462a-9f60-8bb711d7bb09,9/18/2025,US,2155d637-86b6-4ec8-92e4-a28aacbb3844,Even,Electronics,396.09,6,336.16,21.45,Credit Card,Senior,Other,Chicago,Donald Pearson MD
+7a6e93a3-327f-4acf-bedc-fb1b38749510,3/3/2025,US,db9df2cf-49d6-4d38-8877-09358c9800bc,Me,Home & Kitchen,50.48,3,36.63,2.05,Mobile Payment,Young,Male,Chicago,Alexander Perez
+2b00fc46-ef5a-4337-a46f-6059d3ceca35,7/16/2025,US,dffebbcf-81eb-4bda-a2a4-1ee252bf8934,Poor,Toys,386.66,3,292.15,77.22,Mobile Payment,Adult,Female,Los Angeles,Kelly Cooper
+5a045973-37a9-4a99-85e6-64f0cfef0374,9/7/2025,US,fd6e497c-1905-4678-8771-33e2fd211efa,Expert,Beauty,212.91,2,137.54,1.75,Mobile Payment,Adult,Male,New York,Benjamin Lewis
+7613999d-4af0-4721-ad84-1a258cd23c30,11/20/2025,US,7e44d86e-9319-4173-afd4-708c50d347d0,Than,Electronics,59.33,1,48.67,5.39,Credit Card,Senior,Other,Los Angeles,Paul Castillo
+b16b48ca-addd-4e26-8a4c-6cba3c1b80e8,11/10/2025,US,05a44456-e466-459d-88e1-37b58e60cc23,Purpose,Clothing,362.57,6,303.73,13.07,Mobile Payment,Senior,Other,Chicago,Elizabeth Carter
+0cf52c31-f6bc-4e2e-b38d-e116687d4dec,8/28/2025,US,d424c44a-fb4c-4c4b-92ad-dee289dfae66,Address,Electronics,58.14,8,42.96,9.07,Credit Card,Young,Male,New York,Michael Harmon
+bb2ff9dd-35df-47ca-819d-1e6213d9a42b,8/28/2025,US,87fe63fd-0fab-4504-a92c-f0f1c6e98988,Environment,Clothing,467.31,9,341.03,10.83,Mobile Payment,Adult,Other,New York,Ashley Kane
+8d41fa3c-0761-49a2-8f6c-e72caf909e6f,12/11/2025,US,2d5b0f16-38e1-4ee3-8edb-38ee5fb03686,Somebody,Electronics,37.15,7,22.65,5.69,Credit Card,Adult,Other,New York,Gregory Lowery
+239e52cf-1c72-401d-95dd-33419aad0535,5/25/2025,US,8d318b78-99cf-4d84-bc66-93c022622da4,Article,Clothing,398.48,6,327.5,34.94,Cash,Senior,Male,Los Angeles,Maria Underwood
+93f5c4d4-2ea3-4b02-acb8-bff29a9c12a7,7/26/2025,US,53c157ba-9134-4479-a483-9d835c78bf53,Picture,Electronics,314.47,6,193.94,61.55,Mobile Payment,Young,Female,New York,Dennis Jones
+c09c2bc0-8d03-4a35-bc25-68409ab28bb8,6/17/2025,US,fbe287a0-d4d6-40b7-97a3-f1eb029b96cc,Mrs,Sports,54.04,4,40.95,0.63,Credit Card,Young,Female,New York,Lisa Johnson
+461cf076-7fca-4444-a453-62f8e037c02b,12/21/2025,US,90e5478f-d263-4e77-a790-f58b88249aeb,International,Beauty,234.17,8,201.44,40.01,Cash,Young,Male,New York,Susan Martinez
+4b5e9b42-9cdf-4320-8bba-078e699f0bfe,5/3/2025,US,442ed488-78da-4cee-b3ce-62e9793dd3ee,Dog,Home & Kitchen,129.02,2,80,15.02,Mobile Payment,Senior,Other,Chicago,Marissa Ward
+d323f91a-d080-418c-a9f7-08192a2885e5,5/14/2025,US,0e7c850f-56a2-49ef-90f8-49cf27ffaec0,Approach,Clothing,151.69,8,120.75,19.13,Mobile Payment,Young,Female,Chicago,Phillip Farley
+1367ad45-d424-43be-979c-8d64d837c4ee,3/12/2025,US,7e31e32a-4476-4ae7-85c2-a31dc37416ac,Next,Clothing,128.65,5,99.24,12.14,Credit Card,Senior,Male,New York,Kristina Burns
+409466ad-11a5-4a9a-a3f7-cfb4b688a33c,12/2/2025,US,75bc2197-2ad8-428f-a03d-3c25d62d5661,Director,Toys,343.34,4,251.44,24.58,Credit Card,Senior,Male,Los Angeles,Alicia Goodman
+6f99694d-16e4-4212-8f13-59491ecf6370,4/16/2025,US,8bf30ede-e7f9-4253-b8a7-a2137dd2f3db,Southern,Home & Kitchen,468.51,2,336.92,54.76,Cash,Senior,Other,Los Angeles,Justin Mcfarland
+41f75a4c-1f57-40a2-8b81-f993b602a039,9/18/2025,US,95bfff88-1413-4d39-acbf-78422e011f92,Herself,Toys,107.66,2,77.93,20.5,Cash,Adult,Female,Los Angeles,David Russell
+b1a0d083-feea-445f-b089-fed9ce14618d,8/18/2025,US,805716b8-f1d2-4003-955c-5acc21ba9a28,Down,Toys,246.09,10,215.45,46.09,Cash,Adult,Other,New York,Erica Wiggins
+3504ea23-12d2-42a7-8d04-df2b4962c4bb,12/20/2025,US,9c791998-bb7a-4a47-8e09-ff48542849ad,Last,Beauty,110.49,4,70.28,3.05,Cash,Adult,Female,New York,Brett Kramer
+6cb8694e-c21e-4537-a544-ce2b1bcb38c9,4/16/2025,US,ecc6d7ae-8ff7-4b72-b1e3-45d0d7d814ef,Avoid,Clothing,443.52,1,376.19,87.72,Credit Card,Adult,Female,Los Angeles,Melissa Blake
+fc761e01-550f-45c4-80d0-b92cc97ea198,6/6/2025,US,5761f1ac-08cc-40f7-b1e3-b607efa7087f,Article,Clothing,277.68,2,210.23,29.88,Cash,Adult,Male,Los Angeles,Mr. Robert Nelson MD
+2dd8dd01-f90b-454f-b5a9-83e93decc966,12/2/2025,US,bc258a3f-4a90-49d7-90d0-442db8c7a959,Use,Electronics,410.2,10,261.94,43.48,Mobile Payment,Senior,Male,Los Angeles,David Burns
+07bea838-65b8-47b9-b10c-ba9c1f0cc037,10/9/2025,US,1080792e-a1ad-458e-9a12-013e8fb03fae,Finish,Sports,112.56,1,91.36,0.31,Cash,Young,Male,New York,Michele Hughes
+e0dbe5e6-7928-47df-bbcb-6557d2651019,6/6/2025,US,a3580df8-4e02-4ff9-8d62-06a0ac53f8ac,Condition,Electronics,421.52,3,348.62,55.42,Cash,Adult,Male,Chicago,Cheryl Calderon
+561a72ec-30a3-459c-8e28-889ea4c9fbc5,4/16/2025,US,3b07251d-0149-4a79-960b-e4523fc53c2f,Begin,Electronics,287.57,8,182.71,33.29,Credit Card,Senior,Other,Chicago,Brittany Parker
+ed58d4c9-2a89-4c7c-a8d5-eff722a9aa29,3/12/2025,US,929c7f67-a49c-4476-beec-3d9cc3dba869,House,Toys,305.41,1,228.01,40.9,Mobile Payment,Adult,Female,New York,Sophia Juarez
+de7dc17a-9d88-4c51-9f8b-df5a6453c121,3/15/2025,US,e00dd583-bcb2-4f3c-b99c-bfa17bb3b0f2,Personal,Electronics,383.59,10,237.15,69.39,Credit Card,Young,Female,New York,William Frank
+3c8bf854-5953-4d38-b50a-06282dd5cadc,7/7/2025,US,31708258-9683-4cd2-b3d6-bb25727bb4a4,Audience,Electronics,155.66,3,118.22,8.54,Mobile Payment,Adult,Female,Los Angeles,Mrs. Lindsay Griffin
+bf78f74c-824a-4b7c-8529-7136d64d96ec,4/16/2025,US,01c522bc-be94-4698-8481-ada8a7402949,Foreign,Sports,333.05,3,227.63,24.73,Mobile Payment,Senior,Male,New York,Justin Parsons
+c027c06d-13af-439e-87e2-c19e93dc40d7,12/14/2025,US,b37e764b-2ea9-45cb-a54b-b9c8b9c92d02,Decade,Home & Kitchen,336.74,2,255.68,47.88,Cash,Young,Male,Los Angeles,Amanda Webster
+ab043c2e-a011-46c1-9d4b-029564896dbf,11/10/2025,US,985fcd6c-3fba-4d02-b015-76a1b986dd39,Manage,Electronics,339.43,8,261.98,26.75,Mobile Payment,Senior,Male,New York,Charles Gilbert
+17372224-bd6e-4d0d-8570-5b6246b1b268,3/23/2025,US,3be9909d-e626-4209-88f7-0cc4280ce928,Speak,Clothing,281.36,4,171.66,1.7,Cash,Adult,Male,New York,Denise Farmer
+15fc57eb-b752-456b-aa11-3619c4d77165,4/4/2025,US,80e51684-05dd-4baa-92bf-cf96678a72db,Smile,Beauty,494.15,1,432.48,57.01,Mobile Payment,Young,Male,Chicago,Renee Cooper
+0fdd7f9a-88be-42a4-bc26-730958d8fa8f,7/5/2025,US,68e11c37-1ccb-402a-9f14-2ea718adc3b1,Apply,Beauty,359.21,7,231.4,34.05,Mobile Payment,Young,Other,Chicago,Anne Goodman
+64edee6b-3f29-4c3c-af85-ea4aab8ab4ea,5/14/2025,US,0a846e68-0247-4922-9ade-fbf1b9f7d311,Region,Toys,281.79,7,198.35,32.59,Credit Card,Adult,Male,Chicago,Martin Chambers
+edb593d7-1cfb-4332-82d7-c39643d2a9ba,2/2/2025,US,1574f314-47eb-4279-9f64-7e06a316ce7f,Outside,Toys,371.96,5,325.47,37.72,Credit Card,Adult,Male,New York,Todd Wilson
+58bae9dd-1ec6-415e-a48a-bfd343246e1f,10/19/2025,US,c1f34f6d-86f9-4751-b52f-b829793addf7,Support,Clothing,368.34,9,247.84,23.3,Cash,Senior,Other,Los Angeles,Cameron Randall
+0546763f-66e5-464e-91d2-63f2e79cd3f9,3/3/2025,US,d6cef514-2522-4c32-b2a0-0af82b7d92af,Every,Electronics,226.13,2,169.95,40.99,Mobile Payment,Adult,Male,New York,Robert Reynolds
+f474fe8d-a59b-40fe-8c4d-aaa816e5c471,4/16/2025,US,b54aba2e-dd3f-4c0f-8678-87511c7ea894,Thank,Electronics,94.76,9,75.75,7.11,Cash,Senior,Other,Chicago,Melissa Summers
+947660cf-ea90-43db-ab72-7482ef7c8b69,10/19/2025,US,e1383aeb-c285-46e3-a937-2b31550b88a0,Finally,Home & Kitchen,334.88,4,207.72,1.24,Cash,Senior,Female,Los Angeles,Jacob Gomez
+c2133ed9-9212-4ae5-b401-4058b20a0b09,5/14/2025,US,e9a2356c-f5a6-4c3e-b9fc-4104d0f26f4c,As,Toys,285.34,10,191.24,3.99,Credit Card,Senior,Male,Chicago,Maria Johnson
+b44bd5b3-5ccf-4686-90f2-bf7464f7e52b,6/15/2025,US,fdec549c-091b-49f1-a000-72b093ab6e9f,Build,Home & Kitchen,102.43,10,84.89,1.71,Mobile Payment,Young,Other,Chicago,Miss Victoria Bailey
+ab604739-8e87-45e4-a71b-b4b0bb75f8d8,7/8/2025,US,699e60f3-fb54-40f0-ac91-ef185442315f,Figure,Clothing,366.14,5,297.92,4.76,Mobile Payment,Senior,Male,Chicago,Kimberly Kelley
+f6e684a5-edb7-4cef-92d6-1c1337b3c0bb,11/12/2025,US,e3bd17a0-b824-4d84-85b4-38095fa48ce2,Trade,Clothing,347.13,9,231.36,9.1,Credit Card,Senior,Other,Los Angeles,Michael Lopez
+a92a9afc-f134-4680-82e0-92a6ad7fcc77,5/14/2025,US,46ffa87b-5d90-46e7-a827-d4c942de2ac9,Good,Home & Kitchen,386.14,7,347.36,31.94,Cash,Adult,Female,New York,Sandra Smith
+d43e812e-57b0-4486-b6be-05fcd00f4a63,3/23/2025,US,3b331373-a6bb-46da-b595-41a320105606,Again,Again,281.13,2,176.89,31.57,Credit Card,Senior,Other,New York,Nancy Gonzalez
+99dfa20e-00a0-4b10-9ac5-b6f841570fd6,7/7/2025,US,0017a1b4-72b7-4716-9bf9-21fda9d61a39,Child,Toys,57.51,7,42.25,1.28,Mobile Payment,Young,Other,New York,Christopher Payne
+e821cbaa-3d95-42d7-b8a9-6cd45255e836,9/7/2025,US,9fd24260-a228-4f19-a901-da994b7f5b86,Heart,Toys,56.3,8,39.5,0.97,Mobile Payment,Adult,Other,New York,Matthew Tucker V
+e94521cbaya-3d95-42d7y-b8a9-6cd435255e836,4/13/2025,US,9fnmd2432260-a228-4f19-a901-da91194b7f5bk86,Again,Again,281.13,7,42.25,1.28,Cash,Senior,Female,Los Angeles,Miss Victoria Bailey

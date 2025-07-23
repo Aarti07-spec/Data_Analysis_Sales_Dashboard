@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+71d30261-0036-4487-8148-090fa8473805,1/27/2025,India,f875594e-f0bd-4dcf-a044-3e6554ee396a,Seat,Home & Kitchen,392.07,9,321.87,3.87,Cash,Young,Other,Mumbai,Steven Bass
+c0fa1d1f-5cfa-41a1-ab72-a37e35f8f79f,1/26/2025,India,0b52436b-6b1b-44e0-becd-3eaefaa3b10b,Beautiful,Beauty,459.84,3,378.73,49.49,Credit Card,Adult,Female,Mumbai,Vicki Collins
+265c6ee0-7234-4f20-87e1-e82277b3b4e0,3/16/2025,India,854555b3-3a41-4ae8-96ce-041ae73facd1,Manage,Electronics,413.02,7,303.95,80.5,Cash,Senior,Female,Mumbai,Jason Smith
+14b5969e-e4bb-4bbd-aeeb-45bfd0816d93,1/24/2025,India,d94c84b2-f9cd-44ae-a5d7-49ccc64a6670,As,Toys,364.38,1,233.83,37.8,Cash,Adult,Other,Mumbai,Aaron Davis
+e2281b35-e3db-481e-a234-50b6238e0b76,1/1/2025,India,c5a84e7a-bfe8-4311-95f3-0428e3096d91,Pass,Sports,254.89,9,154.86,27.47,Credit Card,Young,Female,Bangalore,Dawn Duran
+8be32311-3f4c-4139-b3bb-c6db4b60d767,1/25/2025,India,271440b1-98b4-4145-9b02-7caadbd22ae8,Keep,Electronics,496.33,4,427.71,91.24,Mobile Payment,Adult,Female,Delhi,Cindy Odonnell
+56c6d308-0944-4d97-8b9e-4c16ac544a66,1/29/2025,India,8eb6c8f8-3cf4-4e04-b970-4c400a0ea207,Information,Beauty,16.15,1,13.16,1.12,Cash,Adult,Other,Bangalore,Valerie Hill
+d8a14a13-07e0-4c9c-be83-a18cbb48b1af,1/19/2025,India,d0078e09-1560-4e57-b9fe-5b2bd8c308b5,Attorney,Electronics,347.96,5,291.99,39.53,Cash,Adult,Other,Delhi,Melissa Wood
+0b2a0f1e-5232-40c3-b789-408474902424,3/16/2025,India,05c48bcf-694f-4379-8115-0709070d8d4f,Third,Home & Kitchen,312.54,8,189.48,50.31,Mobile Payment,Adult,Female,Bangalore,Michelle Fields
+cbc8de20-95b3-47d8-a56d-ea1b7c6615e6,1/31/2025,India,cc9e2e56-c383-48d6-aad5-dabed3073ee6,Just,Home & Kitchen,277.85,1,210.02,47.59,Credit Card,Young,Female,Bangalore,Sherry Guerrero
+58301db8-5430-445e-bfad-cc03f2c85a26,1/30/2025,India,06f4b564-e4cd-47e9-b979-92c219fb05fe,Doctor,Electronics,486.17,6,387.24,62.51,Credit Card,Young,Female,Bangalore,Gary Murray
+84fce6bb-2b4b-4f22-b7d7-8dcded616c98,1/26/2025,India,f08ab83d-9a4a-48f7-9f5c-2510c0e6e9e1,Heart,Clothing,252.54,2,194.78,4.5,Mobile Payment,Adult,Male,Mumbai,Cody Wright
+d62862ba-4751-4cc7-8c56-ed03974772db,1/15/2025,India,92f5cedb-5c01-4696-8390-286d7c930496,Nation,Home & Kitchen,466.17,5,309.57,33.94,Cash,Young,Other,Bangalore,Allen White
+411c5ec4-c610-4e4b-b024-94e23ebd0040,1/9/2025,India,322d6933-9837-4d82-9745-8713a00091e4,When,Electronics,191.91,3,168.71,18.67,Mobile Payment,Young,Male,Delhi,Tony Murray
+b3cd3851-c18a-46ee-8227-e6aa7b9fda98,1/24/2025,India,3c374d5b-01c0-46fd-a6a9-4a4cf8aa947d,Military,Beauty,237.9,4,150.63,4.9,Credit Card,Senior,Male,Delhi,Scott Gray
+4b68d8d9-7e97-45e4-875a-ea2b1e1a15b3,1/30/2025,India,6e675fb7-b58c-4629-8e7c-51a898c611d0,Any,Toys,496.83,7,416.98,71.55,Cash,Young,Male,Mumbai,Jennifer Johnson MD
+c4e4af66-4858-4c46-8209-35c91d3db618,3/16/2025,India,5a891cad-5b34-4f07-bde6-dbc8f1ccdc0a,Remember,Clothing,38.5,7,25.28,1.11,Mobile Payment,Senior,Other,Delhi,Danielle Hamilton
+454c0ddd-e3ca-41a8-9a6b-c5090976c41f,3/16/2025,India,98b167f0-f0c3-4b3a-9040-ac889250a311,Rock,Toys,162.24,1,108.76,31.76,Cash,Senior,Female,Bangalore,Matthew Johnston
+8d367da9-2ea6-428f-83ac-5b2859bb3e77,3/16/2025,India,698671c8-907c-49eb-ace9-e3487ed6da61,Pretty,Home & Kitchen,226.43,9,144.56,13.64,Cash,Young,Female,Delhi,Samuel Williams
+91c347f4-5e28-4af8-8ea4-967d3c1f5b1b,1/1/2025,India,34265d05-7bba-4647-a9a8-0795915032ba,Level,Beauty,286.07,8,242.62,30.96,Credit Card,Young,Male,Delhi,Vanessa Morris
+34368083-288f-42d8-9f7d-a7e0ea783e67,1/5/2025,India,40992752-2b26-4b3e-89c5-f59176b8f730,Letter,Sports,333.2,9,201.15,48.57,Credit Card,Senior,Female,Mumbai,Richard Moore
+36122594-0d53-4528-89e6-3ac3a46b85b5,1/12/2025,India,4a2bac84-f48b-4efe-a18a-fd339c6c78e3,Probably,Home & Kitchen,431.89,8,320.67,46.29,Credit Card,Senior,Female,Delhi,Elizabeth Brown
+97aa23ff-7c10-404d-9806-362cc1ebb146,3/16/2025,India,a15ec27e-bd30-43e3-bae3-8eb9820b43ee,Answer,Toys,370.62,1,315.58,40.36,Credit Card,Young,Male,Bangalore,James Weber
+191508f5-7376-4ace-9d9a-d4f1d78471fe,3/16/2025,India,c9f6eb5c-b6ce-4994-b5a9-41829c56f858,Decision,Beauty,379.7,6,243.21,8.39,Credit Card,Senior,Other,Delhi,Alex Gutierrez
+e1bb5ebf-f1fb-4a11-a989-1001b91b206e,3/16/2025,India,01a9d943-0b49-4362-9063-e1d5f0202ad0,Customer,Home & Kitchen,213.63,8,154.91,15.52,Cash,Adult,Female,Mumbai,Michael Roberts
+3307ed5e-351f-4369-8d2e-1341887f7d1d,1/6/2025,India,fef00b3e-314a-46ef-a09e-0fdce8ea5c6f,Beat,Beauty,121.38,3,78.48,15.8,Cash,Young,Male,Bangalore,Michael Butler
+8cc41ae1-9bab-41bb-8ff7-42f59723da08,3/16/2025,India,c02c73c2-30ed-47d4-a9d5-4ba1f0ad4d74,Article,Sports,435.19,6,376.34,60.1,Credit Card,Young,Male,Delhi,Dennis Charles
+adbc8429-88c9-4fc6-b016-725b07443df1,1/21/2025,India,08604fa7-f63e-46da-9ad2-da61a9b33506,World,Electronics,33.13,5,29.41,5.27,Cash,Senior,Male,Delhi,Thomas Smith
+6225df9a-9058-42dc-a106-20040a286fa0,1/14/2025,India,11fb77cf-fa39-4998-a1f8-bd3658005477,Gun,Clothing,287.3,2,232.75,30.6,Cash,Senior,Female,Mumbai,Charles Williams
+81adcdf1-d0a8-4040-b18f-d34bcaa7644e,3/16/2025,India,1bd4eff9-794f-4552-b179-c190600af0a4,Itself,Home & Kitchen,23.21,3,15.92,1.46,Cash,Senior,Male,Mumbai,Angela Payne
+837dc40e-63ff-4cd2-89a7-60f52f6c6832,1/20/2025,India,52897f72-4185-4fba-b40c-f2d8fe22a1a6,Support,Toys,383.24,8,267.35,66.09,Mobile Payment,Young,Male,Bangalore,Donald Myers
+9261886b-3b69-4dae-a5e1-7259b188aff6,1/11/2025,India,a0d20dd2-5a31-4c77-8c6c-3b7ef1baa232,Professor,Sports,375.36,9,323.36,15.79,Mobile Payment,Senior,Other,Bangalore,Nathaniel Torres
+911ec5a6-a1da-482c-a9a4-f2ddd8aaba40,3/16/2025,India,3b92a369-5511-4527-a2d7-42c50f55f24e,American,Clothing,105.19,8,75.02,5.27,Credit Card,Adult,Female,Bangalore,Stephen White
+871de8ac-1150-42d6-85d8-b34b423fc596,1/10/2025,India,9a0e0153-760b-4a9f-8676-f62440ff8878,Significant,Beauty,276.36,2,246.23,54.66,Cash,Senior,Other,Bangalore,Robert Carey
+d648fc4c-b485-498f-abbf-b41d59c2ee54,1/18/2025,India,760634cd-0243-4721-9311-17f9fb434dca,Personal,Toys,333.23,1,221.51,49.17,Cash,Young,Male,Mumbai,John Ward
+a1bcb585-e0e6-42c1-b068-126c317c9009,3/16/2025,India,b263b364-d401-4853-94eb-c5538faa229a,How,Electronics,263.78,1,208.78,30.51,Credit Card,Adult,Female,Mumbai,Ronald Payne
+20a1223d-5056-4f61-bf40-0f81264698c7,1/1/2025,India,b9321191-dbd9-4852-bd3d-26a5b0f23118,Page,Sports,160.58,5,106.44,11.75,Mobile Payment,Adult,Male,Mumbai,Terry Evans
+d09e229c-cd12-4651-a9b2-85f1096f8c63,1/15/2025,India,adbcf894-5b7a-4fb5-ab5d-12e606af852b,Low,Clothing,351.07,7,266.11,1.82,Cash,Senior,Female,Bangalore,Amy Levine
+da4e254c-46d7-4d66-ba14-8c13db317aa9,4/18/2025,India,8529c58c-a185-4f0c-89c3-1901646567a9,Whole,Beauty,224.54,10,192.22,44.13,Credit Card,Young,Female,Bangalore,Laura Tran
+07d5e27b-0bf1-4e17-be85-667d88f94974,1/14/2025,India,dd71f875-14cb-41ff-8a2c-865df9d8e68b,History,Clothing,150.37,7,94.74,27.79,Credit Card,Adult,Other,Mumbai,Robert Lowe
+741aa9e5-94a7-4eb6-b201-8704cbdb2fd2,1/6/2025,India,3521f77b-90a3-44e2-9dc6-c06fb09afd12,Case,Electronics,137.84,8,123.27,22.21,Cash,Senior,Male,Bangalore,Debbie Barnett
+bb2995af-7a9a-4c99-be2e-9b22e5dfc602,1/28/2025,India,df783c16-5e9a-42c4-a795-b8972419eaca,Foot,Sports,303.91,8,202.69,57.27,Mobile Payment,Adult,Other,Delhi,Dylan King
+005e0ad8-c5a2-4130-99eb-58af6d96317a,1/28/2025,India,00034cad-c0ba-4907-84c5-76fe16f632fd,Democrat,Beauty,60.9,3,49.45,10.54,Cash,Senior,Other,Mumbai,Michael Frey
+c85a2243-8144-45ee-b453-db7593fe3a7a,4/18/2025,India,8f841d5d-6614-4c8d-bc72-8b23c6b69006,Free,Toys,225.5,2,146.02,25.42,Credit Card,Adult,Female,Delhi,Erin Solis MD
+21c54234-f9e4-4b6f-a20c-c3581cf5bddd,1/14/2025,India,f22efee2-b0b7-44e8-b446-469e63c53003,Direction,Clothing,281.7,1,225.65,25.25,Mobile Payment,Young,Male,Mumbai,Chelsey Phillips
+13e18668-b910-468f-ab36-7fca21b7f7b5,1/29/2025,India,5e8376f0-9f2c-4008-923c-37ecee4ca6e1,Before,Sports,46.49,8,36.56,5.42,Mobile Payment,Senior,Other,Delhi,Taylor Reed
+f5d266eb-13dc-4cce-adf5-87e84b3c5c3f,1/10/2025,India,fb111316-3962-4412-8b50-f9d4b547f380,Ever,Sports,185.69,4,114.41,13.94,Mobile Payment,Adult,Female,Mumbai,Gregory Bonilla
+9dbe213c-fc1e-488d-a0af-a188f87074cc,1/23/2025,India,e8df056d-1ac0-4a80-a8fb-64e22237fe6b,Have,Electronics,256.31,3,158.44,15.66,Cash,Young,Other,Mumbai,Chad Scott
+7b742814-d3d9-4e17-949f-ce0aedd1ea05,4/18/2025,India,565a7cf0-ffe6-4299-9201-0df6dfa8d137,Positive,Home & Kitchen,10.21,3,7.27,0.08,Cash,Adult,Male,Delhi,Matthew Jacobs
+0deae8ec-89d6-4623-8ae9-4ab3592d1be0,7/16/2025,India,4835dbb1-cea4-4096-bb89-36488a30ceb5,Probably,Electronics,215.28,9,146.38,12.04,Mobile Payment,Adult,Other,Delhi,Christopher Jackson
+c82aa438-9654-4f81-8459-274cebbf2582,9/8/2025,India,52748ddd-eae6-4013-80e7-d0e904ebe71e,Feeling,Toys,352.68,8,213.46,50.93,Cash,Adult,Other,Bangalore,Christine Perry
+1ae25f59-092e-4291-b981-8eb257632005,7/8/2025,India,8bf68160-3bb3-4432-b768-2b5f2f9aa3bf,Activity,Electronics,382.98,7,260.87,45.09,Cash,Senior,Female,Bangalore,Sara Lopez
+9a2e0fe0-7b9e-4698-bfb7-93898c0f3f99,12/14/2025,India,54d913ed-a1f3-44d3-bfbb-363c4dd84cdd,Beautiful,Toys,296.21,9,196.32,20.77,Mobile Payment,Senior,Other,Bangalore,Monica Hayes
+37c5737f-f809-4ebc-8cd4-dfb361d4ee5c,11/20/2025,India,fa17b2de-0dc9-4ea0-a012-f3ae6cdca427,Tend,Electronics,372.89,2,274.24,7.13,Cash,Senior,Female,Mumbai,Christopher Morris
+51bb6ace-ad78-4acd-b2e0-c138ccbb22c8,7/16/2025,India,5dec0bb3-d90d-4485-b755-b21c3fd72c92,Star,Toys,130.51,6,79.05,4.67,Cash,Young,Female,Bangalore,James Fisher II
+b748217e-dfe5-4b4e-b0e6-784545ff5a6e,12/1/2025,India,c8c8d9d6-396c-413d-8d82-8b91f265176e,Standard,Beauty,367.05,7,223.01,66.73,Credit Card,Adult,Male,Mumbai,Peter Novak
+2e9e4034-597b-4133-9664-71648c475dd8,9/10/2025,India,b4d85647-4cc4-4e63-9e7d-51269d2de20e,Ok,Toys,29.48,5,26.19,1.51,Credit Card,Young,Female,Delhi,Nicole Jackson
+5f877a03-f20d-4821-b658-ac6478004c72,11/20/2025,India,cae07ae9-8d1e-42ef-9ab5-3a3396276a8a,Pay,Home & Kitchen,376.26,2,290.1,26.84,Credit Card,Adult,Male,Mumbai,Sonya White
+ef1ee64b-b951-4056-a90e-283b64fb18b3,11/20/2025,India,fe157171-ceb0-4dca-a479-387198e6a2bb,Economic,Sports,35.42,7,29.82,3.37,Credit Card,Senior,Other,Delhi,Gary Joyce
+8ef04c3f-8f05-4238-b8b6-f1f3e450c0a9,12/14/2025,India,5b3b828e-ddae-454f-a009-504b18ac84be,Store,Toys,346.62,9,279.68,66.99,Mobile Payment,Adult,Male,Mumbai,Dwayne Miller
+facbe0d8-182b-43cc-87ac-1a3885c681a2,6/6/2025,India,5cbd8aec-694a-4348-9d56-57362def5a65,Least,Clothing,85.96,4,67.21,11.36,Mobile Payment,Young,Female,Delhi,Penny Lee
+44f3765e-577f-465d-99f7-dca2f3408829,5/3/2025,India,33060f7e-f961-4c62-ad82-3cf7e62ba3cb,Son,Home & Kitchen,116.44,7,74.68,15.66,Mobile Payment,Senior,Male,Delhi,Donna Martinez MD
+e3b78e8d-2133-47fd-a6aa-46a6f97511c2,11/20/2025,India,4c208f5a-0090-45fe-9a1e-fd992a1d881d,Respond,Clothing,498.75,7,302.96,54.79,Mobile Payment,Adult,Female,Delhi,Sherri Taylor
+2e0b1b9e-9888-46b7-b76e-e9e839837f3e,12/22/2025,India,31e06ba1-ece7-4196-98cc-5f635210c43b,Call,Home & Kitchen,435.09,2,303.43,12.24,Cash,Young,Female,Bangalore,Dr. Barbara Hansen
+729feee9-605e-4e66-ba57-cf2df175ca64,11/20/2025,India,6753cc03-6385-4288-b733-96a3c990e0af,Ahead,Toys,160.43,9,113.51,4.49,Mobile Payment,Adult,Female,Mumbai,Jaime Santiago
+16bd171b-452c-40eb-82bf-1381a72e0776,9/19/2025,India,9091af7d-51dd-4f5f-8f88-be96edab948b,Determine,Sports,22.83,7,19.38,3.75,Cash,Young,Female,Mumbai,Robin Walsh
+f6f450e4-0799-49f8-8909-143030a59516,7/26/2025,India,0acbb6d2-0591-4a43-85d7-2094954a3c1b,Turn,Home & Kitchen,483.51,5,379.51,58.48,Cash,Young,Male,Mumbai,Brad Murphy
+4b73df60-53c1-4b49-bf56-0e1bbf1f8e65,9/18/2025,India,451f4f73-eadc-4974-a35c-11096c4a13a7,Their,Toys,199.84,3,159.58,18.55,Cash,Young,Male,Mumbai,Justin Sampson
+37b59ccc-fc17-4c23-a702-7fa08eeaed82,5/25/2025,India,d51cf6fa-e2e8-487d-ac5b-b6f7062cf285,Shoulder,Electronics,390.64,2,289.76,5.86,Cash,Young,Female,Bangalore,Melinda Ortiz
+484a6176-9a10-4c01-9cbf-94b62766ec19,8/17/2025,India,ae0858d6-43b4-40f5-ac74-046895c72fb4,Themselves,Home & Kitchen,260.41,5,169.72,31.03,Cash,Senior,Male,Delhi,Hannah King
+c6a125c6-b264-403c-96f3-b191d09465f0,5/17/2025,India,46efb6b7-eccf-49d0-93d4-ff9cb64dbe18,Into,Electronics,24.18,10,14.83,2.36,Cash,Senior,Other,Mumbai,David Baker
+6de9b8d2-ec44-4fab-ad98-ace1cf22511e,7/16/2025,India,d887616e-3da9-4d52-9187-10d2d327e854,Though,Home & Kitchen,405.63,5,323.3,66.03,Credit Card,Adult,Female,Mumbai,Angela Hunter
+f7667196-8861-47d5-ba83-37d8315b49ad,12/14/2025,India,92ab7b45-cd74-4e87-849a-dd2e69537e00,Short,Home & Kitchen,260.33,2,217.78,24.19,Mobile Payment,Adult,Female,Mumbai,Derrick Davis
+89ffe839-2336-47ae-9fe3-55c3a5eed2ba,7/26/2025,India,84474e07-febe-47e6-88bd-d7a69a63fc29,Bag,Electronics,143.08,1,95.86,25.01,Credit Card,Senior,Male,Delhi,Joshua Garcia
+458f9e7b-b52e-4e3c-91a8-e389a541edbb,6/6/2025,India,46345cbf-db66-4d67-9c87-b66e3d675e7d,Activity,Toys,317.13,7,254.81,44.09,Credit Card,Adult,Female,Delhi,Michael Kennedy
+afdcd1a7-fcef-4669-aa8b-fb41d8a99956,11/20/2025,India,d631f1f9-ed02-4dfa-8eb3-3191c15b23fe,Simple,Toys,90.69,7,56.99,9.65,Credit Card,Adult,Female,Bangalore,Mrs. Kristen Garcia
+fead1db9-2037-47fb-bb46-ad68d132af4b,5/17/2025,India,e968063e-f675-4342-bbe4-3436d99c93ff,Group,Clothing,79.07,9,56.64,0.78,Credit Card,Young,Other,Bangalore,Brian Hendricks
+0eaf1464-1b05-4a57-b403-55d92da914a9,4/24/2025,India,73ee8829-a2b3-4c28-b860-00b9fd1303a4,Foot,Electronics,81,4,62.49,1.34,Credit Card,Senior,Male,Mumbai,Julie Moses
+81212931-069b-4dac-b745-9a7664ab4c69,3/3/2025,India,5a83a732-59ad-4ac6-9fd9-748e0b8c8087,Small,Home & Kitchen,257.12,6,225.08,33.78,Mobile Payment,Adult,Female,Delhi,Erin Bishop
+b86fd8cd-b042-45ce-90ef-c6caa35cf8b2,10/11/2025,India,9b64520d-3bcf-4cab-8832-20dfad8590f7,Material,Clothing,228.21,5,190.59,4.8,Credit Card,Adult,Other,Delhi,Julie Phillips
+77a71c0f-ab36-4ca4-86af-5181db30487c,6/4/2025,India,022d8494-6822-4a79-879f-bb856f8359c1,Store,Toys,435.61,4,313.74,85.35,Mobile Payment,Adult,Male,Mumbai,Travis Fernandez
+98c9d74a-4ebc-4dc8-9260-b698cb3c7f28,3/3/2025,India,4586bca3-98d9-4f69-a738-49dd1630f717,Either,Electronics,339.35,7,221.06,28.47,Credit Card,Adult,Other,Bangalore,Thomas Avila
+18e06c47-ede8-4df1-9fce-7e26839b9474,3/3/2025,India,f60bbfbe-c64d-4ded-8f73-75e987a6aa26,Over,Sports,297.47,7,260.81,35.93,Cash,Senior,Male,Bangalore,Ashley Miller
+cd1c07b3-8655-4f98-88fe-48ff17d1a081,5/3/2025,India,f2c34c73-b0de-488f-9731-35bc17bcdacc,Court,Clothing,55.96,2,36.11,6.06,Mobile Payment,Adult,Female,Bangalore,Christopher Stewart
+5d290a18-159d-4436-9b6b-d6a03015923a,12/31/2025,India,b3142791-3594-40d7-9013-d2ee90f43305,Back,Electronics,145.07,5,117.76,18.29,Mobile Payment,Young,Female,Bangalore,Jason Hubbard
+bdb25e2c-862d-4758-9df7-82f25e0bc83e,4/24/2025,India,a8e8c3a4-9466-445c-b008-58eb2cc50292,Down,Toys,211.62,6,162.04,36.6,Credit Card,Adult,Other,Mumbai,Mr. Eric Fowler
+433a572a-2eee-4b39-9aaf-38c68469b3ab,4/4/2025,India,644327d3-6aef-438c-a9b4-ba80740097b3,Mean,Sports,130.76,3,110.29,9.69,Credit Card,Senior,Other,Bangalore,Adam Phelps
+3616151f-2875-4771-a2e6-6e3a6012ee9c,12/13/2025,India,622aeb7e-f58e-4818-9a30-bddbf41297b3,That,Sports,30.94,3,21.01,6,Mobile Payment,Senior,Female,Mumbai,Debbie Stein
+74b840e5-4fe4-4af0-80e4-ecd157525dc3,8/6/2025,India,88cb0e21-7100-4f97-8d2c-9660eca7d333,Identify,Sports,24.22,9,18.53,1.5,Credit Card,Young,Male,Bangalore,Lisa Lawson
+a6a0f76b-52bb-42bd-86a0-7a15f1727982,12/1/2025,India,85badd15-6f62-419a-8a11-69714dfeab92,Activity,Home & Kitchen,438.84,5,283.71,27.11,Mobile Payment,Senior,Female,Mumbai,David Fields
+95b0fa28-243f-4fb9-9e8d-3c40fbac0a64,12/14/2025,India,61418022-b9b3-4e03-98ce-f12e11a26b58,Author,Clothing,367.85,5,258.22,10.45,Cash,Adult,Female,Mumbai,Michael Brennan
+b4ab0fcd-67a6-46e6-818c-729f4fe5ec67,8/6/2025,India,5cb9d8bd-ee79-427c-90a1-5f0a399fae00,Research,Sports,264.06,9,170.65,2.4,Cash,Young,Male,Mumbai,Katherine Gonzalez
+38a4b61c-1509-430c-9a80-9d162a07c8ef,8/6/2025,India,f93f4a40-0fba-4b24-bff7-8b97d8dff986,Sense,Sports,174.19,2,137.56,18.1,Cash,Young,Female,Mumbai,Brandi Mcgrath
+3d7b2bca-9ff2-4fca-8dff-f132f4fdee87,7/7/2025,India,9d847ef7-0e2a-4c5a-a3b2-71c5fe6fe0fa,Consider,Clothing,376.98,7,278.64,54.25,Mobile Payment,Young,Other,Delhi,Aaron Le
+e6a44121-335b-4699-bf1e-86a5c66a1f49,11/10/2025,India,1dd5350a-e934-457e-b487-eee5fd89f637,Sit,Clothing,253.58,6,185.84,45.37,Cash,Senior,Other,Bangalore,Zachary Glass
+be4d6b58-2892-4039-a2f1-e0347805335e,12/2/2025,India,97007810-9597-4e31-9a00-284b0dc4e96c,Ground,Sports,54.16,8,41,10.08,Cash,Adult,Male,Delhi,Janet Reyes
+b36790c2-134c-4edf-8769-f548189e8b04,6/15/2025,India,b9e2c882-f2f4-417c-a257-195c9b3034e6,Pm,Sports,224.54,8,156.41,43.38,Cash,Young,Male,Mumbai,Daniel Schultz
+6327f6de-e257-401e-aae3-83b13f934c4f,6/15/2025,India,49cd632e-ecf4-4cf2-bc6e-b70e11cde9d8,Certain,Electronics,237.31,3,206.23,29.52,Credit Card,Adult,Male,Delhi,Erica Moore
+b0b4d4db-fe68-4417-8346-58e17ea57c5e,3/23/2025,India,74866afd-e3c9-4305-9a64-7864688b1b3d,Lot,Clothing,206.52,3,146.07,11.76,Mobile Payment,Young,Other,Mumbai,Karen Williams
+3483d837-f6d3-454d-98c0-8d658032861f,4/4/2025,India,8a25e395-cddd-44e8-b0fc-a697e5d82467,Group,Sports,309.85,5,216.65,16.65,Mobile Payment,Young,Other,Delhi,Zachary Wilson
+8be279c2-adab-4fbe-ac75-7f2c5007aea7,5/17/2025,India,b2538706-4b07-4474-bcfd-3554749616b8,Service,Sports,243.62,6,181.85,3.65,Credit Card,Young,Other,Mumbai,Ashley Palmer
+29336beb-c55d-458e-8c99-f8c5b1ea7eb7,11/12/2025,India,e5cca638-d92e-4a11-9024-59139690f8a7,Information,Toys,44.99,2,29.88,2.61,Cash,Adult,Other,Delhi,Lisa Hunt
+04fb3d97-ec56-418e-ab6e-15097928583b,12/1/2025,India,07d58b7c-ae81-4446-8ef7-827022e7224e,Spring,Toys,418.62,1,312.73,10.12,Mobile Payment,Senior,Female,Delhi,Donald Finley
+fa701c20-fb6d-4a40-be33-e0f8a7c46466,11/12/2025,India,8ee74a06-9dc7-484c-b490-1ec85604ae16,Issue,Home & Kitchen,30.74,8,21.65,1.27,Cash,Young,Female,Bangalore,Brittany Williams
+c8bbd116-bb3a-4a8e-97de-e4df8cf2071d,3/3/2025,India,b2de2f2c-d325-464f-9c7c-7b44139c2cc8,Success,Clothing,484.26,6,313.28,15.29,Credit Card,Senior,Other,Delhi,Louis Sawyer
+9eaa2bac-1136-46a7-b8d0-b311cde9142d,12/2/2025,India,cf1eda99-76b0-493d-88b1-2052f33a19d8,Various,Toys,421.28,10,324.73,8.75,Mobile Payment,Adult,Female,Mumbai,Melissa Rice
+b453c58f-c126-41fb-b85d-232c40e41d4c,7/5/2025,India,23d9e53b-757b-4658-8c2e-5d3fca3f81b6,Music,Sports,327.86,6,264.41,47.79,Cash,Young,Male,Bangalore,Steve Johnson
+2a75ad48-0d70-4095-9814-f580f306fbba,7/27/2025,India,2df58a99-5507-4f94-8f63-0a19ef6fc085,Large,Clothing,276.32,6,234.64,45.45,Credit Card,Adult,Female,Bangalore,Kimberly Mcintosh
+e3fca40a-6057-41ba-acf6-c006b6b8852b,10/11/2025,India,0ce890aa-ec35-47eb-b2d6-656e8013d20e,Chair,Home & Kitchen,489.1,3,419.86,53.65,Cash,Adult,Other,Bangalore,Christina Ross
+6a8ece9d-b1f2-49b6-b615-1d471a82a8f5,5/17/2025,India,7deedf5d-b86c-4d00-a9b9-48871ed59148,Democrat,Toys,335.37,8,232.39,20.84,Mobile Payment,Young,Female,Mumbai,Janet Walker
+59ec4310-b379-45e7-85db-6722e2412837,12/2/2025,India,d1ef0e3f-32e6-4f2b-8b6c-6a7b7e72e2bf,Model,Toys,146.47,1,126.12,26.44,Credit Card,Young,Other,Delhi,Rhonda Ayala
+209e5459-35ce-4436-90f3-32bea071b9f0,5/3/2025,India,856efa1c-954a-4355-b768-0278a4fb23d6,Organization,Toys,216.16,7,172.64,27.8,Credit Card,Adult,Male,Bangalore,Stacy Fleming
+6dee5c3c-323b-48f6-8488-44030a57b426,9/19/2025,India,0cbcf680-3c1b-41d7-b35f-dad602dbd040,Investment,Clothing,357.26,8,310.01,32.93,Mobile Payment,Senior,Female,Bangalore,Robin Hendrix
+1714ee94-f973-4523-b157-a14a8d2c794b,7/5/2025,India,9d4780e4-f198-47fb-abb2-83654fad86fe,Under,Beauty,209.07,2,150.04,8.63,Credit Card,Senior,Male,Delhi,Laura Warren
+0bdb9c63-3d0f-4dab-a4d8-e1958da7788d,9/10/2025,India,5a779376-4033-4265-896a-753779981c39,Live,Home & Kitchen,94.88,4,72.87,18.87,Credit Card,Young,Other,Mumbai,Marc Reyes
+55a6b49b-d19c-482e-a331-1f6f1cb04a35,6/6/2025,India,12c8ed12-ac37-497e-b1f4-163c290cb007,Total,Home & Kitchen,50.04,4,43.11,2.18,Mobile Payment,Adult,Female,Mumbai,Nicole Dorsey
+1d678237-b5ff-41b7-9330-9ac2c5226382,9/8/2025,India,f39f470a-264f-47a1-aa87-110518d3f896,Time,Beauty,380,1,300.62,11.59,Mobile Payment,Young,Other,Bangalore,Carrie Hughes
+97dc86fb-93fb-4652-8be0-9aca75c2a5cb,9/10/2025,India,aedb793c-3d8f-4b2d-b5e3-50710032c0d6,Which,Clothing,57.98,8,48,0.48,Cash,Adult,Male,Delhi,Thomas Graves
+95e96982-c20e-4379-8706-63ab5d1f0d28,10/30/2025,India,d39767ec-25e3-408f-9c85-ff1847022729,Forget,Home & Kitchen,334.79,5,235.98,54.06,Cash,Young,Male,Bangalore,James Gibson
+e5a7392c-d564-4f1e-a473-9619343d1a09,9/18/2025,India,cbea4410-d107-472a-96f2-430769b87b52,Positive,Toys,393.05,8,271.66,4.64,Cash,Senior,Other,Delhi,Danielle Burns
+9be68974-6fe3-44f0-aaad-fff274bee860,11/12/2025,India,db45ed34-ef99-4526-ba94-d60a8eb133fd,Already,Electronics,218.71,6,171.57,15.04,Mobile Payment,Young,Other,Bangalore,Regina Clark
+6f52c60f-4243-421a-8fb3-99c8dc3a03bb,9/10/2025,India,05b968d6-7f83-42d0-b288-6f999711aa7d,Identify,Beauty,79.47,5,60.59,12.8,Credit Card,Senior,Other,Delhi,Meghan Strickland
+ffc438a5-42d1-437a-90fe-05e21e138a38,8/28/2025,India,df235069-11bc-45d7-9833-7b5a03621196,Organization,Sports,175.08,5,120.12,2.78,Credit Card,Senior,Other,Bangalore,Brian French
+468d2a7b-cb85-4bf8-a680-86b6eea9b00c,9/18/2025,India,32fce3e7-02ad-4648-b388-8edc0f00b4a0,Ready,Sports,130,4,78.2,23.46,Mobile Payment,Adult,Female,Delhi,Amanda Morrow
+b39eb651-6613-4b37-aa44-4e6a24fb2047,9/10/2025,India,a1d21d89-8745-4b15-9f91-935eef343ddf,Hard,Home & Kitchen,118.8,3,80.19,11.86,Mobile Payment,Adult,Male,Mumbai,Danielle Wong
+6b881055-237d-475a-b416-5e9dd62ab2c0,12/13/2025,India,c07de767-698a-4d19-9208-2d5e6318f40a,Black,Toys,60.06,8,50.91,3.23,Cash,Senior,Male,Mumbai,Martin Owens
+61f11cc4-2b90-4448-b647-fc15e32b7ba6,10/9/2025,India,da490668-f324-4b95-8106-527f1899b068,Act,Beauty,341.82,6,263.75,10.47,Credit Card,Young,Female,Mumbai,Matthew Smith
+2ac70eb4-939a-4b16-8127-b9e597002b1e,12/14/2025,India,1d2056b9-b968-4431-a50a-1319403639d8,Arm,Home & Kitchen,360.75,5,220.35,67.14,Credit Card,Adult,Female,Bangalore,Patrick Gutierrez
+2cda1829-5950-47a7-a015-4629868827f4,11/20/2025,India,43877927-02b8-48e5-8bbf-7a950b0400b7,Around,Toys,288.36,3,187.24,9.5,Mobile Payment,Adult,Other,Bangalore,Sherry Moore
+643bcebc-e755-44a4-a0a4-0fd2bb115f67,7/16/2025,India,de87b36e-d261-48b1-b3f7-10dc094e84a5,Hope,Electronics,364.1,9,279.22,25.75,Cash,Adult,Other,Bangalore,Danielle Clarke
+ef6b2f65-187d-4a69-b260-4239ab36f88b,8/17/2025,India,432b60ca-cf14-4c0e-a4c2-c2a6ebeaee16,Phone,Sports,76.49,1,53.9,15.26,Credit Card,Young,Female,Mumbai,Michael Ortiz
+20d34e5d-c7c4-42de-bd71-e51b3f482696,10/30/2025,India,76ea34cf-b733-4979-b68a-68873891b0b0,Affect,Clothing,255.23,3,153.64,9.66,Credit Card,Senior,Female,Mumbai,Ricardo Barajas
+dbbda4f9-8c7e-46f8-b2b4-1dfe05eda36b,9/8/2025,India,203ee079-49ce-4457-8e11-a42591d9c89d,Year,Beauty,321.23,3,281.06,8.75,Mobile Payment,Senior,Male,Delhi,Isaac West
+f50fb914-5ae2-4283-8bc5-b54154a7ed17,12/22/2025,India,59b8a20e-7db2-4a97-a115-e864e94c1651,Increase,Home & Kitchen,280.7,6,188.57,38.91,Mobile Payment,Adult,Other,Bangalore,Jonathan Rodriguez
+b644f4ab-d50e-4643-bf43-1aa8e134b844,9/10/2025,India,54989ade-d863-4ab9-9455-ece9881da742,Class,Clothing,462.56,7,293.46,54.85,Cash,Adult,Female,Delhi,David Jensen
+26a53805-5430-4974-b468-9704139b4db8,12/13/2025,India,fa858131-e01a-4f80-b74e-ec4b708a0734,Thus,Sports,204.38,5,178.54,26.9,Mobile Payment,Adult,Other,Mumbai,Jacob Jones
+8a90e7c9-ff67-44a9-b363-90e064e52151,7/8/2025,India,e2bc05a4-2440-42fb-be99-bacf041c7dff,Choose,Sports,377.43,1,338.05,36.63,Mobile Payment,Adult,Male,Mumbai,Valerie Pham
+5c731d3f-3465-45f8-9444-839570f2a821,8/9/2025,India,4bc5d408-50f4-48d5-9e04-a62e9a70262b,Price,Sports,176.47,9,146.72,18.45,Mobile Payment,Young,Other,Bangalore,Richard Atkinson
+5afe64c7-a8ea-4b47-80ef-93fdb2dba746,12/22/2025,India,9f65a661-8191-466d-b235-d2a832a7a5e5,Then,Home & Kitchen,357.95,6,288.3,36.31,Mobile Payment,Young,Male,Delhi,Mrs. Sara Taylor
+2d40ce17-63a4-48a6-8f83-737c4851322b,6/15/2025,India,404e889f-6e48-4027-bf38-b27a3d73ccdf,Law,Home & Kitchen,117.33,6,103.67,5.55,Credit Card,Young,Female,Delhi,Lori Wang
+1df98777-7fed-4ca6-8d7c-ae502d83fa23,7/5/2025,India,2b7f338e-f19a-4ba7-ada3-836ba0b2e28b,Pay,Sports,187.68,7,157.21,7.47,Credit Card,Senior,Male,Delhi,Peter Patton
+a61c39fb-db94-4a29-bad0-a0fa3cdff0a7,3/23/2025,India,c1e240ca-a5d7-404a-a290-dc8a38f47a41,Out,Toys,467.65,5,295.64,37.29,Credit Card,Senior,Female,Delhi,Nicholas Gill
+fb8ed87d-1306-4579-ac02-8610cce1f305,10/30/2025,India,a9e64ba8-3359-41e2-b292-2d7d18848048,Interview,Sports,210.17,10,189.04,38.46,Cash,Senior,Male,Delhi,Marilyn Bowman
+201bb578-a069-4af3-991d-334801a51368,5/25/2025,India,39a5e30f-4d87-4ad4-8dcc-6f86498a0fa3,Property,Sports,265.04,2,200.64,32.55,Credit Card,Senior,Other,Mumbai,Matthew Young
+68dd9b05-3982-4a6b-820a-2b4a7970d49f,5/25/2025,India,cf775e8e-1f2b-4b97-b98c-7ea98b029495,Bed,Toys,191.84,5,143.39,24.29,Credit Card,Young,Male,Mumbai,Megan Anderson
+d1445155-b7b1-45ff-846e-63a5ce8eb6ab,7/18/2025,India,a1be4373-6175-4a00-98c4-41773de9acdf,Modern,Beauty,426.61,8,351.5,84.97,Mobile Payment,Young,Other,Delhi,Brandon Anderson
+cda5a732-6467-4cd8-aa99-06d10bb9b886,7/8/2025,India,8be2cb07-5014-4254-b4a8-d7584f9f5f5f,Another,Beauty,44.83,2,39.05,1.02,Credit Card,Adult,Other,Mumbai,Steven Evans
+437c19b9-f5bc-4eb2-9afa-12dd1b61286d,3/1/2025,India,1f90895c-e4a3-4b71-9ed8-106c17ada6c7,Stage,Home & Kitchen,31.69,9,27.92,1.55,Mobile Payment,Young,Female,Delhi,Michael Walker
+4cd7f620-7e51-44db-b84f-fa4c1e159a3b,4/2/2025,India,14da761d-9131-4486-a608-5d2a44441682,Front,Home & Kitchen,239.74,5,155.76,6.95,Cash,Senior,Other,Delhi,Jessica Lowe
+549d2f9f-99b9-4758-b013-37d877b9879b,12/22/2025,India,6739595c-9926-43d3-9346-498517a692e7,Cold,Clothing,74.77,8,47.41,5.11,Credit Card,Senior,Female,Bangalore,Megan Sherman
+3c5751d8-714f-466f-bd5e-6ec665879fae,3/15/2025,India,e0044235-7638-4be4-992d-3a06a4820635,International,Home & Kitchen,314.67,6,197.06,31.26,Credit Card,Adult,Female,Mumbai,Gail Munoz
+d8ab6928-b762-4ab0-82a7-50c09ce00608,9/19/2025,India,f93b31cd-1e63-48ef-8bb4-4e415dc794b6,Result,Home & Kitchen,437.54,9,379.78,40.39,Mobile Payment,Young,Male,Bangalore,Jordan Lucas
+d27441cc-ef73-4c2b-ba5f-5ca2bcf3a64e,3/23/2025,India,b2d97745-1bc1-4aed-823c-49f0ae7f2567,Bit,Beauty,177.68,2,144.15,7.48,Mobile Payment,Senior,Male,Bangalore,Ashley Williams
+7aeee2ad-d63e-4c35-b9bc-3fa20e8113f7,6/4/2025,India,90d975f3-1e6f-40ab-a346-b7ec382f7849,Since,Sports,247.71,1,157.2,5.11,Mobile Payment,Young,Female,Bangalore,Samantha Lawrence
+32a1bbe1-139f-4162-8be5-d183826c2fe8,10/19/2025,India,5234994e-0995-4c51-955d-dac190e2d67d,Future,Clothing,312.36,9,223.44,2.59,Credit Card,Young,Female,Mumbai,Adrian Prince
+1e496a36-9bbc-4fe3-b2f7-47fa68347dae,10/19/2025,India,5f6e5297-3ac8-4dbb-9396-4abda1b8afb5,Compare,Home & Kitchen,441.8,4,355.74,86.84,Mobile Payment,Young,Other,Delhi,Juan Diaz
+dfba3f4f-69ba-4b79-8642-53795c9dfc73,12/21/2025,India,43bff13a-29c9-4c02-bc26-ed09223ece63,Close,Beauty,203.2,9,156.25,22.17,Credit Card,Young,Male,Bangalore,Jennifer Gross
+46ecce27-14b7-4172-bbbf-fe0a1ddba50f,8/9/2025,India,30c4e899-9bf6-4ce0-a02d-8f92af1f6ee6,Them,Home & Kitchen,196.83,5,175.68,25.36,Cash,Adult,Male,Delhi,Kyle Gonzalez
+8cebac39-ff7b-4cfc-bdc7-753809f202e1,8/17/2025,India,23da9900-3b70-4163-a259-db2b5588605b,Night,Toys,272.42,3,201.33,53.5,Cash,Young,Female,Delhi,Kelli Stewart
+d465022f-5ebf-4528-ad04-14dee5fcb158,10/9/2025,India,0f8dc98a-548d-44c8-b89a-7c3ae84fb651,Affect,Home & Kitchen,460.98,5,376.25,79.42,Mobile Payment,Senior,Other,Mumbai,Steven Garcia
+cef1d472-9fd7-4afe-b2a1-05c77e71efbd,4/16/2025,India,c9f4720c-16dc-4a65-8dc8-7158e5e164c2,Some,Sports,457.08,4,333.48,56.9,Credit Card,Senior,Male,Bangalore,Carol Gibson
+908b1a18-d3ca-46d2-ad3a-6d2214d7efb0,12/11/2025,India,13ce0bba-e2ed-4f8f-9c90-4a400ad670f1,Particular,Beauty,371.15,4,242.39,7.49,Cash,Young,Female,Bangalore,Kevin Sandoval
+0d238d1a-e767-4c70-b301-2c8f66fd7e32,11/10/2025,India,8a06cb3e-0aba-4351-9ca3-c9c499c917ae,Scientist,Toys,243.76,5,178.26,13.41,Cash,Adult,Female,Delhi,Tommy Roth
+d6fddb71-52d5-4f79-95e4-e9ef9faa4852,10/11/2025,India,29e3af06-9adf-4ee3-b9e3-d15c508dedee,Suffer,Sports,211.35,8,150.54,30.33,Cash,Young,Other,Bangalore,Jennifer Everett
+a0fef149-da7b-430c-8625-9012357510a7,4/24/2025,India,650f3eeb-9238-412b-803d-e6ac54e38de7,Service,Home & Kitchen,29.21,1,22.77,4.29,Mobile Payment,Young,Male,Mumbai,Amanda Keith
+a447ce2e-4336-4bdb-817d-d93fa633d087,10/19/2025,India,4e5062bc-7836-4a0f-9122-1c1fd7929e48,Run,Home & Kitchen,496.34,2,345.1,63.5,Credit Card,Adult,Other,Mumbai,Rachel Moon
+fe375e8a-0276-46ce-8097-62b75d0067b2,7/7/2025,India,14161a71-9b8d-4745-8b9b-1287d46e6f35,Including,Sports,434.2,7,288.08,86.61,Cash,Senior,Male,Mumbai,James Horton
+09e90021-2e6f-4048-9ed4-9d4718160516,5/17/2025,India,f4bff7e7-76c0-466f-ae95-d9e923173ab1,Almost,Clothing,293.39,8,226.81,30.02,Mobile Payment,Young,Other,Delhi,Miss Erica Parker
+467bb07b-0d90-4ae7-acc6-f3c2069e2c3d,4/16/2025,India,c938221b-70cb-4c47-85f4-9cea7882bfd7,Apply,Clothing,121.12,2,76.75,12.55,Credit Card,Young,Female,Delhi,Angela Phillips
+07f2ede7-d589-4113-a53f-774a2cc72c29,6/15/2025,India,34d850ee-ad0d-4979-b986-d613686aabc6,Present,Sports,363.11,3,299.13,70.35,Credit Card,Senior,Other,Bangalore,Kristin Werner
+d04151c4-d7d0-4d74-af72-47b868fa6086,5/14/2025,India,bd32d955-97a5-4b3d-9265-684c03197a14,Beautiful,Clothing,125.82,2,89.7,16.99,Credit Card,Senior,Female,Bangalore,Patrick Schultz
+cdc470d8-551c-4d7e-8180-311b8df2a210,11/20/2025,India,a6e06570-d1db-49c0-a96e-a3f4372ea7c2,Even,Toys,60.8,2,48.62,3.45,Mobile Payment,Young,Other,Bangalore,Susan Foster
+c725991a-3147-4f64-a6cb-8d5e466b4416,8/6/2025,India,f59ab691-1bea-40d2-954d-f6cf361ded1e,Cost,Sports,361.76,5,288.22,19.89,Mobile Payment,Adult,Other,Bangalore,Lee Greene
+f64c903e-1e42-48b5-9bb5-7bc42bbdba41,11/10/2025,India,f1f1fdf6-29d5-4099-b9e0-958e45168f01,Can,Electronics,457.39,6,353.58,75.79,Mobile Payment,Adult,Male,Bangalore,Christopher Murphy
+58047ad1-aaa6-4c16-bdcc-4a26fd1b15dd,11/20/2025,India,6f70c1fb-d954-45b2-ac16-55630d057460,While,Toys,92.78,7,63.7,15.2,Credit Card,Adult,Male,Mumbai,Russell Cox
+9967f209-3226-4192-8df1-15344781c1e4,12/31/2025,India,c2e82706-6a9b-42e3-a883-5c1bc6973ffb,Turn,Sports,185,2,165.84,19.71,Cash,Senior,Other,Mumbai,Monica Maynard
+31294028-dd9e-4ad1-bcec-0bd51439bf34,6/6/2025,India,cba19ba5-2caa-4d45-b57f-e33e9d1aacae,Career,Sports,291.98,5,182.27,12.4,Credit Card,Adult,Female,Mumbai,Maria Williams
+2b506387-ef38-438f-a596-3b8551125506,10/19/2025,India,2195326e-0d04-40ec-af6f-a0d0ffd98e7e,Seem,Electronics,446.87,4,401.57,77.67,Cash,Young,Male,Mumbai,Sara Weber
+79a73a9c-29a5-4b49-85e2-2022d8c0b95c,7/27/2025,India,4aa422be-2473-4a41-bfe4-6e9d507666f6,Hospital,Electronics,235.24,7,146.06,36.97,Credit Card,Adult,Male,Bangalore,Timothy Velasquez
+a2977f66-6191-4f10-bb84-b51d8133c164,7/16/2025,India,d464a316-8dda-496e-ae5b-60387dae13c6,Fall,Sports,367.23,3,310.15,64.54,Credit Card,Senior,Male,Bangalore,Dr. Destiny Briggs
+9828f0fb-d9af-4a95-8094-0dfe102d0b10,11/20/2025,India,27cafd77-3437-4213-9e12-bb2a16624586,Manager,Electronics,497.45,9,302.4,25.66,Mobile Payment,Adult,Female,Bangalore,Christopher Aguilar
+32e726d4-0a0d-4a4f-91f7-be5019107cb2,11/12/2025,India,d391e324-88b5-4aa5-9f98-53bb34dae57d,Get,Beauty,296.35,9,255.63,25.27,Credit Card,Senior,Other,Bangalore,Geoffrey Fox
+5d7b4016-e34b-4bf2-99ec-baadcfe77547,7/16/2025,India,0fe93e3b-c2d6-41c7-bf65-f59e4a8d556b,Turn,Clothing,397.2,5,299.03,9.41,Mobile Payment,Adult,Other,Bangalore,Debra Parker
+90f5deb1-a36d-49f3-896c-7a3d3a2c857e,9/29/2025,India,5347664b-080c-41e2-aead-d2754b0041aa,Mention,Toys,447.51,2,275.55,45.59,Mobile Payment,Senior,Female,Bangalore,Derrick Thomas
+809be166-687a-4b94-9677-36bf6ad87893,7/16/2025,India,fd6f9d58-37c3-473a-a14d-8c1b4bfb69b4,Positive,Sports,233.41,7,142.93,22.85,Mobile Payment,Senior,Female,Delhi,Justin Barry
+6c180e2a-4a87-43ca-b769-40b95938d051,7/18/2025,India,c36b8737-efa4-49b8-b2c6-7b2a2409a8c2,Seek,Electronics,385.25,3,279.94,26.08,Credit Card,Senior,Male,Delhi,Chris Wood
+bcd2c4fa-0b24-4a7b-ae79-eea07466cf7e,11/20/2025,India,cc7fdc3b-1375-4e09-a7a2-c51272dae048,Language,Sports,402.3,3,326.27,32.36,Credit Card,Young,Other,Mumbai,Sandra Jones
+31455b61-5a15-48e3-8ea1-31c7f36a44a2,5/14/2025,India,e239addb-42db-4af4-b3f6-53b158a22922,Threat,Beauty,280.22,4,224.2,40.72,Credit Card,Young,Other,Bangalore,Lisa Ford
+e60d25c3-6853-4d4d-8726-23783ac3488a,10/19/2025,India,c969e8ff-4a61-4eaa-bb23-694e7659eb1c,Available,Beauty,336.14,5,236.8,16.38,Cash,Senior,Male,Mumbai,Donna Calderon
+8d897254-e86d-448c-9ce3-e8b51c664b2e,10/19/2025,India,580a3f70-f1c1-43f2-b842-ef1776de3692,Trade,Home & Kitchen,216.58,9,177.63,2.56,Cash,Young,Male,Mumbai,Jennifer Allen MD
+44d3bf5e-c620-4b3d-b07a-1ac66c32c3a8,11/12/2025,India,a7ae0607-47ec-4755-9556-5bfb21534c47,Law,Sports,455.35,4,298.55,76.51,Mobile Payment,Young,Female,Mumbai,Michael King
+a8042676-5c40-40a5-b085-7290fe777db5,5/5/2025,India,ee2faa05-a904-4edd-a234-380eadf3e3b7,You,Electronics,310.02,7,233.35,55.65,Mobile Payment,Young,Male,Bangalore,Melissa Bonilla
+c83bd6c3-ed42-40b7-bfd9-fe0776477afd,7/26/2025,India,d2600acc-30eb-4747-9f77-225c623d71fa,Across,Clothing,28.42,2,18.35,5.09,Cash,Senior,Female,Mumbai,Tyler Johnson
+cc8b0d45-185c-40f0-b641-a57b36c444e3,10/11/2025,India,6a7c59b5-645b-405f-a3f0-29666d398e4e,Forward,Home & Kitchen,347.83,6,261.78,31.37,Cash,Young,Female,Mumbai,Anthony Conrad
+52689ff0-a512-4c24-b2ff-1c4fe77f18ff,12/13/2025,India,8a6dc14d-a0c0-4728-94b7-d456160d1eb5,Camera,Electronics,330.72,3,292.36,36.22,Mobile Payment,Adult,Female,Bangalore,Mr. James Williams II
+b3b6aa98-37e4-4fe4-8ce7-1ee9d83881b0,7/7/2025,India,a403864b-e7b9-4da7-a4c6-324771ead553,Particular,Home & Kitchen,346.97,4,228.46,57.79,Cash,Adult,Other,Bangalore,James Lee
+a614e70c-3c4b-4b18-ae4e-bda168d5ad09,3/12/2025,India,e7bc340f-1b6d-43af-bb65-69ddc8772522,Popular,Beauty,496.48,5,346.91,21.75,Cash,Senior,Female,Delhi,George Mcdowell
+67a42b3d-6d50-44ad-9c07-2f3179773ea8,7/8/2025,India,b4fa3b30-2d9f-4811-be82-7a28203046fc,Feel,Clothing,409.26,2,329.26,59.08,Credit Card,Senior,Female,Delhi,Amy Lee
+a1be218c-e4fa-46e1-beb8-f04049618b6a,7/8/2025,India,97e982da-b521-4896-8656-50173d57a9f1,Past,Electronics,335.38,9,292.99,4.87,Mobile Payment,Adult,Female,Bangalore,Amy Dickson
+cb62e936-fcd3-4984-85e3-691e37c74d61,9/10/2025,India,92a6accd-1658-4310-bcf8-6a72ee5738fb,Sell,Electronics,240.47,7,175.49,39.64,Credit Card,Senior,Other,Mumbai,Tyler Clayton
+69a0b549-a0bb-47d0-8137-c47611ad2c59,10/9/2025,India,6bc12b55-584f-46d2-8dcd-7578d7fccdd0,Between,Beauty,226.96,1,190.57,16.39,Mobile Payment,Adult,Male,Mumbai,Valerie Martin
+4398a3e9-6105-4970-895e-fb94c6388f88,9/7/2025,India,13fcb335-aa06-47eb-8863-16e98bf0993e,Both,Home & Kitchen,326.16,6,279.83,60.04,Mobile Payment,Adult,Male,Mumbai,Cody Morton
+c0cfdc19-9f3c-42cb-a496-08e776e7b13a,12/11/2025,India,9f172897-113c-42fc-9b18-d96f69cc4453,Child,Clothing,448.39,4,359.83,72.79,Credit Card,Senior,Other,Bangalore,Jamie Melendez
+f037cee9-f3d7-4a94-a3fe-4d427866b7b5,12/1/2025,India,237a31a7-d6e1-4236-b936-59d978be75cf,Then,Beauty,491.27,8,437.53,52.24,Credit Card,Senior,Female,Mumbai,Brandon Kennedy
+1c3e5fa9-c1bb-41b4-bfeb-037476ba6948,9/7/2025,India,db201f94-4e8f-4525-80f3-6203cb6ca30d,Writer,Beauty,109.33,6,72.63,17.85,Cash,Young,Female,Delhi,Thomas Adams
+b4477064-c050-4a65-8b6b-1c6799380a7d,3/3/2025,India,1d67d19c-5f4a-41ed-86bc-9eaa665996d9,All,Beauty,473.45,4,391.97,23.6,Cash,Senior,Female,Bangalore,Ashley Adams
+1a4af2bc-06c5-49f0-9619-f19bc67be870,10/9/2025,India,791a0537-4681-48e2-bebb-4ad86866febb,Us,Home & Kitchen,24.16,5,20.68,1.73,Cash,Adult,Male,Bangalore,John Hatfield
+3509a27f-f7f0-4ae0-8577-e998c5d22277,7/7/2025,India,18b8b94b-f30a-4e58-967a-8f949c3b2e7e,Memory,Electronics,217.33,2,186.92,20.89,Mobile Payment,Young,Male,Delhi,Christine Moore
+fd6933e1-cb2d-44fe-8ee8-356afc66988e,5/25/2025,India,eb7ff4e6-8bdb-47d3-a8f9-9e0e511e4834,Vote,Sports,456.02,3,278.9,47.87,Mobile Payment,Senior,Female,Bangalore,Noah Wilson
+c0fcafb6-a8f2-4b95-9dc8-a0de411e3a18,10/9/2025,India,f887896c-8b54-4a90-9d0f-cab1d18743cf,Head,Toys,224.03,7,154.5,6.66,Mobile Payment,Adult,Other,Mumbai,Micheal Walker
+6cf504c6-2940-42c2-8252-bc30173df9c7,10/19/2025,India,7bb57a5d-3fec-4f84-bcb1-32614a6c90c6,Everything,Clothing,275.86,2,237.61,34.69,Credit Card,Young,Male,Delhi,Edward Miller
+d0ae53cb-77be-4580-a254-3fdee3498b0e,5/25/2025,India,e99fd5be-ccd6-441b-9a68-21185d3e9d8a,Herself,Clothing,26.58,3,22.83,1.37,Cash,Adult,Male,Delhi,Ronald Kelley
+8034e96c-1bc0-401d-a6fb-fc0a2732abf4,6/4/2025,India,2a94e393-1069-4ecc-9fa1-84690a34bab8,Rise,Toys,398.94,1,291.36,52.21,Mobile Payment,Young,Female,Delhi,Sean Collier
+c3eb852c-8f9a-45ce-8aa0-a9d90d7b80b0,7/18/2025,India,efd58880-7b17-4bf8-8a88-4aee43a0ef6b,Account,Home & Kitchen,206.63,1,127.04,16.57,Mobile Payment,Senior,Male,Bangalore,Stacy Hays
+5cbfda40-eea5-47c1-a272-c6a1e2bd332a,3/1/2025,India,55d3b8cd-5bb5-45be-8ce2-25edd6ec07b3,Tax,Sports,414.91,10,337.07,61.03,Credit Card,Young,Other,Mumbai,Mark Miller
+4ae8d5c0-52e8-4bdd-9514-52a1f9021fb2,6/6/2025,India,148e8b23-7be6-4a47-9d1f-268342756841,Democrat,Sports,241.12,5,181.24,0.89,Credit Card,Senior,Male,Delhi,Joseph Bray
+1d2c7495-4962-4077-aea8-2931101c1219,7/27/2025,India,58833a9b-4fda-4de0-aef0-46fecc86ffe8,His,Electronics,199.13,3,125.8,32.18,Mobile Payment,Adult,Other,Mumbai,Jessica Hodges
+979af3a9-753d-4efa-88e9-72a759a5c26c,12/1/2025,India,d1c99ccf-9b52-43bc-9b11-20b72f048dce,Condition,Home & Kitchen,215.78,2,185.42,36.69,Cash,Young,Female,Mumbai,Donald Gomez
+5096b739-8dfb-44ef-b9f8-29ff754f9685,5/5/2025,India,4e5bc969-12d8-4e1e-8c5e-8aaf66f2622f,Will,Clothing,192.59,7,166.08,12.23,Credit Card,Young,Other,Mumbai,James Soto
+cfd530a1-22ce-4a82-b81c-b6de963a0276,11/10/2025,India,99eb07d4-ab98-4008-98e1-fa08e5b2a3ee,Region,Sports,339.53,4,296.93,2.49,Cash,Young,Other,Bangalore,Bailey Jones
+a208aefd-0556-40bf-9e16-d706edb6bfaa,10/30/2025,India,9cb815d5-1b9e-4260-b030-7904e2c40a02,Power,Sports,12.43,10,7.61,0.48,Mobile Payment,Adult,Male,Bangalore,Kathleen Gordon
+e83a186a-7a14-409d-8680-6c14a56a7f4a,4/16/2025,India,1955892e-fb73-4ad5-be37-c6ee6faffcfa,Drop,Toys,255.53,7,167.86,34.74,Cash,Adult,Male,Bangalore,Christopher Russell
+c1ae40b5-c3d3-4dcc-86a8-4b14a9642d16,6/15/2025,India,aa2c07e0-4ab8-4fd1-a134-5ae9bdbd52cf,Ago,Beauty,209.56,4,183.02,28.73,Credit Card,Adult,Other,Delhi,Dorothy Downs
+de1f86e0-ab58-461c-9015-aeb52bb439cd,4/16/2025,India,b670986c-0f88-4b3d-b264-61ea99957935,With,Clothing,371.71,6,269.52,38.7,Cash,Senior,Female,Mumbai,Jessica Ramirez
+07ea4c12-c9f6-4400-a206-dd563ae72f86,4/4/2025,India,6fa48900-6159-4186-a268-4b44d787f91b,Friend,Home & Kitchen,482.58,9,351.75,94.04,Mobile Payment,Senior,Male,Mumbai,Stephanie Lynch
+ffea2f57-5ba0-4103-90a8-7deac1df13f4,4/4/2025,India,e3947f99-c9bd-4692-a9fb-6d9ddd470081,Window,Toys,280.52,1,176.37,17.02,Credit Card,Young,Other,Bangalore,Danielle Everett
+a6588b87-7cfe-4c18-abf3-d61322f989bb,3/12/2025,India,7b6137a7-e6b8-4f31-858d-85d6076fd12e,Various,Sports,190.96,6,150.82,25,Cash,Young,Male,Mumbai,Amy Downs
+5642b432-5ec0-4113-98e5-c8bc640218e8,8/6/2025,India,abd7875b-f550-41cb-a41a-b2df83f7b554,Central,Sports,202.89,5,182.59,31.88,Mobile Payment,Senior,Other,Delhi,Beverly Acosta
+2e6a31de-e5fb-46c0-9dc7-bca346c1f3c0,12/11/2025,India,c4458780-1cf1-4de6-a954-011e1858b727,Challenge,Electronics,262.34,8,203.65,28.87,Credit Card,Senior,Other,Mumbai,Diana Peterson
+d0b69f3d-a8b9-4e04-b3a3-25e18d933569,7/5/2025,India,a1284e7d-f7c3-403e-8140-b01f9a904e06,Especially,Beauty,305.97,5,213.81,38.06,Credit Card,Senior,Male,Delhi,Wesley Walker
+c7543a72-0a05-48a8-ab6c-f0fafa0f0a72,4/2/2025,India,7c414254-6d52-4e14-95c5-5498d926dea4,Message,Clothing,374.96,2,228.8,52.06,Mobile Payment,Senior,Female,Bangalore,Robert Lee
+88a609f1-75f7-4e60-bd5f-e01ceeedf91a,8/9/2025,India,17526fe7-8283-4636-917b-f52076d278b9,Site,Sports,356.66,10,247.5,35.67,Cash,Senior,Other,Delhi,Kathleen Powell
+c038c141-4e26-48b0-8dc5-d18ba11bfa5c,9/8/2025,India,9cf92df6-a840-46c0-8c5b-b5249c0eb465,Become,Toys,300.34,5,235.42,1.11,Credit Card,Young,Other,Mumbai,James Rodriguez
+f8a65970-ddfb-410b-8fdd-77621d679c45,3/23/2025,India,5af43e4c-95f2-4b0f-a3b2-eed8fd8486db,Exist,Toys,325.44,8,267.17,22.37,Credit Card,Senior,Male,Delhi,John Newton
+a2fbe4a4-c13c-451e-a22f-7bab777a1ce3,6/15/2025,India,4b37c31b-25b2-40e3-8d14-f2d8e78c4ff1,Commercial,Clothing,345.93,8,243.78,45.01,Credit Card,Adult,Female,Delhi,Morgan Obrien
+76bb51f4-a61a-4b9c-b94e-42252a539c53,3/3/2025,India,c1e238e0-d5af-4a65-9765-3bb2e5bc7e39,Interest,Electronics,265.48,10,167.69,21.47,Credit Card,Adult,Other,Mumbai,Donald Miller
+3532495c-47bd-4c38-a979-e1e02a88dda0,9/7/2025,India,2adfd3e1-f43e-445b-9b64-f313de77742e,Guy,Home & Kitchen,167.08,10,144.97,13.56,Mobile Payment,Adult,Male,Delhi,Joshua Parker
+17ef65eb-99c0-4301-86fd-fd38f4fb8972,3/23/2025,India,fa54b85d-9b8b-4f90-ab4c-6dfa99b10388,Stop,Sports,493.65,9,369.47,61.73,Cash,Adult,Other,Delhi,Jacob Wright
+df4770e7-83c0-40b6-b8ad-eaa8146fa6f4,11/20/2025,India,aab61cf0-125e-465d-af0a-e69e208e4bd3,Tv,Beauty,217.83,1,156.88,36.44,Cash,Adult,Male,Delhi,Erin Price
+0925e3e5-3d2b-482f-a112-f81084e1faef,12/31/2025,India,7ac4d1ae-d532-4743-996d-1213a8b25606,Evening,Home & Kitchen,47.66,8,39.62,3.67,Credit Card,Adult,Female,Delhi,Stanley Aguilar
+44101574-e908-410b-80ce-c6b8e04cc88b,10/30/2025,India,797446bc-a32b-40b7-9ae6-9b02e58be835,Bring,Beauty,324.44,4,215.1,10.01,Credit Card,Senior,Male,Delhi,Jacob Coleman
+e2cd1eb4-87fd-4a9a-88a5-5c4a87226153,4/13/2025,India,e81421ca-a8b2-49f8-96c2-a9d930e5e343,American,Toys,414.11,9,352.96,27.22,Cash,Young,Other,Delhi,Charles Johnson
+aa9502bc-94c6-4743-a900-612b609141b9,10/11/2025,India,8edb1f50-a6ea-4c61-b903-38d1ab6f0350,Common,Beauty,250.7,5,193.52,19.55,Credit Card,Senior,Female,Bangalore,Christopher Ruiz
+9a3ce5e7-9c82-409a-9c80-cdbd0d6631f6,11/12/2025,India,03961024-7656-4524-baf4-f75cad9d7954,Writer,Clothing,272.39,2,181.23,27.19,Cash,Young,Other,Bangalore,Allison Proctor
+85e635c9-1e9e-47f8-9b86-ad7b664d4cd2,12/11/2025,India,6713610e-484c-4267-b78b-9abfce00dc10,Six,Beauty,65.1,5,58.02,10.24,Mobile Payment,Adult,Male,Bangalore,Christie Cook
+e168e9fa-041f-46b8-89c1-400ee699fbb4,10/11/2025,India,2e24d856-a790-4866-9d72-9bbe17135c72,Result,Beauty,28.76,9,19.21,3.88,Credit Card,Senior,Male,Bangalore,Taylor White
+bafe28a6-c7e9-4224-9433-b46a038ad5bd,8/17/2025,India,cd6c5762-3ea6-4aa0-80dd-6c0db51548db,Behavior,Toys,225.25,2,196.71,27.94,Credit Card,Adult,Female,Mumbai,Joseph Strickland
+a7221028-0a33-4d9c-bf9f-cd47ca0b1f22,11/10/2025,India,8cb6aa39-1ad4-4397-be7c-40bb19885d87,Trial,Toys,92.53,5,59.1,14.04,Cash,Adult,Male,Mumbai,Anthony Flores
+719f6d44-8641-4bc8-8a9e-0a9a859dc145,9/7/2025,India,dbdf6373-b991-4996-9889-afeb88addacb,Bill,Home & Kitchen,472.18,1,284.02,41.58,Credit Card,Senior,Other,Bangalore,Danny Richardson
+60943407-9ae8-44d7-bedb-285a5d54b5f5,6/6/2025,India,632429bb-b77e-4c4c-9817-145d1c444db0,Spring,Toys,258.34,7,187.5,24.45,Mobile Payment,Adult,Other,Delhi,Samantha Figueroa
+a59e6943-134b-4efb-ad49-c9643d232e4e,10/9/2025,India,145e89d4-9eed-4b71-87be-86ecc64c9625,Rise,Clothing,297.06,4,265.2,34.96,Credit Card,Young,Female,Delhi,Jo Oneal
+16fc6142-d77c-4225-8e14-04df7194f843,9/18/2025,India,c82eff6c-a562-4429-99e0-5214e7a060bd,Such,Beauty,245.45,4,167.13,9.41,Mobile Payment,Senior,Female,Mumbai,Eric Buckley
+de78bb3d-8691-45e9-bd1f-ab9de569017d,3/12/2025,India,d465d40f-53c1-4880-a0b7-7b3deb863c53,For,Home & Kitchen,112.86,6,99.05,10,Mobile Payment,Young,Female,Bangalore,Joshua Davis
+b227c865-d183-4ee6-8358-0a8f4ea30354,9/8/2025,India,2700837f-5ac8-4d44-8da3-fb8280deb339,Necessary,Home & Kitchen,472.55,6,320.39,21.38,Credit Card,Senior,Other,Mumbai,Michelle Cantu
+030ba261-9b72-40b8-90a4-a4a1357237f6,7/16/2025,India,388f278a-a02b-4a83-870b-6866aaeeca11,Behavior,Toys,489.9,2,295.73,0.47,Cash,Senior,Male,Mumbai,James Wright
+e42ad773-30cf-47e4-8b9d-a00d494f4265,9/8/2025,India,e0aa346d-32b6-4f3c-b5cb-3341f70ef13b,Many,Sports,149.93,5,90.26,7.81,Cash,Young,Female,Bangalore,Matthew Pittman
+44fc4c08-f7c4-459a-8109-7561ad920056,7/27/2025,India,33606148-3674-499c-9aa5-35115782bbff,Push,Home & Kitchen,194.81,10,121.34,30.67,Cash,Senior,Other,Delhi,Tiffany Phillips
+3ef59bc8-dcea-4750-9334-9232f3e8d33b,8/9/2025,India,5d548a4a-f102-4a71-878f-16e15c4c26ae,Teach,Electronics,484.09,2,306.01,4.33,Cash,Young,Female,Delhi,Micheal Clay
+89df9bcb-bbfa-42f5-9e9e-d3ded49bb87a,9/7/2025,India,8161699d-519c-4317-8126-6320556caf83,Top,Toys,437.9,7,366.21,77.18,Cash,Adult,Other,Bangalore,Phyllis Carter
+6094c155-e327-40e7-a8f7-fc0eae133032,12/14/2025,India,0e87f8a8-34ed-46d3-b6e4-496e3e20b3c4,Time,Electronics,71.22,8,59.85,4.88,Cash,Young,Other,Bangalore,Deborah Knight
+f9fc30b4-ef95-49aa-bc80-5e701921520b,3/1/2025,India,3e853eec-d879-43c7-abd0-893b7c95f5d5,Color,Home & Kitchen,217.58,6,169.05,39.52,Credit Card,Young,Male,Mumbai,Christian Rodgers II
+c6ec222d-7b17-44d3-8937-0cf5ff0e13b6,4/13/2025,India,cab7c028-e72c-4b71-af0b-8248979643c4,Prove,Home & Kitchen,289.99,7,204.84,13.31,Credit Card,Senior,Other,Bangalore,Maria Fletcher
+76e91536-770a-49b3-b1c2-91aa199e8049,4/24/2025,India,8e905878-9edf-4609-be65-2d8b1f55547f,Peace,Toys,334.34,2,258.56,13.98,Mobile Payment,Young,Female,Bangalore,Joseph Mora
+83dd83d0-cdf1-4306-8a21-961079c0ddf3,9/18/2025,India,b7feff64-d98a-42a3-88a7-1fddcbb0dbbc,Wrong,Sports,283.97,2,188.99,38.95,Mobile Payment,Adult,Female,Mumbai,Victoria Peters
+6c8d3d46-dd26-4a8c-b0fd-204b009a75bc,3/12/2025,India,eb93e635-e76c-4af9-9ec4-1cf99273deb8,Nation,Beauty,488.49,10,423,51.74,Credit Card,Senior,Male,Delhi,Kathryn Bartlett
+5dc46410-d71a-4a2f-9cd0-be0a6778f9c5,8/9/2025,India,16130118-af91-4ca2-b132-057d980cab7c,Wait,Clothing,479.86,4,409.86,53.71,Mobile Payment,Senior,Other,Bangalore,Anthony Wilson
+41a0988d-2d4b-4602-ba60-7e810f1c1af7,7/18/2025,India,d5ed59d7-252c-4622-97be-84bc5c65676d,Land,Beauty,459.18,7,328.16,0.24,Credit Card,Young,Male,Delhi,Jennifer Lucas
+c29f6be1-04f2-45b1-8f37-f787b23f37fd,8/28/2025,India,e14eb1b8-56e2-40c2-9f8b-e1675334b469,Exist,Clothing,489.49,6,388.53,89.84,Credit Card,Adult,Female,Delhi,Kyle White
+ed9a4fee-81c4-4e3b-9585-dc43acf41b9a,5/17/2025,India,25e70767-ec71-4507-a17e-7a62149ef933,City,Beauty,482.36,1,368.88,58.65,Cash,Young,Male,Delhi,Patricia Pratt
+7959864c-ebc4-4184-8168-6d30344dc7fa,8/17/2025,India,ea5f3e2e-d056-4929-aca2-9026d7f107f3,Section,Clothing,424.67,10,284.3,73.98,Mobile Payment,Young,Other,Bangalore,Olivia Chen
+50777439-b5ab-461b-9b72-f69448d82567,7/8/2025,India,c0bee5a1-110b-41d5-9c7d-dce284d837bd,Approach,Beauty,217.49,5,173.54,25.61,Mobile Payment,Adult,Female,Bangalore,Ann Hernandez
+9e69a0df-76e9-4b7f-9b18-ddb17db2021e,7/7/2025,India,ac34ffbf-a2e6-4343-bd8c-98872a7249d4,Audience,Home & Kitchen,469.73,5,359.92,38.77,Credit Card,Adult,Other,Delhi,Dean Wade
+beaaeecd-6bdd-45a0-9026-e8ee1854fefe,12/20/2025,India,f9cd88a2-f534-42d2-84cd-59fe81b82509,Race,Electronics,205.71,9,158.28,0.62,Cash,Young,Female,Bangalore,Tina Sherman
+ee52768b-2feb-470e-ac1d-8f53a1d51d77,9/7/2025,India,c3eb2d20-5f58-47bb-98eb-c0f5eb2991ab,Plan,Home & Kitchen,331.59,7,212.16,41.49,Mobile Payment,Senior,Female,Bangalore,Charlene Davis
+7e6bcd3d-324b-42f4-bcde-7bf8da11de18,9/7/2025,India,37d881ee-0e00-406e-bcc7-8237785cae2d,Follow,Beauty,206.33,1,133.2,28.72,Cash,Senior,Female,Bangalore,James Johnson
+60e48713-a5ce-4836-952d-fcde9207ddad,4/24/2025,India,fd42513e-31ff-4ecd-bd37-2c10cf4586b0,Every,Electronics,456.62,8,381.44,54.3,Mobile Payment,Adult,Male,Delhi,Jason Young
+91084af1-6eca-4ada-9c0b-ec5f7b0f2003,4/24/2025,India,6b8d425e-fb9e-4cd2-b737-10c0f77b10dd,Clear,Sports,369.3,10,270.09,56.41,Mobile Payment,Young,Other,Mumbai,Dennis Brown
+9d438e18-bf02-47ce-94b9-4a4d161bbb78,12/31/2025,India,a325842d-169f-424b-9e81-6d9c6b5714a3,Write,Toys,275.29,2,221.43,33.44,Mobile Payment,Senior,Male,Bangalore,Jason Jackson
+b0fa898c-3724-426f-a0e1-49ae726566b2,8/28/2025,India,ebbcc2a1-4b67-4fed-a765-60f06ee75722,Between,Electronics,135.18,2,95.12,2.62,Cash,Senior,Female,Delhi,William Miller
+5f8b8ff5-caa5-476e-a7db-1f1303895082,4/16/2025,India,a57009b8-a5d9-41b9-86eb-412d784ed0aa,Whatever,Beauty,419.43,2,314.68,27.21,Mobile Payment,Senior,Other,Mumbai,Kimberly Roman
+a819eb94-a6d8-45d5-b1d7-96b015a38fd6,4/2/2025,India,c194560f-087d-4297-83d0-4dea33ffe0d4,Director,Sports,183.81,4,152.86,7.6,Mobile Payment,Senior,Male,Bangalore,Charles Gonzalez
+5bb184ba-8719-448d-96f0-0473f5f38716,10/19/2025,India,bde33701-e28f-4feb-a019-84ceca009cb0,Difficult,Clothing,340.94,5,224.33,18.65,Cash,Senior,Other,Mumbai,Dr. Stephen Olson
+891fa85c-6442-49ea-844d-04083b7d5532,4/24/2025,India,95eba33c-e890-4edc-8a50-e563ba3de660,Allow,Clothing,192.35,7,139.03,5.37,Cash,Senior,Other,Delhi,Henry Turner
+4ad6b014-b5e7-4aee-9b98-79ef5ac18178,12/2/2025,India,8ed2e4c8-4a8e-4740-8612-5037d67fc328,Least,Home & Kitchen,424.94,10,286.55,59.59,Mobile Payment,Young,Female,Delhi,Alexis Washington
+76cdf050-ec9f-4048-88a9-fe839a2ea084,8/18/2025,India,8a6ad7ef-fe38-48a6-9944-0956533dba19,Simple,Toys,417.98,6,352.73,61.33,Credit Card,Senior,Male,Delhi,Julie Levy
+23f9d20e-d6e0-4bfc-875c-337dbc532c0a,5/5/2025,India,5eda98d5-4e32-48d3-b6a7-f3e2d3944846,Blood,Home & Kitchen,201.17,3,139.8,20.34,Credit Card,Young,Other,Delhi,Rhonda Reid
+79ce6fc9-40fc-414d-9a60-a0d612132870,3/1/2025,India,36d7bd82-2b43-4796-9265-698695c19a26,Benefit,Electronics,309.45,9,256.09,30.8,Cash,Senior,Other,Mumbai,Jim Lynch
+c4c55b31-84d7-4779-9e74-de343d43f352,3/23/2025,India,70b49760-5832-4494-9f0a-897a8debdc9b,Husband,Electronics,267.3,9,234.72,42.06,Mobile Payment,Senior,Female,Delhi,Margaret Spears
+069010a7-a13e-4b58-ae55-03fc97632d60,5/25/2025,India,2e8a534b-54ab-4ce9-9bee-aec118ed48c7,Risk,Sports,272.76,7,208.06,21.37,Mobile Payment,Adult,Female,Mumbai,Kelly Moore
+582accef-61cb-4036-8967-f1cf6cf74a9c,10/30/2025,India,0d32444b-5f24-4631-bd6a-ef17e63a74e6,Research,Clothing,297.26,3,264.69,51.39,Cash,Young,Other,Bangalore,Jessica Kerr
+7516ad5d-9ece-4440-8302-0ed87d0c2824,3/23/2025,India,742d1aa0-f5f9-4c9d-810e-af2ef52ac40b,Owner,Clothing,233.16,8,197.02,34.11,Cash,Adult,Male,Bangalore,Jennifer Grant
+52d625e2-2ea6-4ece-beff-fda0b4e96269,10/30/2025,India,2711f5b7-af2e-4eec-8724-618ddac4472f,Side,Home & Kitchen,182.93,3,118.21,6.76,Credit Card,Adult,Male,Bangalore,Frank Nelson
+b85a5a6f-390f-481d-94e5-8408e46802a3,4/16/2025,India,f00b4b5e-c4dc-4edd-bdd8-70388ae9386d,Dinner,Sports,22.39,1,15.61,2.44,Mobile Payment,Young,Female,Mumbai,Jacob Glover
+05b654bd-34a8-4b88-a697-f2bcfadd118e,3/1/2025,India,cd830908-f2ea-4c75-8732-7505e937d4c3,Under,Sports,358.15,3,270.12,3.79,Credit Card,Adult,Male,Mumbai,Catherine Parker
+a88400ac-c2da-4e1b-83bb-a37f50fe55e3,12/20/2025,India,dc78f073-6e2f-4bff-817a-3127a0c3216d,Its,Sports,59.87,9,49.83,2.1,Mobile Payment,Young,Female,Bangalore,Dr. Judy Hoffman DDS
+2f439f95-f4c0-4825-9d99-65e6dd002fac,7/8/2025,India,7286c4c1-c20b-4373-9626-4e7f3116af34,Perhaps,Beauty,110.89,1,84.19,5.99,Cash,Young,Other,Mumbai,Nancy Meadows
+a62f352a-8d3b-4516-bc03-d88e0d1ef894,6/17/2025,India,d587e574-d9b3-4e68-9df5-d2c3593b103a,Listen,Toys,82.03,9,53.12,13.69,Cash,Adult,Male,Bangalore,Benjamin Perkins
+caba697e-7758-4c91-a007-842bdf1d016f,3/23/2025,India,c3591d02-5ece-4360-8ca0-ea0171a5d962,Movie,Home & Kitchen,206.22,6,131.7,16.91,Credit Card,Senior,Other,Bangalore,Thomas Smith
+dfceb718-4220-422f-8926-7e85a65f7ff7,8/18/2025,India,e762c5b7-71d9-4a38-b955-6ceab2db198c,Media,Clothing,61.66,4,44.81,7.48,Cash,Young,Male,Delhi,Richard Bradshaw
+5ad9c7ab-a4fc-4d75-ae9e-6e326d413389,6/17/2025,India,6fc85f8b-253f-48cf-8d05-067aec50bfb3,Near,Sports,58.36,6,41.13,4.76,Credit Card,Young,Other,Delhi,Lindsay Jimenez
+3a50e8c6-a678-4fcf-890a-a25e9a821b4a,12/22/2025,India,c9d2e484-53ea-4f07-a5bf-40f6a8e3c07d,Instead,Electronics,169.08,1,148.61,0.28,Mobile Payment,Adult,Other,Bangalore,Haley Walker
+87b31e32-8ab5-4705-928f-69a0b62984b8,12/2/2025,India,ea442baf-9ec3-425d-b079-06f914aeddc4,Thus,Home & Kitchen,176.89,2,110.37,10.2,Credit Card,Adult,Female,Delhi,Spencer Paul
+5e664832-f949-4a78-9feb-f16df420875a,12/2/2025,India,61087731-4e7f-4885-b93a-6fea2bccb705,From,Home & Kitchen,348.88,5,280.25,23.12,Mobile Payment,Senior,Male,Mumbai,Jimmy Hobbs
+44c032e3-1807-4ade-b8ad-1dcacd122032,12/1/2025,India,cf825c71-d197-4d3b-a098-78544de515ff,Suffer,Clothing,317.44,5,237.98,35.01,Credit Card,Senior,Female,Bangalore,Jake Whitaker
+ffdf0454-f516-415f-b4a3-f2f5809f1cc3,6/6/2025,India,b49c52a2-e021-47f7-ae49-369c85abff56,Blood,Sports,79.06,4,63.23,1.2,Cash,Young,Other,Bangalore,Steven Patel
+c7f5707f-8e33-4e3e-8fb9-ca9ebfd55770,3/3/2025,India,0dd23679-28e6-4e27-bca2-28f8663059a5,Operation,Sports,321.71,5,263.83,61.02,Credit Card,Young,Other,Mumbai,Heather Cox
+69436b51-55a8-454b-9c97-ca4b0d3b1b20,12/22/2025,India,33229e4b-aab2-4227-8088-a456a71807fc,Book,Sports,82.46,8,55.48,14.05,Credit Card,Young,Female,Delhi,Julie Bruce
+ffb04015-e702-4bd5-b903-08d826bae40b,6/6/2025,India,2d121180-f3b1-4811-b625-b9c9b832e0ce,News,Toys,84.68,4,59.23,14.5,Credit Card,Senior,Other,Mumbai,William Johnson
+3c405c64-ce59-49e0-883d-b03cfe16ef62,9/18/2025,India,fcce4b48-ec77-4afe-8619-5a85459d8154,Admit,Electronics,23.3,4,20.76,4.47,Credit Card,Young,Male,Delhi,Desiree Marquez MD
+be8a2e8f-be73-4999-9d5e-c45e523b378c,3/3/2025,India,93a7cb19-6e93-426f-8997-facf73838e45,Poor,Toys,245.72,7,161.65,14.37,Credit Card,Senior,Male,Mumbai,Susan Knight
+a19d1b9b-1623-48a4-ac15-a03a0106d04d,7/16/2025,India,fceba509-5396-4859-8dc6-7e9251c3d87e,Talk,Sports,37.55,5,30.91,4.92,Credit Card,Adult,Female,Delhi,Elizabeth Sandoval
+fbe424f5-a526-4dc5-a2dd-0894b61f01b1,9/7/2025,India,645f9708-de21-446e-96a7-ff27d71807bc,Interest,Beauty,29.37,5,25.26,4.86,Mobile Payment,Senior,Other,Bangalore,Thomas Moore
+65dc68b4-08e4-4c6a-88b4-dab3472fd689,11/20/2025,India,bc55fb8b-22ef-4209-b75d-c673b3d92b70,Usually,Home & Kitchen,26.36,1,17.85,0.32,Cash,Senior,Other,Bangalore,Nancy Roberts
+125b0495-63c0-42ad-936b-acadf5469309,11/10/2025,India,08726cf2-9422-4398-ab91-432e154f2905,Even,Clothing,237.47,8,164.47,8.73,Mobile Payment,Adult,Female,Delhi,Christopher Armstrong
+64f62e33-68a8-4c60-b54b-41eff2cc4c3a,8/28/2025,India,d277c6bd-51a5-4db0-9f02-56bb21433df4,Hold,Beauty,153.29,10,110.67,16.53,Credit Card,Adult,Other,Bangalore,Steven King
+17aa6876-cb7a-4a01-8d87-52440d31ccd0,8/28/2025,India,e621dd97-180e-4d3c-9af3-82f2427ee86a,Manager,Home & Kitchen,493.18,10,341.53,57.37,Credit Card,Young,Male,Bangalore,Holly Johnson
+17a47c3d-0a9e-4802-9de8-e517a9efdf49,12/11/2025,India,69b66610-2cc9-4986-b7e3-bc8180a8aa30,Change,Toys,396.74,1,242.68,2.44,Mobile Payment,Adult,Other,Mumbai,James Ross
+d16bb6b2-e325-4c72-9d62-aec9415390f3,5/25/2025,India,a01d3908-17ca-4808-bfca-68b6902efc35,Fall,Sports,136.23,10,109.48,6.05,Cash,Adult,Female,Mumbai,Lisa Leach
+4d86fd12-90b9-4476-9a58-b48b31e59231,7/26/2025,India,9f02d145-b2be-4388-9c09-d34fd1c2f5bd,But,Toys,87.38,10,56.46,10.99,Credit Card,Senior,Other,Mumbai,Patrick Hill
+b3ab847f-d188-43aa-ac29-fa02d6e90e18,6/17/2025,India,1fd74a33-e013-4917-99dc-6f4d6162b9b1,Wife,Electronics,138.14,5,98.38,22.76,Cash,Adult,Male,Bangalore,Andrea Barnett
+fdf52026-b341-4170-9e18-ff06da018d83,12/21/2025,India,837b7a56-6f1a-4cdf-b7b9-4a911491c936,Seat,Sports,207.39,6,168.95,36.33,Credit Card,Senior,Female,Bangalore,Cody Williams
+2df277e8-f522-49f6-99eb-1268f01df6cb,5/3/2025,India,1d233c01-72d5-4295-8673-7baf8aefb336,Member,Toys,394.86,8,297.5,15.67,Mobile Payment,Senior,Other,Delhi,Katherine Baker
+c2a54301-3b59-4ff8-a1dc-e7ef096271ef,5/14/2025,India,7cc26f3b-94ca-40b0-aa81-3f39d41df1ba,Become,Toys,217.45,1,148.36,31.52,Credit Card,Young,Male,Bangalore,Darius Collins
+cfdb3d0c-add7-4c1d-b987-04557f50d5bf,3/12/2025,India,3e9c9a17-62f1-4597-bd7c-b086502c1402,Like,Sports,349.48,8,244.15,66.47,Credit Card,Senior,Other,Delhi,Jordan Johnson
+009f0a90-84fa-44e7-91ce-a67a8a82b783,12/2/2025,India,32bc2ef0-188c-4d52-9616-60619acc560d,Wind,Clothing,270.05,3,162.75,37.73,Credit Card,Senior,Other,Mumbai,Ian Blake
+da82513b-f4c3-4064-9ed9-cc9ebd4b30e8,4/16/2025,India,86d0ff87-0f36-4d11-94c4-df0fb6d0b05d,Outside,Sports,192.05,5,149.8,3.76,Credit Card,Senior,Other,Delhi,Nancy Gould
+2d5a257e-704a-459e-94f7-8a88d66797f9,9/18/2025,India,55a209da-d67b-4f3e-b9f2-572492d370b9,Live,Home & Kitchen,45.91,3,28.75,2.71,Cash,Adult,Female,Bangalore,Michael Jones
+f01e0726-f37e-4e58-8156-b413139c1812,8/18/2025,India,3ce35027-48be-4615-ad2e-4bb04e051fb5,Another,Beauty,498.39,1,445.93,16.48,Cash,Young,Other,Delhi,Melinda Garcia
+4a037960-4f08-4db2-b6c9-e04f132b9aca,12/20/2025,India,ec3a47ba-296c-4372-94e5-6da1562f4896,Concern,Clothing,14.67,4,10.47,0.85,Credit Card,Young,Male,Bangalore,Laura White
+eb436d91-fb80-4e05-b9c2-f52337b5a713,4/16/2025,India,e273a7ef-0d73-4efd-a603-1358a02b3c88,Her,Beauty,345.11,4,299.72,67.71,Credit Card,Young,Female,Mumbai,Amy Watson
+0832304c-e62c-4d16-9d14-7b6c6fea0558,6/6/2025,India,d11d5430-0410-44a9-b1ed-5da611dacaf5,Public,Toys,452.06,1,304.03,41.83,Mobile Payment,Senior,Female,Delhi,David Fry
+c2fd5ff3-58ff-4b00-95d1-b0b9f87cd94e,12/2/2025,India,93945759-99f5-4407-a20a-adac30ff414d,Family,Sports,443.43,7,299.49,28.65,Mobile Payment,Young,Female,Mumbai,Crystal Sanchez
+9c79e01d-61b4-4520-8cbb-03b5c85aa0b8,10/9/2025,India,93e470fb-b6a3-4ac7-aa84-1a6df3468e7a,Population,Electronics,164.93,7,118.08,2.3,Mobile Payment,Young,Female,Bangalore,Brandi Kelly
+6ee7af46-b98c-4101-aade-145cd27721ae,6/6/2025,India,75bead5e-c003-4cdd-930b-cbcfe1e84a40,Feel,Clothing,332.75,5,287.13,60.02,Mobile Payment,Senior,Other,Bangalore,Shane Reynolds
+09c6a34e-2581-4821-9964-8ed107879041,4/16/2025,India,dbb4bfd6-9254-44b0-a793-39374bc10ec1,Operation,Home & Kitchen,171.56,1,112.9,24.34,Cash,Adult,Male,Mumbai,Cindy Hampton
+47dcfa30-c449-4d98-8ac5-b641f8f7ad80,3/12/2025,India,d437e46c-f79e-4da4-8ad2-0dcbd4cf5cff,Capital,Home & Kitchen,308.66,2,272.05,8.58,Cash,Adult,Male,Mumbai,Megan Lane
+042c5954-d0dc-4bea-b683-e065b0735672,3/15/2025,India,4c633f2f-4d74-47f1-a4f5-6fd0be34c78d,Mean,Sports,389.31,2,244.94,68.09,Mobile Payment,Adult,Female,Bangalore,Andrew Foster
+d5c62f04-05e4-480d-9c87-50561ce3b1f9,7/7/2025,India,8f807d91-bfc1-42ec-b43f-7e732b5c5804,Civil,Beauty,259.41,8,225.36,14.48,Cash,Adult,Female,Bangalore,Charles Franklin
+9699c1ac-3851-411b-b900-f888b465041f,4/16/2025,India,1feb8187-310d-449f-b938-0a770f3133d2,You,Sports,218.08,3,186.6,28.17,Mobile Payment,Adult,Male,Bangalore,Chris Robbins
+aac141c2-0767-4c28-8adf-c08b9c3d1c36,12/14/2025,India,c1f53a23-8806-44b4-9b68-25fb15a5ec70,Help,Sports,478.34,2,420.43,93.62,Credit Card,Senior,Female,Mumbai,Christine Phelps
+16c82b36-08a5-4227-b930-2dedca482a6f,11/10/2025,India,d4d9c61b-f3df-4cc0-9344-ca37ca3d4ed2,Make,Electronics,143.37,2,102.02,15.74,Credit Card,Senior,Female,Mumbai,Dana Fernandez
+6276e3e7-2f92-455b-8b28-f46eacd6f654,3/23/2025,India,4e073ace-2b9c-48be-a981-5ccdd2423ce9,Hard,Home & Kitchen,429.86,10,355.76,49.43,Credit Card,Young,Female,Delhi,Victor Cooper
+4c28bca8-0fbd-4af0-886f-f9e27ea0a35d,4/4/2025,India,ec78c027-482a-451a-a014-e59e6a6e7514,State,Sports,47.25,5,31.38,7.16,Cash,Senior,Other,Mumbai,Jose Tucker
+eceff19c-e870-4b8a-b813-eb27ea8d7d15,7/5/2025,India,242abf5a-5f08-480c-98cf-335f18b39933,Crime,Beauty,288.99,5,188.87,16.42,Mobile Payment,Young,Female,Delhi,Elizabeth Roberts
+32f2e3e7-ca3a-4802-988e-890784c616a7,5/14/2025,India,76213c98-f45f-4096-bf14-9ac23c0e9c7b,Spring,Sports,40.29,4,35.16,7.07,Credit Card,Senior,Female,Delhi,Bryan Bryant
+c7248336-85c7-49ba-85ea-902b5c20cc2f,4/18/2025,India,a7d9972f-85f5-42b6-b3c4-13bd39446b3d,Charge,Home & Kitchen,478.82,10,385.78,24.78,Mobile Payment,Adult,Other,Delhi,Donna Orr
+4bab9371-dd67-48f0-a3bf-77c5402584ee,10/19/2025,India,ea909f15-e428-4919-b56c-1cb7031accbe,Success,Clothing,67.69,1,44.42,2.22,Mobile Payment,Senior,Male,Mumbai,Kaitlin Romero
+0fd35bc7-a9ec-432a-826f-6420bdf4e270,3/3/2025,India,6fa7b844-e72e-4ae2-9a82-6fb5085b553b,Leg,Clothing,269.4,1,212.13,39.76,Mobile Payment,Young,Other,Bangalore,Kristi Baker
+867045f9-df1a-491c-891b-bc3f22f7da85,4/16/2025,India,acf89d2a-57c2-4285-a1ed-3e7e2f56233e,Realize,Toys,56.3,4,37.21,6.59,Mobile Payment,Senior,Female,Mumbai,John Carter
+55a8fc7e-d6b0-4bf8-9da7-c9ac99da6da7,10/19/2025,India,105373ef-827b-478d-8e70-bcf897074088,Great,Clothing,203.43,3,144.39,29.66,Mobile Payment,Senior,Other,Mumbai,Zachary Williams
+be0951fb-68d7-4cc4-a6ef-9963bc27f9fc,5/14/2025,India,5b6241ce-f2f4-4a1d-929b-b1742be21f65,Back,Home & Kitchen,62.19,3,53.97,4.37,Credit Card,Adult,Female,Delhi,Lucas Mckee
+040d534f-dbf5-44a8-8ad0-e80596e689a9,6/15/2025,India,904dd030-80e5-4a8d-b9b8-9c9112762c2a,Child,Electronics,294.52,6,231.53,16.88,Mobile Payment,Senior,Female,Mumbai,Kayla Miller
+d382f351-2306-43b2-9fef-c481019fc8f4,7/8/2025,India,1eb0732e-9d75-4534-ac4b-92944a3e6fdd,Imagine,Electronics,246.88,8,209.42,19.4,Cash,Adult,Female,Bangalore,Kevin Medina
+25fb0d39-dd35-4ee5-9361-8a9b6b52ff1f,11/12/2025,India,eff0ac45-16da-4a23-90a8-547da73d6164,Garden,Beauty,360.15,5,285.33,71.34,Mobile Payment,Senior,Male,Mumbai,Michael Fox
+b02f0256-4403-4c5d-a930-3ed86526678e,5/14/2025,India,4845bd19-eccb-4509-8c9c-4cfac3e3d142,Fish,Home & Kitchen,69.16,5,57.2,8.36,Credit Card,Senior,Other,Mumbai,David Webb
+01c1fb93-7c57-4a98-b822-7cbe2eecbdce,3/23/2025,India,ac27ae2a-f72a-468c-b811-2af42a827f64,They,Electronics,317.98,1,223.38,0.07,Mobile Payment,Senior,Female,Mumbai,Dr. Ryan Howell Jr.
+8a9c0a1c-3b44-4750-baa4-72f192b5dbd7,7/7/2025,India,ea16c2fb-e864-40f1-b70f-7b343e353ca8,Data,Clothing,274.94,2,178.04,3.72,Mobile Payment,Young,Female,Delhi,Gerald Bailey
+b6d0d71e-a5e9-4ef7-9b5f-9f683efd6e91,9/7/2025,India,55e26819-5528-4769-b9fc-22d19ef24ba1,Before,Clothing,53.21,3,39,2.75,Cash,Young,Male,Bangalore,Kelly Williams
+b4c0657d-41c5-4177-b186-a0228ac3174b,4/13/2025,India,5a56db1e-cb0b-496c-a10c-298ea2ba8766,Its,Toys,484.61,7,322.35,42.63,Mobile Payment,Adult,Other,Bangalore,Dale Lyons
+112561aa-2263-4d64-b7a0-599fdea4dbfb,3/3/2025,India,51688d9f-4bca-4508-bd5a-1c277ef1f3ec,Clear,Electronics,33.85,9,20.86,1.88,Cash,Young,Other,Delhi,Shannon Carter
+698384ae-eb2d-4b02-ac32-a92aa4f3716d,6/4/2025,India,6ddccbb6-78cb-46ff-ae4b-91e2ea7d72f7,Number,Clothing,86.37,10,58.76,12.41,Mobile Payment,Adult,Female,Bangalore,Douglas Watson
+bf0b5fa5-f0f4-4502-89c0-b53449f54067,7/7/2025,India,ee84a37b-8f2a-402d-a6e0-c244ecb215b8,Easy,Clothing,299.53,1,253.72,50.83,Cash,Adult,Male,Mumbai,Karen Nash
+83825d54-d523-4a23-a0d0-285ef79cbf06,4/16/2025,India,f5971dbb-d7b3-47c3-8afc-7eb9acbcc06b,Record,Beauty,217.76,5,137.98,21.65,Credit Card,Adult,Female,Delhi,Sarah Johnson
+18690931-9383-4ee7-ae2f-89c4174ba211,3/23/2025,India,db12b9af-1e01-4656-9502-d4372fead10e,Should,Beauty,270.52,1,241.57,24.15,Mobile Payment,Senior,Other,Delhi,Mark Zimmerman
+d639b76d-4e61-4e63-8ba6-2fe0afa757ee,5/14/2025,India,9fdcaaa4-f45b-493a-ac85-938c7ceb052c,Early,Toys,215.58,6,161.72,17.05,Mobile Payment,Adult,Other,Mumbai,Joseph Tran
+50dcd2d5-584f-45f4-8d9f-945c391e1c47,7/8/2025,India,645de937-8cbc-4a21-af0c-fb96a9830f78,One,Sports,143.78,1,116.5,0.41,Credit Card,Senior,Male,Bangalore,Michelle Phillips
+09589c1e-f47b-4376-9baa-a529143d9972,4/4/2025,India,1f02843b-3c3a-46e5-ba57-fa1c77b2c30d,Tax,Sports,415.34,6,331.26,52.28,Mobile Payment,Adult,Other,Bangalore,Isaac Sexton
+2b115a9e-31f5-4e4f-92f7-229ce1605d79,7/8/2025,India,7f0af109-db64-42aa-ba11-07c24456fe94,Enough,Beauty,487.62,2,386.53,7.04,Mobile Payment,Senior,Other,Mumbai,Heather Reed
+e88a122f-f08d-41b6-bc86-424928c7eb4f,9/10/2025,India,a527ad53-dc23-454a-b000-a962e739d114,Rich,Electronics,408.68,3,307.08,46.72,Mobile Payment,Young,Female,Mumbai,Laurie Escobar
+3ed03d95-512b-4714-a8fe-b0b5a4d9fe32,3/1/2025,India,816cee2e-1d37-4d6c-8b1b-897ef001cfcf,And,Electronics,340.92,4,296.87,16.18,Credit Card,Adult,Other,Mumbai,Peter Nguyen
+274d31cd-e72c-4d44-a0b0-1cbcc4bb057d,10/11/2025,India,d6f920f8-04e8-4671-87ef-8d63d1163362,Rest,Electronics,307.2,8,233.85,40.56,Mobile Payment,Young,Male,Bangalore,Dale Smith
+693ec533-719b-4561-adc5-d661f1c28850,3/3/2025,India,b1690de9-c01a-44a8-a076-932ed59324dc,American,Toys,391.24,4,281.94,53.67,Cash,Senior,Male,Delhi,Christine Ayala
+deb6b820-e7d5-4bb4-8ec4-7201e5ebbf1a,12/22/2025,India,312915e8-2c17-4a59-b23b-2f87f17441e8,Drive,Beauty,63.85,6,51.65,0.24,Credit Card,Senior,Male,Bangalore,Kevin Roth
+2cd733b9-43ac-462c-a40b-339c25a08f96,10/19/2025,India,825712b8-939c-4f8f-9aa0-f3134dc10ee7,Want,Clothing,412.11,9,308.81,57.92,Cash,Adult,Male,Mumbai,Justin Mcdonald
+59992e47-70f3-4b33-a0a0-476b00b071fe,12/13/2025,India,689b8bfa-f553-40d7-9b0f-064cbed7718b,Floor,Beauty,42.38,9,32.52,3.31,Mobile Payment,Senior,Female,Bangalore,Michael Mills
+356a3f77-5e57-422b-b88e-e232856bce5f,1/28/2025,India,f698e17e-a43c-46f8-b9e7-b09e6992b830,Southern,Electronics,139.8,10,115.15,8.4,Cash,Senior,Other,Delhi,Danielle Sims
+b99859a5-0d52-4849-9ec6-3fbe3ac2bb8f,10/11/2025,India,ff2be393-3d80-4cb1-b5c3-38b675177447,Box,Beauty,352.31,8,286,57.05,Credit Card,Senior,Female,Bangalore,George Hardy
+d7a2fb13-3702-4d28-8277-7c9b30f6f8c8,12/22/2025,India,b67925d1-bac9-4bd5-861e-6d39b2490037,Cover,Beauty,430.17,4,357.58,6.88,Cash,Young,Male,Delhi,Robert Edwards
+912886be-0225-4bab-9a07-cf861f8a4908,10/30/2025,India,ae0eee23-fbce-4994-b17b-0c1d09bd29eb,Nothing,Electronics,84.18,8,56.2,0.44,Mobile Payment,Senior,Male,Mumbai,Ronald Burns
+794f40df-6d47-4c14-a96e-66240763760f,4/18/2025,India,1661511f-5af1-4cc6-b37c-f3ddab085c95,Line,Toys,27.2,10,20.13,2.43,Credit Card,Senior,Other,Mumbai,Rachel Alvarez
+68af47a9-70c5-4f55-907a-963da75837c2,12/11/2025,India,9e86277f-49c6-4d1f-b927-1998203e9cd8,Which,Sports,348.44,7,232.62,33.97,Cash,Young,Female,Delhi,Christine Mann
+d4e1047f-5eed-4f1f-9f44-1904c2123763,7/5/2025,India,9a64d25b-f04c-4b22-a1c3-e4eae4a311dd,Per,Clothing,180.95,4,119.15,31.67,Mobile Payment,Senior,Female,Bangalore,John Payne
+34891242-2cdb-4b7c-9166-1855423c8e17,1/27/2025,India,8ad585ee-8be6-4c6b-9223-4c2b680db2fe,Door,Toys,256.32,6,154.7,4.53,Mobile Payment,Young,Female,Delhi,Aaron Green
+78f65087-f0ba-47a0-8dde-ade7fbdec188,12/20/2025,India,a2e4c825-6596-465f-a9bf-5e61d1463d2f,Such,Home & Kitchen,251.2,7,223.5,49.34,Credit Card,Young,Female,Mumbai,Matthew Henson
+a1c58206-6a6c-42ed-aa09-e3fc7a268078,11/20/2025,India,56724521-9112-4e6b-aa89-8649aba34656,Under,Toys,482.72,9,381.56,90.34,Credit Card,Senior,Other,Mumbai,Susan Hall
+99f5fa42-29e5-47e3-860b-c051ad58183a,5/25/2025,India,820404a3-2a2a-491c-9e55-0047627f0eee,At,Home & Kitchen,315.87,1,264.37,41.04,Credit Card,Adult,Female,Mumbai,Cheryl Hernandez
+4fbafb21-8472-4916-a72a-937c4e01353a,3/23/2025,India,214120ba-9849-47a5-b91f-992b90cf77e6,Management,Sports,426.07,6,323.06,18.06,Mobile Payment,Young,Male,Delhi,Molly Hughes
+de2b52e2-1ee0-4b39-955d-20fb896a5d1f,4/13/2025,India,1353c0d5-70fa-4ebc-80b5-e6c4112e1e2b,Miss,Sports,336.58,3,248.11,5.72,Credit Card,Adult,Other,Mumbai,Jason Parks
+29c8df59-dba9-4389-8daf-85a6f2425223,6/6/2025,India,7d2f1902-f072-4d98-bfc0-0130eba188fe,Development,Sports,144.3,6,105.63,8.9,Mobile Payment,Adult,Male,Bangalore,Emily Hill
+b7070185-f606-422d-912f-96220455cbbf,6/4/2025,India,2561cedf-3658-41dd-b0f0-0dca776afaf6,Subject,Clothing,343.62,3,243.18,31.51,Mobile Payment,Young,Male,Delhi,Christy Ayala
+9a7fe5b2-1309-4c2d-aca3-16ec492a4448,12/1/2025,India,ec1c85d4-163c-43f0-8e58-c1a094beb379,Result,Sports,294.32,7,259.02,41.67,Mobile Payment,Young,Male,Bangalore,Jeffrey Bennett
+d55290bb-24d7-4a94-84fb-9e5a8ce9946e,8/18/2025,India,0f3b02e1-a3c0-4d61-ad70-633ee0023dd6,Federal,Electronics,275.21,9,228.71,28.29,Mobile Payment,Adult,Female,Bangalore,Andrew Duran
+ce13e0eb-31ad-429e-b738-5bf739193473,7/5/2025,India,1793222f-763e-4669-9d97-6aaf99bd17ae,Always,Sports,254.05,6,199.08,12.95,Cash,Adult,Other,Bangalore,Cory Williams
+f7d8bcc1-542f-438a-a475-316ca1c2383b,1/24/2025,India,169900cd-5d19-43c8-9065-2c0f7e1e7081,Policy,Electronics,111.89,10,81.9,15.65,Cash,Senior,Other,Mumbai,Kelly Castillo
+9246aa66-d1f5-4135-a978-a4d6b267b471,9/29/2025,India,199891e5-7d4a-4cd6-b013-4887067704f7,Many,Home & Kitchen,205.53,9,153.02,10.5,Credit Card,Young,Male,Mumbai,Richard Chavez
+d762e924-1143-489f-b592-2eb32d7dcdf7,1/13/2025,India,f9f4fac0-fca8-4920-a27a-176ea602192d,Summer,Home & Kitchen,56.92,7,37.53,10.77,Cash,Young,Male,Bangalore,Steven Stafford
+b665c8d3-29b0-40f9-8618-9d67e2443341,7/16/2025,India,6b458268-7175-4ce6-b994-7e036e406228,Partner,Home & Kitchen,276.9,10,237.65,29.93,Mobile Payment,Young,Male,Mumbai,Cameron Bowen
+34a162dd-cba9-4aeb-890c-bb1064d27ca7,5/25/2025,India,f0b72c8a-8730-489b-82c5-be644a78dd79,Beat,Electronics,380.11,2,250,69.92,Mobile Payment,Young,Female,Delhi,Ricky Donovan
+9afb3ad7-9f93-427d-a129-4e2c0490ba97,5/14/2025,India,ce206726-06f7-4f2a-ac66-cf3332d3dffa,Image,Clothing,130.46,2,90.97,2.59,Mobile Payment,Adult,Other,Bangalore,Melissa Butler
+67e272ec-67fa-4f84-841f-4c2412110187,1/17/2025,India,fe601426-1d87-4f5b-9c9f-775d973bf64f,Old,Home & Kitchen,118.75,5,77.22,1.59,Mobile Payment,Young,Female,Mumbai,Evelyn Pruitt
+13df1ea7-2d17-413f-8d10-98e65f3aa1d7,3/3/2025,India,a5927a40-65ab-44ce-93d6-1d41718f6393,Reality,Home & Kitchen,437.26,2,341.4,30.01,Cash,Adult,Other,Bangalore,Andrew Harris
+5b4de229-7ef7-4f07-819a-d8abca000543,1/5/2025,India,cf944d09-1f90-4dd1-8b07-06d918e2c5c5,Among,Electronics,192.69,9,147.74,18.54,Mobile Payment,Senior,Male,Bangalore,Katherine Flynn
+2831b306-a020-4741-a690-89938d2fd08b,9/7/2025,India,af3f331a-83dc-4f04-818c-61359bc57b8d,Program,Clothing,205.5,8,174.42,17.39,Cash,Young,Male,Mumbai,Bruce Wood
+33bcab19-aacb-484e-ab26-9d13c137a809,7/16/2025,India,7de24c23-8568-460d-bb6f-45e4e4b5df75,If,Toys,53.68,3,39.4,0.92,Mobile Payment,Adult,Male,Bangalore,Corey Brown
+6e8453f9-41f3-44d1-a7d9-9ff7b7fa1102,8/6/2025,India,63172988-7c15-4e98-a435-b633522772ee,Service,Toys,278.79,9,240.34,39.33,Mobile Payment,Adult,Male,Mumbai,Kathleen Hunt
+bd7e2b20-7ef4-4361-95a9-52d09ba40d1e,9/29/2025,India,cd64a40d-8d58-4f5e-8acb-d86a36c982ae,Although,Sports,128.61,5,79.46,9.28,Cash,Adult,Other,Delhi,Jennifer Rich
+495bf629-3b26-48f9-bd7f-a86a1fc42f82,4/2/2025,India,b96e97f6-3e93-47c8-ab08-21e08cae1d68,Store,Sports,69.52,4,49.06,8.86,Mobile Payment,Adult,Female,Delhi,Rebecca Cooper
+a8a2efd6-1fa1-42a7-a21e-45ace29f4d7d,1/26/2025,India,ffecbf66-66d1-4799-998e-9fee83aa0718,Wonder,Beauty,455.12,7,376.39,82.98,Mobile Payment,Adult,Male,Delhi,Jessica Davis
+4105338f-32fd-4a25-9358-60fd5d89b272,4/4/2025,India,1f2dd267-5408-4f53-adc8-ccb50e97f498,Unit,Electronics,293.85,3,224.36,35.51,Mobile Payment,Young,Female,Mumbai,Cathy Carlson
+4990629c-589e-46ab-86ef-6e8b34eabbc0,12/13/2025,India,5877dfda-2b3d-43c0-a44b-16e322d2f497,Any,Home & Kitchen,381.18,3,229.69,51.5,Mobile Payment,Adult,Other,Delhi,Melissa Cooper
+b83db582-39e6-4c69-ad8a-3047c3fd4552,10/19/2025,India,83ad86f7-8a83-40f8-8d0d-c07bf7be413c,Marriage,Electronics,290.65,2,189.27,57.39,Credit Card,Adult,Female,Delhi,Jared Guzman
+6c542f3b-08eb-4f58-adc1-071762146449,7/16/2025,India,26fd15a1-f995-4a9c-b7c3-3d49014e583f,Find,Clothing,199.15,7,158.08,32.14,Mobile Payment,Senior,Other,Mumbai,Rachel Velazquez
+81048990-26f0-4f9e-ad97-56058cafa97e,12/20/2025,India,24754834-c179-47f2-8e57-8d2eadb86bd1,Than,Sports,163.1,2,104.19,8.79,Cash,Adult,Other,Bangalore,Ann Chapman
+23c37826-67aa-4a00-92f6-c76cb9fb6d39,12/20/2025,India,db392f1e-8f2e-4988-91f6-6070f248b3c6,Him,Toys,272.75,7,177.47,24.19,Mobile Payment,Senior,Male,Bangalore,Rachael Humphrey
+3f190ab4-8edd-4d90-981c-d9afe8a7df31,10/11/2025,India,9e95d08c-b8e3-4253-840b-4c02a619f935,Wide,Sports,100.44,2,76.37,1.59,Mobile Payment,Adult,Female,Delhi,Emma Walter
+8fff3438-bdc8-44b5-8196-542eb21e7b59,6/6/2025,India,c86d7536-e2bf-4ec9-9181-39d648ebc379,Budget,Electronics,14.55,7,11.58,1.36,Credit Card,Adult,Female,Delhi,Julie Lowe
+98df111c-e6d1-4e6f-b06c-0b6db869ac5b,1/12/2025,India,58b84dac-26ec-4a0c-974d-b88070259284,Car,Home & Kitchen,407.38,3,344.77,51.12,Credit Card,Adult,Male,Delhi,Nancy Diaz
+0ac1e379-0ca2-442f-831a-0a1418d3a91e,12/13/2025,India,cd2f19c1-05c3-4c2d-a4ab-0600ef00a883,Week,Clothing,233.5,7,207.3,40.19,Cash,Adult,Male,Mumbai,Nicholas Long
+58495dae-e04e-4aa3-8dd0-33059bc5a02e,8/9/2025,India,5157be5f-c29a-43c1-a7f5-f2531112eb5d,Thought,Sports,10.13,1,8.3,0.16,Mobile Payment,Senior,Male,Mumbai,James Ward
+ae6c56b3-b5b9-435a-a15a-fd09483e6084,4/18/2025,India,6b541831-fb64-42c1-81cf-905d63e7967a,Movement,Home & Kitchen,106.42,9,86.48,2.88,Cash,Young,Male,Bangalore,Felicia Thomas
+961415e3-4669-4d5c-848a-a5e14f3db8ab,3/15/2025,India,59685c19-52d0-4164-9bf1-78672eddf607,Large,Home & Kitchen,322.38,8,241.7,62.48,Cash,Senior,Other,Delhi,Andrew Jones
+e0856f65-a8de-4169-a35a-f02c7850903b,10/30/2025,India,96bdf489-d53d-4f14-8084-1fdd22af62fa,Foreign,Electronics,280.68,10,228.17,35.56,Cash,Senior,Male,Delhi,Jennifer Smith
+613ddb8d-ca2b-47f0-bc65-7d385b9a43a1,8/9/2025,India,9a68d5dc-f93f-4315-bd22-5dc204174156,Sell,Toys,126.23,8,84.63,7.87,Mobile Payment,Adult,Female,Delhi,Bryan Mendoza
+75c1f18f-fa8f-40fe-bd06-82ce51fa8559,6/4/2025,India,ee6a7a1e-67d3-45a8-a017-131498948576,Can,Toys,270.03,3,228.72,44.44,Credit Card,Senior,Male,Bangalore,Keith Carter
+25a55b08-0580-4f3d-8d9d-a2345478f72f,10/30/2025,India,ca8b6b41-384b-4668-ad33-3df058877fe6,Make,Toys,340.56,8,288.37,4.17,Credit Card,Adult,Male,Bangalore,Shannon Walls
+252e6a14-575a-40de-8eff-a0d08b3a9241,8/18/2025,India,805622be-2c80-4ecf-8e4a-d321ffa037d6,Professor,Clothing,241.87,7,157.72,25.26,Credit Card,Adult,Female,Delhi,Paul Moss
+83fbc1e0-f687-4911-a535-fb3a9543c3e0,12/13/2025,India,3386d85c-f89d-4840-b8fd-dfe01c246165,Cost,Beauty,462.68,4,402.2,36.75,Cash,Senior,Female,Bangalore,Martin Rice
+5b953303-a5d8-41c5-a6e2-a31e8d5461c0,3/15/2025,India,75d044ac-6f20-42d1-908e-d98cc6c0ee7d,Staff,Sports,115.47,8,78.03,8.22,Credit Card,Senior,Male,Mumbai,Samuel Turner
+a0c9a8cf-1322-40e2-9c5e-4f2aa7681a85,10/19/2025,India,2b2a465a-0635-47be-bfbe-a6d4b0d15cb2,Effect,Clothing,435.13,1,337.6,64.66,Credit Card,Senior,Male,Mumbai,Renee Murray
+76a17bff-f79f-4de5-9b8a-d656f4269ba2,9/29/2025,India,4992ddb2-006b-483a-805e-23ba0c48595b,Authority,Home & Kitchen,333.6,10,202.14,21.87,Cash,Young,Male,Delhi,Tammy Torres
+2b9ab817-c30e-4b4a-bb94-7cea00243ec4,4/18/2025,India,f3e9c8b7-1c0f-43c5-954a-9723896e2fd5,Energy,Home & Kitchen,468.07,2,307.94,1.24,Mobile Payment,Young,Male,Bangalore,Claire Baker
+8efb3a9a-e8f5-479b-8e1e-94a121adc189,5/14/2025,India,936e67f3-c366-4970-a2b0-e991a72a7406,Senior,Clothing,310.27,2,221.77,42.05,Cash,Young,Female,Bangalore,Terry Scott
+4a77f5bc-4418-4bd3-b0bd-7ad4989da102,1/6/2025,India,a71df1ba-f074-4178-9570-63f19dad37ee,Child,Sports,213.51,5,134.09,14.67,Cash,Young,Male,Delhi,Terry Johnson
+7d62bb47-ad0f-4331-8b58-83fbc787ef85,1/23/2025,India,fc9cdf33-2f78-450d-bd87-16b431f0d52f,Pick,Electronics,265.9,1,175.05,38.44,Credit Card,Senior,Other,Mumbai,Cassandra Johnson
+8e7e9c04-4f06-4715-994d-58f41abdb76e,6/6/2025,India,2ee5ac05-8062-4637-adbb-ea1a3b35e804,Anyone,Clothing,300.89,2,240.22,44.28,Cash,Young,Male,Mumbai,Laura Santos
+9fcd4299-4193-4b4a-a721-c70b7d309319,10/11/2025,India,c8a7b29f-1f36-4fe6-ad32-b5e0a4e4313d,Man,Clothing,479.03,7,364.63,25.82,Mobile Payment,Senior,Other,Bangalore,Karen Wagner
+48657023-8b4d-44a2-bb44-82fce4ee759b,12/4/2025,India,d18253bd-43c2-4243-963c-2160c310c98a,Give,Sports,312.87,5,235.05,7.58,Mobile Payment,Senior,Other,Delhi,Christine Bauer
+140ef348-3a2a-481a-b124-487acc2ef2ce,9/18/2025,India,27ea5f37-5ed8-4e2e-8711-7add1cf2718a,Approach,Sports,42.12,7,25.54,0.18,Credit Card,Young,Female,Bangalore,Roger Nicholson
+8d17942d-73ea-47f5-8462-4a4b5743f04c,7/7/2025,India,ff5f6445-4017-4201-b2d0-4ac6d2d27e07,Dog,Beauty,74.59,3,58.23,1.82,Credit Card,Senior,Male,Delhi,Joy Gibbs
+6d2b4088-06a4-4cc4-82b5-c4875f63a923,1/2/2025,India,39bd72e9-726a-4166-993f-b3dc1ee95198,Down,Home & Kitchen,448.09,7,335.39,10.19,Mobile Payment,Adult,Male,Bangalore,Katherine Chambers
+841f395c-5476-4e4c-bf44-0fafd5ad92bc,1/23/2025,India,b608ff15-f645-4f5c-83c3-9110f892eec5,Tree,Clothing,149.1,6,91.07,21.08,Cash,Adult,Other,Bangalore,Vickie Morales
+711e6f31-2f46-418b-89a7-952ae6ed3d0e,7/8/2025,India,fa1f37d7-f20a-491a-92f5-eec8f58aa61f,American,Electronics,485.74,7,292.74,92.72,Cash,Young,Male,Bangalore,Nicole Dixon
+8adfcd32-6421-4b4d-a956-739b73aade34,11/20/2025,India,c03274c5-1fe8-48b1-b8f4-66b10893fcfc,Knowledge,Clothing,197.91,9,139.27,20.13,Cash,Young,Male,Mumbai,Vanessa Hernandez
+a1225e65-b540-4272-9111-017925f4c186,7/7/2025,India,22ad8412-a76c-48e9-b1ba-02aa5073588e,Space,Electronics,208.18,7,172.93,15.85,Cash,Adult,Female,Mumbai,Michelle Dickson
+475e6d65-b486-4ce6-8f41-c647a32c25f5,12/4/2025,India,bee20467-3856-46e3-834d-83c7f5b14e10,Stay,Electronics,67.62,5,41.87,0.43,Mobile Payment,Senior,Female,Mumbai,Donald Brady
+5d14a350-79bc-4468-b741-195b0213e917,12/4/2025,India,b0f466d7-1d77-46e3-ad02-58fdc497a8b4,All,Beauty,260.91,2,217.83,24.82,Credit Card,Young,Male,Bangalore,Grant Simmons
+36e8a8ee-dcbd-4d69-b90d-70bc0ddb17fe,8/18/2025,India,3d81dfda-79dc-4954-b266-a0b6d0d1c69f,Letter,Sports,232.2,5,189.44,28.94,Credit Card,Adult,Female,Bangalore,Gary Harrison
+82f53267-4390-4b6f-880f-165e0b8431fa,1/20/2025,India,c779ec74-ca7c-4467-808a-810cd2f34294,Local,Home & Kitchen,143.87,9,103.09,4.63,Cash,Adult,Other,Mumbai,Diana Ford
+49b8f779-c5a2-41c9-91f7-0c82b9eafb7a,1/11/2025,India,20652a20-36e9-47fe-adf5-627f910ed5c1,Discussion,Sports,354.7,7,313.94,31.65,Cash,Young,Male,Delhi,Christina Hernandez
+bf772178-aed9-4d4d-a603-9ebdc1267c0f,12/4/2025,India,c10bb7bf-15ec-4d79-be6a-b4436d48a6a0,Early,Clothing,299.53,4,211.42,38.41,Credit Card,Young,Female,Mumbai,William Torres
+4d4f9b25-e888-445a-a271-514e2e5cd114,1/4/2025,India,9f1b4b1c-428c-4ff1-a666-ef0e227fdaba,Suddenly,Toys,343.64,9,290.57,19.18,Cash,Senior,Other,Bangalore,Martin Huynh
+500cf6e0-5408-4b7b-bf3a-932fbe1f5215,1/17/2025,India,287bc8d6-7d64-443c-a862-b0a0975fdd68,Involve,Toys,221.41,4,193.13,2.38,Cash,Young,Male,Bangalore,Robert Gomez
+a73b57ea-e660-492d-b555-31af5b5c62fa,1/25/2025,India,7bb1930a-aa02-40f5-9975-2c9a89eed9b2,Heart,Home & Kitchen,490.51,9,420.1,57.2,Credit Card,Adult,Female,Mumbai,Edward Webb
+171e0933-5835-43f0-8e19-d3cadc9bddb0,1/29/2025,India,cbc2a2e7-b316-4cb4-8083-7da21c7c6715,Campaign,Beauty,481.63,10,386.89,18.64,Credit Card,Young,Female,Bangalore,Adriana Nguyen
+1ff436ed-8604-4161-afbe-5640130441e0,1/25/2025,India,3b560ff0-969e-4da8-b776-d2f0877e96da,Thought,Sports,442.06,6,299.99,14.85,Credit Card,Adult,Other,Mumbai,Jason Hayes
+c1990493-e4c2-4354-9dcd-c4c5854072b6,1/2/2025,India,be1c437b-b9b4-45ad-b81e-1c5ab084fc39,Recently,Clothing,210.03,10,143.19,14.47,Credit Card,Young,Male,Delhi,Brendan Wright
+a9593f3f-ea52-4c0c-b3fe-902c104050fc,1/18/2025,India,5b4700bf-262e-4e25-8fd7-0158697c8874,Pretty,Home & Kitchen,255.12,5,186.15,14.85,Cash,Young,Male,Delhi,Chelsea Ryan
+47d15aed-7a46-4a55-8aba-09db7e0e6739,1/9/2025,India,811aca74-4f2b-49c2-8294-02d9accbe299,Apply,Sports,430.89,7,345.76,22.96,Credit Card,Senior,Female,Bangalore,Scott Davenport
+83fd2ad7-6e8e-40f4-98d2-ac956a879090,1/31/2025,India,2798628c-5500-4b5a-b67b-b03bc9387037,Tv,Electronics,27.03,3,23.02,0.63,Credit Card,Adult,Other,Delhi,Michael Crawford MD
+2b3f6dd5-82b1-4bb9-a4ba-877a87e64372,12/4/2025,India,b3fac113-fd97-4ee0-bdb5-a3df6846a760,Around,Beauty,62.34,6,39.94,11.02,Credit Card,Young,Female,Mumbai,James Cook
+f94a6e36-4b5b-43a3-80d1-7ae47f265bcf,1/31/2025,India,1a38b01b-49df-42e4-ba0b-67be4df56ad8,Necessary,Electronics,440.98,1,394.93,51.12,Mobile Payment,Senior,Other,Delhi,Elizabeth Brown
+93507619-e5f4-4878-8686-bc0cd836f8cc,1/6/2025,India,fa0fdc36-94ac-442f-8cb8-0aefa3867bf1,Police,Beauty,458.3,7,315.89,62.4,Cash,Adult,Male,Bangalore,Kevin Larsen
+897e6508-6adf-4de8-bf10-a3a9f05df70c,1/19/2025,India,8076608b-8cc5-49ec-a374-1c4e3f669390,He,Toys,239.91,3,208.71,1.02,Credit Card,Young,Male,Delhi,Thomas Delacruz
+892d9a8c-512b-4803-b73b-d6c0efb6b66f,12/4/2025,India,22e8f1a4-5722-402b-8901-dfef425d677f,Both,Beauty,68.42,4,61.29,11.3,Credit Card,Adult,Male,Bangalore,Timothy Stevens
+6441a80f-e79a-41de-bb09-d6ac9d71d329,12/4/2025,India,ed4f04d1-5e39-4252-a509-a6cddac49227,Company,Electronics,150.09,3,105.47,7.47,Credit Card,Young,Female,Delhi,Susan Espinoza
+52d15c0a-25ba-41b4-888b-42a45ecb1fa4,12/4/2025,India,bde0f484-b4b9-40a8-8477-19296c82bfc9,Great,Toys,154.08,1,137.88,14.84,Cash,Young,Other,Bangalore,Colleen Savage
+9e18f604-0752-49a6-ac71-b0288fcadbb0,12/4/2025,India,d877a0c6-709a-4cdc-81a7-d26d501c5f3f,Together,Toys,368.46,5,324.09,69.16,Cash,Young,Male,Bangalore,Joseph Garrett
+78aa3cd0-a958-4dea-ab98-d3b65a3e34fe,12/4/2025,India,657f24ee-4074-4085-8848-92d9b01f24d3,Usually,Toys,332.5,8,218.52,3.12,Mobile Payment,Adult,Other,Mumbai,Amanda Baker
+9e3dee19-38e0-43e1-8a25-9ea4ce7055b1,1/15/2025,India,7500c842-6f73-42c6-9de1-22ff982b4f2a,Build,Clothing,70.99,10,53.84,0.92,Credit Card,Adult,Male,Mumbai,Dylan Alvarado
+0f63a6dd-d5af-42fc-bd58-d07b86379684,1/4/2025,India,7f8ece61-f015-4dec-aca5-7d9138a5f962,Detail,Toys,102.25,8,83.51,8.1,Cash,Young,Other,Bangalore,Charles White
+a897d0bc-3032-40ca-ab23-7aaf3d824cc0,1/15/2025,India,9b440790-953f-40e7-9a53-bea94f067883,Along,Home & Kitchen,97.05,7,79.59,17.91,Mobile Payment,Senior,Female,Mumbai,Robert Duncan
+bfae9aa6-2511-41fd-bef4-831ba4148a89,1/28/2025,India,7e29c8d4-796a-4b6d-9341-327ce7c44a88,Price,Electronics,312.4,9,222.65,17.52,Cash,Young,Male,Mumbai,George Rose MD
+f685ca6b-51c6-44d3-89de-544daa037e72,1/7/2025,India,a95b403f-d664-4bc3-9eff-383fa4c4ebf3,Picture,Electronics,334.18,8,240.95,49.57,Cash,Young,Other,Delhi,Michelle Peterson
+b5348218-c4a0-4ce2-9576-703fbf10458b,1/24/2025,India,bcd28150-0360-4d47-9913-c2beb5b70c6f,Room,Toys,10.95,2,9.71,0.33,Credit Card,Young,Female,Delhi,Susan Parker
+865e3890-432d-4f96-a4a9-ce72d3598497,1/14/2025,India,5f6f5fa2-4a92-4db5-93c8-3d687456e9bb,Local,Electronics,400.2,10,302.84,48.31,Cash,Adult,Other,Mumbai,Margaret Nixon
+19846f37-c8a3-489d-b229-3879c14cf970,1/17/2025,India,5e68242c-2498-45cd-be22-172f602960b2,Campaign,Electronics,183.21,3,121.64,18.61,Credit Card,Senior,Other,Delhi,Thomas Raymond
+385202ad-47e2-4ac6-9bc8-ba6bd690f46a,1/29/2025,India,32d3bcd4-2463-4330-a97a-0833688fbcb2,Art,Electronics,298.3,10,260.83,43.46,Credit Card,Adult,Female,Bangalore,Scott Velasquez
+cebf3310-c88b-4106-b621-07b963120c8e,1/11/2025,India,871ff3ab-5954-4e33-9d16-b1f4bef12a9f,Thing,Electronics,34.38,7,22.17,3.29,Credit Card,Adult,Male,Bangalore,Christine Adams
+adde2167-b583-43a5-8c49-eca556169657,12/4/2025,India,f9a32165-fc38-4db1-8430-f8c799455553,Play,Clothing,222.54,6,152.44,38.18,Cash,Senior,Female,Delhi,Melissa Thomas
+3be6d1df-a3ea-4289-b310-31de5f5891d4,12/4/2025,India,c1eeab31-36e5-4783-baab-0aea182f6b4e,Pay,Home & Kitchen,254.34,3,186.29,50.59,Cash,Adult,Female,Delhi,Juan Martinez
+e118e660-b0cf-4174-bfa0-36c6bd469cb6,12/4/2025,India,940e6d1d-e44e-467e-b4d8-2bfd65434838,Participant,Sports,486.2,10,436.79,61.23,Cash,Adult,Male,Mumbai,Joshua Russell
+9b6bd8b2-fa90-4c9b-874c-ec9bf9c7a74f,2/2/2025,India,5afececb-61a4-49f5-8615-e60ceb0197c8,Difficult,Clothing,410.14,9,336.47,37.92,Cash,Adult,Other,Delhi,Brandy Mitchell
+82a2a08e-d7f1-4016-b7d1-0f8db39d01bf,2/5/2025,India,699b90de-90f2-481a-b302-ef579dd92bed,Result,Sports,193.15,8,166.83,11.85,Credit Card,Young,Female,Delhi,Jasmin Barr
+013fb4c5-9f2e-4d8b-ae8b-f006d07e8c25,2/8/2025,India,b09b7099-4025-4e69-a531-72cc22918cbe,Ask,Electronics,381.89,10,237.17,66.43,Credit Card,Adult,Male,Delhi,Stephanie Diaz
+91e00961-26c6-45f4-99d5-022685fb29ae,1/10/2025,India,b18ba339-5f2c-4ce0-83bc-c2258b07e340,Which,Clothing,219.13,7,192.78,13.05,Credit Card,Young,Male,Delhi,Jessica Callahan
+51171f27-f3ec-46ac-b130-a90024028811,1/27/2025,India,ea1989cd-0a75-4393-a0bb-b9248aeee996,Sure,Electronics,162.05,5,136.94,6.46,Cash,Young,Other,Mumbai,Deborah Hartman
+cd20d67e-23ad-4214-8698-6f1f3d48b90b,1/6/2025,India,4df94ea6-63aa-47ed-8e56-8dfcbc3e73fa,Lose,Clothing,482.36,1,416.3,45.24,Mobile Payment,Adult,Female,Mumbai,Emily Collins
+7c1a8489-bee9-46c6-8e9d-349f276d0150,2/6/2025,India,fbeb1b30-1298-43d0-886e-8709d55dbb95,Do,Beauty,382.23,9,258.49,0.15,Mobile Payment,Young,Female,Delhi,Kimberly Wright
+73ddb68f-d6b5-40fd-896b-d5d355919053,1/22/2025,India,0bfe878f-a6aa-4e61-b6dd-a42dd555d8a0,Record,Toys,92.93,9,82.14,7.4,Cash,Young,Other,Delhi,David Chavez
+dfe58d2d-c7a0-4b5c-9e96-48e67e83228e,1/18/2025,India,cc74e091-ba7b-4d82-957f-82bc19cab52e,Own,Home & Kitchen,211.01,3,170.36,5.4,Cash,Young,Female,Delhi,Monica Thomas
+8b16cb31-9f5f-4186-80ea-fadf8a94cdad,1/18/2025,India,b4763f30-9277-4dc6-a025-dbb522763249,Upon,Sports,175,7,155.99,28.98,Mobile Payment,Adult,Female,Bangalore,Ariana Fuller DDS
+b9fd2cb6-26ef-453d-aa01-8fbc0f02dbbb,1/4/2025,India,d40e3ea6-3876-4b9a-856c-6927538bbfe1,My,Beauty,412.33,4,369.5,15.03,Cash,Senior,Male,Bangalore,Karen Anderson
+6926c9f6-db91-45c5-b4e4-49cf3d5da2ab,2/5/2025,India,b55e7ee9-d566-4702-ad13-b1f7d82341d0,Feel,Clothing,314.94,9,191.45,24.38,Mobile Payment,Senior,Other,Delhi,Dean Evans
+84d12c9f-99e4-46fc-9714-1bc9208e6bc0,1/29/2025,India,aafb4b9b-2859-4369-97d8-7fa72fac7ccf,Camera,Electronics,90.06,9,70.78,1.08,Mobile Payment,Young,Male,Bangalore,Charles Chang
+2477a848-df34-4e3f-ab5a-6728c76ebc87,1/7/2025,India,b20039f4-1ad3-4068-8c29-5e6c1e6431c4,Happy,Sports,113.83,5,69.72,15.97,Credit Card,Adult,Female,Mumbai,Amanda Jones
+f0f89e05-0f7a-4a39-b790-329037b72f41,1/1/2025,India,9a25c105-d3b8-4e2f-b8c2-74e33ab29c4b,Card,Sports,358.96,1,272.98,20.15,Cash,Adult,Male,Delhi,Tina Hinton
+25eacc1b-c845-4e7f-9682-48b4a4c4de77,1/22/2025,India,bb589c30-7281-49f7-938d-cad8f3bb22b0,Hear,Beauty,16.44,2,10.06,0.78,Credit Card,Adult,Other,Delhi,Kenneth Howard
+3756c6bb-d669-400c-bff9-27d3ccdf6364,1/19/2025,India,f31719e4-d964-4ea5-8ec0-929a480e3f92,Threat,Clothing,29.48,7,18.65,4.64,Credit Card,Adult,Male,Delhi,Christine Mendoza
+505474c7-7fa7-463a-95ec-96def325a332,1/19/2025,India,6f89bbad-e15d-4834-9842-d5377380139e,Arm,Home & Kitchen,379.34,7,275.12,59.74,Cash,Adult,Male,Mumbai,Lucas Wiggins
+4a44f77c-fa88-4fb2-8a71-393b1e24ad04,2/18/2025,India,30a3e523-bb8d-41d7-930a-ba7118b39ebb,Drive,Beauty,240.45,2,183.95,8.8,Mobile Payment,Senior,Other,Bangalore,Corey Clements
